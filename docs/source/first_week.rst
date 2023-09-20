@@ -38,3 +38,11 @@ Take your time to observe oribatid mites and their characteristic movements and 
   - sort oribatid mites into major groups
   - to sort oribatid mite species into groups of morphotypes
   - determine oribatid mites to genus, and maybe to species level.
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+  - Sort oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
+  - At the end of the day, transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
+  - Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
+  - The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes. Label them in the same way as the samples in the glass vials.
+  - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
