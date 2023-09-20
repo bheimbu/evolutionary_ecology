@@ -7,7 +7,7 @@ Check out the :doc:`usage` section for further information.
 
 .. note::
 
-   The course can also be found under :role:`StudIP <https://studip.uni-goettingen.de/dispatch.php/course/overview?cid=d7b80997f5efda59609a4cf69a04dbf7>`.
+   The course can also be found under `StudIP <https://studip.uni-goettingen.de/dispatch.php/course/overview?cid=d7b80997f5efda59609a4cf69a04dbf7>`.
 
 Contents
 --------
