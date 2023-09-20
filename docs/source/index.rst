@@ -18,5 +18,5 @@ Contents
 .. toctree::
 
    introduction
-   first-week
+   first_week
    usage
