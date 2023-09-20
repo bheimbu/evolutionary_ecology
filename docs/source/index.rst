@@ -15,6 +15,7 @@ Here are some **usage** notes:
 .. important::
    Important! boxes highlight the **Tasks of the Day**. You should definitely pay attention to them 😊. 
 
+See :ref:`usage` for more information about usage.
 
 Contents
 --------
