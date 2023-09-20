@@ -76,3 +76,8 @@ Tasks of the Day
 .. important::
     1. Please enter the sample number, species name, morphotype number, and your name in the common taxa list.
     2. At the end of the day, everyone should have five different species identified.
+
+Question of the Day
+^^^^^^^^^^^^^^^^^^^
+.. important
+    Why will we use the undetermined morphospecies for molecular work?
