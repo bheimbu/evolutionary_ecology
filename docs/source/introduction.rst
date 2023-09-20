@@ -58,8 +58,9 @@ How to Sample
 .. youtube:: 9RRhksEuEpM
 
 
-.. _course-structure:
 
+
+.. _course-structure:
 Course Schedule
 ----------------
 .. list-table:: Evolutionary Ecology
