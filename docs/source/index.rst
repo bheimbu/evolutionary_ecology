@@ -1,17 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to M.Biodiv.411 Evolutionary Ecology!
+=============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Here you can find the documentation of the course. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`usage` section for further information.
 
 .. note::
 
-   This project is under active development.
+   The course can also be found under 'StudIP <https://studip.uni-goettingen.de/dispatch.php/course/overview?cid=d7b80997f5efda59609a4cf69a04dbf7>'_.
 
 Contents
 --------
@@ -20,4 +16,3 @@ Contents
 
    introduction
    usage
-   api
