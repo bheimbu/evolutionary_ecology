@@ -49,3 +49,9 @@ How to Sample
 -------------
 
 .. youtube:: 9RRhksEuEpM
+
+Species determination
+----------------------
+.. raw:: html
+
+   <iframe src="https://example.com/path-to-your-pdf-file.pdf" width="100%" height="600px"></iframe>
