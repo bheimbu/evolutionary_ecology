@@ -104,13 +104,13 @@ In this course, we use a DNA extraction method based on spin columns with a sili
 
 .. note::
   **You will…**
-  - learn how to work safe and clean in a molecular lab.
-  - learn how to use a microlitre pipette.
-  - learn how to handle your samples without contaminating the lab work space, your samples or yourself.
-  - learn the names of the most relevant chemical substances and conditions for the different steps during DNA extraction.
-  - learn how to set up a PCR efficiently.
-  - learn what a PCR mastermix is.
-  - learn how a PCR reaction works and what a thermo cycler does.
+    - learn how to work safe and clean in a molecular lab.
+    - learn how to use a microlitre pipette.
+    - learn how to handle your samples without contaminating the lab work space, your samples or yourself.
+    - learn the names of the most relevant chemical substances and conditions for the different steps during DNA extraction.
+    - learn how to set up a PCR efficiently.
+    - learn what a PCR mastermix is.
+    - learn how a PCR reaction works and what a thermo cycler does.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
@@ -118,7 +118,7 @@ Tasks of the Day
     1. Do DNA extractions and PCR reactions with your samples.
     2. Work clean and tidy in the lab and obey the lab rules.
 
-Question of the Day
+Questions of the Day
 ^^^^^^^^^^^^^^^^^^^
 .. important::
   1. What is SDS and what is it doing with your samples?
