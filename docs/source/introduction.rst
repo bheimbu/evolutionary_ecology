@@ -1,14 +1,65 @@
 Introduction
 ============
 
+This is a three week long practical course for Master students.
+
+My name is Ina and I am your tutor in this course. I am working as a postdoc in the department of Animal Ecology and have been working with molecular data of soil organisms for many years, focusing on the evolution of small soil arthropods. This is an exciting field, because many evolutionary concepts developed from well studied above ground systems have been transfered to the soil, presuming that it works the same below the ground. But this is not necessarily true. Soil differs from the above ground system in some important respects and I hope you will figure out some of these differences yourself during this course. However, the basic concepts of evolution are universal, but if basic conditions vary, evolution can take idiosyncratic courses. The world we see today is a result of chances and constraints.
+
+Therefore I find it important that you understand your modelsystem (habitat, organism) to find reasonable research questions and to be able to interpret your research data.
+
+
+:ref:`course-structure`
+
+The structure of this course reflects that of a mini-research project.
+
+In the first week you will learn about the soil systems and deal with some of its inhabitants. You will collect species you need to determine and from which you will generate molecular data (i.e., DNA sequences).
+
+During the second week, you will learn the most important tools to analyse molecular data and I will introduce you into the basics of molecular phyogeny. Phylogeny can be a very helpful tool to structure your data and to investigate open research questions.
+
+The third week is dedicated to you and your own research project. In the first two weeks you learned everything to come up with your own research question. You have own data (week 1) and you know how to complete datasets with public data, and you know methods for investigating a scientific hypothesis (week 2). You should work in groups, i.e. small research teams, to delegate and organise your research project efficiently. At the last day of the course you will present your research project.
+
+Course aims
+
+This course will introduce you into some fundamental basics in
+
+    Soil Ecology which here covers
+        Mesofauna
+        Oribatid Mites
+    Molecular Work, that is how to obtain molecular data for which you will need to do
+        DNA Extraction
+        PCR
+        Sanger Sequencing
+    Molecular Phylogeny, and handling of molecular data for which you will use
+        public databanks
+        alignments
+        phylogenetic trees
+
+After completing this course you will have learned, how to
+
+    Organise A Research Project, starting with
+        building a hypothesis
+        collect, evaluate and structure research data
+        choose appropriate methods for analyses
+        present and interpret your results
+        place and discuss your data in a general, up-to-date scientific context
+
+I wish you a good time during the course! And I hope the glimpse into the fascinating world below the ground will feed your scientific curiousity.
+
+Best wishes,
+
+Ina & Bastian
+
+
 How to Sample
 -------------
 
 .. youtube:: 9RRhksEuEpM
 
+
+.. _course-structure:
+
 Course Structure
 ----------------
-
 .. list-table:: Schedule
    :widths: 10 15 30 25 20
    :header-rows: 1
