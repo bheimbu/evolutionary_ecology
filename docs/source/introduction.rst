@@ -9,17 +9,17 @@ Therefore I find it important that you understand your modelsystem (habitat, org
 
 
 Course Structure
------------------------
+----------------
 
 The structure of this course reflects that of a mini-research project.
 
-In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect species you need to determine and from which you will generate molecular data (i.e., DNA sequences).
+In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect mites (see :ref:`how-to-sample`) and determine them with the help of a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
 
 During the :ref:`second-week`, you will learn the most important tools to analyse molecular data and I will introduce you into the basics of molecular phyogeny. Phylogeny can be a very helpful tool to structure your data and to investigate open research questions.
 
 The :ref:`third-week` is dedicated to you and your own research project. In the first two weeks you learned everything to come up with your own research question. You have own data (week 1) and you know how to complete datasets with public data, and you know methods for investigating a scientific hypothesis (week 2). You should work in groups, i.e. small research teams, to delegate and organise your research project efficiently. At the last day of the course you will present your research project.
 
-Course Aims
+Aims
 -----------
 
 This course will introduce you into some fundamental basics in...
@@ -36,22 +36,14 @@ This course will introduce you into some fundamental basics in...
   - Sequence alignments
   - Phylogenetic trees
 
-After completing this course you will have learned, how to
+After completing this course you will have learned, how to organise a **research project**, starting with...
+  - building a hypothesis
+  - collect, evaluate, and structure research data
+  - choose appropriate methods for analyses
+  - present and interpret your results
+  - place and discuss your data in a general, up-to-date scientific context
 
-    Organise A Research Project, starting with
-        building a hypothesis
-        collect, evaluate and structure research data
-        choose appropriate methods for analyses
-        present and interpret your results
-        place and discuss your data in a general, up-to-date scientific context
-
-I wish you a good time during the course! And I hope the glimpse into the fascinating world below the ground will feed your scientific curiousity.
-
-Best wishes,
-
-Ina & Bastian
-
-
+.. _how-to-sample:
 How to Sample
 -------------
 
@@ -61,8 +53,8 @@ How to Sample
 
 
 .. _course-structure:
-Course Schedule
-----------------
+Schedule
+--------
 .. list-table:: Evolutionary Ecology
    :widths: 10 15 30 25 20
    :header-rows: 1
