@@ -3,7 +3,7 @@ Usage
 =====
 Here are some **usage** notes:
 
-..attention::
+.. attention::
    As the name says, pay attention.
 
 .. note::
