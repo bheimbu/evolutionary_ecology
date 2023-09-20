@@ -6,7 +6,6 @@ In the first week, you will see, separate and determine oribatid mites and proce
 Aims of week 1
 --------------
 You will…
-
   - gain basic knowledge of oribatid mites’ ecology, evolution, phylogeny and body plans.
   - realize that their body plan is often linked with their taxonomy and phylogeny.
   - will understand how to distinguish oribatid mites from other soil-fauna and other mites.
