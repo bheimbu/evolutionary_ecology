@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+Welcome to M.Biodiv.411 Evolutionary Ecology
+============================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub page includes the link to the documentation on Read the Docs.
 
-Read the tutorial here:
+Read the course material here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
