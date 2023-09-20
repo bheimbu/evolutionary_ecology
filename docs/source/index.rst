@@ -19,4 +19,5 @@ Contents
 
    introduction
    first_week
+   schedule
    usage
