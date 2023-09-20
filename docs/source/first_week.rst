@@ -20,9 +20,11 @@ You will…
 Day 1
 ^^^^^
 **Overview:**
+
 You already know, how to collect soil animals. In the morning, we start with a general introduction to the soil fauna. In the afternoon, we work with oribatid mites only. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
 
 **Part One:**
+
 In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives.
 You will get familiar with the term “mesofauna”.
 You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
@@ -39,10 +41,11 @@ Take your time to observe oribatid mites and their characteristic movements and 
   - to sort oribatid mite species into groups of morphotypes
   - determine oribatid mites to genus, and maybe to species level.
 
-Tasks of the Day
-^^^^^^^^^^^^^^^^
-  - Sort oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
-  - At the end of the day, transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
-  - Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
-  - The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes. Label them in the same way as the samples in the glass vials.
-  - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
+.. important::
+	Tasks of the Day
+	^^^^^^^^^^^^^^^^
+	  - Sort oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
+	  - At the end of the day, transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
+	  - Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
+	  - The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes. Label them in the same way as the samples in the glass vials.
+	  - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
