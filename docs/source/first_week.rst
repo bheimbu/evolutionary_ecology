@@ -110,3 +110,28 @@ In this course, we use a DNA extraction method based on spin columns with a sili
   - learn how to set up a PCR efficiently.
   - learn what a PCR mastermix is.
   - learn how a PCR reaction works and what a thermo cycler does.
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+.. important::
+    1. Do DNA extractions and PCR reactions with your samples.
+    2. Work clean and tidy in the lab and obey the lab rules.
+
+Question of the Day
+^^^^^^^^^^^^^^^^^^^
+.. important::
+  1. What is SDS and what is it doing with your samples?
+  2. Explain the difference between mechanical and biochemical processess used to destroy animal tissue?
+  3. Why do you have to purify your samples?
+  4. Why is it important to have ethanol-free DNA ath the end of the DNA extraction process?
+  5. What is the purpose of the silica membrane?
+  6. Why is pH relevant for DNA extraction? Which pH values are most relevant here?
+  7. What is a chaotropic salt and what is it used for in DNA extraction?
+  8. What did you observe when working with ATL (lysis) buffer and AW1 buffer (wash buffer 1?
+  9. What does a PCR mastermix contain?
+  10. What is difference between the various PCR mastermixes you have used?
+  11. Is it possible to combine different PCR primers in one PCR reaction?
+  12. Which genes did you use for your PCR reaction(s)?
+  13. Why is the lid of the thermal cycler heated to 100°C?
+  14. What is a hot start polymerase (= HotStarTaq)?
+  15. What do you have to consider when working with a HotStarTaq?
