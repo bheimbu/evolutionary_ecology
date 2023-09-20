@@ -5,17 +5,18 @@ In the first week, you will see, separate and determine oribatid mites and proce
 
 Goals
 --------------
-You will…
-  - gain basic knowledge of oribatid mites’ ecology, evolution, phylogeny and body plans.
-  - realize that their body plan is often linked with their taxonomy and phylogeny.
-  - will understand how to distinguish oribatid mites from other soil-fauna and other mites.
-  - will be able to recognize the most relevant and useful morphological characters to separate oribatid mites into major groups.
-  - be able to determine oribatid mites to genus, if possible even to species level, using a determination key.
-  - be able to organise your collected and determined material within a team, which includes labelling and keeping a common list updated.
-  - learn how DNA extraction works step by step and you will be able to tell properties of the most relevant chemical substances that are essential for DNA extraction.
-  - be able to explain how a PCR works and how to visualize the results.
-  - be able to tell the differences between the different genes (markers) we will use for the PCRs.
-  - understand how Sanger sequencing works, why we are using it in this course and how to prepare samples for Sanger sequencing.
+.. note::
+	**You will…**
+	  - gain basic knowledge of oribatid mites’ ecology, evolution, phylogeny and body plans.
+	  - realize that their body plan is often linked with their taxonomy and phylogeny.
+	  - will understand how to distinguish oribatid mites from other soil-fauna and other mites.
+	  - will be able to recognize the most relevant and useful morphological characters to separate oribatid mites into major groups.
+	  - be able to determine oribatid mites to genus, if possible even to species level, using a determination key.
+	  - be able to organise your collected and determined material within a team, which includes labelling and keeping a common list updated.
+	  - learn how DNA extraction works step by step and you will be able to tell properties of the most relevant chemical substances that are essential for DNA extraction.
+	  - be able to explain how a PCR works and how to visualize the results.
+	  - be able to tell the differences between the different genes (markers) we will use for the PCRs.
+	  - understand how Sanger sequencing works, why we are using it in this course and how to prepare samples for Sanger sequencing.
 
 Day 1
 -----
