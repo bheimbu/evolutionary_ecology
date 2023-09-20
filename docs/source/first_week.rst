@@ -57,5 +57,27 @@ Feedback Day 1
 ^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
-.. hint::
+.. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
+
+Day 2
+-----
+Goals
+^^^^^
+Yesterday, you collected oribatid mites that were slowly cooking in lactic acid over night to brighten them for better examination under the microscope. Without this treatment, it would be impossible to recognize important morphological features.
+
+.. note::
+  **Today, you will…**
+    deepen your knowledge about how to determine oribatid mites.
+    learn to recognise additional morphological characters.
+    be able to determine most of your specimen to species level.
+
+For the species level identification (using the microscope), please remove one or two individuals from the glass vials; the remaining specimen (in 2 ml reaction tubes) are used for molecular work.
+
+Summary
+^^^^^^^
+**Yesterday**, you gained an overview about soil-biodiversity and the most common mesofauna representatives. Today we got a deeper insight into the fascinating world of body shapes and forms that are so characteristic of oribatid mites. You are also familiar with the 'morphotype' concept and able to recognize families and genera of oribatid mites, in some case down to to the species level, by form, shape, and individual characters.
+
+**Today** your task is to determine at the species level the morphotypes you collected yesterday (if you didn't do so yesterday). Use only one individual from your morphotype collection and leave the others untouched. Please enter all species you have identified in a common taxa list, including the number of morphotypes.
+
+**At the end of the day**, the entire class will have a shared collection of oribatid mite species of specific morphotypes; you learned how to label and organise samples and intermediate results (i.e., your shared taxa list) in a transparent and unique way.
