@@ -13,7 +13,7 @@ Here are some important **usage** notes, check out :ref:`usage` for more:
    These boxes highlight goals and achievements of the course/week/day. Pay attention to them.
 
 .. important::
-   These boxes highlight the **Tasks of the Day**. You should definitely pay attention to them 😊.
+   ⚠️ These boxes highlight the **Tasks of the Day** and the **Question(s) of the Day**. You should definitely pay attention to them 😊. 
 
 Content
 =======
