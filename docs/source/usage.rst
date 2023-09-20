@@ -8,3 +8,9 @@ Here are some **usage** notes:
 
 .. important::
    Important! boxes highlight the **Tasks of the Day**. You should definitely pay attention to them 😊. 
+
+.. hint::
+   Well, gives you a hint.
+
+.. tip::
+   Tip is a tip, right?
