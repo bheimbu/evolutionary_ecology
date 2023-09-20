@@ -88,3 +88,25 @@ To provide feedback, please complete our questionnaire: [Questionnaire Link](htt
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
+
+Day 3
+------
+Summary
+^^^^^^^
+We start the day with revising what you have learned so far. By today you are able to recognize oribatid mites in general and to sort morphotypes into the six major groups (Palaeosomata, Parhyposomata, Enarthronota, Mixonomata, Desmonomata, and Brachypylina). You can name a handful of characters that are typical for each group and can assign at least one species to at least four of the six major groups. You know where oribatid mites live, and you have a general understanding of their ecology and phylogeny.
+After working with oribatid mites on a morphological basis, you now start to work with them on a molecular level. You will get familiar with the general process of DNA extraction and laboratory safety rules. After you successfully extracted and purified your DNA, you start a PCR reaction that is going to run overnight. The DNA extraction includes a long incubation step for ~2 hours. Be prepared to work until after 5:00 pm today.
+You learn the principles of DNA extractions and PCR and the different steps that are part of these methods. You will get to know the relevant reagents and what they do.
+At the end of the day, you have purified DNA stored in the freezer and a PCR running.
+
+Goals
+^^^^^
+In this course, we use a DNA extraction method based on spin columns with a silica membrane, provided as a DNA extraction kit. 'Kit' means, that buffers, reaction tubes, incubation, and centrifugation procedures are delicately matched, ensuring easy processing with an optimal outcome (i.e. DNA yield).
+.. note::
+    **You will…**
+  - learn how to work safe and clean in a molecular lab.
+  - learn how to use a microlitre pipette.
+  - learn how to handle your samples without contaminating the lab work space, your samples or yourself.
+  - learn the names of the most relevant chemical substances and conditions for the different steps during DNA extraction.
+  - learn how to set up a PCR efficiently.
+  - learn what a PCR mastermix is.
+  - learn how a PCR reaction works and what a thermo cycler does.
