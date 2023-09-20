@@ -18,21 +18,22 @@ During the second week, you will learn the most important tools to analyse molec
 
 The third week is dedicated to you and your own research project. In the first two weeks you learned everything to come up with your own research question. You have own data (week 1) and you know how to complete datasets with public data, and you know methods for investigating a scientific hypothesis (week 2). You should work in groups, i.e. small research teams, to delegate and organise your research project efficiently. At the last day of the course you will present your research project.
 
-Course aims
+Course Aims
+-----------
 
-This course will introduce you into some fundamental basics in
+This course will introduce you into some fundamental basics in...
 
-    Soil Ecology which here covers
-        Mesofauna
-        Oribatid Mites
-    Molecular Work, that is how to obtain molecular data for which you will need to do
-        DNA Extraction
-        PCR
-        Sanger Sequencing
-    Molecular Phylogeny, and handling of molecular data for which you will use
-        public databanks
-        alignments
-        phylogenetic trees
+**Soil Ecology**
+  - Mesofauna
+  - Oribatid Mites
+**Molecular Work**
+  - DNA Extraction
+  - PCR
+  - Sanger Sequencing
+**Molecular Phylogeny**
+  - Public databanks
+  - Sequence alignments
+  - Phylogenetic trees
 
 After completing this course you will have learned, how to
 
