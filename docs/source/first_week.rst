@@ -136,3 +136,10 @@ Questions of the Day
   13. Why is the lid of the thermal cycler heated to 100°C?
   14. What is a hot start polymerase (= HotStarTaq)?
   15. What do you have to consider when working with a HotStarTaq?
+
+Feedback Day 3
+^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. tip::
+   Just in case, you can watch the :ref:`lectures` again at any time.
