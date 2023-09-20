@@ -1,3 +1,4 @@
+.. _usage:
 Usage
 =====
 Here are some **usage** notes:
