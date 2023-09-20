@@ -5,11 +5,11 @@ Here you can find the documentation of the course.
 
 Check out the :doc:`usage` section for further information.
 
-.. _studip-link: https://studip.uni-goettingen.de/dispatch.php/course/overview?cid=d7b80997f5efda59609a4cf69a04dbf7
 .. note::
 
-   The course can also be found under :ref:`StudIP <studip-link>`.
+   The course can also be found under `StudIP`_.
 
+.. _StudIP: https://studip.uni-goettingen.de/dispatch.php/course/overview?cid=d7b80997f5efda59609a4cf69a04dbf7
 
 
 Contents
