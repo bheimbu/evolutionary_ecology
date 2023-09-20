@@ -20,4 +20,5 @@ Contents
    introduction
    first_week
    schedule
+   lectures
    usage
