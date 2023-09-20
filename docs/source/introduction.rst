@@ -9,14 +9,15 @@ Therefore I find it important that you understand your modelsystem (habitat, org
 
 
 :ref:`course-structure`
+-----------------------
 
 The structure of this course reflects that of a mini-research project.
 
-In the first week you will learn about the soil systems and deal with some of its inhabitants. You will collect species you need to determine and from which you will generate molecular data (i.e., DNA sequences).
+In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect species you need to determine and from which you will generate molecular data (i.e., DNA sequences).
 
-During the second week, you will learn the most important tools to analyse molecular data and I will introduce you into the basics of molecular phyogeny. Phylogeny can be a very helpful tool to structure your data and to investigate open research questions.
+During the :ref:`second-week`, you will learn the most important tools to analyse molecular data and I will introduce you into the basics of molecular phyogeny. Phylogeny can be a very helpful tool to structure your data and to investigate open research questions.
 
-The third week is dedicated to you and your own research project. In the first two weeks you learned everything to come up with your own research question. You have own data (week 1) and you know how to complete datasets with public data, and you know methods for investigating a scientific hypothesis (week 2). You should work in groups, i.e. small research teams, to delegate and organise your research project efficiently. At the last day of the course you will present your research project.
+The :ref:`third-week` is dedicated to you and your own research project. In the first two weeks you learned everything to come up with your own research question. You have own data (week 1) and you know how to complete datasets with public data, and you know methods for investigating a scientific hypothesis (week 2). You should work in groups, i.e. small research teams, to delegate and organise your research project efficiently. At the last day of the course you will present your research project.
 
 Course Aims
 -----------
