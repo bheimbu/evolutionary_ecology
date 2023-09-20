@@ -3,7 +3,7 @@ First week
 ==========
 In the first week, you will see, separate and determine oribatid mites and process them in the molecular lab to obtain DNA sequences for phylogenetic analyses.
 
-Aims of week 1
+Goals
 --------------
 You will…
   - gain basic knowledge of oribatid mites’ ecology, evolution, phylogeny and body plans.
@@ -18,7 +18,7 @@ You will…
   - understand how Sanger sequencing works, why we are using it in this course and how to prepare samples for Sanger sequencing.
 
 Day 1
-^^^^^
+-----
 **Overview:**
 
 You already know, how to collect soil animals. In the morning, we start with a general introduction to the soil fauna. In the afternoon, we work with oribatid mites only. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
@@ -56,10 +56,10 @@ Feedback Day 1
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
 Lecture 1
-^^^^^^^^
+---------
 .. raw:: html
 
    <video width="320" height="240" controls>
-       <source src="  /plugins.php/mediacastplugin/media/check/76b4e0f6a4ebc18189a6712661d0adcf/31972438ac4c32ecddb13695540490af/127?v=L01.1-Oribatid_Mites-an_intr.mp4" type="video/mp4">
+       <source src="https://studip.uni-goettingen.de/plugins.php/mediacastplugin/media/check/76b4e0f6a4ebc18189a6712661d0adcf/31972438ac4c32ecddb13695540490af/127?v=L01.1-Oribatid_Mites-an_intr.mp4" type="video/mp4">
        Your browser does not support the video tag.
    </video>
