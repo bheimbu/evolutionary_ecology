@@ -36,11 +36,11 @@ In the afternoon, we will see soil fauna with your own eyes through a stereomicr
 Take your time to observe oribatid mites and their characteristic movements and bodies. Write down three to five features (morphological and/or behavioural) of three living oribatid mites you observe. Remember, a character is everything you can observe. What type of defense strategy do the different oribatids display? Save your notes, we will use them later in this course. Tip: It may be helpful to make drawings or sketches of the observed species to more easily distinguish morphotypes based on certain character(s).
 
 .. note::
-	**At the end of the day, you will be able to recognize the most relevant morphological characters to:**
-  	- separate oribatid mites from other mites
-  	- sort oribatid mites into major groups
-  	- to sort oribatid mite species into groups of morphotypes
-  	- determine oribatid mites to genus, and maybe to species level.
+  **At the end of the day, you will be able to recognize the most relevant morphological characters to:**
+    - separate oribatid mites from other mites
+    - sort oribatid mites into major groups
+    - to sort oribatid mite species into groups of morphotypes
+    - determine oribatid mites to genus, and maybe to species level.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
@@ -54,3 +54,12 @@ Tasks of the Day
 Feedback Day 1
 ^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+Lecture 1
+^^^^^^^^
+.. raw:: html
+
+   <video width="320" height="240" controls>
+       <source src="  /plugins.php/mediacastplugin/media/check/76b4e0f6a4ebc18189a6712661d0adcf/31972438ac4c32ecddb13695540490af/127?v=L01.1-Oribatid_Mites-an_intr.mp4" type="video/mp4">
+       Your browser does not support the video tag.
+   </video>
