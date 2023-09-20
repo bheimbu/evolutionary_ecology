@@ -18,4 +18,5 @@ Contents
 .. toctree::
 
    introduction
+   first-week
    usage
