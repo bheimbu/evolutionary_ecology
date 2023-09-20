@@ -55,12 +55,3 @@ Tasks of the Day
 Feedback Day 1
 ^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
-
-Lecture 1
----------
-.. raw:: html
-
-   <video width="320" height="240" controls>
-       <source src="https://studip.uni-goettingen.de/plugins.php/mediacastplugin/media/check/76b4e0f6a4ebc18189a6712661d0adcf/31972438ac4c32ecddb13695540490af/127?v=L01.1-Oribatid_Mites-an_intr.mp4" type="video/mp4">
-       Your browser does not support the video tag.
-   </video>
