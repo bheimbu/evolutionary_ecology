@@ -3,7 +3,7 @@ Welcome to M.Biodiv.411 Evolutionary Ecology!
 
 Here you can find the documentation of the course. 
 
-Check out the :doc:`usage` section for further information.
+Check out the :doc:`usage` section for further information, and the :doc:`schedule` for details about the timeline.
 
 .. note::
 
