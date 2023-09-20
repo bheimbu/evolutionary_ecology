@@ -20,19 +20,10 @@ Goals
 
 Day 1
 -----
-**Overview:**
-
 You already know, how to collect soil animals. In the morning, we start with a general introduction to the soil fauna. In the afternoon, we work with oribatid mites only. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
-
-**Part One:**
-
-In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives.
-You will get familiar with the term “mesofauna”.
+In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives to make you familiar with the term “mesofauna”.
 You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
-
-**Part Two:**
-
-In the afternoon, we will see soil fauna with your own eyes through a stereomicroscope. While many of the soil animals will be dead in your samples, all oribatid mites and other taxa, will be alive. Oribatid mites are a very diverse group, ranging from fast runners to very slow movers; from tiny transparent ones to large, pitch-black species. Some species are smooth as glass, others are covered in dirt. However, all oribatid mites have in common an extensive arsenal of defense strategies.
+In the afternoon, you will see the soil fauna with your own eyes through a stereomicroscope. While many of the soil animals will be dead in your samples, all oribatid mites and other taxa, will be alive. Oribatid mites are a very diverse group, ranging from fast runners to very slow movers; from tiny transparent ones to large, pitch-black species. Some species are smooth as glass, others are covered in dirt. However, all oribatid mites have in common an extensive arsenal of defense strategies.
 
 .. tip::
    Take your time to observe oribatid mites and their characteristic movements and bodies. Write down three to five features (morphological and/or behavioural) of three living oribatid mites you observe. Remember, a character is everything you can observe. What type of defense strategy do the different oribatids display? Save your notes, we will use them later in this course. It may be helpful to make drawings or sketches of the observed species to more easily distinguish morphotypes based on certain character(s).
@@ -68,9 +59,9 @@ Yesterday, you collected oribatid mites that were slowly cooking in lactic acid 
 
 .. note::
   **Today, you will…**
-    deepen your knowledge about how to determine oribatid mites.
-    learn to recognise additional morphological characters.
-    be able to determine most of your specimen to species level.
+    - deepen your knowledge about how to determine oribatid mites.
+    - learn to recognise additional morphological characters.
+    - be able to determine most of your specimen to species level.
 
 For the species level identification (using the microscope), please remove one or two individuals from the glass vials; the remaining specimen (in 2 ml reaction tubes) are used for molecular work.
 
