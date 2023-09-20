@@ -68,7 +68,11 @@ For the species level identification (using the microscope), please remove one o
 Summary
 ^^^^^^^
 **Yesterday**, you gained an overview about soil-biodiversity and the most common mesofauna representatives. Today we got a deeper insight into the fascinating world of body shapes and forms that are so characteristic of oribatid mites. You are also familiar with the 'morphotype' concept and able to recognize families and genera of oribatid mites, in some case down to to the species level, by form, shape, and individual characters.
-
 **Today** your task is to determine at the species level the morphotypes you collected yesterday (if you didn't do so yesterday). Use only one individual from your morphotype collection and leave the others untouched. Please enter all species you have identified in a common taxa list, including the number of morphotypes.
-
 **At the end of the day**, the entire class will have a shared collection of oribatid mite species of specific morphotypes; you learned how to label and organise samples and intermediate results (i.e., your shared taxa list) in a transparent and unique way.
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^^
+.. important::
+    1. Please enter the sample number, species name, morphotype number, and your name in the common taxa list.
+    2. At the end of the day, everyone should have five different species identified.
