@@ -55,3 +55,6 @@ Tasks of the Day
 Feedback Day 1
 ^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. hint::
+   You can always revisit the :ref:`lectures`, just in case.
