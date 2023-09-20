@@ -1,5 +1,7 @@
+.. _lectures:
 Lectures
 ========
+
 
 Lecture 1 - Oribatid Mites: An Introduction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
