@@ -134,7 +134,7 @@ Questions of the Day
   11. Is it possible to combine different PCR primers in one PCR reaction?
   12. Which genes did you use for your PCR reaction(s)?
   13. Why is the lid of the thermal cycler heated to 100°C?
-  14. What is a hot start polymerase (= HotStarTaq)?
+  14. What is a hot start Taq polymerase (= HotStarTaq)?
   15. What do you have to consider when working with a HotStarTaq?
 
 Feedback Day 3
