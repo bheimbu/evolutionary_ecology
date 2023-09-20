@@ -8,7 +8,7 @@ My name is Ina and I am your tutor in this course. I am working as a postdoc in 
 Therefore I find it important that you understand your modelsystem (habitat, organism) to find reasonable research questions and to be able to interpret your research data.
 
 
-:ref:`course-structure`
+Course Structure
 -----------------------
 
 The structure of this course reflects that of a mini-research project.
@@ -60,9 +60,9 @@ How to Sample
 
 .. _course-structure:
 
-Course Structure
+Course Schedule
 ----------------
-.. list-table:: Schedule
+.. list-table:: Evolutionary Ecology
    :widths: 10 15 30 25 20
    :header-rows: 1
 
