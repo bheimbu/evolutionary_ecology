@@ -143,3 +143,26 @@ To provide feedback, please complete our questionnaire: [Questionnaire Link](htt
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
+
+Day 4
+-----
+You have been introduced to the basic and most common methods in molecular work i.e., DNA extraction and PCR. Today you will perform gel electrophoresis to visualize the products of your PCRs. Successful PCR reactions are then purified and sent for sequencing.
+At the end of the day, you have completed the wet-lab part of your molecular work. You know the necessary steps to obtain DNA sequences and have a semi-professional understanding of the steps involved, from DNA extraction to purification of the PCR product.
+The purified PCR products are sent to a sequencing company that uses the standard Sanger sequencing method.
+
+Goals
+^^^^^
+Today, you pour an agarose gel and load a small amount of your PCR product onto the gel to check whether your PCR worked or not. Before loading your samples onto the gel, be sure to add loading dye. After checking the gel, purify (i.e., wash) the PCR products with bright and clear bands in order to send them for sequencing.
+
+Questions of the Day
+^^^^^^^^^^^^^^^^^^^
+.. important::
+  1. What is agarose and why is it used to visualize DNA/PCR products?
+  2. What is a loading dye, what is it used for?
+  3. Why is it important to add a standard size ladder onto your gel?
+  4. What happens if you change the agarose concentration of your gel from 1% and a 2%?
+  5. Why is it important to use the same buffer for melting and running your gel?
+  6. Why do we use a buffer instead of water?
+  7. Why do we visualize our DNA/PCR products?
+  8. Why is it necessary to purify positive PCR products before sequencing?
+  9. When washing your PCR products, the first buffer will be yellow in color. Why? What does it indicate?
