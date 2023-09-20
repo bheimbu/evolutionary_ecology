@@ -19,3 +19,13 @@ Here are some **usage** notes, check out :ref:`usage` for more:
    Well, gives you a hint.
 
 See :ref:`usage` for more information about usage.
+
+Content
+=======
+.. toctree::
+   introduction
+   first_week
+   second_week
+   third_week
+   schedule
+   lectures
