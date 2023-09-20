@@ -3,6 +3,9 @@ Usage
 =====
 Here are some **usage** notes:
 
+..attention::
+   As the name says, pay attention.
+
 .. note::
    Note! boxes highlight goals and achievements of the course/week/day. Pay attention to them.
 
