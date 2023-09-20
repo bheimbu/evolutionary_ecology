@@ -24,3 +24,4 @@ Content
    third_week
    schedule
    lectures
+   usage
