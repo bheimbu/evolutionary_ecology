@@ -101,8 +101,9 @@ At the end of the day, you have purified DNA stored in the freezer and a PCR run
 Goals
 ^^^^^
 In this course, we use a DNA extraction method based on spin columns with a silica membrane, provided as a DNA extraction kit. 'Kit' means, that buffers, reaction tubes, incubation, and centrifugation procedures are delicately matched, ensuring easy processing with an optimal outcome (i.e. DNA yield).
+
 .. note::
-    **You will…**
+  **You will…**
   - learn how to work safe and clean in a molecular lab.
   - learn how to use a microlitre pipette.
   - learn how to handle your samples without contaminating the lab work space, your samples or yourself.
