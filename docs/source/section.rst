@@ -192,14 +192,3 @@ Sequences can be visualized and downloaded in different formats by selecting „
   .. code-block::
   
     EF091418:EF091227[accn]
-
-.. note::
-
-   Here is a code example:
-
-   .. code-block:: python
-
-      def hello_world():
-          print("Hello, world!")
-
-   This code defines a simple Python function called `hello_world` that prints a greeting.
