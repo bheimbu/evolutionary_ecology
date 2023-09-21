@@ -1,5 +1,8 @@
+.. _section:
 Sections
 ========
+
+.. _Genious_Prime:
 Geneious Prime
 --------------
 Geneious Prime is a molecular biology and sequence analysis tool, and helps you to organize data and projects in an efficient way.
