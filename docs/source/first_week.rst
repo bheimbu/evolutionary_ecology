@@ -186,10 +186,19 @@ Tasks of the Day
 Watch the following YouTube videos for a general introduction. Get familiar with the steps involved, the essential idea of fluorescence base Sanger DNA sequencing, and the advantages of capillary electorophoreses.
 
 .. youtube:: YeHtjO7vlyg
+.. youtube:: CN21sVuXkkw
+.. youtube:: k0ZSOR1Gd1M
+.. youtube:: Wpww8bb63zU
+.. youtube:: KTstRrDTmWI
+.. youtube:: FvHRio1yyhQ
 
-
-
-
+.. important::
+  Make sure you are able to answer the following questions. Help yourself online…
+   - Can you draw the structure of a DNA and a RNA molecule with following sequence A-T-G?  There is no need to know the structure of single bases, abbreviate them with A, C and G. However, you need to know the difference of DNA and RNA molecules and their structure.
+   - What is ddNTP and what is the difference to dNTP?
+   - What are the main advantages of the modern fluorescence based Sanger DNA sequencing approach compared to the original (radio-labelled) one.
+   - What happens to your PCR primers during Sanger sequencing? Are they even used?
+   - Why do we sequence the forward and reverse strands of the PCR product separately? Is it important for the method itself or just helpful for analyzing our data?
 
 
 
