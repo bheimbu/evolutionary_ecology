@@ -1,3 +1,4 @@
+.. _second-week:
 Second Week
 ===========
 Goals
