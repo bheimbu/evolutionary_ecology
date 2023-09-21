@@ -183,6 +183,10 @@ You can start a Discussion group in the `Forum <https://studip.uni-goettingen.de
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
+
+Task 1
+""""""
+
 Watch the following YouTube videos for a general introduction. Get familiar with the steps involved, the essential idea of fluorescence base Sanger DNA sequencing, and the advantages of capillary electorophoreses.
 
 .. youtube:: YeHtjO7vlyg
@@ -200,11 +204,14 @@ Watch the following YouTube videos for a general introduction. Get familiar with
    - What happens to your PCR primers during Sanger sequencing? Are they even used?
    - Why do we sequence the forward and reverse strands of the PCR product separately? Is it important for the method itself or just helpful for analyzing our data?
 
-Watch 'A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_.
+Task 2
+""""""
+
+Watch `A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_.
 If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
 
 .. note::
-  As soon as possible, but latest on Monday next week, you will receive the raw reads of your sequences. Your PCR products were sequenced in forward and reverse direction, meaning that two raw reads form a consensus sequence. In order to obtain a consensus sequence, assemble the pairs of raw reads and – **very important!** – check for any sequencing errors and/or ambiguous positions. At the end, we want to have good to high quality consensus sequences for downstream analyses.
+  As soon as possible, but latest on Monday next week, you will receive the raw reads of your sequences. Your PCR products were sequenced in forward and reverse direction, meaning that two raw reads form a consensus sequence. In order to obtain a consensus sequence, assemble the pairs of raw reads and – very important! – check for any sequencing errors and/or ambiguous positions. At the end, we want to have good to high quality consensus sequences for downstream analyses.
 
 .. important:: 
   Watch the tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ on the Geneious Academy webpage. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
@@ -213,14 +220,13 @@ Task preview for Monday morning, Second Week:
 ---------------------------------------------
 
 Each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided in StudIP. 
-Checkout `the **raw_sequences** directory on StudIP  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_
-
+Checkout the `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_ directory on StudIP.
 
 .. attention::
  Sequences must to be assembled, checked, and exported as consensus sequence files. Please upload them to StudIP by Monday 5:00 pm. Each consensus file you upload must contain a sample ID and your initials.
 
 .. note::
-  If you want, you can also start the Monday tutorials and tasks this Friday. Note: They need to be finished by Monday so we can stick to the Tuesday schedule. You are very welcome to ask questions in BBB from 11-12 am and 1-2 pm and we would be happy to support you in assembling, checking, exporting, and naming your sequences. You can also use the Forum to ask questions and discuss them with the other participants.
+  If you want, you can also start the Monday tutorials and tasks this Friday. Note: They need to be finished by Monday so we can stick to the Tuesday schedule. You are very welcome to ask questions in BBB from 11-12 am and 1-2 pm and we would be happy to support you in assembling, checking, exporting, and naming your sequences. You can also use the `Forum <https://studip.uni-goettingen.de/dispatch.php/course/forum/index/index/ee59763e66f3b71b69c917f633cb857d?cid=d7b80997f5efda59609a4cf69a04dbf7#ee59763e66f3b71b69c917f633cb857d>`_ to ask questions and discuss them with the other participants.
 
 .. hint::
   Be aware: The sequencing facility may work quickly, so raw sequences may be available as early as Saturday/Sunday. If so, the assignment list will be provided at the weekend. If the tutorial is clear enough for you and raw sequences were uploaded on the weekend (please check yourself), you can start working on the weekend and upload the consensus sequences. In any case, consensus sequences must be uploaded to StudIP by 5:00 p.m. on Monday or any time earlier.
