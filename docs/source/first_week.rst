@@ -17,9 +17,9 @@ Goals
 	  - be able to explain how a PCR works and how to visualize the results.
 	  - be able to tell the differences between the different genes (markers) we will use for the PCRs.
 	  - understand how Sanger sequencing works, why we are using it in this course and how to prepare samples for Sanger sequencing.
-
-Day 1
------
+------
+Monday
+------
 You already know, how to collect soil animals. In the morning, we start with a general introduction to the soil fauna. In the afternoon, we work with oribatid mites only. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
 In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives to make you familiar with the term “mesofauna”.
 You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
@@ -44,15 +44,16 @@ Tasks of the Day
 	  - The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes. Label them in the same way as the samples in the glass vials.
 	  - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
 
-Feedback Day 1
-^^^^^^^^^^^^^^
+Feedback Monday
+^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
-Day 2
------
+-------
+Tuesday
+-------
 Goals
 ^^^^^
 Yesterday, you collected oribatid mites that were slowly cooking in lactic acid over night to brighten them for better examination under the microscope. Without this treatment, it would be impossible to recognize important morphological features.
@@ -82,15 +83,16 @@ Question of the Day
 .. important::
     Why will we use the undetermined morphospecies for molecular work?
 
-Feedback Day 2
-^^^^^^^^^^^^^^
+Feedback Tuesday
+^^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
-Day 3
-------
+---------
+Wednesday
+---------
 Summary
 ^^^^^^^
 We start the day with revising what you have learned so far. By today you are able to recognize oribatid mites in general and to sort morphotypes into the six major groups (Palaeosomata, Parhyposomata, Enarthronota, Mixonomata, Desmonomata, and Brachypylina). You can name a handful of characters that are typical for each group and can assign at least one species to at least four of the six major groups. You know where oribatid mites live, and you have a general understanding of their ecology and phylogeny.
@@ -137,15 +139,16 @@ Questions of the Day
   14. What is a hot start Taq polymerase (= HotStarTaq)?
   15. What do you have to consider when working with a HotStarTaq?
 
-Feedback Day 3
-^^^^^^^^^^^^^^
+Feedback Wednesday
+^^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
-Day 4
------
+--------
+Thursday
+--------
 You have been introduced to the basic and most common methods in molecular work i.e., DNA extraction and PCR. Today you will perform gel electrophoresis to visualize the products of your PCRs. Successful PCR reactions are then purified and sent for sequencing.
 At the end of the day, you have completed the wet-lab part of your molecular work. You know the necessary steps to obtain DNA sequences and have a semi-professional understanding of the steps involved, from DNA extraction to purification of the PCR product.
 The purified PCR products are sent to a sequencing company that uses the standard Sanger sequencing method.
@@ -166,3 +169,7 @@ Questions of the Day
   7. Why do we visualize our DNA/PCR products?
   8. Why is it necessary to purify positive PCR products before sequencing?
   9. When washing your PCR products, the first buffer will be yellow in color. Why? What does it indicate?
+
+Feedback Thursday
+^^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
