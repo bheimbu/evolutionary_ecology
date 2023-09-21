@@ -46,13 +46,13 @@ This course introduces you to some fundamental basics of...
 
 .. _how-to-sample:
 How to Sample
--------------
+=============
 
 .. youtube:: 9RRhksEuEpM
 
+
+
 Species determination
-----------------------
+=====================
 
-.. raw:: html
-
-   <iframe src="https://owncloud.gwdg.de/index.php/s/G2uw1WuGphcuBnM" width="200px" height="200px"></iframe>
+You can access the handout for the morphological characters [here](https://owncloud.gwdg.de/index.php/s/G2uw1WuGphcuBnM).
