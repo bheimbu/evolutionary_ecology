@@ -16,7 +16,7 @@ However, you start this week with assembling, checking, and exporting your raw s
 After you processed your own sequences, you can start with the :ref:`Tutorials`.
 
 .. note::
-  At the end of the week you will know…
+  **At the end of the week you will know…**
 
   - what a sequence file is
   - what a fasta file is
@@ -34,6 +34,7 @@ Monday
 ------
 Summary
 ^^^^^^^
+
 Today we will start with recapitulating the molecular work of last week and discuss the method of Sanger Sequencing.
 After that, you start with processing your sequencing results i.e., you will assemble, check and correct the raw reads that have been assigned to you (see assignment list) in Geneious Prime and export the respective consensus sequences.
 Then, you can start with the online tutorial, which introduces you to the handling of sequence data and how to use Genbank, a public sequence data repository.
@@ -63,6 +64,7 @@ Task 2
 
 .. attention::
   Remember to name the consensus sequence correctly:
+
   - Running sample number (e.g. 01, 02, ... 09, 10, 11 ...)
   - Genus and species name (e.g. 01_Acrogalumna_longisetosa)
   - Gene of interest (e.g. 01_Acrogalumna_longisetosa_18S)
