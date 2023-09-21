@@ -17,7 +17,7 @@ Goals
 	  - be able to explain how a PCR works and how to visualize the results.
 	  - be able to tell the differences between the different genes (markers) we will use for the PCRs.
 	  - understand how Sanger sequencing works, why we are using it in this course and how to prepare samples for Sanger sequencing.
-------
+
 Monday
 ------
 You already know, how to collect soil animals. In the morning, we start with a general introduction to the soil fauna. In the afternoon, we work with oribatid mites only. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
@@ -51,7 +51,7 @@ To provide feedback, please complete our questionnaire: [Questionnaire Link](htt
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
--------
+
 Tuesday
 -------
 Goals
@@ -90,7 +90,7 @@ To provide feedback, please complete our questionnaire: [Questionnaire Link](htt
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
----------
+
 Wednesday
 ---------
 Summary
@@ -146,7 +146,7 @@ To provide feedback, please complete our questionnaire: [Questionnaire Link](htt
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
---------
+
 Thursday
 --------
 You have been introduced to the basic and most common methods in molecular work i.e., DNA extraction and PCR. Today you will perform gel electrophoresis to visualize the products of your PCRs. Successful PCR reactions are then purified and sent for sequencing.
