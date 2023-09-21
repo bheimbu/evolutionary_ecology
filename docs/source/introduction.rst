@@ -52,6 +52,7 @@ How to Sample
 
 Species determination
 ----------------------
+
 .. raw:: html
 
-   <iframe src="https://github.com/bheimbu/evolutionary_ecology/blob/main/misc/Handout_character.pdf" width="100%" height="600px"></iframe>
+   <iframe src="https://github.com/bheimbu/evolutionary_ecology/blob/main/misc/Handout_character.pdf" width="200px" height="200px"></iframe>
