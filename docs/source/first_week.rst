@@ -189,7 +189,11 @@ Task 1
 
 Watch the following YouTube videos for a general introduction. Get familiar with the steps involved, the essential idea of fluorescence base Sanger DNA sequencing, and the advantages of capillary electorophoreses.
 
-.. youtube:: YeHtjO7vlyg
+..note ::
+  .. tabs ::
+     .. tab:: Sanger Sequencing 
+        .. youtube:: YeHtjO7vlyg
+
 .. youtube:: CN21sVuXkkw
 .. youtube:: k0ZSOR1Gd1M
 .. youtube:: Wpww8bb63zU
