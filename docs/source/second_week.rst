@@ -44,5 +44,7 @@ Tasks of the Day
 ^^^^^^^^^^^^^^^^
 Task 1
 """"""
-    Read the section :ref:`Geneious_Prime`
-    Download and install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_
+.. note::
+  1. Read the section :ref:`Geneious_Prime`
+  2. Download and install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_
+
