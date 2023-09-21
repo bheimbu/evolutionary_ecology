@@ -19,15 +19,11 @@ Geneious Prime is a molecular biology and sequence analysis tool, and helps you 
 .. image:: /_static/geneious_1.png
 
 **4. Check out all single sequence files that belong to the same sample**
-
 **- For 18S there are 6 files (3 forward and 3 reverse)**
-
 **- For 28S and COI there are only 2 (1 forward and 1 reverse)**
 
 **5. Assemble contigs**
-
 **- Select De Novo Assemble from the Align/Assemble menu**
-
 **- (also: Tools —> Align/Assemble —> De Novo Assemble**
 
 .. image:: /_static/geneious_2.png
@@ -40,7 +36,6 @@ Geneious Prime is a molecular biology and sequence analysis tool, and helps you 
 .. image:: /_static/geneious_3.png
 
 Now all single sequence files are pieced together (=assembled) and all complementary positions of all forward and reverse sequences are displayed underneath each other:
-
 - You now have a .contig file (not a Sanger file or single nucleotide sequence), which is indicated by the icon in front of the name
 - Scan the contig by eye to ensure that no ambiguous base calls are included 
 - Geneious Prime automatically removes positions (base pairs) at the start/end of each sequence with a quality below a certain quality threshold (, which can be adjusted, if necessary)
@@ -49,3 +44,14 @@ Now all single sequence files are pieced together (=assembled) and all complemen
 .. note::
   - Correcting the consensus sequence saves the change in both forward and reverse sequence
   - Correcting the base in the erroneous sequence (either forward or reverse) changes the consensus sequence, but saves the change only in the respective sequence
+
+.. code-block::
+   :caption: A cool example
+
+       The output of this line starts with four spaces.
+
+.. image:: /_static/geneious_4.png
+
+.. note::
+  This table summarises the symbols used for ambiguous base calls.
+  .. image:: /_static/geneious_5.png
