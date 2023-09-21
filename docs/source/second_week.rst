@@ -132,8 +132,7 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 **T1_A3**
 
 .. important::
-  - Oribatid mites are divided into six major groups.
-  - Draw a phylogenetic tree of the six major groups.
+  - Draw a phylogenetic tree of the six major groups of Oribatida.
   - Write the name of the major group on the branch and the species' names at the tip.
 
   Take a picture of your drawing and upload it on DoIT.
@@ -146,10 +145,10 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
   - Remember to create a new subfolder named **T1_A4** in the folder **T1**.
 
 .. attention::
-  There is no 18S sequence available for Carabodes femoralis, use the 18S sequence of Carabodes subarcticus. For Platynothrus peltifer, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
+  There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
 
 .. tip::
-  In general: If two or more sequences are available for a species, always choose the longest sequence.
+  A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
 
 **T1_A5**
 
