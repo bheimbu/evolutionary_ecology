@@ -44,13 +44,6 @@ This course introduces you to some fundamental basics of...
     - present and interpret your results
     - place and discuss your data in a general, up-to-date scientific context
 
-.. _how-to-sample:
-How to Sample
-=============
-
-.. youtube:: 9RRhksEuEpM
-
-
 
 Species determination
 =====================
