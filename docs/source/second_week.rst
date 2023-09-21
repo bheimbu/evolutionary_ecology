@@ -8,13 +8,13 @@ This week it's all about DNA sequence: How to work with them, where to get them 
 All steps for handling sequence data and phylogenetic analyses are explained step by step in online tutorials. Everyday, a tutorial is dedicated to a different method. You must finish the respective tutorial and its exercises in order to be able to continue with the next tutorial on the next day.
 
 .. note::
-   However, you start this week with assembling, checking, and exporting your raw sequences (= sequencing results of your PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
+  However, you start this week with assembling, checking, and exporting your raw sequences (= sequencing results of your PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
   - Sanger DNA sequencing
   - sequence evaluation (or 'What's the difference between a bad and good DNA sequence?')
   - ambiguous (wobble) DNA positions and where do they come from
   - DNA sequences from public data repositories
 
- After you processed your own sequences, you can start with the online tutorial.
+After you processed your own sequences, you can start with the online tutorial.
 
  .. note::
   At the end of the week you will know…
@@ -128,16 +128,21 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 - Oribatid mites are divided into six major groups. Draw a phylogenetic tree of the six major groups. Write the name of the major group on the branch and the species' names at the tip.
 
 .. note::
-  → Take a picture of your drawing and upload it on DoIT.
+  Take a picture of your drawing and upload it on DoIT.
 
 **T1_A4**
 
 - Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file. Save the file as T1_A4_Oribatida_18S.fas. Remember to create a new subfolder named T1_A4 in the folder T1.
 
 .. attention::
-  There is no 18S sequence available for Carabodes femoralis, use the 18S sequence of Carabodes subarcticus. For Platynothrus peltifer, three 18S sequences are available, download the sequence with the accession number .. code-block::
-                                                   EF091422
-  .
+  There is no 18S sequence available for Carabodes femoralis, use the 18S sequence of Carabodes subarcticus. For Platynothrus peltifer, three 18S sequences are available, download the sequence with the accession number code-block: `EF091422`.
 
 .. tip::
   In general: If two or more sequences are available for a species, always choose the longest sequence.
+
+**T1_A5**
+
+- What do you consider the key benefits of an online database?
+
+.. note::
+  Write down your answers on a sheet of paper.
