@@ -3,7 +3,7 @@ Second Week
 ===========
 Goals
 -----
-This week it's all about DNA sequence: How to work with them, where to get them from (if you do not wish to sequence animals yourself), how to infer phylogenetic trees.
+This week it's all about DNA sequences: How to work with them, where to get them from (if you do not wish to sequence animals yourself), how to infer phylogenetic trees.
 
 All steps for handling sequence data and phylogenetic analyses are explained step by step in online tutorials. Everyday, a tutorial is dedicated to a different method. You must finish the respective tutorial and its exercises in order to be able to continue with the next tutorial on the next day.
 
