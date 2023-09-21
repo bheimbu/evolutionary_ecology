@@ -200,7 +200,14 @@ Watch the following YouTube videos for a general introduction. Get familiar with
    - What happens to your PCR primers during Sanger sequencing? Are they even used?
    - Why do we sequence the forward and reverse strands of the PCR product separately? Is it important for the method itself or just helpful for analyzing our data?
 
+Watch 'A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_.
+If you are going to use your own PC on Monday next week, install the '30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
 
+.. note::
+  As soon as possible, but latest on Monday next week, you will receive the raw reads of your sequences. Your PCR products were sequenced in forward and reverse direction, meaning that two raw reads form a consensus sequence. In order to obtain a consensus sequence, assemble the pairs of raw reads and – **very important!** – check for any sequencing errors and/or ambiguous positions. At the end, we want to have good to high quality consensus sequences for downstream analyses.
+
+.. important:: 
+  Watch the tutorial about 'Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ on the 'Geneious Academy' webpage. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
 
 
 
