@@ -30,6 +30,7 @@ After you processed your own sequences, you can start with the :ref:`Tutorials`.
   - what ML and BI means
   - how to do basic phylogenetics in R
 
+.. _Monday_Second_Week:
 Monday
 ------
 Summary
