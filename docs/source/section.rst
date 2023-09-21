@@ -136,7 +136,7 @@ After starting a BLAST search a new window will open confirming the search reque
 
 In both figures, detailed results are listed below the graph, providing the accession numbers if the BLAST hits in the last (Fig. 4) or first column (Fig. 5), linking to the complete database entry with a full description of the sequence. Columns to the right provide information on the degree of similarity and the probability of stochastic agreement. The e-value is the most important, indicating the probability that a database entry matches with the original sequence simply by chance. The smaller the e-value the better: the lower the probability that two sequences match by chance the higher the probability to have a real homologous sequence. Ideally the e-value should be very small (e.g. 2e-152).
 
-..hint::
+.. hint::
   Any published sequence in GenBank is linked with a unique `accession number <https://www.ncbi.nlm.nih.gov/genbank/samplerecord/#AccessionB>`_. A GenBank record provides information on the length, name of the gene, and a detailed taxonomic description of the organism from which the sequence derived. Additionally, information on authors and a reference to the publication in which the sequence was first cited are provided within the record, as well as many other things.
 
 Any sequence from GenBank can be downloaded to a local hard drive. The GenBank file format is rather inconvenient and not recognized by some text editors and phylogenetic programs. The most common sequence format supported is `FASTA <https://en.wikipedia.org/wiki/FASTA_format>`_.
