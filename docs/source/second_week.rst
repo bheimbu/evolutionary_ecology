@@ -111,9 +111,10 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 .. attention::
   Never use white space or special characters (e.g., ä, ö, ü, ß, ., :, ; ...) for sequence or file names; always separate words with underscores ( _ ). Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
-**T1_A1**​​​
+**T1_A1**
 
-- Open GenBank and select the 'Nucleotide' database in your web browser of choice. Bookmark the page.
+- Open GenBank and select the 'Nucleotide' database in your web browser of choice.
+- Bookmark the page.
 
 **T1_A2**
 
