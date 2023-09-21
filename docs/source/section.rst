@@ -43,12 +43,11 @@ Now all single sequence files are pieced together (=assembled) and all complemen
 - Scan the contig by eye to ensure that no ambiguous base calls are included 
 - Geneious Prime automatically removes positions (base pairs) at the start/end of each sequence with a quality below a certain quality threshold (, which can be adjusted, if necessary)
 - Positions that have been removed are indicated by a light pink bar underneath the respective sequence in the chromatogram
-- If you have ambiguous positions (indicated by letters that are not A, C, G, or T; highlighted in red), correct them manually according to the peak call of the sequence with the highest quality at this position. Please note that…
+- If you have ambiguous positions (indicated by letters that are not A, C, G, or T; highlighted in red), correct them manually according to the peak call of the sequence with the highest quality at this position.
 
 .. note::
   - Correcting the consensus sequence saves the change in both forward and reverse sequence
   - Correcting the base in the erroneous sequence (either forward or reverse) changes the consensus sequence, but saves the change only in the respective sequence
-
 
 .. image:: /_static/geneious_4.png
 
@@ -57,7 +56,7 @@ Now all single sequence files are pieced together (=assembled) and all complemen
 
 .. image:: /_static/geneious_5.png
 
-**9. After checking and correcting your sequences, export the consensus sequence (= a single sequence that is the combined product of all single sequences)**
+**9. After checking and correcting you sequences, export the consensus sequence (= a single sequence that is the combined product of all single sequences)**
 
 - To export the consensus, see **Export Data**
 
@@ -90,8 +89,8 @@ Export Data
 **5. Now you can open the .fasta file in**
 
 - Any text editor like Editor or Notepad++ (Windows), TextEdit (Mac), Notepadqq (Linux)
-- Or in a sequence editor like BioEdit (Windows), AliView (Mac) —> free software
-- Or Geneious Prime —> commercial software
+- Or in a sequence editor like BioEdit (Windows), AliView (Mac)
+- Or Geneious Prime
 
 .. image:: /_static/geneious_11.png
 
