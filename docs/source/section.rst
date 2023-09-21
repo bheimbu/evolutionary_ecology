@@ -93,3 +93,16 @@ Export Data
 - Or Geneious Prime —> commercial software
 
 .. image:: /_static/geneious_11.png
+
+.. _Database_and_Search_Strategy:
+Database and Search Strategies
+==============================
+
+Molecular sequence data is available from several online public databases, e.g. NCBI GenBank (USA), EMBL EBI (Europe), or DDBJ (Japan), to name a few. Providers manage and update entries daily via the World Wide Web. During this course, we use the service of NCBI GenBank to compare and validate our own sequence data and obtain additional sequences.
+
+To screen the database for sequence data, two alternative search strategies are described below:
+ 
+**1. Search the database for specific genes and taxa**
+
+- Enter a species or higher taxon name in the search box. The order of search terms (e.g. 'oribatida d3') is neglible, as is the case sensitivity. However, it is important to limit the search to the required database, e.g., 'Nucleotide' or 'Protein'.
+
