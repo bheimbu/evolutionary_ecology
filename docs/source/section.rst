@@ -190,5 +190,16 @@ Sequences can be visualized and downloaded in different formats by selecting „
   If you wish to download many sequences with continous accession numbers (e.g. from a paper), just enter the frist and the last accession numbers separated by a colo followed by the tag [accn].
   
   .. code-block::
+  
+    EF091418:EF091227[accn]
 
-  EF091418:EF091227[accn]
+.. note::
+
+   Here is a code example:
+
+   .. code-block:: python
+
+      def hello_world():
+          print("Hello, world!")
+
+   This code defines a simple Python function called `hello_world` that prints a greeting.
