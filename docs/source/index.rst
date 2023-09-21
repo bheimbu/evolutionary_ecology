@@ -25,5 +25,6 @@ Content
    second_week
    third_week
    schedule
+   section
    lectures
    usage
