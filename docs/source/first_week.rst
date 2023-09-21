@@ -230,3 +230,7 @@ Checkout the `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/cour
 
 .. hint::
   The sequencing facility may work quickly, so raw sequences may be available as early as Saturday/Sunday. If so, the assignment list will be provided at the weekend. If the tutorial is clear enough for you and raw sequences were uploaded on the weekend (please check it yourself), you can start working on the weekend and upload the consensus sequences. In any case, consensus sequences must be uploaded to StudIP by 5:00 p.m. on Monday or any time earlier.
+
+Feedback Friday
+^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
