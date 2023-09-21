@@ -98,9 +98,9 @@ Task 5
 .. attention::
   Do not leave before **Tasks 1-4** are completed!
 
-.. _T1:
-T1
-^^
+.. _Exercises:
+Exercises
+^^^^^^^^^
 
 .. _T1A:
 T1A
@@ -111,16 +111,33 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 .. attention::
   Never use white space or special characters (e.g., ä, ö, ü, ß, ., :, ; ...) for sequence or file names; always separate words with underscores ( _ ). Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
-**Exercises**
-
-``T1_A1``​​​
+**T1_A1**​​​
 
 - Open GenBank and select the 'Nucleotide' database in your web browser of choice. Bookmark the page.
 
-T1_A2
+**T1_A2**
 
 - Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format. Remember to change the names of the sequences as follows: Taxon_Gen.fas
 - Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
 
 .. note::
   You can download the file on DoIT! Once you have edited the docx file, upload the finished document.
+
+**T1_A3**
+
+- Oribatid mites are divided into six major groups. Draw a phylogenetic tree of the six major groups. Write the name of the major group on the branch and the species' names at the tip.
+
+.. note::
+  → Take a picture of your drawing and upload it on DoIT.
+
+**T1_A4**
+
+- Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file. Save the file as T1_A4_Oribatida_18S.fas. Remember to create a new subfolder named T1_A4 in the folder T1.
+
+.. attention::
+  There is no 18S sequence available for Carabodes femoralis, use the 18S sequence of Carabodes subarcticus. For Platynothrus peltifer, three 18S sequences are available, download the sequence with the accession number .. code-block::
+                                                   EF091422
+  .
+
+.. tip::
+  In general: If two or more sequences are available for a species, always choose the longest sequence.
