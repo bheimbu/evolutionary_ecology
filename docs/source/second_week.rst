@@ -48,3 +48,50 @@ Task 1
   1. Read the section :ref:`Geneious_Prime`
   2. Download and install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_
 
+Task 2
+""""""
+
+- Navigate to `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_ and download the folder
+- Open the excel file “assignment list”
+- Check out, which raw reads have been assigned to you
+- Import raw reads to Geneious Prime
+- Remember that each gene belongs to its own folder
+  - Do not import your 28S sequences into your 18S or COI folder, and vice versa
+- Find the matching raw reads i.e., the forward and the reverse sequence of the same sample
+- Assemble the matching pair of raw reads
+
+.. attention::
+  Remember to name the consensus sequence correctly:
+  - Running sample number (e.g. 01, 02, ... 09, 10, 11 ...)
+  - Genus and species name (e.g. 01_Acrogalumna_longisetosa)
+  - Gene of interest (e.g. 01_Acrogalumna_longisetosa_18S)
+  - Your initials (e.g. 01_Acrogalumna_longisetosa_18S_IS)
+  - Do not forget to use underscores _ to separate words
+
+- Check the consensus sequence and correct ambiguous positions
+- Export the consensus sequences
+- Make sure the sequence name is correct!
+- Keep in mind that a consensus sequence file consists of a single sequence
+
+.. note::
+  Upload the consensus files `here https://studip.uni-goettingen.de/dispatch.php/course/files/index/8c1eff148df88fb568fb3c5445992b96?cid=d7b80997f5efda59609a4cf69a04dbf7>`_.
+
+Task 3
+""""""
+
+.. note::
+  Please read sections: :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
+
+Task 4:
+"""""""
+
+.. note::
+  Complete exercises:
+  - T1A
+  - T1B
+
+Task 5
+"""""""
+
+.. attention::
+  Do not leave before **Tasks 1-4** are completed!
