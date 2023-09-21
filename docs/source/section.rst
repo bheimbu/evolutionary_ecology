@@ -130,7 +130,7 @@ After starting a BLAST search a new window will open confirming the search reque
 .. image:: /_static/database_4.png
 
 .. note::
-  When you click "Back to Traditional Results Page" you will see a graphic that shows how your DNA fragment matches (aligns) with the BLAST results (**see below**). The graphic represents the complete length of the entered sequence, matching sequences from GenBank are listed below. The colour code illustrates the degree of similarity across the complete sequence and the mouse-over option enables quick assessment of results. When moving the mouse over the graph, names and genes of GenBank entries appear.
+  When you click 'Back to Traditional Results Page' you will see a graphic that shows how your DNA fragment matches (aligns) with the BLAST results (**see below**). The graphic represents the complete length of the entered sequence, matching sequences from GenBank are listed below. The colour code illustrates the degree of similarity across the complete sequence and the mouse-over option enables quick assessment of results. When moving the mouse over the graph, names and genes of GenBank entries appear.
 
 .. image:: /_static/database_5.png
 
@@ -167,7 +167,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
 **2. Download a stack of sequences from a list of search hits:**
 
 - Tick all sequences of interest
-- Go to „Send to“and select „Clipboard“ [files from alternative searches can be added (tick sequence → 'Send to' → 'Clipboard')]
+- Go to „Send to“and select „Clipboard“ [files from alternative searches can be added (tick the box left to the sequence → 'Send to' → 'Clipboard')]
 - Once all required sequences are saved to the clipboard:
 - Click on 'Clipboard' (top right) and check if your desired sequences are included
 - Saving the content of the clipboard to a local hard drive:
