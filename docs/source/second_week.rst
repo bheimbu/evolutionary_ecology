@@ -111,11 +111,13 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 .. attention::
   Never use white space or special characters (e.g., ä, ö, ü, ß, ., :, ; ...) for sequence or file names; always separate words with underscores ( _ ). Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
-**T1_A1**​​​
+T1_A1
+.....​​​
 
 - Open GenBank and select the 'Nucleotide' database in your web browser of choice. Bookmark the page.
 
-**T1_A2**
+T1_A2
+.....
 
 - Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format. Remember to change the names of the sequences as follows: Taxon_Gen.fas
 - Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
