@@ -187,4 +187,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
 
 .. hint::
   If you wish to download many sequences with continous accession numbers (e.g. from a paper), just enter the frist and the last accession numbers separated by a colo followed by the tag [accn].
+  
+  .. code-block::
+
   EF091418:EF091227[accn]
