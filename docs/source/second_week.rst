@@ -47,7 +47,7 @@ Tasks of the Day
 
 Task 1
 """"""
-.. note::
+.. important::
   1. Read the section :ref:`Geneious_Prime`
   2. Download and install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_
 
@@ -77,19 +77,19 @@ Task 2
 - Make sure the sequence name is correct!
 - Keep in mind that a consensus sequence file consists of a single sequence
 
-.. note::
+.. important::
   Upload the consensus files `here <https://studip.uni-goettingen.de/dispatch.php/course/files/index/8c1eff148df88fb568fb3c5445992b96?cid=d7b80997f5efda59609a4cf69a04dbf7>`_.
 
 Task 3
 """"""
 
-.. note::
+.. important::
   Please read sections: :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
 
 Task 4
 """"""
 
-.. note::
+.. important::
   Complete Tutorials:
   
   - :ref:`T1_A`
@@ -116,32 +116,34 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 
 **T1_A1**
 
-- Open GenBank and select the 'Nucleotide' database in your web browser of choice.
-- Bookmark the page.
+.. important::
+  - Open GenBank and select the 'Nucleotide' database in your web browser of choice.
+  - Bookmark the page.
 
 **T1_A2**
 
-- Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format.
-- Remember to change the names of the sequences as follows: Taxon_Gen.fas
-- Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
+.. important::
+  - Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format.
+  - Remember to change the names of the sequences as follows: Taxon_Gen.fas
+  - Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
 
-.. note::
   You can download the file on DoIT! Once you have edited the docx file, upload the finished document.
 
 **T1_A3**
 
-- Oribatid mites are divided into six major groups.
-- Draw a phylogenetic tree of the six major groups.
-- Write the name of the major group on the branch and the species' names at the tip.
+.. important::
+  - Oribatid mites are divided into six major groups.
+  - Draw a phylogenetic tree of the six major groups.
+  - Write the name of the major group on the branch and the species' names at the tip.
 
-.. note::
   Take a picture of your drawing and upload it on DoIT.
 
 **T1_A4**
 
-- Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file.
-- Save the file as ``T1_A4_Oribatida_18S.fas``.
-- Remember to create a new subfolder named **T1_A4** in the folder **T1**.
+.. important::
+  - Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file.
+  - Save the file as ``T1_A4_Oribatida_18S.fas``.
+  - Remember to create a new subfolder named **T1_A4** in the folder **T1**.
 
 .. attention::
   There is no 18S sequence available for Carabodes femoralis, use the 18S sequence of Carabodes subarcticus. For Platynothrus peltifer, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
@@ -151,9 +153,9 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 
 **T1_A5**
 
-- What do you consider the key benefits of an online database?
+.. important::
+  - What do you consider the key benefits of an online database?
 
-.. note::
   Write down your answer on a sheet of paper.
 
 .. _T1_B:
