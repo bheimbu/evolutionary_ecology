@@ -169,7 +169,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
 - Tick all sequences of interest
 - Go to „Send to“and select „Clipboard“ [files from alternative searches can be added (tick sequence → 'Send to' → 'Clipboard')]
 - Once all required sequences are saved to the clipboard:
-- → click on 'Clipboard' (top right) and check if your desired sequences are included
+- Click on 'Clipboard' (top right) and check if your desired sequences are included
 - Saving the content of the clipboard to a local hard drive:
 
   - Go to 'Send to' (top right)
