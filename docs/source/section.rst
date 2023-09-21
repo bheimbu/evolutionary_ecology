@@ -52,10 +52,12 @@ Now all single sequence files are pieced together (=assembled) and all complemen
 .. image:: /_static/geneious_4.png
 
 .. note::
-  This table summarises the symbols used for ambiguous base calls.
-  .. image:: /_static/geneious_5.png
+  The table below summarises the symbols used for ambiguous base calls.
+
+.. image:: /_static/geneious_5.png
 
 **9. After checking and correcting your sequences, export the consensus sequence (= a single sequence that is the combined product of all single sequences)**
+
 - To export the consensus, see **Export Data**
 
 .. image:: /_static/geneious_6.png
@@ -85,6 +87,9 @@ Export Data
 .. image:: /_static/geneious_10.png
 
 **5. Now you can open the .fasta file in**
+
 - Any text editor like Editor or Notepad++ (Windows), TextEdit (Mac), Notepadqq (Linux)
 - Or in a sequence editor like BioEdit (Windows), AliView (Mac) —> free software
 - Or Geneious Prime —> commercial software
+
+.. image:: /_static/geneious_11.png
