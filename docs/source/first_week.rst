@@ -223,10 +223,10 @@ If you are going to use your own PC on Monday next week, install the `30-days tr
 .. important:: 
   Watch the tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ on the Geneious Academy webpage. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
 
-Task preview for :ref:`Monday_Second_Week` morning, Second Week:
+Task preview for Monday morning, Second Week:
 ---------------------------------------------
 
-Each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided in StudIP. 
+On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided in StudIP. 
 Checkout the `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_ directory on StudIP.
 
 .. attention::
