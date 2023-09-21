@@ -98,15 +98,15 @@ Task 5
 .. attention::
   Do not leave before **Tasks 1-4** are completed!
 
-.. _Exercises:
-Exercises
+.. _Tutorials:
+Tutorials
 ^^^^^^^^^
 
-.. _T1A:
+.. _T1A::
 T1A
 """
 
-Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: EvolEcol. All the data from this course goes into this folder. Create a sub folder with the name T1, where the exercises of tutorial 1 will be saved. That is, create a new folder named T1 and the number of the exercise separated with underscore (e.g. T1_A2, T1_A3, ...). 
+Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder. Create a sub folder with the name **T1**, where the exercises of tutorial 1 will be saved. That is, create a new folder named **T1** and the number of the exercise separated with underscore (e.g. **T1_A1**, **T1_A2**, ...). 
 
 .. attention::
   Never use white space or special characters (e.g., ä, ö, ü, ß, ., :, ; ...) for sequence or file names; always separate words with underscores ( _ ). Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
