@@ -62,7 +62,6 @@ Task 2
 
 .. attention::
   Remember to name the consensus sequence correctly:
-  
   - Running sample number (e.g. 01, 02, ... 09, 10, 11 ...)
   - Genus and species name (e.g. 01_Acrogalumna_longisetosa)
   - Gene of interest (e.g. 01_Acrogalumna_longisetosa_18S)
