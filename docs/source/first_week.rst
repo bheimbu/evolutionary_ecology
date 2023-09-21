@@ -173,3 +173,26 @@ Questions of the Day
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+
+Friday
+-------
+Homework
+^^^^^^^^
+You can start a Discussion group in the `Forum <https://studip.uni-goettingen.de/dispatch.php/course/forum/index/index/ee59763e66f3b71b69c917f633cb857d?cid=d7b80997f5efda59609a4cf69a04dbf7#ee59763e66f3b71b69c917f633cb857d>`_ to work on the questions and tasks of the past days and for today.
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+Watch the following YouTube videos for a general introduction. Get familiar with the steps involved, the essential idea of fluorescence base Sanger DNA sequencing, and the advantages of capillary electorophoreses.
+
+.. youtube:: YeHtjO7vlyg
+
+
+
+
+
+
+
+
+
+
