@@ -22,12 +22,12 @@ The :ref:`third-week` is dedicated to you and your own research project. In the 
 Goals
 -----------
 
-This course will introduce you into some fundamental basics in...
+This course introduces you to some fundamental basics of...
 
 **Soil Ecology**
   - Mesofauna
   - Oribatid Mites
-**Molecular Work**
+**Molecular Lab Work**
   - DNA Extraction
   - PCR
   - Sanger Sequencing
@@ -37,7 +37,7 @@ This course will introduce you into some fundamental basics in...
   - Phylogenetic trees
 
 .. note::
-  After completing this course you will have learned, how to organise a **research project**, starting with...
+  After completing this course, you will have learned how to organize a **research project**, starting with...
     - building a hypothesis
     - collect, evaluate, and structure research data
     - choose appropriate methods for analyses
