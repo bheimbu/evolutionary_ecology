@@ -232,10 +232,10 @@ Checkout the `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/cour
 .. attention::
  Sequences must to be assembled, checked, and exported as consensus sequence files. Please upload them to StudIP by Monday 5:00 pm. Each consensus file you upload must contain a sample ID and your initials.
 
-.. note::
+.. tip::
   If you want, you can also start the Monday tutorials and tasks this Friday. Note: They need to be finished by Monday so we can stick to the Tuesday schedule. You are very welcome to ask questions in BBB from 11-12 am and 1-2 pm and we would be happy to support you in assembling, checking, exporting, and naming your sequences. You can also use the `Forum <https://studip.uni-goettingen.de/dispatch.php/course/forum/index/index/ee59763e66f3b71b69c917f633cb857d?cid=d7b80997f5efda59609a4cf69a04dbf7#ee59763e66f3b71b69c917f633cb857d>`_ to ask questions and discuss them with the other participants.
 
-.. hint::
+.. attention::
   The sequencing facility may work quickly, so raw sequences may be available as early as Saturday/Sunday. If so, the assignment list will be provided at the weekend. If the tutorial is clear enough for you and raw sequences were uploaded on the weekend (please check it yourself), you can start working on the weekend and upload the consensus sequences. In any case, consensus sequences must be uploaded to StudIP by 5:00 p.m. on Monday or any time earlier.
 
 Feedback Friday
