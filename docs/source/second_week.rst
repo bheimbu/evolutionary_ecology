@@ -65,7 +65,7 @@ Task 2
 .. attention::
   Remember to name the consensus sequence correctly:
 
-  - Running sample number (e.g. ``01``, ``02``, ...)
+  - Running sample number (e.g. ``01``, ``02``)
   - Genus and species name (e.g. ``01_Acrogalumna_longisetosa``)
   - Gene of interest (e.g. ``01_Acrogalumna_longisetosa_18S``)
   - Your initials (e.g. ``01_Acrogalumna_longisetosa_18S_IS``)
@@ -111,7 +111,7 @@ T1A
 Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder. Create a sub folder with the name **T1**, where the exercises of tutorial 1 will be saved. That is, create a new folder named **T1** and the number of the exercise separated with underscore (e.g. **T1_A1**, **T1_A2**, ...). 
 
 .. attention::
-  Never use white space or special characters (e.g., ``ä``, ``ö``, ``ß``, ``.``, ``:``, ) for sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
+  Never use white space or special characters (e.g., ``ä``, ``ö``, ``ß``, ``.``, ``:``) for sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
 **T1_A1**
 
