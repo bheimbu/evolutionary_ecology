@@ -1,5 +1,5 @@
 .. _first-week:
-First week
+First Week
 ==========
 In the first week, you will see, separate and determine oribatid mites and process them in the molecular lab to obtain DNA sequences for phylogenetic analyses.
 
