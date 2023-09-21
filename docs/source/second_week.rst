@@ -7,17 +7,17 @@ This week it's all about DNA sequence: How to work with them, where to get them 
 
 All steps for handling sequence data and phylogenetic analyses are explained step by step in online tutorials. Everyday, a tutorial is dedicated to a different method. You must finish the respective tutorial and its exercises in order to be able to continue with the next tutorial on the next day.
 
-.. note::
-  However, you start this week with assembling, checking, and exporting your raw sequences (= sequencing results of your PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
-  - Sanger DNA sequencing
-  - sequence evaluation (or 'What's the difference between a bad and good DNA sequence?')
-  - ambiguous (wobble) DNA positions and where do they come from
-  - DNA sequences from public data repositories
+However, you start this week with assembling, checking, and exporting your raw sequences (= sequencing results of your PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
+- Sanger DNA sequencing
+- sequence evaluation (or 'What's the difference between a bad and good DNA sequence?')
+- ambiguous (wobble) DNA positions and where do they come from
+- DNA sequences from public data repositories
 
 After you processed your own sequences, you can start with the online tutorial.
 
- .. note::
+.. note::
   At the end of the week you will know…
+
   - what a sequence file is
   - what a fasta file is
   - how to use public gene databases
