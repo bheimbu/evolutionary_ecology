@@ -11,7 +11,8 @@ Therefore I find it important that you understand your modelsystem (habitat, org
 Course Structure
 ----------------
 
-The structure of this course reflects that of a mini-research project.
+.. note::
+  The structure of this course reflects that of a mini-research project.
 
 In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect mites (see :ref:`how-to-sample`) and determine them with the help of a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
 
