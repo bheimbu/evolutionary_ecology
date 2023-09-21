@@ -19,6 +19,8 @@ Content
 =======
 .. toctree::
    introduction
+   how_to_sample
+   species_determination
    first_week
    second_week
    third_week
