@@ -147,8 +147,9 @@ Downloading and Saving
 ----------------------
 
 Sequences can be visualized and downloaded in different formats by selecting „Display Settings“ options (top left). Selecting FASTA, the website is updated showing the sequence in the respective file format. To download the sequence on the local hard drive, click on „Send to“ (top right) which opens a drop-down menu to select the destination and format of the sequence file.
+
 .. note::
-  Sequences can be saved separately (one-by-one) or as sequence stack (=multiple FASTA file):
+  Sequences can be saved separately (one-by-one) or as sequence stack (=multiple FASTA file), see below for more.
 
 .. image:: /_static/downloading_1.png
 
