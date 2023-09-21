@@ -13,7 +13,7 @@ However, you start this week with assembling, checking, and exporting your raw s
 - ambiguous (wobble) DNA positions and where do they come from
 - DNA sequences from public data repositories
 
-After you processed your own sequences, you can start with the online tutorial.
+After you processed your own sequences, you can start with the :ref:`Tutorials`.
 
 .. note::
   At the end of the week you will know…
@@ -42,6 +42,7 @@ The basic idea is, that all of you work with the same toy dataset, which makes i
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
+
 Task 1
 """"""
 .. note::
@@ -117,7 +118,8 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 
 **T1_A2**
 
-- Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format. Remember to change the names of the sequences as follows: Taxon_Gen.fas
+- Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format.
+- Remember to change the names of the sequences as follows: Taxon_Gen.fas
 - Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
 
 .. note::
@@ -125,14 +127,18 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 
 **T1_A3**
 
-- Oribatid mites are divided into six major groups. Draw a phylogenetic tree of the six major groups. Write the name of the major group on the branch and the species' names at the tip.
+- Oribatid mites are divided into six major groups.
+- Draw a phylogenetic tree of the six major groups.
+- Write the name of the major group on the branch and the species' names at the tip.
 
 .. note::
   Take a picture of your drawing and upload it on DoIT.
 
 **T1_A4**
 
-- Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file. Save the file as T1_A4_Oribatida_18S.fas. Remember to create a new subfolder named T1_A4 in the folder T1.
+- Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file.
+- Save the file as ``T1_A4_Oribatida_18S.fas``.
+- Remember to create a new subfolder named **T1_A4** in the folder **T1**.
 
 .. attention::
   There is no 18S sequence available for Carabodes femoralis, use the 18S sequence of Carabodes subarcticus. For Platynothrus peltifer, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
@@ -145,4 +151,4 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 - What do you consider the key benefits of an online database?
 
 .. note::
-  Write down your answers on a sheet of paper.
+  Write down your answer on a sheet of paper.
