@@ -1,5 +1,6 @@
 Second Week
 ===========
 
-.. image:: https://owncloud.gwdg.de/index.php/s/fLj2sPHTZNo6i7I
-  :width: 400
+.. image:: _static/pictures/jmodeltest_1.png
+   :alt: Alternative Text
+   :width: 400
