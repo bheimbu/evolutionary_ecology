@@ -96,7 +96,7 @@ Export Data
 
 .. _Database_and_Search_Strategy:
 Database and Search Strategies
-==============================
+------------------------------
 
 Molecular sequence data is available from several online public databases, e.g. NCBI GenBank (USA), EMBL EBI (Europe), or DDBJ (Japan), to name a few. Providers manage and update entries daily via the World Wide Web. During this course, we use the service of NCBI GenBank to compare and validate our own sequence data and obtain additional sequences.
 
@@ -106,3 +106,37 @@ To screen the database for sequence data, two alternative search strategies are 
 
 - Enter a species or higher taxon name in the search box. The order of search terms (e.g. 'oribatida d3') is neglible, as is the case sensitivity. However, it is important to limit the search to the required database, e.g., 'Nucleotide' or 'Protein'.
 
+.. image:: /_static/database_1.png
+
+**2. BLAST Search**
+
+- Search for homologous genes using your own sequences.
+
+.. image:: /_static/database_2.png
+
+.. note::
+  Again, it is important to limit the search to the required database within NCBI, e.g. 'Nucleotide' or 'Protein' (Fig. 3).
+
+You can upload your own sequences to the search mask (Fig. 3) either by copy-paste (1a) from a sequence editor like BioEdit or MEGA, or sequence files can be uploaded from a directory located on the hard drive (1b).
+The BLAST search can be accelerated by limiting the search to an appropriate DATABASE (mandatory; 2) and to a certain ORGANISM (optional). The search starts when pressing the „BLAST“-button (3).
+
+.. tip::
+  The accuracy of search parameters can be adjusted (Algorithm parameters; optional), which affects the degree of similarity of sequences from the database with your sequence data. Downscaling of search parameters can be helpful for searches within variable gene regions or among distantly related (or fast mutating) organisms. Upscaling of search parameters is reasonable when working with repetitive sequences.
+
+.. image:: /_static/database_3.png
+
+After starting a BLAST search a new window will open confirming the search request. The search is finished when a list with all results appears (Fig. 4).
+
+.. image:: /_static/database_4.png
+
+.. note::
+  When you click "Back to Traditional Results Page" you will see a graphic that shows how your DNA fragment matches (aligns) with the BLAST results (Fig. 5). The graphic represents the complete length of the entered sequence, matching sequences from GenBank are listed below. The colour code illustrates the degree of similarity across the complete sequence and the mouse-over option enables quick assessment of results. When moving the mouse over the graph, names and genes of GenBank entries appear.
+
+.. image:: /_static/database_5.png
+
+In both figures, detailed results are listed below the graph, providing the accession numbers if the BLAST hits in the last (Fig. 4) or first column (Fig. 5), linking to the complete database entry with a full description of the sequence. Columns to the right provide information on the degree of similarity and the probability of stochastic agreement. The e-value is the most important, indicating the probability that a database entry matches with the original sequence simply by chance. The smaller the e-value the better: the lower the probability that two sequences match by chance the higher the probability to have a real homologous sequence. Ideally the e-value should be very small (e.g. 2e-152).
+
+..hint::
+  Any published sequence in GenBank is linked with a unique `accession number <https://www.ncbi.nlm.nih.gov/genbank/samplerecord/#AccessionB>`_. A GenBank record provides information on the length, name of the gene, and a detailed taxonomic description of the organism from which the sequence derived. Additionally, information on authors and a reference to the publication in which the sequence was first cited are provided within the record, as well as many other things.
+
+Any sequence from GenBank can be downloaded to a local hard drive. The GenBank file format is rather inconvenient and not recognized by some text editors and phylogenetic programs. The most common sequence format supported is `FASTA <https://en.wikipedia.org/wiki/FASTA_format>`_.
