@@ -200,7 +200,7 @@ Tuesday
 Summary
 ^^^^^^^
 
-Today, it's all about sequence alignments and their importance for analysing genetic data. In this tutorial, you do sequence alignments with your toy datasets using the software `ClustalW <http://www.clustal.org/clustal2/>`_ implemented in :re:`Bioedit`, the sequence editor you used yesterday.
+Today, it's all about sequence alignments and their importance for analysing genetic data. In this tutorial, you do sequence alignments with your toy datasets using the software `ClustalW <http://www.clustal.org/clustal2/>`_ implemented in :ref:`Bioedit`, the sequence editor you used yesterday.
 It is important to remember that sequence files, whether aligned or not, can be saved in different file formats. Input file formats can change between used software. If the format is not correct, the software isn't do anything for you. Knowing what the input file format should look like will help you overcome the initial hurdles when using phylogenetic software.
 
 .. note::
