@@ -54,19 +54,20 @@ Task 1
 Task 2
 """"""
 
-- Navigate to `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_ and download the folder
-- Open the excel file “assignment list”
+- Download `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_
+- Open the "assignment list”
 - Check out, which raw reads have been assigned to you
-- Import raw reads to Geneious Prime
+- Import reads to Geneious Prime
 - Remember that each gene belongs to its own folder
-  - Do not import your 28S sequences into your 18S or COI folder, and vice versa
+  - Do not import your 28S sequences into your 18S or COI folder, and *vice versa*
 - Find the matching raw reads i.e., the forward and the reverse sequence of the same sample
-- Assemble the matching pair of raw reads
+- Assemble the matching pair of reads
 
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
   
-  [sample number]_[genus]_[species]_[gene]_[initials]
+  SampleNumber_*Genus_species*_Gene_Initials.:samp:`fasta`
+  
   for example ``01_Acrogalumna_longisetosa_18S_IS``
 
 - Check the consensus sequence and correct ambiguous positions
