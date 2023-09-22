@@ -81,16 +81,13 @@ Task 3
 """"""
 
 .. important::
-  Please read sections: :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
+  - Read sections :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
 
 Task 4
 """"""
 
 .. important::
-  Complete Tutorials:
-  
-  - :ref:`T1_A`
-  - :ref:`T1_B`
+  - Complete :ref:`T1_A` and :ref:`T1_B`
 
 Task 5
 """""""
