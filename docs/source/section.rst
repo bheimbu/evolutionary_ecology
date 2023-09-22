@@ -304,8 +304,6 @@ Sequence Editing
 ----------------
 
 .. note::
-  File formats - some examples:
-  
   Essentially, sequence data (protein and nucleotide sequences, alignments, etc.) are simple text files. They are edited in a specific format which is recognized by sequence editors and phylogenetic programs. Unfortunately, almost as many formatting styles as analyzing programs exist. Some of the most common editing styles (fasta and text for sequences, phylip and nexus for alignments) are listed here:
 
 **Sequence files**
