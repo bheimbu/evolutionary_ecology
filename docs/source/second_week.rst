@@ -340,8 +340,8 @@ Today, we have three learning modules:
 2. How to infer Phylogenetic Trees (Lecture)
   - Using Neighbor Joining
 3. How to Draw Phylogenetic Trees
-   - Introduction to FigTree (tree editing software)
-   - Exercises on basic properties and attributes of phylogenetic trees
+  - Introduction to FigTree (tree editing software)
+  - Exercises on basic properties and attributes of phylogenetic trees
 
 .. note::
 
@@ -361,7 +361,7 @@ Task 1
 
 .. important::
   - Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC
-  - Read the section on 'Models of Sequence Evolution'
+  - Read the section on :ref:`Models_of_Sequence_Evolution`
   - Complete exercises under :ref:`T3_A`
 
 
@@ -377,9 +377,9 @@ Task 2
 Task 3
 """"""
 
- .. important::
-   - Read section :ref:`'More_on_Trees`
-   - Complete exercises under :ref:`T3_C` by hand using pen and paper
+.. important::
+  - Read section :ref:`More_on_Trees`
+  - Complete exercises under :ref:`T3_C` by hand using pen and paper
 
 
 Task 4
