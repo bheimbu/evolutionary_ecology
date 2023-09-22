@@ -66,9 +66,8 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
   
-  SampleNumber_*Genus_species*_Gene_Initials.:samp:`fasta`
-  
-  for example ``01_Acrogalumna_longisetosa_18S_IS``
+  *SampleNumber_* :samp:`*Genus_species*` _Gene_ :samp:`*Initials*`.fasta  
+  for example: ``01_Acrogalumna_longisetosa_18S_IS``
 
 - Check the consensus sequence and correct ambiguous positions
 - Export the consensus sequences
@@ -110,7 +109,7 @@ T1_A
 Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder. Create a sub folder with the name **T1**, where the exercises of tutorial 1 will be saved. That is, create a new folder named **T1** and the number of the exercise separated with underscore (e.g. **T1_A1**, **T1_A2**, ... ). 
 
 .. attention::
-  Never use white space or special characters (e.g., ``ä``, ``ö``, ``ß``, ``.``, ``:``) for sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
+  Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
 **T1_A1**
 
@@ -121,19 +120,21 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 **T1_A2**
 
 .. important::
-  - Download sequences from NCBI with the following accession numbers as separate sequence files in FASTA format.
+  - Download sequences from NCBI with following accession numbers given below as separate sequence files in FASTA format.
   - Remember to change the names of the sequences as follows: Taxon_Gen.fas
   - Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
 
-  You can download the file on DoIT! Once you have edited the docx file, upload the finished document.
+  You can download the file containg the accession numbers `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_. Once you have edited your spreadsheet, upload the finished document `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
 **T1_A3**
 
 .. important::
   - Draw a phylogenetic tree of the six major groups of Oribatida.
-  - Write the name of the major group on the branch and the species' names at the tip.
+  - Write the names of the major groups on the branches and the species' names at the tips.
 
-  Take a picture of your drawing and upload it on DoIT.
+  Take a picture of your drawing and upload it on `owncloud <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
+
+
 
 **T1_A4**
 
@@ -158,3 +159,28 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 .. _T1_B:
 T1_B
 """"
+
+**T1_B1**
+
+.. important::
+  - Open all sequences from exercise **T1_A2** in a single window in BioEdit ('Import' → 'Sequence alignment file').
+  - Save the pooled dataset in FASTA-format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
+  - Change all sequence names from GenBank to: genus_species_accession number_gene (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
+     
+.. attention::
+  Never use special characters and spaces to separate words, always use underscores ``_``.
+
+
+T1_B2
+
+    Open the file T1A4_Oribatida_18S.fas from exercise A4 with your local text editor of choice (e.g. Notepad++, Editor).
+    Save the file in FASTA-format (folder: T1_B2, filename: 18S_all.fas).
+    Change sequence names from GenBank just as in B1 (genus_species_accession number_gene).
+    You now have two datasets with +/- identical taxon sampling but with two different genes.
+    Now you can add (import) some of your own sequences to the 18S file.
+    Your own sequences should be named in the same logic as the sequences from NCBI.
+    No accession number is available, so you may replace this by "own", to quickly identify your own sequence among the others, for example: 05_Archegozetes_longisetosus_own_18S
+
+
+.. note::
+  Do not add more than four 18S sequences. Here, it is helpful to keep the dataset small, because larger datasets will require longer calculation times (i.e. longer waiting time for you) and it will be more difficult to focus on the most relevant information.
