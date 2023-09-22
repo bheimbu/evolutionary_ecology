@@ -15,7 +15,7 @@ It is important to remember that sequence files, whether aligned or not, can be 
   - the difference between sequence file formats, and the difference between multifasta and alignment files and how to recognize them
 
 .. important::
-  Additionally, you need to know…
+  **Additionally, you need to know…**
 
   - the consequences of using coding versus non-coding sequences for an alignment
   - the meaning and use of reading frames when aligning your data
