@@ -66,7 +66,8 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
   
-  *SampleNumber_* :samp:`*Genus_species*` _Gene_ :samp:`*Initials*`.fasta  
+  SampleNumber_*Genus*_*species*_Gene_`.fasta`
+
   for example: ``01_Acrogalumna_longisetosa_18S_IS``
 
 - Check the consensus sequence and correct ambiguous positions
@@ -120,11 +121,10 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 **T1_A2**
 
 .. important::
-  - Download sequences from NCBI with following accession numbers given below as separate sequence files in FASTA format.
+  - Download sequences from NCBI with following accession numbers (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_) as separate sequence files in FASTA format.
   - Remember to change the names of the sequences as follows: Taxon_Gen.fas
-  - Read the 'Source Organism' section of the entry and write down the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the table next to the respective accession number.
-
-  You can download the file containg the accession numbers `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_. Once you have edited your spreadsheet, upload the finished document `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
+  - Read the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
+  - Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
 **T1_A3**
 
@@ -132,7 +132,7 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
   - Draw a phylogenetic tree of the six major groups of Oribatida.
   - Write the names of the major groups on the branches and the species' names at the tips.
 
-  Take a picture of your drawing and upload it on `owncloud <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
+  Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
 
 
 
