@@ -372,7 +372,7 @@ Task 2
   - Download and install `SeaView <https://doua.prabi.fr/software/seaview>`_ on your PC
   - Read section :ref:`How_to_Infer_Phylogenetic_Trees`
   - Complete exercises under :ref:`T3_B`
-  - Read section :ref:`How_to_Draw_Phylogenetic_Trees` for exercise :ref:`T3_B3`
+  - Read section :ref:`How_To_Draw_Phylogenetic_Trees` for exercise :ref:`T3_B3`
 
 Task 3
 """"""
