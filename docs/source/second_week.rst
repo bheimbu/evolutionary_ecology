@@ -66,7 +66,7 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
   
-  SampleNumber_*Genus*_*species*_Gene_`.fasta`
+  *SampleNumber*_*Genus*_*species*_*Gene*_``.fasta``
 
   for example: ``01_Acrogalumna_longisetosa_18S_IS``
 
@@ -259,7 +259,7 @@ Task 3
 
 .. important::
   - Complete exercise :ref:`T2_B`
-  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_ that includes four example datasets without file-format assignments (no file extensions, like `.fasta` or `.txt`) and answer the questions under :ref:`T2_B`.
+  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_ that includes four example datasets without file-format assignments (no file extensions, like ``.fasta`` or ``.txt``) and answer the questions under :ref:`T2_B`.
 
 Task 4
 """"""
@@ -289,10 +289,10 @@ T2_A1
 .. image:: /_static/T2_A_1.png
 
 .. attention::
-  Use a period (`.`), not a comma (`,`) when typing the penalty values!
+  Use a period (``.``), not a comma (``,``) when typing the penalty values!
 
 .. important::
-  Save the alignments as `.fas` file to the folder **T2_A1** with the name `Gen_T2A1a/b/c/d/e/f_aln.fas`.
+  Save the alignments as `.fas` file to the folder **T2_A1** with the name ``Gen_T2A1a/b/c/d/e/f_aln.fas``.
 
 .. image:: /_static/T2_A_2.png
 
