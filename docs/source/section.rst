@@ -520,7 +520,9 @@ Maximum Likelihood
 - Stochastic approach to estimate parameters
  - Convergence to the „true“ parameters with increasing amount of data 
  - Minimal variation around the „true value“
+
 - Calculates a likelihood for each character (any position in an alignment) and requires a lot of computing time
+
 - Final tree is calculated from the sum of all likelihoods, the topology with the best (highest) likelihood value is selected
     Model of sequence evolution obligatory
 
