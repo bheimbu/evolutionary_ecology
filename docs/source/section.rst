@@ -194,8 +194,8 @@ Sequences can be visualized and downloaded in different formats by selecting „
     EF091418:EF091227[accn]
 
 
-.. _Bioedit:
-Bioedit
+.. _BioEdit:
+BioEdit
 -------
 
 - Comfortable and easy editing of sequences and alignments
