@@ -299,4 +299,20 @@ ClustalW in BioEdit
   - `.log` files of the alignment are saved to the folder BioEdit/temp; changes in the alignment can be traced there.
   - A `.dnd` file is generated in the same folder, containing a guide-tree, which is required for the alignment (a Neighbor Joining tree in Newick-format). The tree can be opened in `FigTree <http://tree.bio.ed.ac.uk/software/figtree/>`_, however, it is not a phylogenetic tree.
 
+.. _Sequence_Editing:
+Sequence Editing
+----------------
 
+.. note::
+  File formats - some examples:
+  
+  Essentially, sequence data (protein and nucleotide sequences, alignments, etc.) are simple text files. They are edited in a specific format which is recognized by sequence editors and phylogenetic programs. Unfortunately, almost as many formatting styles as analyzing programs exist. Some of the most common editing styles (fasta and text for sequences, phylip and nexus for alignments) are listed here:
+
+**Sequence files**
+
+Example fasta file
+.. code:: text
+  >Archegozetes_longisetosus_COI
+  GGATCTTCACTG.....
+  >Atropacarus_sp_COI
+  GGAACTTCGTTA......
