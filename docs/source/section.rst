@@ -426,9 +426,12 @@ NJ in Seaview (Gouy et al. 2010)
 Download the program `SeaView <https://doua.prabi.fr/software/seaview>`_ to your PC. Load your alignment file:
 
 'File' > 'Open'
- - Select all taxa (STRG + A)
+
+- Select all taxa (STRG + A)
+
 'Trees' > 'Distance methods'
- - Starts NJ analysis
+
+- Starts NJ analysis
 
 .. image:: /_static/seaview_1.png
 
@@ -437,27 +440,33 @@ A window opens in which you can choose different parameters for the NJ analysis.
 'NJ'
 
 'BioNJ'
+
 - an improved version of NJ that is more reliable if taxa differ strongly in substitution rate
 
 'Save to file' 
+
 - does not compute a tree but saves the distance matrix to a file
 
 'Distance' (implemented models of sequence evolution that correct genetic distances according to specific model parameters)
- - Observed (actual distance = uncorrected distances = pairwise-distances = p-distances)
- - J-C (Jukes-Cantor) - 1 parameter model: equal base frequencies, equal transition/transversion rates
- - K2P (Kimura 2 parameter) - 2 parameter model: equal base frequencies, unequal ti/tv rates
- - HKY (Hasegawa, Kishino, Yano) - 5 parameter model: unequal base frequencies, unequal ti/tv rates
+
+- Observed (actual distance = uncorrected distances = pairwise-distances = p-distances)
+- J-C (Jukes-Cantor) - 1 parameter model: equal base frequencies, equal transition/transversion rates
+- K2P (Kimura 2 parameter) - 2 parameter model: equal base frequencies, unequal ti/tv rates
+- HKY (Hasegawa, Kishino, Yano) - 5 parameter model: unequal base frequencies, unequal ti/tv rates
 
 'Ignore all gap sites'
- - on: all gap-containing sites are excluded from analysis
- - off: not all sequence pairs use the same set of sites for computation of distances
+
+- on: all gap-containing sites are excluded from analysis
+- off: not all sequence pairs use the same set of sites for computation of distances
 
 'Bootstrap'
- - Performs bootstrap evaluation of clade statistical support
- - Type in number of replicates (min. 100; the more the better; 500 and 1000 are common numbers of replicates, depending on the size of the dataset i.e., number of taxa and positions)
+
+- Performs bootstrap evaluation of clade statistical support
+- Type in number of replicates (min. 100; the more the better; 500 and 1000 are common numbers of replicates, depending on the size of the dataset i.e., number of taxa and positions)
 
 'Go'
- - Run Analysis
+
+- Run Analysis
 
 .. image:: /_static/seaview_2.png
 
@@ -469,8 +478,9 @@ After the NJ analysis finsihes, the resulting tree opens in a new window. Here y
 To save your tree in Newick format:
 
 'File' > 'Save' (rooted/unrooted) tree
+
 - Select where you want the tree to be saved, add the file ending .tre (or .tree) so that you will recognize your tree file in your folder
- - Save the tree with bootstrap values (tick the box before saving)
+- Save the tree with bootstrap values (tick the box before saving)
 
 .. _How_To_Draw_Phylogenetic_Trees:
 How To Draw Phylogenetic Trees
