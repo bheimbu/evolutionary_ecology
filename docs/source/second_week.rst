@@ -163,7 +163,7 @@ T1_B
 **T1_B1**
 
 .. important::
-  - Open all sequences from exercise **T1_A2** in a single window in :re:`BioEdit` ('Import' → 'Sequence alignment file').
+  - Open all sequences from exercise **T1_A2** in a single window in :re:`Bioedit` ('Import' → 'Sequence alignment file').
   - Save the pooled dataset in FASTA-format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
   - Change all sequence names from GenBank to: genus_species_accession number_gene (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
      
@@ -200,7 +200,7 @@ Tuesday
 Summary
 ^^^^^^^
 
-Today, it's all about sequence alignments and their importance for analysing genetic data. In this tutorial, you do sequence alignments with your toy datasets using the software `ClustalW <http://www.clustal.org/clustal2/>`_ implemented in :re:`BioEdit`, the sequence editor you used yesterday.
+Today, it's all about sequence alignments and their importance for analysing genetic data. In this tutorial, you do sequence alignments with your toy datasets using the software `ClustalW <http://www.clustal.org/clustal2/>`_ implemented in :re:`Bioedit`, the sequence editor you used yesterday.
 It is important to remember that sequence files, whether aligned or not, can be saved in different file formats. Input file formats can change between used software. If the format is not correct, the software isn't do anything for you. Knowing what the input file format should look like will help you overcome the initial hurdles when using phylogenetic software.
 
 .. note::
