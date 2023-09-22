@@ -463,14 +463,18 @@ T3_C1
   - Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
   - In one tree use arrows to show where the tree can be rooted.
   - How many topologies are possible for a rooted the tree with four taxa (A, B, C, D)?
-   - Draw all possible trees. Attention: some topologies might be redundant.
+  - Draw all possible trees.
+
+.. attention::
+  Some topologies might be redundant.
 
 .. _T3_C2:
 T3_C2
 """""
 
 .. important::
-  - Draw the following tree: ((((A,(B,(C,D))),E),(F,G)),H), check your topology with FigTree.
+  - Draw the following tree: ((((A,(B,(C,D))),E),(F,G)),H) 
+  - Check your topology with FigTree.
 
 .. _T3_C3:
 T3_C3
@@ -483,35 +487,37 @@ T3_C3
 T3_C4
 """""
 
-.. important::
+.. note::
   - Phylogeography studies the genetic structure of species within or between geographic regions.
   - If populations are geographically distant, gene flow usually is reduced and both populations accumulate mutations independently.
   - This increases genetic distance between taxa.
   - If gene flow perpetuates between geographically distant populations or if they have a common ancestor from which they recently separated, their genetic distances are comparatively low.
 
-  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite Steganacarus magnus (SM) from Germany (D) and France (F). To understand relationships between the two populations the student sequenced the COI gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (see distance matrix below).
+.. important::
+  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite Steganacarus magnus (SM) from Germany (D) and France (F). To understand relationships between the two populations the student sequenced the COI gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
 
   With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
 
-   - Hand in the tree (on paper with your name) with all distance calculations and intermediate distance matrixes.
-   - Interpret the tree in a phylogeographic context. Are both populations genetically separated or are there any indications for gene flow or dispersal?
-  +-------+-------+-------+-------+-------+-------+-------+
-  |       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
-  +=======+=======+=======+=======+=======+=======+=======+
-  | SM_D1 |   -   |       |       |       |       |       |       |
-  +-------+-------+-------+-------+-------+-------+-------+
-  | SM_D2 |   5   |   -   |       |       |       |       |       |
-  +-------+-------+-------+-------+-------+-------+-------+
-  | SM_D3 |   6   |   1   |   -   |       |       |       |       |
-  +-------+-------+-------+-------+-------+-------+-------+
-  | SM_D4 |  42   |  39   |  40   |   -   |       |       |       |
-  +-------+-------+-------+-------+-------+-------+-------+
-  | _SM_F1|   5   |   2   |   3   |  39   |   -   |       |       |
-  +-------+-------+-------+-------+-------+-------+-------+
-  | SM_F2 |  67   |  68   |  71   |  70   |  68   |   -   |       |
-  +-------+-------+-------+-------+-------+-------+-------+
-  | SM_F3 |  72   |  73   |  74   |  72   |  73   |   6   |   -   |
-  +-------+-------+-------+-------+-------+-------+-------+
+  - Hand in the tree (on paper with your name) with all distance calculations and intermediate distance matrixes.
+  - Interpret the tree in a phylogeographic context. Are both populations genetically separated or are there any indications for gene flow or dispersal?
+
++-------+-------+-------+-------+-------+-------+-------+-------+
+|       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
++=======+=======+=======+=======+=======+=======+=======+=======+
+| SM_D1 |   -   |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| SM_D2 |   5   |   -   |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| SM_D3 |   6   |   1   |   -   |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| SM_D4 |  42   |  39   |  40   |   -   |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| _SM_F1|   5   |   2   |   3   |  39   |   -   |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| SM_F2 |  67   |  68   |  71   |  70   |  68   |   -   |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| SM_F3 |  72   |  73   |  74   |  72   |  73   |   6   |   -   |
++-------+-------+-------+-------+-------+-------+-------+-------+
 
 .. _T3_C5:
 T3_C5
@@ -519,3 +525,7 @@ T3_C5
 
 .. important::
   What is the difference between a cladogram, a phylogram, and a chronogram?
+
+Feedback Wednesday
+^^^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
