@@ -242,8 +242,7 @@ Task 1
 """"""
 
 .. important::
-      Read the section about :ref:`Alignment`.
-
+      Read section :ref:`Alignment`.
 
 Task 2
 """"""
@@ -361,7 +360,7 @@ Task 1
 
 .. important::
   - Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC
-  - Read the section on :ref:`Models_of_Sequence_Evolution`
+  - Read section :ref:`Models_of_Sequence_Evolution`
   - Complete exercises under :ref:`T3_A`
 
 
