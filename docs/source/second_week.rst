@@ -160,6 +160,7 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 T1_B
 """"
 
+.. _T1_B1:
 **T1_B1**
 
 .. important::
@@ -170,7 +171,7 @@ T1_B
 .. attention::
   Never use special characters and spaces to separate words, always use underscores ``_``.
 
-
+.. _T1_B2:
 **T1_B2**
 
 .. important::
@@ -263,3 +264,40 @@ Task 5
 .. important::
   Do not leave before Tasks **1-4** are completed!
   
+.. _T2_A1:
+T2_A1
+"""""
+
+.. important::
+  Create the folder **T2**, in which you safe all results of this tutorial.
+
+  - Use your DNA datasets from exercises :ref:`T1_B1` and :ref:`T1_B2` to generate alignments in BioEdit using the following parameters (see below)
+
+.. image:: /_static/T2_A_1.png
+
+.. attention::
+  Use a period (`.`), not a comma (`,`) when typing the penalty values!
+
+.. important::
+  Save the alignments as `.fas` file to the folder **T2_A1** with the name `Gen_T2A1a/b/c/d/e/f_aln.fas`.
+
+.. image:: /_static/T2_A_2.png
+
+.. _T2_A2:
+T2_A2
+"""""
+
+.. important::
+  - Download the `worksheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and complete the tasks described therein. Compare your results with your neighbour.
+  - Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
+
+.. _T2_B:
+T2_B
+""""
+
+.. important::
+  - Read section :ref:`Sequence_Editing`
+  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_
+  - Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_ 
+
+
