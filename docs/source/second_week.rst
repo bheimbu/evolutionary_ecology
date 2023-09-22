@@ -64,13 +64,10 @@ Task 2
 - Assemble the matching pair of raw reads
 
 .. attention::
-  Remember to name the consensus sequence correctly:
-
-  - Running sample number (e.g. ``01``, ``02``)
-  - Genus and species name (e.g. ``01_Acrogalumna_longisetosa``)
-  - Gene of interest (e.g. ``01_Acrogalumna_longisetosa_18S``)
-  - Your initials (e.g. ``01_Acrogalumna_longisetosa_18S_IS``)
-  - Do not forget to use underscores ``_`` to separate words
+  Remember to name consensus sequences correctly, in the following format:
+  
+  [sample number]_[genus]_[species]_[gene]_[initials]
+  for example ``01_Acrogalumna_longisetosa_18S_IS``
 
 - Check the consensus sequence and correct ambiguous positions
 - Export the consensus sequences
