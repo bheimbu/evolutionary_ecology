@@ -512,3 +512,65 @@ Statistical node support (bootstraps and posterior probabilities) are displayed 
 In FigTree the relevant results of the phylogenetic analyses can be highlighted or summarized by colouring clades, branches and tiplabels. In PowerPoint you can add annotations, such as boxes, arrows and other graphical tools.
 
 .. image:: /_static/figtree_2.png
+
+.. _Maximum_Likelihood:
+Maximum Likelihood
+------------------
+
+- Stochastic approach to estimate parameters
+ - Convergence to the „true“ parameters with increasing amount of data 
+ - Minimal variation around the „true value“
+- Calculates a likelihood for each character (any position in an alignment) and requires a lot of computing time
+- Final tree is calculated from the sum of all likelihoods, the topology with the best (highest) likelihood value is selected
+    Model of sequence evolution obligatory
+
+**ML in RAxML (Randomized Accelerated Maximum Likelihood, Stamatakis 2006)**
+
+The ML algorithm in older software (such as PAUP*) is very thorough but even moderately sized datasets (e.g. 40 taxa à 2,000 bp) require days to weeks of computing time. For very large datasets with dozens of genes and hundreds of taxa, a less time-intensive method is necessary. In recent years with advances in high-end computer hardware, new algorithms have been written to improve and accelerate the ML-algorithms used in PAUP*. Meanwhile, several programs exist that calculate Maximum Likelihoods faster than PAUP*. The results of ML analyses can differ between programs even if the same data set and parameters are used. If several programs yield the same results this is further support for the „true“ topology.
+
+RAxML is one of these „fast“ ML-algorithms written for the analysis of large data sets with hundreds of taxa and several genes per taxa. Alignments with 1,900 taxa and 1,200 bp are considered small for RAxML. The high speed for ML analyses is based on the assumption that a topological search (the number of analyzed topologies) is more important for the construction of a „good“ ML tree than the calculation of exact likelihood scores.
+
+.. image:: /_static/raxml.png
+
+.. note::
+  Before running RAxML
+
+  To avoid error messages, the alignment should be checked for formatting errors:
+  
+  1. Format
+  - Alignment must be in phylip-format
+  2. Identical sequence-names
+  - Alignment must not contain identical sequence-names, this happens when sequence -names are truncated during format conversions
+  3. Identical sequences
+  - Occurs when variable regions are removed from the alignment or datasets contain only one species (e.g. data sets for biogeography)
+
+.. attention::
+  Never use special characters such as `:`, `;`, `( )`, `[ ]`.
+
+**Settings in RAxML**
+
+RAxML is not executed via command line or graphical user interface, but with a batch file. The complete command line is written into the batch file before starting the analysis. Here is an example command line for an „easy & fast“ ML analysis with bootstrapping:
+
+.. code:: text
+  RAxML-7.0.3-WIN.exe -f a -o taxaname_1,taxaname_2 -x 12345 -p 12345 -# 500 -m GTRGAMMAI -s name_alignment.phy -n suffix_of_output_file (e.g. Run01)
+
+**Start RAxML**
+
+The executable file ( `RAxML-7.0.3-WIN.exe` ), the batch file ( `name.batch` ) and the `.phylip` file have to be in the same folder. To start the program click on the `batch` file.
+
+**RAxML results**
+
+The „easy & fast“ analysis generates four output files:
+
+- RAxML_info.RUN01
+ - Text file with all likelihood-values + time/bootstrap
+- RAxML_bootstrap.RUN01
+ - Text file with all bootstrap trees
+- RAxML_bestTree.RUN01
+ - Tree with the best likelihood-value without bootstraps
+- RAxML_bipartitions.RUN01
+ - Tree with the best Likelihood value + bootstraps
+ - Can be open directly in FigTree
+
+.. note::
+  These four files should be copied to a separate folder ( `RAxML_Bsp_18S` or `ef` ) after every analysis to avoid overwriting. To limit the risk of overwriting results, each RAxML analysis can also be started from a separate folder. This folder contains all important files (alignment, analysis specific batch file, results) after the analysis.
