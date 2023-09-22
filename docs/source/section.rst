@@ -202,17 +202,21 @@ BioEdit
 
 .. image:: /_static/bioedit.png
 
-'File'
+**File**
+
 - Open → each file opens in a separate window
+
 - New Alignment
+
 - Import → Sequence Alignment File → all files open in the same window > All Files `*.*` → choose to open ABI sequencing files
+
 - Save As → ``.fas``
 
 
 .. note::
   Most important features on the toolbar:
   
-  - Title: „name“.fas → shows name of current file including directory path
+  - Title: `„name“.fas` → shows name of current file including directory path
   - Mode Select/Slide, Edit, Drag & Drop / Overwrite, Insert
   - Edit → read and write mode, files can be modified and saved
   - Overwrite → not recommended as accidental changes are not traceable
@@ -235,13 +239,64 @@ BioEdit
   **Edit**
 
   - Cut/Copy/Paste/Delete ... → applies only to sequences (right window)
-  - Cut/Copy/Paste/Delete ... Sequences -→ applies to sequences and sequence names (right and left window)
+  - Cut/Copy/Paste/Delete ... Sequences → applies to sequences and sequence names (right and left window)
   - search → search and find for nucleotide motives in marked sequences, e.g.,primer sequences
   - select to End/Beginning → selects marked sequences from curser to end or beginning of the sequence
   
   **Sequence**
 
-  - Nucleic Acid → Reverse / Reverse Complement --> turns and translates complementary marked sequence; helpful when aligning forward- and reverse- strand
+  - Nucleic Acid → Reverse / Reverse Complement → turns and translates complementary marked sequence; helpful when aligning forward- and reverse-strand
   - Toggle Translation → translates marked nucleotide sequence into the respective protein sequence and back
   - Toggle (permanent) → required in order to save translated protein sequence
-  - Gaps, Lock/Unlock Gaps: After toggling between nucleotide and protein sequences,gaps are unlocked (~) and must be locked (-) again before saving the alignment
+  - Gaps, Lock/Unlock Gaps: After toggling between nucleotide and protein sequences,gaps are unlocked (`~`) and must be locked (`-`) again before saving the alignment
+
+.. _Alignment:
+Alignment
+---------
+
+Alignment means that molecular data (sequences) are sorted by homologous positions, and you will learn in the lecture what is meant by homologous positions in molecular data (nucleotide and amino acid sequences) and which methods have been developed to sort molecular datasets efficiently and objectively.
+
+.. note::
+  **At the end of the day you will…**
+
+  - be able to recognize an alignment and to distinguish it from a multifasta file
+  - understand why you always need to double or even triple-check an alignment
+  - know what the Needleman-Wunsch algorithm is and which alignment scores exist
+  - be able to explain 'gap opening' and 'gap extension' penalties and why they are used
+  - recognize and understand the relevance of conserved and variable regions in genetic markers and their use in phylogeny
+  - know what a reading frame is, for which type of markers it is relevant and how you take it into account in your alignment
+  - understand the difficulties when aligning ribosomal DNA/RNA
+  - recognize different file formats and distinguish interleaved from non-interleaved file format
+
+ClustalX 
+^^^^^^^^
+
+- Alignment software with a graphical user interface (GUI)
+- Converts several sequence and alignment formats reliably, but cannot read all formats
+ - FASTA-files work very well
+ - Output file format for aligned sequences with file-extension `.aln`
+
+.. attention::
+  - No spaces and special characters allowed! Names of taxa longer than 30 characters are automatically truncated, potentially resulting in name duplications and program failure
+  - No editing possible! Alignment file (`.aln`) needs to be opened in a sequence editor for corrections
+   - **But**: Clustal algorithm is implemented in several phylogenetic programs, e.g. BioEdit, MEGA and PhyDE
+   - …which enables editing of alignments without changing the program
+   - allows easy switching between nucleotide- and protein sequences
+
+ 
+ClustalW in BioEdit
+^^^^^^^^^^^^^^^^^^^
+
+1. Open a file with more than one sequence in BioEdit
+2. Select: 'Accessory Applications'
+3. Select: 'ClustalW Multiple Alignment'
+4. Select: 'Multiple Alignment Parameters'
+5. Fill in 'gap opening' and 'gap extension' parameters (see info box next page)
+6. Run ClustalW
+
+.. note::
+  - The completed alignment opens in a new window, save it under a new name (e.g., `name_aln.fas` to point out that this file contains an already aligned dataset). You can select several file formats, the most common are `.fas`, `.txt`, and `.phy`
+  - `.log` files of the alignment are saved to the folder BioEdit/temp; changes in the alignment can be traced there.
+  - A `.dnd` file is generated in the same folder, containing a guide-tree, which is required for the alignment (a Neighbor Joining tree in Newick-format). The tree can be opened in `FigTree <http://tree.bio.ed.ac.uk/software/figtree/>`_, however, it is not a phylogenetic tree.
+
+
