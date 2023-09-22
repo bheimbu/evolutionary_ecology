@@ -8,6 +8,7 @@ This week it's all about DNA sequences: How to work with them, where to get them
 All steps for handling sequence data and phylogenetic analyses are explained step by step in online tutorials. Everyday, a tutorial is dedicated to a different method. You must finish the respective tutorial and its exercises in order to be able to continue with the next tutorial on the next day.
 
 However, you start this week with assembling, checking, and exporting your raw sequences (= sequencing results of your PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
+
 - Sanger DNA sequencing
 - sequence evaluation (or 'What's the difference between a bad and good DNA sequence?')
 - ambiguous (wobble) DNA positions and where do they come from
@@ -23,7 +24,7 @@ After you processed your own sequences, you can start with the :ref:`Tutorials`.
   - how to use public gene databases
   - how to edit sequences
   - how to check if your own sequencing results are correct
-  - what  an multiple sequence alignment is
+  - what an multiple sequence alignment is
   - how to distinguish multifasta files from alignment files
   - what a model of sequence evolution is and why they are important for phylogenetic analyses
   - what the difference of Cluster methods and search algorithms is when constructing phylogenetic trees
@@ -54,28 +55,26 @@ Task 1
 Task 2
 """"""
 
-- Download `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_
-- Open the "assignment list”
-- Check out, which raw reads have been assigned to you
-- Import reads to Geneious Prime
-- Remember that each gene belongs to its own folder
-  - Do not import your 28S sequences into your 18S or COI folder, and *vice versa*
-- Find the matching raw reads i.e., the forward and the reverse sequence of the same sample
-- Assemble the matching pair of reads
+.. important::
+  - Download the `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_
+  - Open the "assignment list”
+  - Check out, which raw reads have been assigned to you
+  - Import reads to Geneious Prime
+  - Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*)
+  - Find the matching raw reads i.e., the forward and the reverse sequence of the same sample
+  - Assemble the matching pair of reads
 
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
-  
-  *SampleNumber*_*Genus*_*species*_*Gene*_``.fasta``
 
-  for example: ``01_Acrogalumna_longisetosa_18S_IS``
-
-- Check the consensus sequence and correct ambiguous positions
-- Export the consensus sequences
-- Make sure the sequence name is correct!
-- Keep in mind that a consensus sequence file consists of a single sequence
+  ``01_Acrogalumna_longisetosa_18S_IS``, which is ``$sample_number_$genus_$species_$gene_$initials
 
 .. important::
+  - Check the consensus sequence and correct ambiguous positions
+  - Export the consensus sequences
+  - Make sure the sequence name is correct!
+  - Keep in mind that a consensus sequence file consists of a single sequence
+
   Upload the consensus files `here <https://studip.uni-goettingen.de/dispatch.php/course/files/index/8c1eff148df88fb568fb3c5445992b96?cid=d7b80997f5efda59609a4cf69a04dbf7>`_.
 
 Task 3
