@@ -163,7 +163,7 @@ T1_B
 **T1_B1**
 
 .. important::
-  - Open all sequences from exercise **T1_A2** in a single window in BioEdit ('Import' → 'Sequence alignment file').
+  - Open all sequences from exercise **T1_A2** in a single window in :re:`BioEdit` ('Import' → 'Sequence alignment file').
   - Save the pooled dataset in FASTA-format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
   - Change all sequence names from GenBank to: genus_species_accession number_gene (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
      
