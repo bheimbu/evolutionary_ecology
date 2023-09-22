@@ -407,7 +407,7 @@ T3_A1-A5
 """"""""
 
 .. important::
-  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/oaj5fvBideC7avu`_ and answer the questions (**T3_A2-A5**) therein.
+  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d`_ and answer the questions (**T3_A2-A5**) therein.
 
 
 .. _T3_B:
@@ -529,3 +529,76 @@ T3_C5
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. tip::
+  Relax a bit...
+
+.. _Thursday_Second_Week:
+Thursday
+---------
+
+Summary
+^^^^^^^
+
+Today, it's all about search algorithms. You will learn the basics of the two most common methods for calculating phylogenetic trees – Maximum Likelihood in the morning and Bayesian Inference in the afternoon.
+
+Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different directions. You will hear more about this in the lectures that are accompanied with the two sections.
+
+Today, we are using programs that can only be controlled via the command line and do not have a GUI.
+
+- Maximum Likelihood analysis
+ - Generate a batch file from which the analysis starts.
+ - Download `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12`_
+
+- MrBayes
+ - Batch file optional, but you can also enter your commands manually
+ - Download `here <https://nbisweden.github.io/MrBayes/download.html`_
+
+While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or model of sequence evolution.
+
+.. note::
+  **At the end of the day you will…**
+
+  - know the difference between Cluster and Search algorithms
+  - know why search algorithms take so much longer for analysing genetic data than Cluster algorithms
+  - know that ML uses likelihoods, and MrBayes uses posterior probabilities to calculate internal nodes and topologies of trees.
+  - know what an MCMC-robot is and for which type of analysis it is mandatory
+  - be able to interpret the different statistics MrBayes provides
+  - understand the meaning of prior and posterior analyses.
+  - understand the difference between bootstraps and posterior probabilites and why they are not directly comparable.
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+Task 1
+""""""
+
+.. important::
+  - Read section :ref:`Maximum_Likelihood`
+  - Complete exercises :ref:`T4_A1` and :ref:`T4-A2`
+
+Task 2
+""""""
+
+.. important::
+  Complete exercises :ref:`T4_B1`, :ref:`T4-B2`, :ref:`T4_B3`, and :ref:`T4-B4`
+
+Task 3
+""""""
+
+.. important::
+  - If you feel stuck when answering the questions of tutorial T4, ask and discuss your thoughts with the group and tutors.
+  - **Tasks 1** and **2** should be finished by 15:00, so that we can discuss all results of today in presence
+
+Task 4
+""""""
+
+.. important::
+  If you have some spare time because your analyses runs/worked smoothly and you answered all questions satisfactorily, you may start with reading the first sections of :ref:`Friday__Second_Week`
+
+Task 5
+""""""
+
+.. attention::
+  Do not leave before **Tasks 1-4** are completed and discussed!
+
