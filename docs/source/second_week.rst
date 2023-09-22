@@ -224,7 +224,42 @@ The different properties of coding and non-coding sequences will not be explaine
   Start a discussion in the Forum and/or write a Wiki-entry, explaining these issues to everyone.
 
 
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+Task 1
+""""""
+
+.. important::
+      Read the section about 'Alignment'.
 
 
+Task 2
+""""""
+
+.. important::
+  - Complete exercise :ref:`T2_A`
+  - Work with your toy datasets (18S and EF) from yesterday, do alignments with different penalty values.
+  - Eventually, you must decide which of the alignments of 18S and EF is best.
+  - The best alignments will be used in downstream analyzes over the next few days.
 
 
+Task 3
+""""""
+
+.. important::
+  - Complete exercise :ref:`T2_B`
+  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_ that includes four example datasets without file-format assignments (no file extensions, like `.fasta` or `.txt`) and answer the questions under :ref:`T2_B`.
+
+Task 4
+""""""
+
+.. important::
+  - Complete exercise :ref:`T2_C`
+
+Task 5
+""""""
+
+.. important::
+  Do not leave before Tasks **1-4** are completed!
+  
