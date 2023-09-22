@@ -538,25 +538,31 @@ RAxML is one of these „fast“ ML-algorithms written for the analysis of large
   To avoid error messages, the alignment should be checked for formatting errors:
   
   1. Format
+
   - Alignment must be in phylip-format
+
   2. Identical sequence-names
+  
   - Alignment must not contain identical sequence-names, this happens when sequence -names are truncated during format conversions
+  
   3. Identical sequences
+  
   - Occurs when variable regions are removed from the alignment or datasets contain only one species (e.g. data sets for biogeography)
 
 .. attention::
-  Never use special characters such as `:`, `;`, `( )`, `[ ]`.
+  Never use special characters such as ``:``, ``;``, ``( )``, ``[ ]``.
 
 **Settings in RAxML**
 
 RAxML is not executed via command line or graphical user interface, but with a batch file. The complete command line is written into the batch file before starting the analysis. Here is an example command line for an „easy & fast“ ML analysis with bootstrapping:
 
-.. code:: text
+.. code::
+
   RAxML-7.0.3-WIN.exe -f a -o taxaname_1,taxaname_2 -x 12345 -p 12345 -# 500 -m GTRGAMMAI -s name_alignment.phy -n suffix_of_output_file (e.g. Run01)
 
 **Start RAxML**
 
-The executable file ( `RAxML-7.0.3-WIN.exe` ), the batch file ( `name.batch` ) and the `.phylip` file have to be in the same folder. To start the program click on the `batch` file.
+The executable file (``RAxML-7.0.3-WIN.exe``), the batch file (``name.batch``) and the ``.phylip`` file have to be in the same folder. To start the program click on the ``batch`` file.
 
 **RAxML results**
 
@@ -573,4 +579,4 @@ The „easy & fast“ analysis generates four output files:
  - Can be open directly in FigTree
 
 .. note::
-  These four files should be copied to a separate folder ( `RAxML_Bsp_18S` or `ef` ) after every analysis to avoid overwriting. To limit the risk of overwriting results, each RAxML analysis can also be started from a separate folder. This folder contains all important files (alignment, analysis specific batch file, results) after the analysis.
+  These four files should be copied to a separate folder (``RAxML_Bsp_18S`` or ``ef``) after every analysis to avoid overwriting. To limit the risk of overwriting results, each RAxML analysis can also be started from a separate folder. This folder contains all important files (alignment, analysis specific batch file, results) after the analysis.
