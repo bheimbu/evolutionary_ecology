@@ -310,7 +310,7 @@ Sequence Editing
 
 **Sequence files**
 
-Example fasta (`.fas`) file
+Example fasta file ( `.fas` )
 
 .. code:: text
 
@@ -318,3 +318,37 @@ Example fasta (`.fas`) file
   GGATCTTCACTG.....
   >Atropacarus_sp_COI
   GGAACTTCGTTA......
+
+Example txt file ( `.txt` )
+
+.. code:: text
+
+  Archegozetes_longisetosus_COI   GGATCTTCACTG....
+  Atropacarus_sp_COI   GGAACTTCGTTA.....
+
+**Alignment files**
+
+Example phylip file ( `.phy` )
+
+.. code:: text
+
+  2 565
+  Archegozet   GGATCTTCACT....
+  Atropacaru   GGAACTTCGTTA...
+
+
+Example nexus file ( `.nex` )
+
+.. code:: text
+
+  #NEXUS
+  BEGIN DATA;
+  dimensions ntax=4 nchar=565; format missing=?
+  interleave=no datatype=DNA gap= -;
+
+  matrix
+  Archegozetes_longisetosus_COI GGATCTTCACTGAGAGCTCTAATCCGTCTCGAATTAGGACAACCAGG...
+  Hermannia_gibba_COI GGGTCCTCCTTAAGAGGTTTAATTCGACTGGAGTTAGGCCAGCCTGG...
+  Tectocepheus_velatus_COI GGATCTTCTCTGAGAGGATTGATTCGTTTAGAATTGGGACAGCCAGG...
+  Atropacarus_sp_COI GGAACTTCGTTAAGGTCTATGATTCGATTTGGGGGGGTTAGGTTCGA...
+
