@@ -409,3 +409,59 @@ Save results of AIC and BIC calculations:
 - 'Results' > 'Build HTML log' 
 
 .. image:: /_static/jmodeltest_4.png
+
+.. _How_to_Infer_Phylogenetic_Trees:
+How to Infer Phylogenetic Trees
+-------------------------------
+
+.. note::
+  Phylogenetic analyses always start with a search for the best tree followed by an a posteriori analysis that statistically checks the probabilities for the tree topology. First, you should get a feeling for properties and logic constraints of phylogenetic trees. For this, you will find here some exercises in which you need to draw trees by hand. For displaying complex trees, use the open source software FigTree. You will find more information about working with FigTree in the next section :ref:`How_To_Draw_Phylogenetic_Trees.
+
+**Neighbor Joining (NJ)**
+
+Neighbor Joining is one of the earliest methods to infer phylogenetic trees using molecular data. The method is fast and economic on computing time, which makes it attractive for large data sets and for a first analysis to get a „feeling“ for new data sets (Do I need more Taxa? Which taxa might be useful? Is the selected outgroup appropriate?), before the longer but more accurate methods Maximum Likelihood (ML) or Bayesian Inference (BI) are used. A disadvantage of this method is that the sequence data cannot be reconstructed from the phylogenetic tree and NJ will not always find the „best“ or the „correct“ tree. The order of taxa in the alignment can also affect the tree topology.
+
+NJ in Seaview (Gouy et al. 2010)
+
+Download the program `SeaView <https://doua.prabi.fr/software/seaview>`_ to your PC. Load your alignment file:
+
+- 'File' > 'Open'
+ - Select all taxa (STRG + A)
+- 'Trees' > 'Distance methods'
+ - Starts NJ analysis
+
+.. image:: /_static/seaview_1.png
+
+A window opens in which you can choose different parameters for the NJ analysis.
+
+- 'NJ'
+- 'BioNJ'
+ - an improved version of NJ that is more reliable if taxa differ strongly in substitution rate
+-​'Save to file' 
+ - does not compute a tree but saves the distance matrix to a file
+-'Distance' (implemented models of sequence evolution that correct genetic distances according to specific model parameters)
+ - Observed (actual distance = uncorrected distances = pairwise-distances = p-distances)
+ - J-C (Jukes-Cantor) - 1 parameter model: equal base frequencies, equal transition/transversion rates
+ - K2P (Kimura 2 parameter) - 2 parameter model: equal base frequencies, unequal ti/tv rates
+ - HKY (Hasegawa, Kishino, Yano) - 5 parameter model: unequal base frequencies, unequal ti/tv rates
+- 'Ignore all gap sites'
+ - on: all gap-containing sites are excluded from analysis
+ - off: not all sequence pairs use the same set of sites for computation of distances
+- 'Bootstrap'
+ - Performs bootstrap evaluation of clade statistical support
+ - Type in number of replicates (min. 100; the more the better; 500 and 1000 are common numbers of replicates, depending on the size of the dataset i.e., number of taxa and positions)
+- 'Go'
+ - Run Analysis
+
+.. image:: /_static/seaview_2.png
+
+After the NJ analysis finsihes, the resulting tree opens in a new window. Here you can (among other options):
+
+- Display bootstrap values
+- Root your tree (Re-root to set the outgroup; click on relevant square that appears)
+
+To save your tree in Newick format:
+
+- 'File' > 'Save' (rooted/unrooted) tree
+ - Select where you want the tree to be saved, add the file ending .tre (or .tree) so that you will recognize your tree file in your folder
+ - Save the tree with bootstrap values (tick the box before saving)
