@@ -49,7 +49,7 @@ Tasks of the Day
 Task 1
 """"""
 .. important::
-  1. Read the section :ref:`Geneious_Prime`
+  1. Read section :ref:`Geneious_Prime`
   2. Download and install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_
 
 Task 2
@@ -67,7 +67,7 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
 
-  ``01_Acrogalumna_longisetosa_18S_IS``, which is ``$sample_number_$genus_$species_$gene_$initials
+  ``01_Acrogalumna_longisetosa_18S_IS``, which is ``$SAMPLE-NUMBER_$GENUS_$SPECIES_$GENE_$INITIALS``
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
