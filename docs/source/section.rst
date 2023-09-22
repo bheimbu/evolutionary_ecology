@@ -465,3 +465,34 @@ To save your tree in Newick format:
 - 'File' > 'Save' (rooted/unrooted) tree
  - Select where you want the tree to be saved, add the file ending .tre (or .tree) so that you will recognize your tree file in your folder
  - Save the tree with bootstrap values (tick the box before saving)
+
+.. _How_To_Draw_Phylogenetic_Trees:
+How To Draw Phylogenetic Trees
+-------------------------------
+
+**FigTree (Andrew Rambaut)**
+
+This is a versatile program for the graphical visualization of phylogenetic trees. It is recommended to save the opened tree (e.g. the `.tre` file) directly under a new name to avoid to accidentally overwrite the original tree file.
+
+.. image:: /_static/figtree_1.png
+
+Open a tree file:
+
+- 'File'
+- 'Open'
+- Select file containing the trees (e.g. .tre)
+
+.. note::
+  Always display the tree with increasing node order (STRG + U; as shown above) and save the tree with a new name ('File' → 'Save As').
+
+In FigTree you can make the tree pretty and easily comprehensible by making lines thicker, increase Font size and add colours to branches, clades or taxa (as shown above). For this you use the toolbar on the left side and the toolbar on top. You first assign if you wish to make annotations or highlights either to a Node or a Clade or a Taxa. Just play around. The pretty tree can then be exported as a gaphic file and uploaded in PowerPoint or any other presentation tool.
+
+.. attention::
+  All trees in this course should be displayed uniformly. Nodes should spread from the lower left to the upper right side (under 'Trees' -> 'Increasing Node Order'; or STR + U).
+  The `.tre` files must be exported (File/Export ...) as JPEG to import them in PowerPoint or any other presentation tool.
+
+Statistical node support (bootstraps and posterior probabilities) are displayed by selecting the tool 'Node Labels' or 'Branch Label'. These are given as decimals for posterior probabilities (BI) and as percentages for bootstraps (NJ, ML).
+
+In FigTree the relevant results of the phylogenetic analyses can be highlighted or summarized by colouring clades, branches and tiplabels. In PowerPoint you can add annotations, such as boxes, arrows and other graphical tools.
+
+.. image:: /_static/figtree_2.png
