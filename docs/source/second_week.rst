@@ -67,7 +67,9 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format:
 
-  ``01_Acrogalumna_longisetosa_18S_IS``, which is ``$SAMPLE-NUMBER_$GENUS_$SPECIES_$GENE_$INITIALS``
+  ``01_Acrogalumna_longisetosa_18S_IS``
+
+  ``$SAMPLE-NUMBER_$GENUS_$SPECIES_$GENE_$INITIALS``
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
@@ -141,7 +143,8 @@ T1_A4
 """""
 
 .. important::
-  - Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file.
+  - Download the 18S gene for all taxa from :ref:`T1_A2` from GenBank.
+  - Use the Clipboard option to save all sequences in a single file.
   - Save the file as ``T1_A4_Oribatida_18S.fas``.
   - Remember to create a new subfolder named **T1_A4** in the folder **T1**.
 
