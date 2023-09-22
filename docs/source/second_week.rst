@@ -407,7 +407,7 @@ T3_A1-A5
 """"""""
 
 .. important::
-  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d`_ and answer the questions (**T3_A2-A5**) therein.
+  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions (**T3_A2-A5**) therein.
 
 
 .. _T3_B:
@@ -548,11 +548,11 @@ Today, we are using programs that can only be controlled via the command line an
 
 - Maximum Likelihood analysis
  - Generate a batch file from which the analysis starts.
- - Download `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12`_
+ - Download `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_
 
 - MrBayes
  - Batch file optional, but you can also enter your commands manually
- - Download `here <https://nbisweden.github.io/MrBayes/download.html`_
+ - Download `here <https://nbisweden.github.io/MrBayes/download.html>`_
 
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or model of sequence evolution.
 
