@@ -112,13 +112,17 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 .. attention::
   Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
-**T1_A1**
+.. _T1_A1:
+T1_A1
+"""""
 
 .. important::
   - Open GenBank and select the 'Nucleotide' database in your web browser of choice.
   - Bookmark the page.
 
-**T1_A2**
+.. _T1_A2:
+T1_A2
+"""""
 
 .. important::
   - Download sequences from NCBI with following accession numbers (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_) as separate sequence files in FASTA format.
@@ -126,7 +130,9 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
   - Read the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
   - Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
-**T1_A3**
+.. _T1_A3:
+T1_A3
+"""""
 
 .. important::
   - Draw a phylogenetic tree of the six major groups of Oribatida.
@@ -134,9 +140,9 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 
   Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
 
-
-
-**T1_A4**
+.. _T1_A4:
+T1_A4
+"""""
 
 .. important::
   - Download the 18S gene for all taxa from A2 from GenBank. Use the Clipboard option to save all sequences in a single file.
@@ -149,7 +155,9 @@ Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive
 .. tip::
   A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
 
-**T1_A5**
+.. _T1_A5:
+T1_A5
+"""""
 
 .. important::
   - What do you consider the key benefits of an online database?
@@ -161,7 +169,8 @@ T1_B
 """"
 
 .. _T1_B1:
-**T1_B1**
+T1_B1
+"""""
 
 .. important::
   - Open all sequences from exercise **T1_A2** in a single window in :re:`Bioedit` ('Import' → 'Sequence alignment file').
@@ -172,7 +181,8 @@ T1_B
   Never use special characters and spaces to separate words, always use underscores ``_``.
 
 .. _T1_B2:
-**T1_B2**
+T1_B2
+"""""
 
 .. important::
   - Open the file ``T1A4_Oribatida_18S.fas`` from **T1_A4** with your local text editor of choice (e.g. Notepad++, Editor).
