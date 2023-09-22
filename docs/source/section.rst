@@ -310,8 +310,10 @@ Sequence Editing
 
 **Sequence files**
 
-Example fasta file
+Example fasta (`.fas`) file
+
 .. code:: text
+
   >Archegozetes_longisetosus_COI
   GGATCTTCACTG.....
   >Atropacarus_sp_COI
