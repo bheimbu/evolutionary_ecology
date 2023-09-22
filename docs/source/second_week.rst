@@ -206,7 +206,7 @@ To provide feedback, please complete our questionnaire: [Questionnaire Link](htt
 
 .. _Tuesday_Second_Week:
 Tuesday
-------
+-------
 
 Summary
 ^^^^^^^
@@ -242,7 +242,7 @@ Task 1
 """"""
 
 .. important::
-      Read the section about 'Alignment'.
+      Read the section about :ref:`Alignment`.
 
 
 Task 2
@@ -310,8 +310,84 @@ T2_B
 """"
 
 .. important::
-  - Read section :ref:`Sequence_Editing`
-  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_
-  - Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_ 
+  - Read section :ref:`Sequence_Editing`.
+  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_.
+  - Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
+
+.. _T2_C:
+T2_C
+"""""
+
+.. important::
+  1. Download the `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
+  2. Complete the exercises.
+  3. Upload the completed worksheet `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
+
+Feedback Tuesday
+^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. _Wednesday_Second_Week:
+Wednesday
+---------
+
+Summary
+^^^^^^^
+
+Today, we have three learning modules:
+
+1. Models of Sequence Evolution (Lecture)
+2. How to infer Phylogenetic Trees (Lecture)
+  - Using Neighbor Joining
+3. How to Draw Phylogenetic Trees
+   - Introduction to FigTree (tree editing software)
+   - Exercises on basic properties and attributes of phylogenetic trees
+
+.. note::
+
+  **At the end of the day, you will…**
+
+  - know how phylogenetics account for evolutionary changes in your DNA sequences i.e., changes that happened in the past and are invisible to your eye.
+  - understand the meaning of cluster algorithms and their limits as well as their advantages over search algorithms.
+  - have inferred four phylogenetic trees with your toy dataset
+  - experience how a cluster algorithm performs by calculating and drawing a UPGMA tree by hand.
+  - have drawn phylogenetic trees by hand
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+Task 1
+""""""
+
+.. important::
+  - Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC
+  - Read the section on 'Models of Sequence Evolution'
+  - Complete exercises under :ref:`T3_A`
+
+
+Task 2
+""""""
+
+.. important::
+  - Download and install `SeaView <https://doua.prabi.fr/software/seaview>`_ on your PC
+  - Read section :ref:`How_to_Infer_Phylogenetic_Trees`
+  - Complete exercises under :ref:`T3_B`
+  - Read section :ref:`How_to_Draw_Phylogenetic_Trees` for exercise :ref:`T3_B3`
+
+Task 3
+""""""
+
+ .. important::
+   - Read section :ref:`'More_on_Trees`
+   - Complete exercises under :ref:`T3_C` by hand using pen and paper
+
+
+Task 4
+""""""
+
+.. attention::
+  Do not leave before Tasks **1-3** are completed!
+
+
 
 
