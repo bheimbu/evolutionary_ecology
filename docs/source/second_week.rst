@@ -387,6 +387,135 @@ Task 4
 .. attention::
   Do not leave before Tasks **1-3** are completed!
 
+.. _Tutorials_3:
+Tutorials
+^^^^^^^^^
+
+Make a new folder named **T3** to save all results of these exercises.; within this folder, create the subfolder **T3_A**.
 
 
+.. _T3_A1:
+T3_A1
+"""""
 
+.. important::
+  - Use jModelTest to calculate the best fitting model of sequence evolution for both elongation factor and 18S alignments from exercise :ref:`T2_A2`.
+  - Safe the results i.e., the html log file, in the folder **T3_A**.
+
+.. _T3_A2-A5:
+T3_A1-A5
+""""""""
+
+.. important::
+  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/oaj5fvBideC7avu`_ and answer the questions (**T3_A2-A5**) therein.
+
+
+.. _T3_B:
+T3_B
+"""""
+
+For the following NJ exercises create two folders named **T3_EF** and **T3_18S**. Copy your alignment files in the respective subfolders.
+
+.. _T3_B1:
+T3_B1
+"""""
+
+.. important::
+  - For both alignments from :ref:`T2_A2` calculate a NJ tree without a model of sequence evolution (Distances Observed) with 1000 bootstrap replicates.
+  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is without (w-o) a model.
+
+.. _T3_B2:
+T3_B2
+"""""
+
+.. important::
+  - For both alignments from T2_A2 calculate a NJ tree with a model of sequence evolution with 1000 bootstrap replicates.
+  - Use the most complex model available (Distance HKY).
+  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is with (w) a model.
+
+.. _T3_B3:
+T3_B3
+"""""
+
+.. important::
+  - Present the trees from :ref:`T3_B1` and :ref:`T3_B2` as phylograms in PowerPoint.
+  - Show the NJ trees of EF with and without model on one page, of 18S on another page.
+  - To do this, open the four trees from :ref:`T3_B1` and :ref:`T3_B2` in FigTree, display the tree with increasing node order (STRG + U) and export the tree as JPEG. 
+
+   - What is the effect of the model of sequence evolution on:
+    - Tree topology?
+    - Node support?
+
+  - What are the main differences between EF and 18S in tree topology and node support?
+  - Which phylogenetic tree is most satisfying in terms of topology and support?
+
+.. _T3_C:
+T3_C
+"""""
+
+Do all the following exercises (**T3_C1-C5**) on paper. Hand in the paper with your name on it to the tutors. We will discuss them tomorrow.
+
+.. _T3_C1:
+T3_C1
+"""""
+
+.. important::
+  - Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
+  - In one tree use arrows to show where the tree can be rooted.
+  - How many topologies are possible for a rooted the tree with four taxa (A, B, C, D)?
+   - Draw all possible trees. Attention: some topologies might be redundant.
+
+.. _T3_C2:
+T3_C2
+"""""
+
+.. important::
+  - Draw the following tree: ((((A,(B,(C,D))),E),(F,G)),H), check your topology with FigTree.
+
+.. _T3_C3:
+T3_C3
+"""""
+
+.. important::
+  - Why are trees with four taxa interesting for mathematicians, compared to trees with two or three taxa?
+
+.. _T3_C4:
+T3_C4
+"""""
+
+.. important::
+  - Phylogeography studies the genetic structure of species within or between geographic regions.
+  - If populations are geographically distant, gene flow usually is reduced and both populations accumulate mutations independently.
+  - This increases genetic distance between taxa.
+  - If gene flow perpetuates between geographically distant populations or if they have a common ancestor from which they recently separated, their genetic distances are comparatively low.
+
+  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite Steganacarus magnus (SM) from Germany (D) and France (F). To understand relationships between the two populations the student sequenced the COI gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (see distance matrix below).
+
+  With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
+
+   - Hand in the tree (on paper with your name) with all distance calculations and intermediate distance matrixes.
+   - Interpret the tree in a phylogeographic context. Are both populations genetically separated or are there any indications for gene flow or dispersal?
+  +-------+-------+-------+-------+-------+-------+-------+
+  |       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
+  +=======+=======+=======+=======+=======+=======+=======+
+  | SM_D1 |   -   |       |       |       |       |       |       |
+  +-------+-------+-------+-------+-------+-------+-------+
+  | SM_D2 |   5   |   -   |       |       |       |       |       |
+  +-------+-------+-------+-------+-------+-------+-------+
+  | SM_D3 |   6   |   1   |   -   |       |       |       |       |
+  +-------+-------+-------+-------+-------+-------+-------+
+  | SM_D4 |  42   |  39   |  40   |   -   |       |       |       |
+  +-------+-------+-------+-------+-------+-------+-------+
+  | _SM_F1|   5   |   2   |   3   |  39   |   -   |       |       |
+  +-------+-------+-------+-------+-------+-------+-------+
+  | SM_F2 |  67   |  68   |  71   |  70   |  68   |   -   |       |
+  +-------+-------+-------+-------+-------+-------+-------+
+  | SM_F3 |  72   |  73   |  74   |  72   |  73   |   6   |   -   |
+  +-------+-------+-------+-------+-------+-------+-------+
+
+.. _T3_C5:
+T3_C5
+"""""
+
+.. important::
+  What is the difference between a cladogram, a phylogram, and a chronogram?
