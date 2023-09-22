@@ -193,7 +193,6 @@ Sequences can be visualized and downloaded in different formats by selecting „
   
     EF091418:EF091227[accn]
 
-
 .. _Bioedit:
 BioEdit
 -------
