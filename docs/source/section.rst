@@ -192,3 +192,57 @@ Sequences can be visualized and downloaded in different formats by selecting „
   .. code-block::
   
     EF091418:EF091227[accn]
+
+
+.. _Bioedit:
+Bioedit
+-------
+
+- Comfortable and easy editing of sequences and alignments
+- Accepts most common file formats, most important formats for us are: ``.fas``, ``.aln``, ``.nex``, ``.txt``
+
+.. image:: /_static/bioedit.png
+
+'File'
+- Open → each file opens in a separate window
+- New Alignment
+- Import → Sequence Alignment File → all files open in the same window > All Files `*.*` → choose to open ABI sequencing files
+- Save As → ``.fas``
+
+
+.. note::
+  Most important features on the toolbar:
+  
+  - Title: „name“.fas → shows name of current file including directory path
+  - Mode Select/Slide, Edit, Drag & Drop / Overwrite, Insert
+  - Edit → read and write mode, files can be modified and saved
+  - Overwrite → not recommended as accidental changes are not traceable
+  - Insert → insert nucleotides or gaps
+  - Selection: Position: → how many sequences are marked, name of sequence and nucleotide position
+  - View → Back-colored view - options to colour-code nucleotides and invariable alignment positions (just try) 
+     
+.. tip::
+
+  **Left window (text)**
+  
+  - sequence name → double click: opens a window with information and editing options
+  - change sequence name → Apply / Apply and Close right window
+
+  **Right window (sequence)**
+
+  - click on sequence → overwrite / insert / copy / paste gaps or characters 
+     
+.. note::
+  **Edit**
+
+  - Cut/Copy/Paste/Delete ... → applies only to sequences (right window)
+  - Cut/Copy/Paste/Delete ... Sequences -→ applies to sequences and sequence names (right and left window)
+  - search → search and find for nucleotide motives in marked sequences, e.g.,primer sequences
+  - select to End/Beginning → selects marked sequences from curser to end or beginning of the sequence
+  
+  **Sequence**
+
+  - Nucleic Acid → Reverse / Reverse Complement --> turns and translates complementary marked sequence; helpful when aligning forward- and reverse- strand
+  - Toggle Translation → translates marked nucleotide sequence into the respective protein sequence and back
+  - Toggle (permanent) → required in order to save translated protein sequence
+  - Gaps, Lock/Unlock Gaps: After toggling between nucleotide and protein sequences,gaps are unlocked (~) and must be locked (-) again before saving the alignment
