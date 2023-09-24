@@ -1,15 +1,17 @@
 Introduction
 ============
 
-Hello and welcome again to M.Biodiv411 Evolutionary Ecology. This Master's course will you introduce into the amazing world of little creatures called oribatid mites. In the next three weeks, you will learn a lot about them and how to work with them in the lab. But first things first, who are the people behind this course...
+Hello and welcome again to M.Biodiv411 Evolutionary Ecology. This Master's course will you introduce into the amazing world of little creatures called oribatid mites. In the next three weeks, you will learn a lot about them and how to work with them in the lab.
+
+But first things first, who are the people behind this course actually...
 
 First, there is Ina and I am your tutor in this course. I am working as a postdoc in the department of Animal Ecology and have been working with molecular data of soil organisms for many years, focusing on the evolution of small soil arthropods. This is an exciting field, because many evolutionary concepts developed from well studied above ground systems have been transfered to the soil, presuming that it works the same below the ground. But this is not necessarily true. Soil differs from the above ground system in some important respects and I hope you will figure out some of these differences yourself during this course. However, the basic concepts of evolution are universal, but if basic conditions vary, evolution can take idiosyncratic courses. The world we see today is a result of chances and constraints.
 Therefore I find it important that you understand your modelsystem (habitat, organism) to find reasonable research questions and to be able to interpret your research data.
 
-Second, there is
+Second, there is Bastian...
 
 
-If you want to know more about the other guys running around here, check out ....
+If you want to know more about the other guys helping us in the three weeks, check out `here <https://www.uni-goettingen.de/de/mitarbeiter/107729.html>`_.
 
 
 Course Structure
