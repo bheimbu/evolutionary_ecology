@@ -172,4 +172,19 @@ Feedback Thursday
 ^^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
+.. _Friday_Third_Week:
+Friday
+-------
 
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+.. note::
+
+  🎉 Today you will present your mini research project, followed by a brief discussion. 🎉
+
+  At the end of the course we will hold a small feedback session. Afterwards: Have a good time and enjoy your studies!
+
+Feedback Friday
+^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
