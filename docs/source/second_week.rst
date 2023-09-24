@@ -629,5 +629,64 @@ T4_A2
 
 .. image:: /_static/haplotypes.png
 
+.. _T4_B1:
+T4_B1
+"""""
+
+.. important::
+
+  - Start a MrBayes analysis for both datasets (**18S** and **EF**).
+  - Use a ``batch`` file for each analysis.
+  - Define the outgroup and set the parameters for the best fitting model of sequence evolution.
+  - Run the analyses for `1 million` generations and sample every `100th` generation.
+
+  - Write down how long the analysis took (minutes + seconds).
+  - Which parameter-settings deviate from the default settings?
+  - What is the average standard deviation of your analyses?
+  - Write down the details of the credible set of trees.
+  - What is the meaning of the number of trees that are included in the credible sets (search online for more information).
+
+.. _T4_B2:
+T4_B2
+"""""
+
+.. note::
+
+  - The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape.
+  - However, as priors are usually unknown you can use flat priors.
+
+.. important:: 
+
+  - What are flat priors and how do they look like?
+  - Are they realistic?
+  - How do they affect likelihoods during the search among trees?
+  - How do they affect the efficiency of the search?
+  - What is the meaning of „burnin“?
+
+.. _T4_B3:
+T4_B3
+"""""
+
+.. important::
+
+  - Explain briefly, in your own words why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo
+
+.. _T4_B4:
+T4_B4
+"""""
+
+.. important::
+
+  - Import all trees you made into PowerPoint.
+  - Separate the trees according to gene, ML and BI analyses, respectively.
+  - Save them on a DIN A4 page.
+  - Label the nodes with corresponding bootstrap values and posterior probabilities.
+  - What are the main differences between the ML- and MrBayes trees?
+
+Feedback Thursday
+^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+
 
 
