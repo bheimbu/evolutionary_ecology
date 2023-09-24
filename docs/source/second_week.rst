@@ -69,11 +69,11 @@ Task 2
 
   01_Acrogalumna_longisetosa_18S_IS
 
-  `Sample Number`_
-   `Genus`_
-    `Species`_
-     `Gene`_
-      `Sample Number`
+  *Sample Number*
+   _*Genus*
+    _*Species*
+     _*Gene*
+      _*Sample Number*
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
