@@ -24,7 +24,7 @@ In the :ref:`first-week` you will learn about the soil systems and deal with som
 
 During the :ref:`second-week`, you will learn the most important tools to analyse molecular data and you will get an introduction into the basics of molecular phyogenetics. Phylogenetics can be a very helpful tool to structure your data and to investigate open research questions.
 
-The :ref:`third-week` is dedicated to you and your own :ref:`Mini_research_Project`. In the first two weeks you learned everything to come up with your own research question. You have own data (:ref:`first-week`) and you know how to include data from public databases into your dataset, and you know methods for investigating a scientific hypothesis (:ref:`second-week`). You should work in groups, i.e. small research teams, to delegate and organise your research project efficiently. At the last day of the course you will present your :ref_`Mini_reserach_Project`.
+The :ref:`third-week` is dedicated to you and your own :ref:`Mini_research_Project`. In the first two weeks you will learn everything to come up with your own research question. You will collect your own data (:ref:`first-week`), and learn how to use public databases, as well as methods for investigating a scientific hypothesis (:ref:`second-week`). You will work together in groups -- small research teams --, to delegate and organise your research project efficiently. At the last day of the course, you will present your :ref_`Mini_research_Project`.
 
 Goals
 -----------
