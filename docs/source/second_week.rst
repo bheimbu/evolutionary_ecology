@@ -65,11 +65,14 @@ Task 2
   - Assemble the matching pair of reads
 
 .. attention::
-  Remember to name consensus sequences correctly, in the following format:
+  Remember to name consensus sequences correctly, in the following format: 
 
   ``01_Acrogalumna_longisetosa_18S_IS``
-
-  ``$SAMPLE-NUMBER_$GENUS_$SPECIES_$GENE_$INITIALS``
+    |  |           |           |   |_ Initials
+    |  |           |           |_____ Gene
+    |  |           |_________________ Genus
+    |  |_____________________________ Species
+    |________________________________ Sample Number
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
