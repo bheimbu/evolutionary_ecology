@@ -227,7 +227,7 @@ If you are going to use your own PC on Monday next week, install the `30-days tr
 Task preview for Monday morning, Second Week:
 ---------------------------------------------
 
-On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided `here <https://owncloud.gwdg.de/index.php/s/aQhYNQhwvk4wL2H>`_ and you can find the raw_sequences `here <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_.
+On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided `here <https://owncloud.gwdg.de/index.php/s/aQhYNQhwvk4wL2H>`_ and you can find the raw sequences `here <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_.
 
 .. attention::
  Sequences must to be assembled, checked, and exported as consensus sequence files. Please upload them `here <https://owncloud.gwdg.de/index.php/s/xqVybFN17U8sI7B>`_ by Monday 5:00 pm. Each consensus file you upload must contain a sample ID and your initials.
