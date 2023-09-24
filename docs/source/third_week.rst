@@ -52,7 +52,7 @@ Mini research Project
 
   - Investigate assembly processes of oribatid mite communities from different habitats or the same habitat from different areas (e.g. are communities phylogenetically clustered or overdispersed, is functional and phylogenetic diversity the same among communities?)
 
-These are just general ideas of different research areas you can enter with phylogenetic trees. Each of the three research areas (phylogeny, phylogeography, community phylogenetics) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
+These are just general ideas of different research areas you can investigate using phylogenetic trees. Each of the three research areas (phylogeny, phylogeography, community phylogenetics) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
 
 Discuss in the group the phenomenon you are most interested in. Phylogeny is not a phenomenon, it is a method to investigate a phenomenon. Formulate a clear hypothesis that is testable and refutable. In order to investigate a phenomenon you need to take small steps. A phenomenon is a big and complex feature. A hypothesis is testing parts of a phenomenon. If you have enough pieces together, you can explain the phenomenon. Interesting, not all hypothesis support a phenomenon. This is also a result and helps us to find out why a certain phenomena exists.
 
