@@ -643,7 +643,7 @@ All instructions are given for the console (if not specifically indicated otherw
 
 .. note::
 
-  All files and an R-Script are in the folder T5.zip.
+  All files and an R-Script are in the folder `T5.zip <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
 
 **Before you import your data:**
 
@@ -653,5 +653,45 @@ All instructions are given for the console (if not specifically indicated otherw
   > getwd()
   [1] "C:/Users/Desktop/R/"
 
+.. code:: r
 
+  # Change your working directory to the folder Tutorial 5:
+  > setwd("C:/Users/Desktop/R/tutorial")
+
+**… or in RStudio**
+
+- To change the working directory just for this sesssion
+
+ - 'Session' → 'Set Working Directory' → 'Choose Directory → Browse and select
+
+- To set up a working directory as default
+
+ - 'Tools' → 'Global Options' … → Set default directory (browse and select)
+
+**Some useful commands**
+
+.. code:: r
+
+  # lists files in the current working directory
+  > list.files("C:/Users/Desktop/R/tutorial") # or
+  > list.files( )
+  [1] "alnTest_trimmed.fas"      "datafile18S.csv"        
+  [3] "datafile18S.txt"          "my_alignment_aln.fas"   
+  [5] "my18Sphylogeny.tre"       "my28Sphylogeny.tre"     
+  [7] "Onova_example_COI.fas"    "Onova_example_data.csv" 
+  [9] "sequences.fas"            "test.fas"               
+  [11] "Tutorial5_RScript.R"
+
+  
+  # gives information about a file
+  > file.info("18S_Alle.fasta")
+                  size   isdir          mode     mtime                  ctime   
+  18S_Alle.fasta  27207  FALSE          644      2011-10-13 22:35:48    2016-12-30 22:32:02
+                  atime                 uid      gid       uname    grname
+  18S_Alle.fasta  2017-01-04 11:22:04   501      20        hraefn   staff
+
+  # lists all objects in current environment
+  > ls( )
+  [1]       "countHap"      "countnet"        "dOnova"         "h"       "habitat"
+  [6]       "HTnet"         "ind.hap"          "list"          "net"
 
