@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Hello and welcome again to M.Biodiv411 Evolutionary Ecology. This Master's course will you introduce into the amazing world of little creatures called oribatid mites. In the next three weeks, you will learn a lot about them and how to work with them in the lab.
+Hello and welcome again to M.Biodiv411 Evolutionary Ecology. This Master's course will introduce you into the amazing world of little creatures called oribatid mites. In the next three weeks, you will learn a lot about them and how to work with them in the lab.
 
 But first things first, who are the people behind this course actually...
 
