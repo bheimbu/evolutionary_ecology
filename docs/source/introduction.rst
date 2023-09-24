@@ -27,7 +27,7 @@ During the :ref:`second-week`, you will learn the most important tools to analys
 The :ref:`third-week` is dedicated to you and your own :ref:`Mini_research_Project`. In the first two weeks you will learn everything to come up with your own research question. You will collect your own data (:ref:`first-week`), and learn how to use public databases, as well as methods for investigating a scientific hypothesis (:ref:`second-week`). You will work together in groups -- small research teams --, to delegate and organise your research project efficiently. At the last day of the course, you will present your :ref:_`Mini_research_Project`.
 
 Goals
------------
+-----
 
 This course introduces you to some fundamental basics of...
 
