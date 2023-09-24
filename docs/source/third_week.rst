@@ -122,9 +122,12 @@ Tasks of the Day
   - Continue with your :ref:`Mini_research_Project`.
   - Finish collecting and formatting data today.
   - Start the first analyses if possible.
-  - **At the end of the day,** you should already have a complete alignment and a best-fit model of sequence evolution.
   - Consult the literature.
+  
+.. attention::
 
+  - **At the end of the day,** you should already have a complete alignment and a best-fit model of sequence evolution.
+  
 .. tip::
 
   Ask tutors for help, assistance, advice.
