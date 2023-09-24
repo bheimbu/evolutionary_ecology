@@ -98,7 +98,7 @@ Task 5
   Do not leave before **Tasks 1-4** are completed!
 
 .. _Tutorials:
-Tutorials
+Monday Tutorials
 ^^^^^^^^^
 
 .. _T1_A:
@@ -273,7 +273,7 @@ Task 5
   Do not leave before Tasks **1-4** are completed!
 
 .. _Tutorials_2:
-Tutorials
+Tuesday Tutorials
 ^^^^^^^^^
 
 .. _T2_A1:
@@ -387,7 +387,7 @@ Task 4
   Do not leave before Tasks **1-3** are completed!
 
 .. _Tutorials_3:
-Tutorials
+Wednesday Tutorials
 ^^^^^^^^^
 
 Make a new folder named **T3** to save all results of these exercises.; within this folder, create the subfolder **T3_A**.
@@ -602,8 +602,12 @@ Task 5
   Do not leave before **Tasks 1-4** are completed and discussed!
 
 .. _Tutorials_4:
-Tutorials
+Thursday Tutorials
 ^^^^^^^^^
+
+.. _T4_A:
+T4_A
+"""""
 
 .. important::
   Start a new folder named **T4** and save all results from the following exercises therein. Copy the **18S** and **EF** alignments in a new folder named **Alignments**. Use the program :ref:`Seaview` to convert the alignment from ``.aln`` or ``.fas`` to ``.phy`` (Phylip format).
@@ -684,9 +688,186 @@ T4_B4
   - What are the main differences between the ML- and MrBayes trees?
 
 Feedback Thursday
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
+.. _Friday_Second_Week:
+Friday
+------
+
+Summary
+^^^^^^^
+
+Now you know all the essential steps and methods how to calculate a phylogenetic tree from sequence data. You may have realized that you had to use different file formats for different programs and different programs for different analyses.
+
+You should know that you can also work with sequence data and make phylogenetic trees in R. One big advantage of using R is, that you can do all analyses in one software, without reformatting the input files. 
+
+The other big advantage of R is, that you can do awesome downstream analyses with your phylogenetic tree, like analysing trait evolution when you have trait data for your taxa, or analyse community data. But this is another story.
+
+This day is dedicated to introduce you into the basic commands in R that enable you to calculate a phylogenetic tree. Of course: R walks along the analytical path from sequence to tree in its very own way. However, this may even help you to better remember or even understand the single steps that are involved in building a phylogenetic tree from scratch.
+
+Depending on your present day R skills, you may only skim through some of the sections. You will see which are relevant for you to read.
+
+ .. note::
+
+  **At the end of the day, you will**
+
+  - be more versatile and confident when working with genetic data.
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+Task 1
+""""""
+
+.. important::
+
+  Read section :ref:`Ape_package`
+
+Task 2
+""""""
+
+ .. important::
+
+  Read section :ref:`Getting_Started_with_R`
+
+Task 3
+""""""
+
+ .. important::
+
+  - Download the R script and the example files in the section :ref:`T5_A`
+  - Work through the script to understand how to make phylogenetic trees in R.
 
 
+Task 4
+""""""
 
+ .. important::
+
+   - Download the R script and the example files in the section :ref:`T5_B`
+   - Work through the script to see in which way you can also analyse genetic data in R.
+
+Task 5
+""""""
+
+ .. important::
+
+  Run the script of Task 3 with your own toy dataset
+
+Task 6
+""""""
+
+ .. important::
+
+  Do not leave before you finished **at least three of the five** tasks!
+
+.. _Tutorials_5:
+Friday Tutorials
+^^^^^^^^^
+
+.. _T5_A:
+T5_A
+"""""
+
+.. note::
+
+  - Copy-paste the multisequence FASTA files from :ref:`T1_A2` and :ref:`T1_A4` (``T1_A4_Oribatida_EF.fas`` and ``T1A4_Oribatida_18S.fas``) to a new folder named **T5_A1**. 
+  - Open R or RStudio and set the folder **T5_A1** as working directory.
+
+.. _T5_A1:
+T5_A1
+"""""
+
+.. important::
+
+  - Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R.
+  - Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively.
+  - Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``.
+
+  - Open the alignments in BioEdit, check and trim to the shortest sequence. 
+  - Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas``.
+  - Remember to (download and) activate the required packages.
+  - How long (bp) is the trimmed alignment for: **EF** and **18S**
+  - How long (bp) is the best alignment from **T2**: **EF** and **18S**
+  
+  - If you have followed the above instructions, you disobeyed a formal alignment rule. Which one? 
+
+.. _T5_A2:
+T5_A2
+"""""
+
+.. important::
+
+  - Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
+  - Save the distance matrix for each alignment as ``csv``, name it ``dEF.csv`` and ``d18S.csv``.
+  - Calculate `1000` bootstraps for each tree.
+  - Plot each tree nicely (``ladders right=FALSE, cex=0.7``) with bootstrap in percent and in ``lightblue`` colour in circles with "white" background.
+  - Save the NJ trees with nodelabels as ``njEF.tre`` (with ``red`` tip labels) and ``nj18S.tre`` (with ``lightblue`` tip labels).
+
+.. _T5_A3:
+T5_A3
+"""""
+
+.. important::
+
+  - Calculate the model of sequence evolution in R for the trimmed alignments EF_aln2.fas and 18S_aln2.fas.
+  - What is the best fit model for: **EF** and **18S**
+
+.. _T5_A4:
+T5_A4
+"""""
+
+.. important::
+
+  - Calculate an ML tree for ``EF_aln2.fas`` and ``18S_aln2.fas``.
+  - Plot both trees in one graphic, with facing tip labels. **EF** with ``green`` and **18S** with ``yellowgreen`` tip labels.
+  - Display bootstrap values in ``circles`` and in ``red`` with background in ``pink1``.
+  - Save the plot as pdf, name it ``ML_EF_18S.pdf``
+
+.. _T5_A5:
+T5_A5
+"""""
+
+.. important::
+
+  - Are the NJ and ML trees calculated in R similar to the trees calculated in Exercises of :ref:`Tutorials_3` and :ref:`Tutorials_4`?
+  - Can you see fundamental differences?
+  - Do you consider both ways (R and Seaview or RAxML) as comparable?
+
+.. _T5_B:
+T5_B
+"""""
+
+.. _T5_B1:
+T5_B1
+"""""
+
+.. important::
+
+  - Calculate the number of haplotypes in the dataset ``Onova_example_COI``.
+  - How many sequences are in this data set and how many haplotypes?
+  - Plot the haplotype list as barplot, sorted from many to few.
+  - Save the barplot including a title as pdf. Name it ``Onova_hts_plot.pdf``.
+
+.. _T5_B2:
+T5_B2
+"""""
+
+.. important::
+
+  - Calculate a haplotype network for ``Onova_example_COI.fas`` and ``Onova_example_data.csv``.
+  - Save the graph as pdf, name it ``Onova_HTNW.pdf``
+
+.. attention::
+
+  .. _Special_Exercise:
+  Special Exercise
+  """"""""""""""""
+  
+  - Translate the nucleotide alignment of ``EF_aln2.fasta`` into protein sequences using R.
+  - Write down the script.
+
+Feedback Friday
+^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
