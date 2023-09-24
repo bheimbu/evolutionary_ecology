@@ -20,7 +20,8 @@ Goals
 
 Monday
 ------
-You already know, how to collect soil animals. In the morning, we start with a general introduction to the soil fauna. In the afternoon, we work with oribatid mites only. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
+You already know, how to collect soil animals. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
+
 In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives to make you familiar with the term “mesofauna”.
 You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
 In the afternoon, you will see the soil fauna with your own eyes through a stereomicroscope. While many of the soil animals will be dead in your samples, all oribatid mites and other taxa, will be alive. Oribatid mites are a very diverse group, ranging from fast runners to very slow movers; from tiny transparent ones to large, pitch-black species. Some species are smooth as glass, others are covered in dirt. However, all oribatid mites have in common an extensive arsenal of defense strategies.
