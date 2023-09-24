@@ -601,3 +601,33 @@ Task 5
 .. attention::
   Do not leave before **Tasks 1-4** are completed and discussed!
 
+.. _Tutorials_4:
+Tutorials
+^^^^^^^^^
+
+.. important::
+  Start a new folder named **T4** and save all results from the following exercises therein. Copy the **18S** and **EF** alignments in a new folder named **Alignments**. Use the program :ref:`Seaview` to convert the alignment from ``.aln`` or ``.fas`` to ``.phy`` (Phylip format).
+
+.. _T4_A1:
+T4_A1
+"""""
+
+.. important::
+  - Create two new folders for the RAxML analyses of **EF** and **18S**, named **T4_A1_RAxML_EF** and **T4_A1_RAxML_18S**.
+  - Copy the executable file of RAxML (``RAxML.exe``), the ``batch`` file and your alignments in Phylip format in the respective folders, name the batch files ``gene_RAxML_Yourname.bat``.
+  - Start ML analyses with `500` bootstrap replicates for your **18S** and **EF** datasets.
+  - Write down how long the analysis took (in seconds).
+
+.. _T4_A2:
+T4_A2
+"""""
+
+.. important::
+
+  - When constructing phylogenetic trees, we can only approach the true phylogenetic relationship between taxa because we can only work with random samples when choosing taxa, whether using morphological or genetic characters.
+  - How can you assess if your tree is a good tree? More than one solution is possible.
+
+.. image:: /_static/haplotypes.png
+
+
+
