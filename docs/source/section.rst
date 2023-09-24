@@ -608,6 +608,50 @@ In this tutorial and in this course we provide commands and functions for some b
 
   Despite its many advantages, R does not have the stophisticated algorithms and efficiency of a 'real' phylogenetic software. When considering publishing your results, you should use the proper software designed for Maximum Likelihood and Bayesian Inference. The 'proper' trees can easily be imported into R and used for further analyses.
 
+.. _Getting_Started_with_R:
+Getting Started with R
+----------------------
+
+**R or RStudio**
+
+This is up to you. `RStudio <https://posit.co/download/rstudio-desktop/>`_ is very handy, in particular if you are not used to work in the console. However, the more you get used to using R the switch to R is not unlikely. In the course you can choose what you like best, RStudio is installed on all computers.
+About this tutorial
+
+All instructions are given for the console (if not specifically indicated otherwise) but some commands are executed by mouse click in RStudio or even in R, which is not always indicated.
+
+.. tip::
+  Make notes in this tutorial which way you prefer or if you find functions you like better than others - you will need all of this again when analyzing your own data later in this course.
+ 
+.. note::
+
+  .. code:: r
+
+   # This is an example R code block
+   > indicates commands, do not type this, it is already in the command line
+   # Expected output is shown in grey
+   # Comments and notes written after # are ignored by R and shown in green
+   # Pay attention to quotes ( " " ) in commands, they indicate character strings that can be a vector or a file name or an option within a function
+     
+  Try to use autocomplete options when working in the console, e.g.
+
+  - Use the tab key Tab ↹ when typing a path
+  - Select the pop-up suggestions when typing commands
+  - Use the ↑ arrow key to repeat previous commands
+
+.. attention::
+  If a command did not work, R returns an error message in the console. Always read the error message, most of the time these messages will be helpful and tell you about spelling mistakes or a missing bracket or that it could not find a file because it is not present in your working directory. Regardless, do not hesitate to ask any of the tutors or your neighbour.
+
+.. note::
+
+  All files and an R-Script are in the folder T5.zip.
+
+**Before you import your data:**
+
+.. code:: r
+
+  #Check your working directory
+  > getwd()
+  [1] "C:/Users/Desktop/R/"
 
 
 
