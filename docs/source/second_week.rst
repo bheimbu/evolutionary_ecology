@@ -68,11 +68,12 @@ Task 2
   Remember to name consensus sequences correctly, in the following format: 
 
   01_Acrogalumna_longisetosa_18S_IS
-  |  |           |           |   |_ Initials
-  |  |           |           |_____ Gene
-  |  |           |_________________ Genus
-  |  |_____________________________ Species
-  |________________________________ Sample Number
+
+  Sample Number
+   Genus
+    Species
+     Gene
+      Sample Number
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
