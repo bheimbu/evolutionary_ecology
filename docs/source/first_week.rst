@@ -131,7 +131,7 @@ Questions of the Day
   5. What is the purpose of the silica membrane?
   6. Why is pH relevant for DNA extraction? Which pH values are most relevant here?
   7. What is a chaotropic salt and what is it used for in DNA extraction?
-  8. What did you observe when working with ATL (lysis) buffer and AW1 buffer (wash buffer 1?
+  8. What did you observe when working with ATL (lysis) buffer and AW1 buffer (wash buffer 1)?
   9. What does a PCR mastermix contain?
   10. What is difference between the various PCR mastermixes you have used?
   11. Is it possible to combine different PCR primers in one PCR reaction?
