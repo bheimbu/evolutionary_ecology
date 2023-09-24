@@ -582,3 +582,32 @@ The „easy & fast“ analysis generates four output files:
 
 .. note::
   These four files should be copied to a separate folder (``RAxML_Bsp_18S`` or ``ef``) after every analysis to avoid overwriting. To limit the risk of overwriting results, each RAxML analysis can also be started from a separate folder. This folder contains all important files (alignment, analysis specific batch file, results) after the analysis.
+
+.. _Ape_package:
+Ape package
+-----------
+
+**A very short introduction in the Ape package**
+
+This tutorial provides basic commands for basic phylogenetic analyses in R. The advantages of using R are that different analyses can be done with one software. Phylogenetic, i.e. sequence data, and ecological data like traits, abundances, and other data like sampling sites, sampling year, can be combined easily.
+
+In the previous tutorials you learned that one program comes for each fundamental analysis, and often files need to be converted when switching between softwares. This can be tedious for phylogenetic analyses and becomes even more complicated and time consuming for phylogenographic and populations genetic analyses, as these often use additional, non-genetic, data to analyses genetic patterns.
+
+.. note::
+
+  The advantages of R seem to be obvious, but one disadvantage is that you need to learn „its language“.
+
+In this tutorial and in this course we provide commands and functions for some basic analyses and to plot the trees. Functions are not explained and we do not introduce you to the syntax of R. However, by playing around and just getting started you can learn already the basics. If you like R and appreciate its potential when it comes to data analysis, you should consider to take different courses, read some books and consult some of the many online tutorials.
+
+.. tip::
+
+  If you feel very insecure about R, I found this `online tutorial  <https://www.pluralsight.com/search?q=R>`_. It provides a very clear introduction into the basic terminologies and functions of R.
+  On Youtube, you can find many tutorials about R and RStudio, statistics and basics that mediate the use of and programming with R at basic and advanced levels. You figure out yourself which tutorial fits your needs best.
+
+.. attention::
+
+  Despite its many advantages, R does not have the stophisticated algorithms and efficiency of a 'real' phylogenetic software. When considering publishing your results, you should use the proper software designed for Maximum Likelihood and Bayesian Inference. The 'proper' trees can easily be imported into R and used for further analyses.
+
+
+
+
