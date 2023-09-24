@@ -27,7 +27,7 @@ After discussing open questions, you will start to think about your mini-researc
 
 .. _Mini_research_Project:
 Mini research Project
-=====================
+---------------------
 
 .. note::
 
