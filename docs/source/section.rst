@@ -627,7 +627,7 @@ All instructions are given for the console (if not specifically indicated otherw
   .. code:: r
 
    # This is an example R code block
-   > indicates commands, do not type this, it is already in the command line
+   > # indicates commands, do not type it
    # Expected output is shown in grey
    # Comments and notes written after # are ignored by R and shown in green
    # Pay attention to quotes ( " " ) in commands, they indicate character strings that can be a vector or a file name or an option within a function
@@ -695,3 +695,88 @@ All instructions are given for the console (if not specifically indicated otherw
   [1]       "countHap"      "countnet"        "dOnova"         "h"       "habitat"
   [6]       "HTnet"         "ind.hap"          "list"          "net"
 
+  # remove objects, helpful for cleaning up your working environment after playing around with data
+  > rm(content)  # removes object content, note there will be no warning whatsoever
+
+  # returns the class R assigns to objects by R, functions use and require specific classes
+  > class(my.sequences)
+  [1] "DNAbin"
+
+  # gives internal structure of R object, to some extent useful alternative to summary()
+  > str(On_data)
+  'data.frame':      39 obs. of  5 variables:
+  $ sequence: Factor w/ 39 levels "KF293402_On_HA_F_048",..: 1 2 3 4 5 6 7 8 9 10 ...
+  $ accn    : Factor w/ 39 levels "KF293402","KF293403",..: 1 2 3 4 5 6 7 8 9 10 ...
+  $ habitat : Factor w/ 4 levels "F","G","IFG",..: 1 1 1 1 3 3 3 3 4 3 ...
+  $ site    : Factor w/ 4 levels "HA","KW","SO",..: 1 1 1 1 1 1 1 1 2 2 ...
+  $ ht      : int  3 3 3 3 4 4 4 4 4 7 …
+
+  → object On_data is a data frame (table) with 39 entries for 5 different variables, these are
+  •   sequence with 39 different entries, i.e. 39 different sequence names, names are strings (" ")
+  •   accn with 39 different entries, i.e. 39 different accession numbers, which are are strings (" ")
+  •   habitat, coded as character (strings = " ") F, G, IFG
+  •   site, coded as HA, KW, SO
+  •   ht (= haplotypes in this dataset) which are coded as numbers (integers)
+
+  # shows first parts of a vector, matrix, table or data frame; handy to check large datasets
+  > head(On_data)
+                                   sequence       accn      habitat  site   ht
+  1   KF293402_On_HA_F_048         KF293402       F         HA       3
+  2   KF293403_On_HA_F_049         KF293403       F         HA       3
+  3   KF293404_On_HA_F_050         KF293404       F         HA       3
+  4   KF293405_On_HA_F_051         KF293405       F         HA       3
+  5   KF293406_On_HA_IFG_053       KF293406       IFG       HA       4
+
+  # shows last parts of a vector, matrix, table or data frame; handy to check if (large) dataset is complete
+  > tail(On_data)
+  sequence                            accn            habitat              site     ht
+  34 KF293498_On_UE_IFG_078           KF293498        IFG                  UE       30
+  35 KF293503_On_UE_IFG_083           KF293503        IFG                  UE       30
+  36 KF293505_On_UE_IFG_085           KF293505        IFG                  UE       20
+  37 KF293506_On_UE_IFG_087           KF293506        IFG                  UE       20
+  38 KF293508_On_UE_IFG_089           KF293508        IFG                  UE       30
+  39 KF293509_On_UE_IFG_090           KF293509        IFG                  UE
+
+**Graphics**
+
+.. code:: r
+
+  > par(mfrow=c(nrow,mcol))   # defines number of rows and columns to graph
+  > par(mfrow=c(1,2)          # 1 row, 2 columns = 2 graphs next to each other → | |
+  > par(mfrow=c(2,1)          # 2 rows, 1 column = 2 graphs above each other  → ==
+  > par(mfrow=c(2,2)          # 2 rows, 2 columns = 4 graphs on one page
+
+  plot( ) 
+  title( "some title")        # adds a title to the first graph
+  boxplot(x,main="title")     # boxplot
+  hist()                      # histogram
+  plot()                      # scatterplot - or phylogenetic tree → plot.phylo( )
+
+**Tables**
+
+.. code:: r
+
+  table <- read.delim( )         # for tab-delimited files (sep="t\")
+  table<- read.csv( )            # for comma-delimited files (sep=",")
+  table<- read.txt( )            # for space delimited files (sep=" ")
+  > table                        # returns an object named table, to check that your data was read in correctly
+  > head( ) or > tail( )         # to check just the first or last rows, when data table is very big (see above)
+  > table[1,3]                   # gives you the 1st ROW in the third COLUMN in object table
+  > table[,1,4:10]               # shows you in COLUMN 1 the values of ROWS 4 to 10 in object table
+  > table[,2,4:10]               # shows you in COLUMN 2 the values of ROWS 4 to 10 in object table
+  > grep("A",habitat)            # shows you which ROWS have factor A (arable field) in object habitat
+  > grep("8",site)               # as previous, shows you where you can find site 8 in table
+
+**Phylogenetic packages**
+
+.. code:: r
+
+  install.packages("ape")
+  library(ape)                  # instead of library( ) you can also use require( ), matter of taste
+  install.packages("pegas")     # install.packages("picante")
+  library(pegas)                # requires package picante
+  install.packages("phangorn")                
+  install.packages("seqinr")
+
+
+.. image:: /_static/R.png
