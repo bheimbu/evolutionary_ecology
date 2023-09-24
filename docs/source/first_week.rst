@@ -226,7 +226,7 @@ If you are going to use your own PC on Monday next week, install the `30-days tr
 Task preview for Monday morning, Second Week:
 ---------------------------------------------
 
-On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided in StudIP. 
+On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. An assignment list will be provided `here <https://owncloud.gwdg.de/index.php/s/aQhYNQhwvk4wL2H>`_. 
 Checkout the `raw_sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_ directory on StudIP.
 
 .. attention::
