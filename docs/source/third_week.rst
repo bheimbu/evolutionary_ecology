@@ -30,8 +30,8 @@ First, we will start with repeating what you learned last week. How do you analy
 After discussing open questions, you will start to think about your mini-research project.
 
 .. _Mini_research_Project:
-**Mini-research Project**
--------------------------
+Mini research Project
+=====================
 
 .. note::
 
