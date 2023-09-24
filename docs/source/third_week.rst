@@ -18,10 +18,6 @@ Goals
 
   The course will end with the last presentation and a feedback round on Friday. You will not have to write a protocol or paper. Instead, you will have to answer a questionnaire, individually, on Thursday.
 
-.. _Monday_Third_Week:
-Monday
-------
-
 Summary
 ^^^^^^^
 
@@ -75,6 +71,11 @@ Collect data you need to test your hypothesis and plan how to split the work amo
   - work effectively and cooperatively in small teams
   - learned how to interpret preliminary and final data
   - interpret results in a scientific context
+
+
+.. _Monday_Third_Week:
+Monday
+------
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
