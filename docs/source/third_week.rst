@@ -75,5 +75,101 @@ Collect data you need to test your hypothesis and plan how to split the work amo
   - work effectively and cooperatively in small teams
   - learned how to interpret preliminary and final data
   - interpret results in a scientific context
-  - present your ideas and data and results in an interesting and intelligible framework
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+Task 1
+""""""
+
+.. important::
+
+  Think about a research topic (or phenomenon) you are interested in and find a team with the same interest.
+
+Task 2
+""""""
+
+.. important::
+
+  - Formulate a hypothesis.
+  - Explain the hypothesis, what you expect and why.
+  - Discuss which data you need to test the hypothesis.
+  - Discuss the hypothesis and the data with your tutors.
+  - Check the literature if other studies investigated similar topics.
+  - The tutors will help you to find publications.
+
+Task 3
+""""""
+
+.. important::
+
+  Start to collect and format the data you need. Build task forces and split the work effectively.
+
+Feedback Monday
+^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. _Tuesday_Third_Week:
+Tuesday
+-------
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+.. important::
+
+  - Continue with your :ref:`Mini_research_Project`.
+  - Finish collecting and formatting data today.
+  - Start the first analyses if possible.
+  - **At the end of the day,** you should already have a complete alignment and a best-fit model of sequence evolution.
+  - Consult the literature.
+
+.. tip::
+
+  Ask tutors for help, assistance, advice.
+
+Feedback Tuesday
+^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. _Wednesday_Third_Week:
+Wednesday
+---------
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+Today, keep the finish line of analyses in sight. Check and discuss preliminary and final results with the tutors. Add or delete taxa/genes if it improves your analysis. Be critical but pragmatic.
+
+.. attention::
+
+  At the end of the day you should have your final results!
+
+.. note::
+
+  Make sure that you have looked for and consulted scientific papers that deal with your topic. Just a reminder: tomorrow is due day for the questionnaire.
+
+Feedback Wednesday
+^^^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
+.. _Thursday_Third_Week:
+Tursday
+-------
+
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+
+.. note::
+
+  Today you wrap up your data and results and prepare your 🎉 final presentation 🎉. 
+
+.. attention::
+
+  Do not forget, before lunch you will have to answer the questionnaire.
+
+Feedback Thursday
+^^^^^^^^^^^^^^^^^^
+To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+
 
