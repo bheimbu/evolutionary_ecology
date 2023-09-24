@@ -11,7 +11,7 @@ Therefore I find it important that you understand your modelsystem (habitat, org
 Second, there is Bastian...
 
 
-If you want to know more about us and the other helping hands in the next three weeks, check out `here <https://www.uni-goettingen.de/de/mitarbeiter/107729.html>`_.
+If you want to know more about us and the other helping hands in the next three weeks, click `here <https://www.uni-goettingen.de/de/mitarbeiter/107729.html>`_.
 
 
 Course Structure
