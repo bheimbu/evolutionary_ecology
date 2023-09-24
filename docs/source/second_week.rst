@@ -859,11 +859,10 @@ T5_B2
   - Calculate a haplotype network for ``Onova_example_COI.fas`` and ``Onova_example_data.csv``.
   - Save the graph as pdf, name it ``Onova_HTNW.pdf``
 
+.. _Special_Exercise:
+Special Exercise
+""""""""""""""""
 .. attention::
-
-  .. _Special_Exercise:
-  Special Exercise
-  """"""""""""""""
   
   - Translate the nucleotide alignment of ``EF_aln2.fasta`` into protein sequences using R.
   - Write down the script.
