@@ -154,7 +154,7 @@ Feedback Wednesday
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
 .. _Thursday_Third_Week:
-Tursday
+Thursday
 -------
 
 Tasks of the Day
