@@ -502,7 +502,7 @@ Open a tree file:
 .. note::
   Always display the tree with increasing node order (STRG + U; as shown above) and save the tree with a new name ('File' → 'Save As').
 
-In FigTree you can make the tree pretty and easily comprehensible by making lines thicker, increase the font size, and add colours to branches, clades, or taxa (as shown above). To do this, use the toolbar on the left and top. If you want to annotate or highlight, first assign to either a node, clade, or taxa. :playgound_slide: Just play around a little bit. The pretty tree can then be exported as a gaphic file and uploaded in PowerPoint or any other presentation tool.
+In FigTree you can make the tree pretty and easily comprehensible by making lines thicker, increase the font size, and add colours to branches, clades, or taxa (as shown above). To do this, use the toolbar on the left and top. If you want to annotate or highlight, first assign to either a node, clade, or taxa. 🛝 Just play around a little bit. The pretty tree can then be exported as a gaphic file and uploaded in PowerPoint or any other presentation tool.
 
 .. attention::
   All trees in this course should be displayed uniformly. Nodes should spread from the lower left to the upper right side (under 'Trees' -> 'Increasing Node Order'; or STR + U).
