@@ -27,7 +27,7 @@ You will also receive an introduction to the taxonomy and phylogeny of oribatid 
 In the afternoon, you will see the soil fauna with your own eyes through a stereomicroscope🔬. While many of the soil animals will be dead in your samples, all oribatid mites and other taxa, will be alive. Oribatid mites are a very diverse group, ranging from fast runners to very slow movers; from tiny transparent ones to large, pitch-black species. Some species are smooth as glass, others are covered in dirt. However, all oribatid mites have in common an extensive arsenal of defense strategies.
 
 .. tip::
-   Take your time to observe oribatid mites and their characteristic movements and bodies. Write down three to five features (morphological and/or behavioural) of three living oribatid mites you observe. Remember, a character is everything you can observe. What type of defense strategy do the different oribatids display? Save your notes, we will use them later in this course. It may be helpful to make drawings or sketches of the observed species to more easily distinguish morphotypes based on certain character(s).
+  🔍 Take your time to observe oribatid mites and their characteristic movements and bodies. Write down three to five features (morphological and/or behavioural) of three living oribatid mites you observe. Remember, a character is everything you can observe. What type of defense strategy do the different oribatids display? Save your notes, we will use them later in this course. It may be helpful to make drawings or sketches of the observed species to more easily distinguish morphotypes based on certain character(s).
 
 .. note::
   **At the end of the day, you will be able to recognize the most relevant morphological characters to:**
