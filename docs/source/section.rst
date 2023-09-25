@@ -295,9 +295,9 @@ ClustalW in BioEdit
 6. Run ClustalW
 
 .. note::
-  - The completed alignment opens in a new window, save it under a new name (e.g., `name_aln.fas` to point out that this file contains an already aligned dataset). You can select several file formats, the most common are `.fas`, `.txt`, and `.phy`
-  - `.log` files of the alignment are saved to the folder BioEdit/temp; changes in the alignment can be traced there.
-  - A `.dnd` file is generated in the same folder, containing a guide-tree, which is required for the alignment (a Neighbor Joining tree in Newick-format). The tree can be opened in `FigTree <http://tree.bio.ed.ac.uk/software/figtree/>`_, however, it is not a phylogenetic tree.
+  - The completed alignment opens in a new window, save it under a new name (e.g., ``name_aln.fas`` to point out that this file contains an already aligned dataset). You can select several file formats, the most common are ``.fas``, ``.txt``, and ``.phy``
+  - ``.log`` files of the alignment are saved to the folder ``BioEdit/temp``; changes in the alignment can be traced there.
+  - ``.dnd`` file is generated in the same folder, containing a guide-tree, which is required for the alignment (a Neighbor Joining tree in Newick-format). The tree can be opened in `FigTree <http://tree.bio.ed.ac.uk/software/figtree/>`_, note that it is not a phylogenetic tree.
 
 .. _Sequence_Editing:
 Sequence Editing
@@ -308,7 +308,7 @@ Sequence Editing
 
 **Sequence files**
 
-Example fasta file ( `.fas` )
+Example fasta file ( ``.fas`` )
 
 .. code:: text
 
@@ -317,7 +317,7 @@ Example fasta file ( `.fas` )
   >Atropacarus_sp_COI
   GGAACTTCGTTA......
 
-Example txt file ( `.txt` )
+Example txt file ( ``.txt`` )
 
 .. code:: text
 
@@ -326,7 +326,7 @@ Example txt file ( `.txt` )
 
 **Alignment files**
 
-Example phylip file ( `.phy` )
+Example phylip file ( ``.phy`` )
 
 .. code:: text
 
@@ -335,7 +335,7 @@ Example phylip file ( `.phy` )
   Atropacaru   GGAACTTCGTTA...
 
 
-Example nexus file ( `.nex` )
+Example nexus file ( ``.nex`` )
 
 .. code:: text
 
