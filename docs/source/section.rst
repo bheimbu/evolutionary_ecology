@@ -33,17 +33,17 @@ Geneious Prime is a molecular biology and sequence analysis tool, and helps you 
 **6. Provide a name for the newly assembled sequence file**
 
 .. attention::
-  Never ever use special characters or white spaces!
+  Never ever use special characters or spaces!
 
 .. image:: /_static/geneious_3.png
 
 Now all single sequence files are pieced together (=assembled) and all complementary positions of all forward and reverse sequences are displayed underneath each other:
 
-- You now have a .contig file (not a Sanger file or single nucleotide sequence), which is indicated by the icon in front of the name
+- You now have a ``.contig`` file (not a Sanger file or single nucleotide sequence), which is indicated by the icon in front of the name
 - Scan the contig by eye to ensure that no ambiguous base calls are included 
 - Geneious Prime automatically removes positions (base pairs) at the start/end of each sequence with a quality below a certain quality threshold (, which can be adjusted, if necessary)
 - Positions that have been removed are indicated by a light pink bar underneath the respective sequence in the chromatogram
-- If you have ambiguous positions (indicated by letters that are not A, C, G, or T; highlighted in red), correct them manually according to the peak call of the sequence with the highest quality at this position.
+- If you have ambiguous positions (indicated by letters that are not ``A``, ``C``, ``G``, or ``T``; highlighted in red), correct them manually according to the peak call of the sequence with the highest quality at this position.
 
 .. note::
   - Correcting the consensus sequence saves the change in both forward and reverse sequence
