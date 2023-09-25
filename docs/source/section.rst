@@ -214,9 +214,9 @@ BioEdit
 
 
 .. note::
-  Most important features on the toolbar:
+  **Most important features on the toolbar:**
   
-  - Title: `„name“.fas` → shows name of current file including directory path
+  - Title: ``„name“.fas`` → shows name of current file including directory path
   - Mode Select/Slide, Edit, Drag & Drop / Overwrite, Insert
   - Edit → read and write mode, files can be modified and saved
   - Overwrite → not recommended as accidental changes are not traceable
