@@ -273,8 +273,8 @@ ClustalX
 
 - Alignment software with a graphical user interface (GUI)
 - Converts several sequence and alignment formats reliably, but cannot read all formats
- - FASTA-files work very well
- - Output file format for aligned sequences with file-extension `.aln`
+ - ``.fasta`` files work very well
+ - Output file format for aligned sequences with file extension ``.aln``
 
 .. attention::
   - No spaces and special characters allowed! Names of taxa longer than 30 characters are automatically truncated, potentially resulting in name duplications and program failure
