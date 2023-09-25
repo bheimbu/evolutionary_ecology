@@ -571,13 +571,13 @@ The executable file (``RAxML-7.0.3-WIN.exe``), the batch file (``name.batch``) a
 
 The „easy & fast“ analysis generates four output files:
 
-- RAxML_info.RUN01
+- ``RAxML_info.RUN01``
  - Text file with all likelihood-values + time/bootstrap
-- RAxML_bootstrap.RUN01
+- ``RAxML_bootstrap.RUN01``
  - Text file with all bootstrap trees
-- RAxML_bestTree.RUN01
+- ``RAxML_bestTree.RUN01``
  - Tree with the best likelihood-value without bootstraps
-- RAxML_bipartitions.RUN01
+- ``RAxML_bipartitions.RUN01``
  - Tree with the best Likelihood value + bootstraps
  - Can be open directly in FigTree
 
