@@ -119,7 +119,7 @@ Tasks of the Day
 ^^^^^^^^^^^^^^^^
 .. important::
     1. Do DNA extractions and PCR reactions with your samples.
-    2. Work clean and tidy in the lab 🧹🥼 and obey the lab rules.
+    2. Work clean and tidy in the lab 🧹🥼 and obey the lab rules ⚖️.
 
 Questions of the Day
 ^^^^^^^^^^^^^^^^^^^
