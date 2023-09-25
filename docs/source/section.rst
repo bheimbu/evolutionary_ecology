@@ -537,21 +537,20 @@ RAxML is one of these „fast“ ML-algorithms written for the analysis of large
 .. image:: /_static/raxml.png
 
 .. note::
-  Before running RAxML
 
   To avoid error messages, the alignment should be checked for formatting errors:
   
-  1. Format
+   1. Format
 
-  - Alignment must be in phylip-format
+    - Alignment must be in phylip-format
 
-  2. Identical sequence-names
+   2. Identical sequence-names
   
-  - Alignment must not contain identical sequence-names, this happens when sequence -names are truncated during format conversions
+    - Alignment must not contain identical sequence-names, this happens when sequence -names are truncated during format conversions
   
-  3. Identical sequences
+   3. Identical sequences
   
-  - Occurs when variable regions are removed from the alignment or datasets contain only one species (e.g. data sets for biogeography)
+    - Occurs when variable regions are removed from the alignment or datasets contain only one species (e.g. data sets for biogeography)
 
 .. attention::
   Never use special characters such as ``:``, ``;``, ``( )``, ``[ ]``.
