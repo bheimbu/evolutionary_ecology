@@ -56,7 +56,7 @@ Task 2
 """"""
 
 .. important::
-  - Download the `raw sequences  <https://studip.uni-goettingen.de/dispatch.php/course/files/index/660b809717ef7407f199fdb5f7a87d89?cid=d7b80997f5efda59609a4cf69a04dbf7>`_
+  - Download the `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_
   - Open the `assignment list <https://owncloud.gwdg.de/index.php/s/aQhYNQhwvk4wL2H>`_
   - Check out, which raw reads have been assigned to you
   - Import reads to Geneious Prime
