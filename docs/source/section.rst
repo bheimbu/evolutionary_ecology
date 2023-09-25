@@ -654,8 +654,6 @@ All instructions are given for the console (if not specifically indicated otherw
   > getwd()
   [1] "C:/Users/Desktop/R/"
 
-.. code:: r
-
   # Change your working directory to the folder Tutorial 5:
   > setwd("C:/Users/Desktop/R/tutorial")
 
