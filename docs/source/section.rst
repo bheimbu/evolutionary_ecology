@@ -745,21 +745,22 @@ All instructions are given for the console (if not specifically indicated otherw
   > par(mfrow=c(2,1)          # 2 rows, 1 column = 2 graphs above each other  → ==
   > par(mfrow=c(2,2)          # 2 rows, 2 columns = 4 graphs on one page
 
-  plot( ) 
-  title( "some title")        # adds a title to the first graph
-  boxplot(x,main="title")     # boxplot
-  hist()                      # histogram
-  plot()                      # scatterplot - or phylogenetic tree → plot.phylo( )
+  > plot( ) 
+  > title( "some title")      # adds a title to the first graph
+  > boxplot(x,main="title")   # boxplot
+  > hist()                    # histogram
+  > plot()                    # scatterplot - or phylogenetic tree → plot.phylo( )
 
 **Tables**
 
 .. code:: r
 
-  table <- read.delim( )         # for tab-delimited files (sep="t\")
-  table<- read.csv( )            # for comma-delimited files (sep=",")
-  table<- read.txt( )            # for space delimited files (sep=" ")
+  > table <- read.delim( )       # for tab-delimited files (sep="t\")
+  > table <- read.csv( )         # for comma-delimited files (sep=",")
+  > table <- read.txt( )         # for space delimited files (sep=" ")
   > table                        # returns an object named table, to check that your data was read in correctly
-  > head( ) or > tail( )         # to check just the first or last rows, when data table is very big (see above)
+  > head( )                      # to check just the first rows
+  > tail( )                      # to check just the last rows
   > table[1,3]                   # gives you the 1st ROW in the third COLUMN in object table
   > table[,1,4:10]               # shows you in COLUMN 1 the values of ROWS 4 to 10 in object table
   > table[,2,4:10]               # shows you in COLUMN 2 the values of ROWS 4 to 10 in object table
