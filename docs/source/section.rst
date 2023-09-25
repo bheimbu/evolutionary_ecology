@@ -419,11 +419,11 @@ How to Infer Phylogenetic Trees
 
 **Neighbor Joining (NJ)**
 
-Neighbor Joining is one of the earliest methods to infer phylogenetic trees using molecular data. The method is fast and economic on computing time, which makes it attractive for large data sets and for a first analysis to get a „feeling“ for new data sets (Do I need more Taxa? Which taxa might be useful? Is the selected outgroup appropriate?), before the longer but more accurate methods Maximum Likelihood (ML) or Bayesian Inference (BI) are used. A disadvantage of this method is that the sequence data cannot be reconstructed from the phylogenetic tree and NJ will not always find the „best“ or the „correct“ tree. The order of taxa in the alignment can also affect the tree topology.
+Neighbor Joining is one of the earliest methods to infer phylogenetic trees using molecular data. The method is fast and economic on computing time, which makes it attractive for large data sets and for a first analysis to get a „feeling“ for new data sets (Do I need more taxa? Which taxa might be useful? Is the selected outgroup appropriate?), before the longer but more accurate methods Maximum Likelihood (ML) or Bayesian Inference (BI) are used. A disadvantage of this method is that the sequence data cannot be reconstructed from the phylogenetic tree and NJ will not always find the „best“ or the „correct“ tree. The order of taxa in the alignment can also affect the tree topology.
 
-NJ in Seaview (Gouy et al. 2010)
+**NJ in Seaview (Gouy et al. 2010)**
 
-Download the program `SeaView <https://doua.prabi.fr/software/seaview>`_ to your PC. Load your alignment file:
+Download the program `SeaView <https://doua.prabi.fr/software/seaview>`_ and load your alignment file:
 
 'File' > 'Open'
 
