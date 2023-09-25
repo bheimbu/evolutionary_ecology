@@ -584,7 +584,7 @@ Task 2
 """"""
 
 .. important::
-  Complete exercises :ref:`T4_B1`, :ref:`T4-B2`, :ref:`T4_B3`, and :ref:`T4-B4`
+  Complete exercises :ref:`T4_B1`, :ref:`T4_B2`, :ref:`T4_B3`, and :ref:`T4_B4`
 
 Task 3
 """"""
