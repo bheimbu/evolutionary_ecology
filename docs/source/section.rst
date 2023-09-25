@@ -602,8 +602,8 @@ In this tutorial and in this course we provide commands and functions for some b
 
 .. tip::
 
-  If you feel very insecure about R, I found this `online tutorial  <https://www.pluralsight.com/search?q=R>`_. It provides a very clear introduction into the basic terminologies and functions of R.
-  On Youtube, you can find many tutorials about R and RStudio, statistics and basics that mediate the use of and programming with R at basic and advanced levels. You figure out yourself which tutorial fits your needs best.
+  If you feel very insecure about R, check out this `online tutorial  <https://www.pluralsight.com/search?q=R>`_. It provides a very clear introduction into the basic terminologies and functions of R.
+  On Youtube, you can find many more tutorials on R and RStudio and how to use them to do statistics, phylogenetics, and so on.
 
 .. attention::
 
