@@ -19,7 +19,7 @@ Course Structure
 .. note::
   The course structure reflects that of a mini research project.
 
-In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect mites (see :ref:`how-to-sample`) and determine them with the help of a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
+In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect mites (see :ref:`how-to-sample` ⛏ ) and determine them with the help of a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
 
 During the :ref:`second-week`, you will learn the most important tools to analyse molecular data and you will get an introduction into the basics of molecular phyogenetics. Phylogenetics can be a very helpful tool to structure your data and to investigate open research questions.
 
