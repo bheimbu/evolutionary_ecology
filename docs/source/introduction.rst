@@ -37,7 +37,7 @@ This course introduces you to some fundamental basics of...
   - DNA Extraction
   - PCR
   - Sanger Sequencing
-**Molecular Phylogeny**
+**Molecular Phylogenetics**
   - Public databanks
   - Sequence alignments
   - Phylogenetic trees
