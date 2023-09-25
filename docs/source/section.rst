@@ -74,7 +74,7 @@ Export Data
 
 **2. Select Format:**
 
-- FASTA sequences/alignment (*.fasta)
+- FASTA sequences/alignment (``.fasta``)
 
 .. image:: /_static/geneious_8.png
 
@@ -86,11 +86,11 @@ Export Data
 
 .. image:: /_static/geneious_10.png
 
-**5. Now you can open the .fasta file in**
+**5. Now you can open the ``.fasta`` file in**
 
 - Any text editor like Editor or Notepad++ (Windows), TextEdit (Mac), Notepadqq (Linux)
 - Or in a sequence editor like BioEdit (Windows), AliView (Mac)
-- Or Geneious Prime
+- Or in Geneious Prime
 
 .. image:: /_static/geneious_11.png
 
