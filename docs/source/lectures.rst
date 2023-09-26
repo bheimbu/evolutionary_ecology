@@ -32,5 +32,4 @@ The 🔓 password for watching the videos will be given in class.
 
 `Mixonomata <https://owncloud.gwdg.de/index.php/s/TzxXsilXs76ZsCx>`_
 
-.. _geneious:
 `Tutorial Geneious Prime <https://owncloud.gwdg.de/index.php/s/sqsaiyuKYoiHgT0>`_
