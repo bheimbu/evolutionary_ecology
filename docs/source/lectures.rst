@@ -8,21 +8,21 @@ The 🔓 password for watching the videos will be given in class.
 
   The same 🔓 password can be used to unlock the assignment list as well as all other files that have been locked. 
 
-`Lecture 1 - Oribatid Mites: An Introduction <https://owncloud.gwdg.de/index.php/s/iUqguzQral0yZB6>`_
+`Lecture 1 - Oribatid Mites: An Introduction <https://owncloud.gwdg.de/index.php/s/u8rlqOWCnuVbuKU>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/rHHZ8R3NnbbKfvu>`_ 
 
-`Lecture 1 - Oribatid Mites: An Introduction ...continued <>`_
+`Lecture 1 - Oribatid Mites: An Introduction ...continued <https://owncloud.gwdg.de/index.php/s/mWNYMLc2cU2BlqT>`_
 
-`Lecture 2 - Why Phylogeny <https://owncloud.gwdg.de/index.php/s/gvLeoIz2GIjigzJ>`_
+`Lecture 2 - Why Phylogeny <https://owncloud.gwdg.de/index.php/s/nD3xadSDV3qVZxz>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/bxqP1EAKQvCitZt>`_ 
 
-`Lecture 3 - Sequence Alignment <>`_
+`Lecture 3 - Sequence Alignment <https://owncloud.gwdg.de/index.php/s/VtwBjZUReL5h4VG>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/SdybNNYUBfr2v2w>`_ 
 
-`Lecture 4 - Models of Sequence Evolution <>`_
+`Lecture 4 - Models of Sequence Evolution <https://owncloud.gwdg.de/index.php/s/QAC3vhrwfpzUjg9>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/1iBBM5iFI4n0KCD>`_ 
 
-`Lecture 5 - Reconstructing Molecular Phylogenies <>`_
+`Lecture 5 - Reconstructing Molecular Phylogenies <https://owncloud.gwdg.de/index.php/s/TTemsiseHbbul80>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/KAGno4IIE23qTDV>`_ 
 
-`Lecture 6 - Search Algorithms <https://owncloud.gwdg.de/index.php/s/FVarJHqFiCutFA3>`_
+`Lecture 6 - Search Algorithms <https://owncloud.gwdg.de/index.php/s/0MAxKURT8WH9fo0>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/1qPlQKDBHeGvUho>`_ 
 
-`Lecture 7 - Bayesian Inference <https://owncloud.gwdg.de/index.php/s/vT2DLTyx4oQ1MsA>`_
+`Lecture 7 - Bayesian Inference <https://owncloud.gwdg.de/index.php/s/OQ22cbAAnXw2B3q>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/nxRE7IRf1k42axN>`_ 
 
 `Desmonomata 1 <https://owncloud.gwdg.de/index.php/s/U1k7900Iej0O4X4>`_
 
@@ -31,3 +31,6 @@ The 🔓 password for watching the videos will be given in class.
 `Enarthronota <https://owncloud.gwdg.de/index.php/s/yK5sSWvgYnb6Vmr>`_
 
 `Mixonomata <https://owncloud.gwdg.de/index.php/s/TzxXsilXs76ZsCx>`_
+
+
+`Tutorial Geneious Prime <https://owncloud.gwdg.de/index.php/s/sqsaiyuKYoiHgT0>`_
