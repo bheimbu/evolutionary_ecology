@@ -80,25 +80,25 @@ Schedule
    * - Third
      - Mon
      - 20.11.22
-     - Review the second week, develop and conduct your own research project, use own data, build hypothesis, start creating datasets fitting to analyze your research question
+     - Review the second week, develop and conduct your 🧬mini research project🧬, use own data, build hypothesis, start creating datasets fitting to analyze your research question
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
    * - Third
      - Tue
      - 21.11.22
-     - Conduct own research project
+     - Conduct 🧬mini research project🧬
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
    * - Third
      - Wed
      - 22.11.22
-     - Results of own research project, discuss, prepare presentation
+     - Results of 🧬mini research project🧬, discuss, prepare presentation
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
    * - Third
      - Thu
      - 23.11.22
-     - Results of own research project, discuss, prepare presentation
+     - Results of 🧬mini research project🧬, discuss, prepare presentation
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
    * - Third
