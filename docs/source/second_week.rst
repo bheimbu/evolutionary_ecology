@@ -180,9 +180,9 @@ T1_B1
 """""
 
 .. important::
-  - Open all sequences from exercise **T1_A2** in a single window in :re:`Bioedit` ('Import' → 'Sequence alignment file').
-  - Save the pooled dataset in FASTA-format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
-  - Change all sequence names from GenBank to: genus_species_accession number_gene (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
+  - Open all sequences from exercise :ref:`T1_A2` in a single window in Bioedit ('Import' → 'Sequence alignment file').
+  - Save the pooled dataset in FASTA format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
+  - Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
      
 .. attention::
   Never use special characters and spaces to separate words, always use underscores ``_``.
@@ -192,24 +192,24 @@ T1_B2
 """""
 
 .. important::
-  - Open the file ``T1A4_Oribatida_18S.fas`` from **T1_A4** with your local text editor of choice (e.g. Notepad++, Editor).
+  - Open the file ``T1A4_Oribatida_18S.fas`` from :ref:`T1_A4` with your local text editor of choice (e.g. Notepad++, Editor).
   - Save the file in FASTA-format (folder: **T1_B2**, filename: ``18S_all.fas``).
   - Change sequence names from GenBank just as in **T1_B1** (genus_species_accession number_gene).
   - You now have two datasets with +/- identical taxon sampling but with two different genes.
   - Now you can add (import) some of your own sequences to the 18S file.
   - Your own sequences should be named in the same logic as the sequences from NCBI.
-  - As no accession numbers are available for your new sequences, you may replace accession number with "own", to quickly identify your own sequence among the others, for example: ``05_Archegozetes_longisetosus_own_18S``
+  - As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``05_Archegozetes_longisetosus_own_18S``
 
 
 .. note::
-  Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer calculation times (i.e. longer waiting time for you) and it will be more difficult to focus on the most relevant information.
+  Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
 To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
 
 .. tip::
-   Just in case, you can read about Geneious again in :ref:`section`.
+   Just in case, you can read about Geneious Prime again in :ref:`section`.
 
 .. _Tuesday_Second_Week:
 Tuesday
