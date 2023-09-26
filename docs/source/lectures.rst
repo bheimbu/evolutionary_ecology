@@ -12,7 +12,6 @@ The 🔓 password for watching the videos will be given in class.
 
 `Lecture 1/2 - Oribatid Mites: An Introduction ...continued <https://owncloud.gwdg.de/index.php/s/mWNYMLc2cU2BlqT>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/rHHZ8R3NnbbKfvu>`_ 
 
-
 `Lecture 2 - Why Phylogeny <https://owncloud.gwdg.de/index.php/s/nD3xadSDV3qVZxz>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/bxqP1EAKQvCitZt>`_ 
 
 `Lecture 3 - Sequence Alignment <https://owncloud.gwdg.de/index.php/s/VtwBjZUReL5h4VG>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/SdybNNYUBfr2v2w>`_ 
