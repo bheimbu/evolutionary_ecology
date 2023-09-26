@@ -10,10 +10,16 @@ Check out the :doc:`schedule` for details about the timeline.
 And here are some important **usage** notes, check out :ref:`usage` for more:
 
 .. note::
+
    These boxes highlight goals and achievements of the course/week/day. Pay attention to them.
 
 .. important::
-   ⚠️ These boxes highlight the **Tasks of the Day** and the **Question(s) of the Day**. You should definitely pay attention to them 😊. 
+
+   ⚠️ These boxes highlight the **Tasks of the Day** and the **Question(s) of the Day**. You should definitely pay attention to them 😊.
+
+.. attention::
+
+  The 🔓 password for unlocking files will be given in class.
 
 Content
 =======
