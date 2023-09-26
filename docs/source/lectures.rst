@@ -8,9 +8,10 @@ The 🔓 password for watching the videos will be given in class.
 
   The same 🔓 password can be used to unlock the assignment list as well as all other files that have been locked. 
 
-`Lecture 1 - Oribatid Mites: An Introduction <https://owncloud.gwdg.de/index.php/s/u8rlqOWCnuVbuKU>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/rHHZ8R3NnbbKfvu>`_ 
+`Lecture 1/1 - Oribatid Mites: An Introduction <https://owncloud.gwdg.de/index.php/s/u8rlqOWCnuVbuKU>`_ 
 
-`Lecture 1 - Oribatid Mites: An Introduction ...continued <https://owncloud.gwdg.de/index.php/s/mWNYMLc2cU2BlqT>`_
+`Lecture 1/2 - Oribatid Mites: An Introduction ...continued <https://owncloud.gwdg.de/index.php/s/mWNYMLc2cU2BlqT>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/rHHZ8R3NnbbKfvu>`_ 
+
 
 `Lecture 2 - Why Phylogeny <https://owncloud.gwdg.de/index.php/s/nD3xadSDV3qVZxz>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/bxqP1EAKQvCitZt>`_ 
 
