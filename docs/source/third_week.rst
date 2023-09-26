@@ -2,7 +2,7 @@
 Third Week
 ===========
 
-This week is all about your mini-research project and ends with a 🎉 final presentation 🎉 of your work on Friday. The research projects will be conducted in small teams.
+This week is all about your :ref:`Mini_research_Project` and ends with a 🎉 final presentation 🎉 of your work on Friday. The research projects will be conducted in small teams.
 
 You learned the basics on oribatid mites, heard of some unresolved mysteries and practiced how to analyse molecular data.
 
