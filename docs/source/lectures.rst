@@ -2,11 +2,9 @@
 Lectures
 ========
 
-The 🔓 password for watching the videos will be given in class. 
+.. attention::
 
-.. tip::
-
-  The same 🔓 password can be used to unlock the assignment list as well as all other files that have been locked. 
+  The 🔓 password for watching the videos will be given in class, which can also be used to unlock the assignment list as well as all other locked files. 
 
 `Lecture 1/1 - Oribatid Mites: An Introduction <https://owncloud.gwdg.de/index.php/s/u8rlqOWCnuVbuKU>`_ 
 
