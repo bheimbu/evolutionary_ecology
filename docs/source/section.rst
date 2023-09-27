@@ -682,6 +682,7 @@ All instructions are given for the console (if not specifically indicated otherw
   [9] "sequences.fas"            "test.fas"               
   [11] "Tutorial5_RScript.R"
 
+.. code:: r
   
   # gives information about a file
   > file.info("18S_Alle.fasta")
@@ -690,17 +691,25 @@ All instructions are given for the console (if not specifically indicated otherw
                   atime                 uid      gid       uname    grname
   18S_Alle.fasta  2017-01-04 11:22:04   501      20        hraefn   staff
 
+.. code:: r
+
   # lists all objects in current environment
   > ls( )
   [1]       "countHap"      "countnet"        "dOnova"         "h"       "habitat"
   [6]       "HTnet"         "ind.hap"          "list"          "net"
 
+.. code:: r
+
   # remove objects, helpful for cleaning up your working environment after playing around with data
   > rm(content)  # removes object content, note there will be no warning whatsoever
+
+.. code:: r
 
   # returns the class R assigns to objects by R, functions use and require specific classes
   > class(my.sequences)
   [1] "DNAbin"
+
+.. code:: r
 
   # gives internal structure of R object, to some extent useful alternative to summary()
   > str(On_data)
@@ -718,6 +727,8 @@ All instructions are given for the console (if not specifically indicated otherw
   •   site, coded as HA, KW, SO
   •   ht (= haplotypes in this dataset) which are coded as numbers (integers)
 
+.. code:: r
+
   # shows first parts of a vector, matrix, table or data frame; handy to check large datasets
   > head(On_data)
                                    sequence       accn      habitat  site   ht
@@ -726,6 +737,8 @@ All instructions are given for the console (if not specifically indicated otherw
   3   KF293404_On_HA_F_050         KF293404       F         HA       3
   4   KF293405_On_HA_F_051         KF293405       F         HA       3
   5   KF293406_On_HA_IFG_053       KF293406       IFG       HA       4
+
+.. code:: r
 
   # shows last parts of a vector, matrix, table or data frame; handy to check if (large) dataset is complete
   > tail(On_data)
