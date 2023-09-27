@@ -12,16 +12,6 @@ Second, there is Bastian. He's a postdoc in the department of Animal Ecology and
 
 If you want to know more about us and the other helping hands in the next three weeks, click `here <https://www.uni-goettingen.de/de/mitarbeiter/107729.html>`_.
 
-.. raw:: html
-
-   <div class="multiple-choice">
-       <p>What is the capital of France?</p>
-       <input type="radio" name="q1" value="paris" id="paris"><label for="paris">Paris</label><br>
-       <input type="radio" name="q1" value="berlin" id="berlin"><label for="berlin">Berlin</label><br>
-       <input type="radio" name="q1" value="london" id="london"><label for="london">London</label><br>
-   </div>
-
-
 Course Structure
 ----------------
 
