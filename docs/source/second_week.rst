@@ -77,7 +77,7 @@ Task 2
   - Make sure the sequence name is correct!
   - Keep in mind that a consensus sequence file consists of a single sequence
 
-  - Upload the consensus files `here <https://studip.uni-goettingen.de/dispatch.php/course/files/index/8c1eff148df88fb568fb3c5445992b96?cid=d7b80997f5efda59609a4cf69a04dbf7>`_.
+  - Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
 
 Task 3
 """"""
