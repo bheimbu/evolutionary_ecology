@@ -20,6 +20,7 @@ extensions = [
     'sphinxcontrib.youtube',
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
+    'sphinx.ext.autodoc',
 ]
 
 intersphinx_mapping = {
