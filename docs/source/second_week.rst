@@ -67,17 +67,9 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format: 
 
-  01_Acrogalumna_longisetosa_18S_IS
+  ``01_Acrogalumna_longisetosa_18S_IS``
 
-  *Sample Number*
-   
-   _*Genus*
-   
-    _*Species*
-     
-     _*Gene*
-      
-       _*Sample Number*
+  ``$Sample Number_$Genus_$Species_$Gene_$Inititials``
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
