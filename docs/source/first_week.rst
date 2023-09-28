@@ -47,7 +47,7 @@ Tasks of the Day
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
