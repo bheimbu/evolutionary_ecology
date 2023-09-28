@@ -108,7 +108,7 @@ Task 3
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. _Tuesday_Third_Week:
 Tuesday
@@ -134,7 +134,7 @@ Tasks of the Day
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. _Wednesday_Third_Week:
 Wednesday
@@ -155,7 +155,7 @@ Today, keep the finish line of analyses in sight. Check and discuss preliminary 
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. _Thursday_Third_Week:
 Thursday
@@ -174,7 +174,7 @@ Tasks of the Day
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. _Friday_Third_Week:
 Friday
@@ -191,4 +191,4 @@ At the end of the course we will have a small feedback session. After that, we w
 
 Feedback Friday
 ^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
