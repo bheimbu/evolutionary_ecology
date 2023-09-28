@@ -198,7 +198,7 @@ T1_B2
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. tip::
    Just in case, you can read about Geneious Prime again in :ref:`section`.
@@ -323,7 +323,7 @@ T2_C
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. _Wednesday_Second_Week:
 Wednesday
@@ -527,7 +527,7 @@ T3_C5
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. tip::
   Relax a bit...
@@ -689,7 +689,7 @@ T4_B4
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. _Friday_Second_Week:
 Friday
@@ -869,4 +869,4 @@ Special Exercise
 
 Feedback Friday
 ^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
