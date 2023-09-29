@@ -188,7 +188,7 @@ Tasks of the Day
 
   🎉 Today, you present your mini research project, followed by a brief discussion. 🎉
 
-At the end of the course we will have a small feedback session. After that, we wish a good time and enjoy your studies!
+At the end of the course we will have a small feedback session. After that, we wish you a good time and enjoy your studies!
 
 Feedback Friday
 ^^^^^^^^^^^^^^^
