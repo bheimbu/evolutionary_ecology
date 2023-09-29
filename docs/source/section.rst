@@ -18,7 +18,7 @@ Geneious Prime is a molecular biology and sequence analysis tool, and helps you 
 
 **3. Drag and drop the .abi files from your explorer/finder into the sequence panel to import the sequence files**
 
-.. image:: /_static/geneious_1.png
+.. thumbnail:: /_static/geneious_1.png
 
 **4. Check out all single sequence files that belong to the same sample**
 
