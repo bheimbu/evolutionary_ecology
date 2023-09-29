@@ -148,7 +148,7 @@ Today, keep the finish line of analyses in sight. Check and discuss preliminary 
 
 .. attention::
 
-  **At the end of the day** you should have your final results!
+  At the end of the day, you should have your final results!
 
 .. note::
 
