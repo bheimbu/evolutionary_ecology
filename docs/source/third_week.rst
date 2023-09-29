@@ -121,7 +121,7 @@ Tasks of the Day
 .. important::
 
   - Continue with your :ref:`Mini_research_Project`.
-  - Finish collecting and formatting the data you need by today.
+  - Finish collecting and formatting the data you need today.
   - Start the first analyses if possible.
   - Consult the literature.
   
