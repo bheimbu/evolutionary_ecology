@@ -4,3 +4,4 @@ sphinxcontrib-youtube
 sphinx-tabs
 sphinx-copybutton
 furo
+sphinxcontrib-images
