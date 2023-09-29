@@ -85,7 +85,7 @@ Task 1
 
 .. important::
 
-  Think about a research topic (or phenomenon) you are interested in and find a team with the same interest.
+  - Think about a research topic (or phenomenon) you are interested in and find a team with the same interest.
 
 Task 2
 """"""
@@ -104,7 +104,8 @@ Task 3
 
 .. important::
 
-  Start to collect and format the data you need. Build task forces and split the work effectively.
+  - Start to collect and format the data you need.
+  - Build task forces and split the work effectively.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
