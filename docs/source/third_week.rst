@@ -127,7 +127,7 @@ Tasks of the Day
   
 .. attention::
 
-  - **At the end of the day,** you should already have a complete alignment and a best-fit model of sequence evolution.
+  At the end of the day, you should already have a complete alignment and a best-fit model of sequence evolution.
   
 .. tip::
 
