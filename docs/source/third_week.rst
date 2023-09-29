@@ -167,11 +167,11 @@ Tasks of the Day
 
 .. note::
 
-  Today you wrap up your data and results and prepare your 🎉 final presentation 🎉. 
+  Today you wrap up your data, results, and prepare your 🎉 final presentation 🎉. 
 
 .. attention::
 
-  Do not forget, before lunch you will have to answer the questionnaire.
+  Do not forget, you have to answer the questionnaire before lunch.
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^^
@@ -186,7 +186,7 @@ Tasks of the Day
 
 .. note::
 
-  🎉 Today you will present your mini research project, followed by a brief discussion. 🎉
+  🎉 Today, you present your mini research project, followed by a brief discussion. 🎉
 
 At the end of the course we will have a small feedback session. After that, we wish a good time and enjoy your studies!
 
