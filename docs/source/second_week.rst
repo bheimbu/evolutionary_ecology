@@ -285,7 +285,7 @@ T2_A1
 
   - Use your DNA datasets from exercises :ref:`T1_B1` and :ref:`T1_B2` to generate alignments in BioEdit using the following parameters (see below)
 
-.. image:: /_static/T2_A_1.png
+.. thumbnail:: /_static/T2_A_1.png
 
 .. attention::
   Use a period (``.``), not a comma (``,``) when typing the penalty values!
@@ -293,7 +293,7 @@ T2_A1
 .. important::
   Save the alignments as `.fas` file to the folder **T2_A1** with the name ``Gen_T2A1a/b/c/d/e/f_aln.fas``.
 
-.. image:: /_static/T2_A_2.png
+.. thumbnail:: /_static/T2_A_2.png
 
 .. _T2_A2:
 T2_A2
@@ -631,7 +631,7 @@ T4_A2
   - When constructing phylogenetic trees, we can only approach the true phylogenetic relationship between taxa because we can only work with random samples when choosing taxa, whether using morphological or genetic characters.
   - How can you assess if your tree is a good tree? More than one solution is possible.
 
-.. image:: /_static/haplotypes.png
+.. thumbnail:: /_static/haplotypes.png
 
 .. _T4_B1:
 T4_B1
