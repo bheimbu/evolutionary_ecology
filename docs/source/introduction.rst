@@ -6,9 +6,9 @@ This is an exciting field because many evolutionary concepts developed from well
 
 But first things first, who are the people behind this course...
 
-First, there is Ina. She is currently a postdoc at the Senckenberg Institute in Frankfurt working in the `Functional Environmental Genomics <https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/>`_ research group, before that she worked as a postdoc in the department of Animal Ecology. Ina has been working with molecular data of soil organisms for many years, focusing on the evolution of small soil arthropods, but has also worked with earthworms from Northern America.
+First, there is `Ina`. She is currently a postdoc at the Senckenberg Institute in Frankfurt working in the `Functional Environmental Genomics <https://www.senckenberg.de/en/institutes/sbik-f/functional-environmental-genomics/>`_ research group, before that she worked as a postdoc in the department of Animal Ecology. Ina has been working with molecular data of soil organisms for many years, focusing on the evolution of small soil arthropods, but has also worked with earthworms from Northern America.
 
-Second, there is Bastian. He's a postdoc in the department of Animal Ecology and head of the mollilab. His main focus are termites from the Australian continent, where he tries to understand their evolutionary history using phylogenetic and biogeographic techniques. He is also experienced in genomics and microbiomics.  
+Second, there is `Bastian`. He's a postdoc in the department of Animal Ecology and head of the mollilab. His main focus are termites from the Australian continent, where he tries to understand their evolutionary history using phylogenetic and biogeographic techniques. He is also experienced in genomics, microbiomics, and bioinformatics.  
 
 If you want to know more about us and the other helping hands in the next three weeks, click `here <https://www.uni-goettingen.de/de/mitarbeiter/107729.html>`_.
 
