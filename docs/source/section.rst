@@ -30,14 +30,14 @@ Geneious Prime is a molecular biology and sequence analysis tool, and helps you 
 - Select De Novo Assemble from the Align/Assemble menu
 - (also: Tools —> Align/Assemble —> De Novo Assemble
 
-.. image:: /_static/geneious_2.png
+.. thumbnail:: /_static/geneious_2.png
 
 **6. Provide a name for the newly assembled sequence file**
 
 .. attention::
   Never ever use special characters or spaces!
 
-.. image:: /_static/geneious_3.png
+.. thumbnail:: /_static/geneious_3.png
 
 Now all single sequence files are pieced together (=assembled) and all complementary positions of all forward and reverse sequences are displayed underneath each other:
 
@@ -51,18 +51,18 @@ Now all single sequence files are pieced together (=assembled) and all complemen
   - Correcting the consensus sequence saves the change in both forward and reverse sequence
   - Correcting the base in the erroneous sequence (either forward or reverse) changes the consensus sequence, but saves the change only in the respective sequence
 
-.. image:: /_static/geneious_4.png
+.. thumbnail:: /_static/geneious_4.png
 
 .. note::
   The table below summarises the symbols used for ambiguous base calls.
 
-.. image:: /_static/geneious_5.png
+.. thumbnail:: /_static/geneious_5.png
 
 **9. After checking and correcting you sequences, export the consensus sequence (= a single sequence that is the combined product of all single sequences)**
 
 - To export the consensus, see **Export Data**
 
-.. image:: /_static/geneious_6.png
+.. thumbnail:: /_static/geneious_6.png
 
 Export Data
 ^^^^^^^^^^^
@@ -72,21 +72,21 @@ Export Data
 - Threshold: Highest Quality
 - Assign Quality: Total
 
-.. image:: /_static/geneious_7.png
+.. thumbnail:: /_static/geneious_7.png
 
 **2. Select Format:**
 
 - FASTA sequences/alignment (``.fasta``)
 
-.. image:: /_static/geneious_8.png
+.. thumbnail:: /_static/geneious_8.png
 
 **3. Choose the destination**
 
-.. image:: /_static/geneious_9.png
+.. thumbnail:: /_static/geneious_9.png
 
 **4. Again, use default settings**
 
-.. image:: /_static/geneious_10.png
+.. thumbnail:: /_static/geneious_10.png
 
 **5. Now you can open the ``.fasta`` file in**
 
@@ -94,7 +94,7 @@ Export Data
 - Or in a sequence editor like BioEdit (Windows), AliView (Mac)
 - Or in Geneious Prime
 
-.. image:: /_static/geneious_11.png
+.. thumbnail:: /_static/geneious_11.png
 
 .. _Database_and_Search_Strategy:
 Database and Search Strategies
@@ -108,13 +108,13 @@ To screen the database for sequence data, two alternative search strategies are 
 
 - Enter a species or higher taxon name in the search box. The order of search terms (e.g. 'oribatida d3') is neglible, as is the case sensitivity. However, it is important to limit the search to the required database, e.g., 'Nucleotide' or 'Protein'.
 
-.. image:: /_static/database_1.png
+.. thumbnail:: /_static/database_1.png
 
 **2. BLAST Search**
 
 - Search for homologous genes using your own sequences.
 
-.. image:: /_static/database_2.png
+.. thumbnail:: /_static/database_2.png
 
 .. note::
   Again, it is important to limit the search to the required database within NCBI, e.g. 'Nucleotide' or 'Protein'.
@@ -125,16 +125,16 @@ The BLAST search can be accelerated by limiting the search to an appropriate DAT
 .. tip::
   The accuracy of search parameters can be adjusted (Algorithm parameters; optional), which affects the degree of similarity of sequences from the database with your sequence data. Downscaling of search parameters can be helpful for searches within variable gene regions or among distantly related (or fast mutating) organisms. Upscaling of search parameters is reasonable when working with repetitive sequences.
 
-.. image:: /_static/database_3.png
+.. thumbnail:: /_static/database_3.png
 
 After starting a BLAST search a new window will open confirming the search request. The search is finished when a list with all results appears.
 
-.. image:: /_static/database_4.png
+.. thumbnail:: /_static/database_4.png
 
 .. note::
   When you click 'Back to Traditional Results Page' you will see a graphic that shows how your DNA fragment matches (aligns) with the BLAST results (**see below**). The graphic represents the complete length of the entered sequence, matching sequences from GenBank are listed below. The colour code illustrates the degree of similarity across the complete sequence and the mouse-over option enables quick assessment of results. When moving the mouse over the graph, names and genes of GenBank entries appear.
 
-.. image:: /_static/database_5.png
+.. thumbnail:: /_static/database_5.png
 
 In both figures, detailed results are listed below the graph, providing the accession numbers if the BLAST hits in the last (**see above**) or first column (**see below**), linking to the complete database entry with a full description of the sequence. Columns to the right provide information on the degree of similarity and the probability of stochastic agreement. The e-value is the most important, indicating the probability that a database entry matches with the original sequence simply by chance. The smaller the e-value the better: the lower the probability that two sequences match by chance the higher the probability to have a real homologous sequence. Ideally the e-value should be very small (e.g. 2e-152).
 
@@ -153,7 +153,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
 .. note::
   Sequences can be saved separately (one-by-one) or as sequence stack (=multiple FASTA file), see below for more.
 
-.. image:: /_static/downloading_1.png
+.. thumbnail:: /_static/downloading_1.png
 
 **1. Separate download of sequences from a list of search hits:**
 
@@ -164,7 +164,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
 - 'Download 1 items: Format: FASTA'
 - Select 'Create File', which saves the sequence to your hard drive
 
-.. image:: /_static/downloading_2.png
+.. thumbnail:: /_static/downloading_2.png
 
 **2. Download a stack of sequences from a list of search hits:**
 
@@ -180,7 +180,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
   - 'Format: FASTA'
   - Select: 'Create File', which saves the sequence file to a local hard drive
 
-.. image:: /_static/downloading_3.png
+.. thumbnail:: /_static/downloading_3.png
 
 .. note::
   All sequences from the clipboard are now saved in a single file. Remember to change the file name from the default name (=sequences.fasta) to favouritename_favouritegene.fas.
@@ -202,7 +202,7 @@ BioEdit
 - Comfortable and easy editing of sequences and alignments
 - Accepts most common file formats, most important formats for us are: ``.fas``, ``.aln``, ``.nex``, ``.txt``
 
-.. image:: /_static/bioedit.png
+.. thumbnail:: /_static/bioedit.png
 
 **File**
 
@@ -352,11 +352,11 @@ Example nexus file ( ``.nex`` )
   Tectocepheus_velatus_COI GGATCTTCTCTGAGAGGATTGATTCGTTTAGAATTGGGACAGCCAGG...
   Atropacarus_sp_COI GGAACTTCGTTAAGGTCTATGATTCGATTTGGGGGGGTTAGGTTCGA...
 
-.. image:: /_static/alignments_1.png
+.. thumbnail:: /_static/alignments_1.png
 
-.. image:: /_static/alignments_2.png
+.. thumbnail:: /_static/alignments_2.png
 
-.. image:: /_static/alignments_3.png
+.. thumbnail:: /_static/alignments_3.png
 
 .. _Models_of_Sequence_Evolution:
 Models of Sequence Evolution
@@ -379,7 +379,7 @@ Start jModelTest
 
 'File' > 'Load DNA alignment'
 
-.. image:: /_static/jmodeltest_1.png
+.. thumbnail:: /_static/jmodeltest_1.png
 
 'Analysis' > 'Compute likelihood scores'
 
@@ -389,7 +389,7 @@ Start jModelTest
 
 Start analysis > 'Compute Likelihoods'
 
-.. image:: /_static/jmodeltest_2.png
+.. thumbnail:: /_static/jmodeltest_2.png
 
 After likelihoods have been calculated for each model, a list with all models, parameters and likelihood scores is available under
 
@@ -402,7 +402,7 @@ In this course, we only want to calculate AIC and BIC using default settings →
 - 'Analysis' > 'Do AIC calculations'
 - 'Analysis' > 'Do BIC calculations'
 
-.. image:: /_static/jmodeltest_3.png
+.. thumbnail:: /_static/jmodeltest_3.png
 
 The program provides a very detailed list of the AIC and BIC results. For detailed information on parameters and analyses of jModeltest, click `here <http://www.phylo.org/pdf_docs/jmodeltest-2.1.6-manual.pdf>`_.
 
@@ -410,7 +410,7 @@ Save results of AIC and BIC calculations:
 
 - 'Results' > 'Build HTML log' 
 
-.. image:: /_static/jmodeltest_4.png
+.. thumbnail:: /_static/jmodeltest_4.png
 
 .. _How_to_Infer_Phylogenetic_Trees:
 How to Infer Phylogenetic Trees
@@ -435,7 +435,7 @@ Download the program `SeaView <https://doua.prabi.fr/software/seaview>`_ and loa
 
 - Starts NJ analysis
 
-.. image:: /_static/seaview_1.png
+.. thumbnail:: /_static/seaview_1.png
 
 A window opens in which you can choose different parameters for the NJ analysis.
 
@@ -470,7 +470,7 @@ A window opens in which you can choose different parameters for the NJ analysis.
 
 - Run Analysis
 
-.. image:: /_static/seaview_2.png
+.. thumbnail:: /_static/seaview_2.png
 
 After the NJ analysis finsihes, the resulting tree opens in a new window. Here you can (among other options):
 
@@ -492,7 +492,7 @@ How To Draw Phylogenetic Trees
 
 This is a versatile program for the graphical visualization of phylogenetic trees. It is recommended to save the opened tree (e.g. the `.tre` file) directly under a new name to avoid to accidentally overwrite the original tree file.
 
-.. image:: /_static/figtree_1.png
+.. thumbnail:: /_static/figtree_1.png
 
 Open a tree file:
 
@@ -513,7 +513,7 @@ Statistical node support (bootstraps and/or posterior probabilities) are display
 
 In FigTree the relevant results of the phylogenetic analyses can be highlighted or summarized by colouring clades, branches, and tiplabels. In PowerPoint (or in other graphics editors such as `Inkscape <https://inkscape.org/de/>`_) you can add annotations, such as boxes, arrows, and other graphical objects.
 
-.. image:: /_static/figtree_2.png
+.. thumbnail:: /_static/figtree_2.png
 
 .. _Maximum_Likelihood:
 Maximum Likelihood
@@ -535,7 +535,7 @@ The ML algorithm in older software (such as PAUP*) is very thorough but even mod
 
 RAxML is one of these „fast“ ML-algorithms written for the analysis of large data sets with hundreds of taxa and several genes per taxa. Alignments with 1,900 taxa and 1,200 bp are considered small for RAxML. The high speed for ML analyses is based on the assumption that a topological search (the number of analyzed topologies) is more important for the construction of a „good“ ML tree than the calculation of exact likelihood scores.
 
-.. image:: /_static/raxml.png
+.. thumbnail:: /_static/raxml.png
 
 .. note::
 
@@ -793,4 +793,4 @@ All instructions are given for the console (if not specifically indicated otherw
   install.packages("seqinr")
 
 
-.. image:: /_static/R.png
+.. thumbnail:: /_static/R.png
