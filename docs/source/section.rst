@@ -101,7 +101,7 @@ Export Data
 Database and Search Strategies
 ------------------------------
 
-Molecular sequence data is available from several online public databases, e.g. NCBI GenBank (USA), EMBL EBI (Europe), or DDBJ (Japan), to name a few. Providers manage and update entries daily via the World Wide Web. During this course, we use the service of NCBI GenBank to compare and validate our own sequence data and obtain additional sequences.
+Molecular sequence data is available from several online public databases, e.g. `NCBI GenBank` (USA), `EMBL EBI` (Europe), or `DDBJ` (Japan), to name a few. Providers manage and update entries daily via the World Wide Web. During this course, we use the service of NCBI GenBank to compare and validate our own sequence data and obtain additional sequences.
 
 To screen the database for sequence data, two alternative search strategies are described below:
  
