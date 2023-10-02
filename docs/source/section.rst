@@ -17,7 +17,7 @@ Working with Geneious Prime
 
 2. Create a new folder for your project
 
-3. Drag and drop the .abi files from your explorer/finder into the sequence panel to import the sequence files
+3. Drag and drop the ``.abi`` files from your explorer/finder into the sequence panel to import the sequence files
 
 .. thumbnail:: /_static/geneious_1.png
 
