@@ -15,13 +15,13 @@ Schedule
      - Mon
      - 06.11.23
      - Welcome, introduction, sort animals I, determine I
-     - Kursraum C, HD 8
+     - Kursraum C, Heinrich-Düker-Weg 8
      - 9:00-16:00
    * - First
      - Tue
      - 07.11.23
      - Sort animals II, determine II, complete common taxa list
-     - Kursraum C, HD 8
+     - Kursraum C, Heinrich-Düker-Weg 8
      - 9:00-16:00
    * - First
      - Wed
