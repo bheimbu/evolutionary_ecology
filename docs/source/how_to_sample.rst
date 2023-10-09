@@ -6,6 +6,10 @@ Check out the video below to find out how to sample oribatid mites.
 
 .. youtube:: 9RRhksEuEpM
 
+.. hint::
+   More videos of the soil animal ecology group can be found on `Youtube`_.
+
+.. _Youtube: https://www.youtube.com/@animalecologygoettingen378
 
 **Material**
 
@@ -31,7 +35,7 @@ Now, is the best time, it is not too cold and fungi are growing everywhere, in a
 Please put a note into your bag with sampling date, sampling location (closest city or village, or GPS data) and type of habitat (forest, which kind of forest, which trees are dominating? Grassland or meadows – regularly mowed, grazed by which animals?), local garden or park (under which tree was the litter collected?), other locations (any relevant data related to the biotic environment of oribatid mites).
 You can store the bags at home in your fridge (between 10-16°C), in the basement or garden shed. Any place dry and cool without frost is good.
 
-.. hint::
-   More videos of the soil animal ecology group can be found on `Youtube`_.
+**What happens to my samples?**
 
-.. _Youtube: https://www.youtube.com/@animalecologygoettingen378
+I will store your samples at an appropriate place. The extraction will start one week before the course starts. Soil samples will be placed into a `Kempson Extractor <https://de.wikipedia.org/wiki/Kempson-Methode>`_ to separate living soil animals from dead organic material.
+
