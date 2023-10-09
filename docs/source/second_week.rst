@@ -124,7 +124,7 @@ T1_A2
 
 .. important::
   - Download sequences from NCBI with following accession numbers (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_) as separate sequence files in FASTA format.
-  - Remember to change the names of the sequences as follows: Taxon_Gen.fas
+  - Remember to change the names of the sequences as follows: ``Taxon_Gen.fas``
   - Read the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
   - Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
@@ -160,8 +160,7 @@ T1_A5
 
 .. important::
   - What do you consider the key benefits of an online database?
-
-  Write down your answer on a sheet of paper.
+  - Write down your answer on a sheet of paper.
 
 .. _T1_B:
 T1_B
