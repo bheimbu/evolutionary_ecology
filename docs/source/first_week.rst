@@ -245,4 +245,4 @@ On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads 
 
 Feedback Friday
 ^^^^^^^^^^^^^^^^
-To provide feedback, please complete our questionnaire: [Questionnaire Link](https://www.example.com/questionnaire).
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
