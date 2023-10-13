@@ -67,12 +67,12 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format: 
 
-  ``$Sample Number_$Genus_$Species_$Gene_$Initials`` ( ``01_Acrogalumna_longisetosa_18S_IS`` )
+  Sample-Number_Genus_Species_Gene_Initials ( ``01_Acrogalumna_longisetosa_18S_IS`` )
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
   - Export the consensus sequences
-  - Make sure the sequence name is correct!
+  - Make sure the sequence name is correct
   - Keep in mind that a consensus sequence file consists of a single sequence
 
   - Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
