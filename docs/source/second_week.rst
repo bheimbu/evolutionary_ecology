@@ -374,7 +374,6 @@ Task 3
 """"""
 
 .. important::
-  - Read section :ref:`More_on_Trees`
   - Complete exercises under :ref:`T3_C` by hand using pen and paper
 
 
