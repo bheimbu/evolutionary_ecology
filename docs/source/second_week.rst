@@ -771,7 +771,7 @@ T5_A
 
 .. note::
 
-  - Copy-paste the multisequence FASTA files from :ref:`T1_A2` and :ref:`T1_A4` (``T1_A4_Oribatida_EF.fas`` and ``T1A4_Oribatida_18S.fas``) to a new folder named **T5_A1**. 
+  - Copy-and-paste the multisequence FASTA files from :ref:`T1_A2` and :ref:`T1_A4` (``T1_A4_Oribatida_EF.fas`` and ``T1A4_Oribatida_18S.fas``) to a new folder named **T5_A1**. 
   - Open R or RStudio and set the folder **T5_A1** as working directory.
 
 .. _T5_A1:
