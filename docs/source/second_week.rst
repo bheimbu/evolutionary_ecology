@@ -726,14 +726,14 @@ Task 1
 Task 2
 """"""
 
- .. important::
+.. important::
 
   Read section :ref:`Getting_Started_with_R`
 
 Task 3
 """"""
 
- .. important::
+.. important::
 
   - Download the R script and the example files in the section :ref:`T5_A`
   - Work through the script to understand how to make phylogenetic trees in R.
@@ -742,7 +742,7 @@ Task 3
 Task 4
 """"""
 
- .. important::
+.. important::
 
    - Download the R script and the example files in the section :ref:`T5_B`
    - Work through the script to see in which way you can also analyse genetic data in R.
@@ -750,14 +750,14 @@ Task 4
 Task 5
 """"""
 
- .. important::
+.. important::
 
   Run the script of Task 3 with your own toy dataset
 
 Task 6
 """"""
 
- .. important::
+.. important::
 
   Do not leave before you finished **at least three of the five** tasks!
 
