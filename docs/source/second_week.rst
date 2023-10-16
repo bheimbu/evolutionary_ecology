@@ -317,7 +317,7 @@ T2_C
 .. important::
   1. Download the `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
   2. Complete the exercises.
-  3. Upload the completed worksheet `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
+  3. Upload the completed worksheet `here <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
