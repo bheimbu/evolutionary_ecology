@@ -495,7 +495,7 @@ T3_C4
 
   With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
 
-  - Hand in the tree (**on paper, don't forget to include your name**) with all distance calculations and intermediate distance matrixes.
+  - Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
   - Interpret the tree in a phylogeographic context.
   - Are both populations genetically separated or are there any indications for gene flow or dispersal?
 
