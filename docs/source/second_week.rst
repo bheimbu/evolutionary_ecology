@@ -490,12 +490,13 @@ T3_C4
   - If gene flow perpetuates between geographically distant populations or if they have a common ancestor from which they recently separated, their genetic distances are comparatively low.
 
 .. important::
-  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite Steganacarus magnus (SM) from Germany (D) and France (F). To understand relationships between the two populations the student sequenced the COI gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
+  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
 
   With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
 
-  - Hand in the tree (on paper with your name) with all distance calculations and intermediate distance matrixes.
-  - Interpret the tree in a phylogeographic context. Are both populations genetically separated or are there any indications for gene flow or dispersal?
+  - Hand in the tree (**on paper, don't forget to include your name**) with all distance calculations and intermediate distance matrixes.
+  - Interpret the tree in a phylogeographic context.
+  - Are both populations genetically separated or are there any indications for gene flow or dispersal?
 
 +-------+-------+-------+-------+-------+-------+-------+-------+
 |       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
