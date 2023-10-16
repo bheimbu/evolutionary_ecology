@@ -418,7 +418,7 @@ How to Infer Phylogenetic Trees
 -------------------------------
 
 .. note::
-  Phylogenetic analyses always start with a search for the best tree followed by an a posteriori analysis that statistically checks the probabilities for the tree topology. First, you should get a feeling for properties and logic constraints of phylogenetic trees. For this, you will find here some exercises in which you need to draw trees by hand. For displaying complex trees, use the open source software FigTree. You will find more information about working with FigTree in the next section :ref:`How_To_Draw_Phylogenetic_Trees.
+  Phylogenetic analyses always start with a search for the best tree followed by an a posteriori analysis that statistically checks the probabilities for the tree topology. First, you should get a feeling for properties and logic constraints of phylogenetic trees. For this, you will find here some exercises in which you need to draw trees by hand. For displaying complex trees, use the open source software FigTree. You will find more information about working with FigTree in the next section :ref:`How_To_Draw_Phylogenetic_Trees`.
 
 **Neighbor Joining (NJ)**
 
