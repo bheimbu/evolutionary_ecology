@@ -473,7 +473,7 @@ A window opens in which you can choose different parameters for the NJ analysis.
 
 .. thumbnail:: /_static/seaview_2.png
 
-After the NJ analysis finsihes, the resulting tree opens in a new window. Here you can (among other options):
+After the NJ analysis finishes, the resulting tree opens in a new window. Here you can (among other options):
 
 - Display bootstrap values
 - Root your tree (Re-root to set the outgroup; click on relevant square that appears)
