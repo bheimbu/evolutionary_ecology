@@ -1,4 +1,4 @@
-Welcome to M.Biodiv.411 Evolutionary Ecology!
+Welcome to M.Biodiv.441 Evolutionary Ecology!
 =============================================
 
 Here you can find the complete documentation of the course, which can also be found under `StudIP`_.
