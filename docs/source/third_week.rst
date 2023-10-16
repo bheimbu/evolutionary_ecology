@@ -152,7 +152,7 @@ Today, keep the finish line of analyses in sight. Check and discuss preliminary 
 
 .. note::
 
-  Make sure that you have looked for and consulted scientific papers that deal with your topic. Just a reminder: tomorrow is due day for the questionnaire.
+  Make sure that you have looked for and consulted scientific papers that deal with your topic. **Just a reminder:** Tomorrow will be the questionnaire.
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
@@ -171,7 +171,7 @@ Tasks of the Day
 
 .. attention::
 
-  Do not forget, you have to answer the questionnaire before lunch.
+  **Do not forget, you have to answer the questionnaire before lunch.**
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^^
