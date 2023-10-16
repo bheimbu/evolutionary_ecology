@@ -131,7 +131,7 @@ Tasks of the Day
   
 .. tip::
 
-  Ask tutors for help, assistance, advice.
+  Ask tutors for help, assistance, and/or advice.
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
