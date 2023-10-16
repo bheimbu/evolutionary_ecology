@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'M.Biodiv Evolutionary Ecology'
+project = 'M.Biodiv.441 Evolutionary Ecology'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
