@@ -810,7 +810,7 @@ T5_A3
 
 .. important::
 
-  - Calculate the model of sequence evolution in R for the trimmed alignments EF_aln2.fas and 18S_aln2.fas.
+  - Calculate the model of sequence evolution in R for the trimmed alignments ``EF_aln2.fas`` and ``18S_aln2.fas``.
   - What is the best fit model for: **EF** and **18S**
 
 .. _T5_A4:
@@ -822,7 +822,7 @@ T5_A4
   - Calculate an ML tree for ``EF_aln2.fas`` and ``18S_aln2.fas``.
   - Plot both trees in one graphic, with facing tip labels. **EF** with ``green`` and **18S** with ``yellowgreen`` tip labels.
   - Display bootstrap values in ``circles`` and in ``red`` with background in ``pink1``.
-  - Save the plot as pdf, name it ``ML_EF_18S.pdf``
+  - Save the plot as PDF, name it ``ML_EF_18S.pdf``
 
 .. _T5_A5:
 T5_A5
