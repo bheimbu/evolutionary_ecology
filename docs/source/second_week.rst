@@ -801,7 +801,7 @@ T5_A2
   - Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
   - Save the distance matrix for each alignment as ``csv``, name it ``dEF.csv`` and ``d18S.csv``.
   - Calculate `1000` bootstraps for each tree.
-  - Plot each tree nicely (``ladders right=FALSE, cex=0.7``) with bootstrap in percent and in ``lightblue`` colour in circles with "white" background.
+  - Plot each tree nicely (``ladders right=FALSE, cex=0.7``) with bootstrap in percent and in ``lightblue`` colour in circles with ``white`` background.
   - Save the NJ trees with nodelabels as ``njEF.tre`` (with ``red`` tip labels) and ``nj18S.tre`` (with ``lightblue`` tip labels).
 
 .. _T5_A3:
