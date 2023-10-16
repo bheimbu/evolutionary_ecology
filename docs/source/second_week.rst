@@ -182,7 +182,7 @@ T1_B2
 
 .. important::
   - Open the file ``T1A4_Oribatida_18S.fas`` from :ref:`T1_A4` with your local text editor of choice (e.g. Notepad++, Editor).
-  - Save the file in FASTA-format (folder: **T1_B2**, filename: ``18S_all.fas``).
+  - Save the file in FASTA format (folder: **T1_B2**, filename: ``18S_all.fas``).
   - Change sequence names from GenBank just as in **T1_B1** (genus_species_accession number_gene).
   - You now have two datasets with +/- identical taxon sampling but with two different genes.
   - Now you can add (import) some of your own sequences to the 18S file.
@@ -332,8 +332,8 @@ Summary
 
 Today, we have three learning modules:
 
-1. Models of Sequence Evolution (Lecture)
-2. How to infer Phylogenetic Trees (Lecture)
+1. Models of Sequence Evolution (:ref:`lectures`)
+2. How to Infer Phylogenetic Trees (:ref:`lectures`)
   - Using Neighbor Joining
 3. How to Draw Phylogenetic Trees
   - Introduction to FigTree (tree editing software)
