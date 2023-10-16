@@ -592,7 +592,7 @@ Task 4
 """"""
 
 .. important::
-  If you have some spare time because your analyses runs/worked smoothly and you answered all questions satisfactorily, you may start with reading the first sections of :ref:`Friday__Second_Week`
+  If you have some spare time because your analyses runs/worked smoothly and you answered all questions satisfactorily, you may start with reading the first sections of :ref:`Friday_Second_Week`
 
 Task 5
 """"""
