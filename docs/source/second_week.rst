@@ -544,11 +544,11 @@ Both methods are widely used, because they are more thorough than Cluster method
 
 Today, we are using programs that can only be controlled via the command line and do not have a GUI.
 
-- Maximum Likelihood analysis
+**- Maximum Likelihood analysis**
  - Generate a batch file from which the analysis starts.
  - Download `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_
 
-- MrBayes
+**- MrBayes**
  - Batch file optional, but you can also enter your commands manually
  - Download `here <https://nbisweden.github.io/MrBayes/download.html>`_
 
