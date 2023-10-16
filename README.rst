@@ -5,4 +5,4 @@ This GitHub page includes the link to the documentation on `Read the Docs <https
 
 See the course material here:
 
-https://mbiodiv411-evolutionary-ecology.readthedocs.io/en/latest/
+https://mbiodiv441.readthedocs.io/en/latest/
