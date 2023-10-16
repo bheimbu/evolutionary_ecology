@@ -288,16 +288,17 @@ T2_A1
   Use a period (``.``), not a comma (``,``) when typing the penalty values!
 
 .. important::
-  Save the alignments as `.fas` file to the folder **T2_A1** with the name ``Gen_T2A1a/b/c/d/e/f_aln.fas``.
+  Save the alignments as ``.fas`` file to the folder **T2_A1** with the name ``Gen_T2A1a/b/c/d/e/f_aln.fas``.
 
 .. thumbnail:: /_static/T2_A_2.png
 
-.. _T2_A2:
-T2_A2
-"""""
+.. _T2_A2-A5:
+T2_A2-A5
+""""""""
 
 .. important::
-  - Download the `worksheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and complete the tasks described therein. Compare your results with your neighbour.
+  - Download the `worksheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and complete the tasks described therein. 
+  - Compare your results with your neighbour.
   - Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
 
 .. _T2_B:
