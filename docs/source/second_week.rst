@@ -469,7 +469,7 @@ T3_C2
 """""
 
 .. important::
-  - Draw the following tree: ((((A,(B,(C,D))),E),(F,G)),H) 
+  - Draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)`` 
   - Check your topology with FigTree.
 
 .. _T3_C3:
