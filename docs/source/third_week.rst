@@ -171,7 +171,7 @@ Tasks of the Day
 
 .. attention::
 
-  **Do not forget, you have to answer the questionnaire before lunch.**
+  **Do not forget to answer the questionnaire before lunch.**
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^^
