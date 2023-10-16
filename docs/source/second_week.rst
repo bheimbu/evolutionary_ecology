@@ -449,7 +449,8 @@ T3_B3
 T3_C
 """""
 
-Do all the following exercises (**T3_C1-C5**) on paper. Hand in the paper with your name on it to the tutors. We will discuss them tomorrow.
+.. note::
+  Do all the following exercises (**T3_C1 to T3_C5**) on paper. Hand in the paper with your name on it to the tutors. We will discuss them tomorrow.
 
 .. _T3_C1:
 T3_C1
