@@ -387,8 +387,7 @@ Task 4
 Wednesday Tutorials
 ^^^^^^^^^
 
-Make a new folder named **T3** to save all results of these exercises.; within this folder, create the subfolder **T3_A**.
-
+Make a new folder named **T3** to save all results of the following exercises and within this folder create the subfolder **T3_A**.
 
 .. _T3_A1:
 T3_A1
@@ -396,14 +395,14 @@ T3_A1
 
 .. important::
   - Use jModelTest to calculate the best fitting model of sequence evolution for both elongation factor and 18S alignments from exercise :ref:`T2_A2`.
-  - Safe the results i.e., the html log file, in the folder **T3_A**.
+  - Safe the results (the html log file) in the folder **T3_A**.
 
 .. _T3_A2-A5:
-T3_A1-A5
+T3_A2-A5
 """"""""
 
 .. important::
-  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions (**T3_A2-A5**) therein.
+  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions (**T3_A2-A5**)
 
 
 .. _T3_B:
@@ -417,50 +416,47 @@ T3_B1
 """""
 
 .. important::
-  - For both alignments from :ref:`T2_A2` calculate a NJ tree without a model of sequence evolution (Distances Observed) with 1000 bootstrap replicates.
-  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is without (w-o) a model.
+  - For both alignments from **T2_A2** calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates.
+  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is without (`w-o`) a model.
 
 .. _T3_B2:
 T3_B2
 """""
 
 .. important::
-  - For both alignments from T2_A2 calculate a NJ tree with a model of sequence evolution with 1000 bootstrap replicates.
-  - Use the most complex model available (Distance HKY).
-  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is with (w) a model.
+  - For both alignments from **T2_A2** calculate a NJ tree with a model of sequence evolution with `1000` bootstrap replicates
+  - Use the most complex model available (`Distance HKY`)
+  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is with (`w`) a model
 
 .. _T3_B3:
 T3_B3
 """""
 
 .. important::
-  - Present the trees from :ref:`T3_B1` and :ref:`T3_B2` as phylograms in PowerPoint.
-  - Show the NJ trees of EF with and without model on one page, of 18S on another page.
-  - To do this, open the four trees from :ref:`T3_B1` and :ref:`T3_B2` in FigTree, display the tree with increasing node order (STRG + U) and export the tree as JPEG. 
+  - Present the trees from :ref:`T3_B1` and :ref:`T3_B2` as phylograms in PowerPoint
+  - Show the NJ trees of EF with and without model on one page, of 18S on another page
+  - To do this, open the four trees from :ref:`T3_B1` and :ref:`T3_B2` in FigTree, display the tree with increasing node order (``STRG + U``) and export the tree as JPEG.
 
-   - What is the effect of the model of sequence evolution on:
-    - Tree topology?
-    - Node support?
-
-  - What are the main differences between EF and 18S in tree topology and node support?
-  - Which phylogenetic tree is most satisfying in terms of topology and support?
+  - What is the effect of the model of sequence evolution on: (1) Tree topology and (2) node support?
+  - What are the main differences between EF and 18S in terms of tree topology and node support?
+  - Which phylogenetic tree is most satisfying in terms of topology and node support?
 
 .. _T3_C:
 T3_C
 """""
 
 .. note::
-  Do all the following exercises (**T3_C1 to T3_C5**) on paper. Hand in the paper with your name on it to the tutors. We will discuss them tomorrow.
+  Do all the following exercises (**T3_C1 to T3_C5**) on a sheet of paper. Hand in your results at the end (don't forget to write dowwn your name). We will discuss them tomorrow.
 
 .. _T3_C1:
 T3_C1
 """""
 
 .. important::
-  - Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
-  - In one tree use arrows to show where the tree can be rooted.
-  - How many topologies are possible for a rooted the tree with four taxa (A, B, C, D)?
-  - Draw all possible trees.
+  - Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D)
+  - In one of the trees, use arrows to indicate where the tree might be rooted
+  - How many topologies are possible for a rooted tree with four taxa (A, B, C, D)?
+  - Draw all possible combinations
 
 .. attention::
   Some topologies might be redundant.
@@ -478,22 +474,21 @@ T3_C3
 """""
 
 .. important::
-  - Why are trees with four taxa interesting for mathematicians, compared to trees with two or three taxa?
+  - Why are trees with four taxa interesting to mathematicians compared to trees with two or three taxa?
 
 .. _T3_C4:
 T3_C4
 """""
 
 .. note::
-  - Phylogeography studies the genetic structure of species within or between geographic regions.
-  - If populations are geographically distant, gene flow usually is reduced and both populations accumulate mutations independently.
-  - This increases genetic distance between taxa.
-  - If gene flow perpetuates between geographically distant populations or if they have a common ancestor from which they recently separated, their genetic distances are comparatively low.
+  - Phylogeography is the study of the genetic structure of species within or between geographic regions
+  - If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
+  - If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
 
 .. important::
-  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
+  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
 
-  With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
+  **With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.**
 
   - Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
   - Interpret the tree in a phylogeographic context.
@@ -529,7 +524,7 @@ Feedback Wednesday
 To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. tip::
-  Relax a bit...
+  If you feel stuck, have a chat in Slack or browse it for answers. 
 
 .. _Thursday_Second_Week:
 Thursday
@@ -540,19 +535,19 @@ Summary
 
 Today, it's all about search algorithms. You will learn the basics of the two most common methods for calculating phylogenetic trees – Maximum Likelihood in the morning and Bayesian Inference in the afternoon.
 
-Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different directions. You will hear more about this in the lectures that are accompanied with the two sections.
+Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
 
-Today, we are using programs that can only be controlled via the command line and do not have a GUI.
+Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface).
 
 **- Maximum Likelihood analysis**
- - Generate a batch file from which the analysis starts.
+ - Generate a batch file from to start the analysis
  - Download `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_
 
 **- MrBayes**
- - Batch file optional, but you can also enter your commands manually
+ - Batch file optional, you can also enter your parameters from the command line
  - Download `here <https://nbisweden.github.io/MrBayes/download.html>`_
 
-While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or model of sequence evolution.
+While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
 .. note::
   **At the end of the day you will…**
@@ -585,8 +580,8 @@ Task 3
 """"""
 
 .. important::
-  - If you feel stuck when answering the questions of tutorial T4, ask and discuss your thoughts with the group and tutors.
-  - **Tasks 1** and **2** should be finished by 15:00, so that we can discuss all results of today in presence
+  - If you feel stuck when answering the questions of tutorial **T4**, ask and discuss your thoughts with the group and tutors or in Slack
+  - **Tasks 1** and **2** should be finished by 03:00 pm, so that we can discuss all results of today in presence
 
 Task 4
 """"""
@@ -609,17 +604,19 @@ T4_A
 """""
 
 .. important::
-  Start a new folder named **T4** and save all results from the following exercises therein. Copy the **18S** and **EF** alignments in a new folder named **Alignments**. Use the program :ref:`Seaview` to convert the alignment from ``.aln`` or ``.fas`` to ``.phy`` (Phylip format).
+  - Start a new folder named **T4** and save all results from the following exercises therein
+  - Copy the **18S** and **EF** alignments in a new folder named **Alignments**
+  - Use :ref:`Seaview` to convert the alignment from ``.aln`` or ``.fas`` to ``.phy`` (Phylip format)
 
 .. _T4_A1:
 T4_A1
 """""
 
 .. important::
-  - Create two new folders for the RAxML analyses of **EF** and **18S**, named **T4_A1_RAxML_EF** and **T4_A1_RAxML_18S**.
-  - Copy the executable file of RAxML (``RAxML.exe``), the ``batch`` file and your alignments in Phylip format in the respective folders, name the batch files ``gene_RAxML_Yourname.bat``.
-  - Start ML analyses with `500` bootstrap replicates for your **18S** and **EF** datasets.
-  - Write down how long the analysis took (in seconds).
+  - Create two new folders for the RAxML analyses of **EF** and **18S**, named **T4_A1_RAxML_EF** and **T4_A1_RAxML_18S**
+  - Copy the executable file of RAxML (``RAxML.exe``), the ``batch`` file and your alignments in Phylip format in the respective folders, name the batch files ``gene_RAxML_Yourname.bat``
+  - Start ML analyses with `500` bootstrap replicates for your **18S** and **EF** datasets
+  - Write down how long the analysis took (in seconds)
 
 .. _T4_A2:
 T4_A2
@@ -627,8 +624,8 @@ T4_A2
 
 .. important::
 
-  - When constructing phylogenetic trees, we can only approach the true phylogenetic relationship between taxa because we can only work with random samples when choosing taxa, whether using morphological or genetic characters.
-  - How can you assess if your tree is a good tree? More than one solution is possible.
+  - When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
+  - How can we be sure that a tree is good? More than one solution is possible.
 
 .. thumbnail:: /_static/haplotypes.png
 
@@ -638,16 +635,16 @@ T4_B1
 
 .. important::
 
-  - Start a MrBayes analysis for both datasets (**18S** and **EF**).
-  - Use a ``batch`` file for each analysis.
-  - Define the outgroup and set the parameters for the best fitting model of sequence evolution.
-  - Run the analyses for `1 million` generations and sample every `100th` generation.
+  - Start a MrBayes analysis for both datasets (**18S** and **EF**)
+  - Use a ``batch`` file for each analysis
+  - Define the outgroup and set the parameters for the best fitting model of sequence evolution
+  - Run the analyses for `1 million` generations and sample every `100th` generation
 
-  - Write down how long the analysis took (minutes + seconds).
+  - Write down how long the analysis took (minutes + seconds)
   - Which parameter-settings deviate from the default settings?
   - What is the average standard deviation of your analyses?
-  - Write down the details of the credible set of trees.
-  - What is the meaning of the number of trees that are included in the credible sets (search online for more information).
+  - Write down the details of the credible set of trees
+  - What is the meaning of the number of trees that are included in the credible sets (search online for more information)
 
 .. _T4_B2:
 T4_B2
@@ -655,8 +652,8 @@ T4_B2
 
 .. note::
 
-  - The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape.
-  - However, as priors are usually unknown you can use flat priors.
+  - The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
+  - However, as priors are usually unknown you can use flat priors
 
 .. important:: 
 
@@ -672,7 +669,7 @@ T4_B3
 
 .. important::
 
-  - Explain briefly, in your own words why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo
+  - Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo
 
 .. _T4_B4:
 T4_B4
@@ -680,11 +677,11 @@ T4_B4
 
 .. important::
 
-  - Import all trees you made into PowerPoint.
-  - Separate the trees according to gene, ML and BI analyses, respectively.
-  - Save them on a DIN A4 page.
-  - Label the nodes with corresponding bootstrap values and posterior probabilities.
-  - What are the main differences between the ML- and MrBayes trees?
+  - Import all trees you made into PowerPoint
+  - Separate the trees according to gene, ML and BI analyses, respectively
+  - Save them on a DIN A4 page
+  - Label the nodes with corresponding bootstrap values and posterior probabilities
+  - What are the main differences between the ML and MrBayes trees?
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
@@ -780,13 +777,13 @@ T5_A1
 
 .. important::
 
-  - Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R.
-  - Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively.
-  - Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``.
+  - Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R
+  - Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively
+  - Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``
 
-  - Open the alignments in BioEdit, check and trim to the shortest sequence. 
-  - Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas``.
-  - Remember to (download and) activate the required packages.
+  - Open the alignments in BioEdit, check and trim to the shortest sequence
+  - Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas``
+  - Remember to (download and) activate the required packages
   - How long (bp) is the trimmed alignment for: **EF** and **18S**
   - How long (bp) is the best alignment from **T2**: **EF** and **18S**
   
