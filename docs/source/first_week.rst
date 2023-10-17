@@ -145,7 +145,7 @@ Feedback Wednesday
 To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 .. tip::
-   Just in case, you can watch the :ref:`lectures` again at any time.
+   If you feel stuck, ask someone in class or on Slack for help.
 
 
 Thursday
@@ -180,7 +180,8 @@ Friday
 -------
 Homework
 ^^^^^^^^
-You can start a Discussion group in the `Forum <https://studip.uni-goettingen.de/dispatch.php/course/forum/index/index/ee59763e66f3b71b69c917f633cb857d?cid=d7b80997f5efda59609a4cf69a04dbf7#ee59763e66f3b71b69c917f633cb857d>`_ to work on the questions and tasks of the past days and for today.
+.. tip::
+  You can start a discussion in Slack to work on the questions and tasks of the past days and for today.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
@@ -238,7 +239,7 @@ On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads 
  Sequences must to be assembled, checked, and exported as consensus sequence files. Please upload them `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_ by Monday 5:00 pm. Each consensus file you upload must contain a sample ID and your initials.
 
 .. tip::
-  If you want, you can also start the :ref:`Monday_Second_Week` tutorials and tasks this Friday. You are very welcome to ask questions in BBB from 11-12 am and 1-2 pm and we would be happy to support you in assembling, checking, exporting, and naming your sequences. You can also use the `Forum <https://studip.uni-goettingen.de/dispatch.php/course/forum/index/index/ee59763e66f3b71b69c917f633cb857d?cid=d7b80997f5efda59609a4cf69a04dbf7#ee59763e66f3b71b69c917f633cb857d>`_ to ask questions and discuss them with the other participants.
+  If you want, you can also start the :ref:`Monday_Second_Week` tutorials and tasks this Friday. You are very welcome to ask questions in class from 11:00-12:00 am and 1:00-2:00 pm and we would be happy to support you in assembling, checking, exporting, and naming your sequences. You can also use the `Forum <https://studip.uni-goettingen.de/dispatch.php/course/forum/index/index/ee59763e66f3b71b69c917f633cb857d?cid=d7b80997f5efda59609a4cf69a04dbf7#ee59763e66f3b71b69c917f633cb857d>`_ to ask questions and discuss them with the other participants.
 
 .. hint::
   The sequencing facility may work quickly, so raw sequences may be available as early as Saturday/Sunday. If so, the assignment list will be provided at the weekend. If the tutorial is clear enough for you and raw sequences were uploaded on the weekend (please check it yourself), you can start working on the weekend and upload the consensus sequences. In any case, consensus sequences must be uploaded to StudIP by 5:00 p.m. on Monday or any time earlier.
