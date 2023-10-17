@@ -704,7 +704,7 @@ This day is dedicated to introduce you into the basic commands in R that enable 
 
 Depending on your present day R skills, you may only skim through some of the sections. You will see which are relevant for you to read.
 
- .. note::
+.. note::
 
   **At the end of the day, you will**
 
