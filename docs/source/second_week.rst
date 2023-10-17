@@ -228,7 +228,7 @@ It is important to remember that sequence files, whether aligned or not, can be 
 The different properties of coding and non-coding sequences will not be explained explicitly and we assume that you already know what reading frames are. However, if you are lost, do not hesitate to ask one of the tutors or me.
 
 .. tip::
-  Start a discussion in the Forum and/or write a Wiki-entry, explaining these issues to everyone.
+  Start a discussion in Slack or write an entry to explain these issues to everyone.
 
 
 Tasks of the Day
