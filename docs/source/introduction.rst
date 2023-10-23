@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Hello and welcome again to M.Biodiv411 Evolutionary Ecology. This Master course introduces you to the amazing world of little creatures called oribatid mites. In the next three weeks, you will learn a lot about them and how to work (with them) in the lab. Oribatid mites are part of the soil ecosystem, which is different from the above-gound system in several important ways. However, many evolutionary concepts developed from well-studied above-ground systems and were transferred to soil systems under the assumption that things work the same way underground. Yet, this is not necessarily true, although universal basic concepts of evolution apply. Evolution can take its own course under different circumstances and we hope that you will discover some of these differences for yourself in this course.
+Hello and welcome again to M.Biodiv.441 Evolutionary Ecology. This Master course introduces you to the amazing world of little creatures called oribatid mites. In the next three weeks, you will learn a lot about them and how to work (with them) in the lab. Oribatid mites are part of the soil ecosystem, which is different from the above-gound system in several important ways. However, many evolutionary concepts developed from well-studied above-ground systems and were transferred to soil systems under the assumption that things work the same way underground. Yet, this is not necessarily true, although universal basic concepts of evolution apply. Evolution can take its own course under different circumstances and we hope that you will discover some of these differences for yourself in this course.
 
 But first things first, who are the people behind this course...
 
