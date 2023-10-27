@@ -546,9 +546,9 @@ RAxML is one of these „fast“ ML-algorithms written for the analysis of large
 
     - Alignment must be in phylip-format
 
-   2. Identical sequence-names
+   2. Identical sequence names
   
-    - Alignment must not contain identical sequence-names, this happens when sequence -names are truncated during format conversions
+    - Alignment must not contain identical sequence names, this happens when sequence names are truncated during format conversions
   
    3. Identical sequences
   
