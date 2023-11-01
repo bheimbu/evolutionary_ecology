@@ -7,20 +7,22 @@ Goals
 --------------
 .. note::
 	**You will…**
-	  - gain basic knowledge of oribatid mites’ ecology, evolution, phylogeny and body plans.
-	  - realize that their body plan is often linked with their taxonomy and phylogeny.
-	  - will understand how to distinguish oribatid mites from other soil-fauna and other mites.
-	  - will be able to recognize the most relevant and useful morphological characters to separate oribatid mites into major groups.
-	  - be able to determine oribatid mites to genus, if possible even to species level, using a determination key.
-	  - be able to organise your collected and determined material within a team, which includes labelling and keeping a common list updated.
-	  - learn how DNA extraction works step by step and you will be able to tell properties of the most relevant chemical substances that are essential for DNA extraction.
-	  - be able to explain how a PCR works and how to visualize the results.
-	  - be able to tell the differences between the different genes (markers) we will use for the PCRs.
-	  - understand how Sanger sequencing works, why we are using it in this course and how to prepare samples for Sanger sequencing.
+	  - gain basic knowledge of oribatid mites’ ecology, evolution, and morphology
+	  - recognize that their body plan is often related to their taxonomy and phylogeny
+	  - will understand how to distinguish oribatid mites from other mites and soil fauna
+	  - will be able to recognize the most relevant and useful morphological characters to separate oribatid mites into major groups
+	  - be able to determine oribatid mites to genus, if possible even to species level, using a species identification key
+	  - be able to organise your collected and identified material within a team, which includes labelling and keeping a common list updated
+	  - learn how DNA extraction works step by step
+          - learn the properties of the main chemical substances essential for DNA extraction
+	  - be able to explain how a PCR works and how to visualize its results
+	  - be able to tell the differences between the different genes (markers) we will use for PCRs
+	  - understand how Sanger sequencing works
+          - know how to prepare samples for Sanger sequencing
 
 Monday
 ------
-You already know, how to collect soil animals. And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
+You already know, how to collect soil animals (see `:ref:how-to-sample` if not). And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
 
 In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives to make you familiar with the term “mesofauna”.
 You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
