@@ -47,62 +47,62 @@ Schedule
      - Sequencing of PCR products, redo failures – optimistically: free
      - 
      - 
-   * - Second
-     - Mon
+   * - :ref:`second-week`
+     - :ref:`Monday_Second_Week`
      - 13.11.23
      - Review of the first week, start practical work with Geneious Prime and upload consensus sequences, Lecture & Tutorial 1: how to handle and edit sequence data
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Second
-     - Tue
+   * - :ref:`second-week`
+     - :ref:`Tuesday_Second_Week`
      - 14.11.23
      - Lecture & Tutorial 2: sequence alignment
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Second
-     - Wed
+   * - :ref:`second-week`
+     - :ref:`Wednesday_Second_Week`
      - 15.11.23
      - Lecture & Tutorial 3: models of sequence evolution and cluster methods
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Second
-     - Thu
+   * - :ref:`second-week`
+     - :ref:`Thursday_Second_Week`
      - 16.11.23
      - Lecture & Tutorial 4: search algorithms & MrBayes
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Second
-     - Fri
+   * - :ref:`second-week`
+     - :ref:`Friday_Second_Week`
      - 17.11.23
      - Lecture & Tutorial 5: phylogeny in R
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Third
-     - Mon
+   * - :ref:`third-week`
+     - :ref:`Monday_Third_Week`
      - 20.11.22
      - Review the second week, develop and conduct your 🧬mini research project🧬, use own data, build hypothesis, start creating datasets fitting to analyze your research question
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Third
-     - Tue
+   * - :ref:`third-week`
+     - :ref:`Tuesday_Third_Week`
      - 21.11.22
      - Conduct 🧬mini research project🧬
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Third
-     - Wed
+   * - :ref:`third-week`
+     - :ref:`Wednesday_Third_Week`
      - 22.11.22
      - Results of 🧬mini research project🧬, discuss, prepare presentation
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Third
-     - Thu
+   * - :ref:`third-week`
+     - :ref:`Thursday_Third_Week`
      - 23.11.22
      - Results of 🧬mini research project🧬, discuss, prepare presentation
      - room MN37, Untere Karspüle 2
      - 9:00-16:00
-   * - Third
-     - Fri
+   * - :ref:`third-week`
+     - :ref:`Friday_Third_Week`
      - 24.11.22
      - Presentation of 🧬mini research project🧬
      - room MN37, Untere Karspüle 2
