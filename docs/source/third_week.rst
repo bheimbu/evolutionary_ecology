@@ -16,7 +16,7 @@ Goals
 
 .. attention::
 
-  The course will end with the last presentation and a feedback round on Friday. You will not have to write a protocol or paper. Instead, you will have to answer a questionnaire, individually, on Thursday.
+  The course will end with the last presentation and a feedback round on Friday. You will not have to write a protocol or paper. **Instead, you will have to answer a questionnaire, individually, on Thursday.**
 
 .. _Mini_research_Project:
 🧬Mini research project🧬
