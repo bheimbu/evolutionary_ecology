@@ -18,13 +18,6 @@ Goals
 
   The course will end with the last presentation and a feedback round on Friday. You will not have to write a protocol or paper. Instead, you will have to answer a questionnaire, individually, on Thursday.
 
-Summary
-^^^^^^^
-
-First, we will start with repeating what you learned last week. How do you analyse molecular data to obtain a phylogenetic tree! Which analytical steps are necessary and why. What are the different steps doing with your data, which are necessary and which are replaceable. As last week, you will draft mind-maps in small teams. The best mind map will be exhibited in the hallway of our working group.
-
-After discussing open questions, you will start to think about your mini research project.
-
 .. _Mini_research_Project:
 🧬Mini research project🧬
 -------------------------
@@ -76,6 +69,12 @@ Collect the neccessary data to test your hypothesis and plan how to split the wo
 .. _Monday_Third_Week:
 Monday
 ------
+Summary
+^^^^^^^
+
+First, we will start with repeating what you learned last week. How do you analyse molecular data to obtain a phylogenetic tree! Which analytical steps are necessary and why. What are the different steps doing with your data, which are necessary and which are replaceable. As last week, you will draft mind-maps in small teams. The best mind map will be exhibited in the hallway of our working group.
+
+After discussing open questions, you will start to think about your mini research project.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
