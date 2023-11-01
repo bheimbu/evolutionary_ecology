@@ -55,7 +55,7 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
-
+.. _first_week_tuesday:
 Tuesday
 -------
 Goals
@@ -94,7 +94,7 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
-
+.. _first_week_wednesday:
 Wednesday
 ---------
 Summary
@@ -150,7 +150,7 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. tip::
    If you feel stuck, ask someone in class or in Slack for help.
 
-
+.. _first_week_thursday:
 Thursday
 --------
 You have been introduced to the basic and most common methods in molecular work i.e., DNA extraction and PCR. Today you will perform gel electrophoresis to visualize the products of your PCRs. Successful PCR reactions are then purified and sent for sequencing.
@@ -178,7 +178,7 @@ Feedback Thursday
 ^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
-
+.. _first_week_friday:
 Friday
 -------
 Homework
