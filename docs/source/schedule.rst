@@ -27,7 +27,7 @@ Schedule
      - Wed
      - 08.11.23
      - Introduction molecular work, safety induction
-     - room 1.212, Untere Karspüle 2
+     - room MN37, Untere Karspüle 2
      - 9:00-10:00
    * - First
      - Wed
