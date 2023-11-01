@@ -12,7 +12,7 @@ Schedule
      - Where
      - When
    * - First
-     - Mon
+     - :ref:`first_week_monday`
      - 06.11.23
      - Welcome, introduction, sort animals I, determine I
      - Kursraum C, Heinrich-Düker-Weg 8
