@@ -20,6 +20,7 @@ Goals
 	  - understand how Sanger sequencing works
           - know how to prepare samples for Sanger sequencing
 
+.. _first_week_monday:
 Monday
 ------
 You already know, how to collect soil animals (see :ref:`how-to-sample` if not). And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
