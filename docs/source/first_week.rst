@@ -22,7 +22,7 @@ Goals
 
 Monday
 ------
-You already know, how to collect soil animals (see `:ref:how-to-sample` if not). And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
+You already know, how to collect soil animals (see :ref:`how-to-sample` if not). And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
 
 In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives to make you familiar with the term “mesofauna”.
 You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
