@@ -24,23 +24,17 @@ Schedule
      - Kursraum C, Heinrich-Düker-Weg 8
      - 9:00-16:00
    * - :ref:`first-week`
-     - :ref:`first_week_tuesday`
-     - 08.11.23
-     - Introduction molecular work, safety induction
-     - room MN37, Untere Karspüle 2
-     - 9:00-10:00
-   * - :ref:`first-week`
      - :ref:`first_week_wednesday`
      - 08.11.23
-     - DNA extraction and PCR
-     - molli lab, Untere Karspüle 2, Animal Ecology
-     - 10:00-16:00
+     - Introduction molecular work, safety induction / DNA extraction and PCR
+     - room MN37, Untere Karspüle 2 / molli lab, Untere Karspüle 2, Animal Ecology
+     - 9:00-10:00 / 10:00-16:00
    * - :ref:`first-week`
      - :ref:`first_week_thursday`
      - 09.11.23
      - Introduction gel electrophoresis, PCR-purification; team a and b
      - molli lab, Untere Karspüle 2, Animal Ecology
-     - Team A: 9:00-13:00, Team B: 12:00-16:00
+     - `Team A`: 9:00-13:00, `Team B`: 12:00-16:00
    * - :ref:`first-week`
      - :ref:`first_week_friday`
      - 10.11.23
