@@ -11,7 +11,7 @@ Check out the :doc:`schedule` for details about the timeline.
 
   The 🔓 password for unlocking files will be given in class.
 
-If you have questions or just want to have a chat with someone of the group, check out the Slack workspace of the course (an invitation will be sent out at the beginning of the course and here is a `download link <https://slack.com/downloads/windows>`_).
+If you have questions or just want to have a chat with someone of the group, check out the **Slack workspace** of the course (an invitation will be sent out at the beginning of the course and here is a `download link <https://slack.com/downloads/windows>`_).
 
 And here are some important **usage** notes, check out :ref:`usage` for more:
 
