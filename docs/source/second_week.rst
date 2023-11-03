@@ -732,7 +732,7 @@ Task 3
 
 .. important::
 
-  - Download the R script and the example files in the section :ref:`T5_A`
+  - Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_
   - Work through the script to understand how to make phylogenetic trees in R.
 
 
@@ -741,7 +741,7 @@ Task 4
 
 .. important::
 
-   - Download the R script and the example files in the section :ref:`T5_B`
+   - Use the same R script as in **Task 3**
    - Work through the script to see in which way you can also analyse genetic data in R.
 
 Task 5
