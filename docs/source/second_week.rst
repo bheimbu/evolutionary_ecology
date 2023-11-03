@@ -541,11 +541,11 @@ Today, we use two programs that can only be controlled via the command line and 
 
 **- Maximum Likelihood analysis**
  - Generate a batch file to start the ML analysis
- - Download `**RAxML**` `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_
+ - Download **RAxML** `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_
 
 **- MrBayes**
  - Batch file optional, you can also enter your parameters from the command line
- - Download `**MrBayes**` `here <https://nbisweden.github.io/MrBayes/download.html>`_
+ - Download **MrBayes** `here <https://nbisweden.github.io/MrBayes/download.html>`_
 
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
