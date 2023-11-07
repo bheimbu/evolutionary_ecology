@@ -89,7 +89,8 @@ Question of the Day
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1744636/u71YTe
+>`_.
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
