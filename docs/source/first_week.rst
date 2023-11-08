@@ -145,7 +145,7 @@ Questions of the Day
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1745342/hp07e6>`_.
 
 .. tip::
    If you feel stuck, ask someone in class or in Slack for help.
