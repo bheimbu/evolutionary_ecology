@@ -176,7 +176,7 @@ Questions of the Day
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1746230/h870Yu>`_.
 
 .. _first_week_friday:
 Friday
@@ -228,10 +228,6 @@ If you are going to use your own PC on Monday next week, install the `30-days tr
 
 .. important:: 
   Watch the tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ on the Geneious Academy webpage. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
-
-Feedback Friday
-^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
 
 Task preview for Monday morning, Second Week:
 ---------------------------------------------
