@@ -61,7 +61,7 @@ Task 2
   - Check out, which raw reads have been assigned to you
   - Import reads to Geneious Prime
   - Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
-  - Find the matching raw reads i.e., the forward and the reverse sequence of the same sample
+  - Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
   - Assemble the matching read pairs
 
 .. attention::
