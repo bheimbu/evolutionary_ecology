@@ -67,7 +67,7 @@ Task 2
 .. attention::
   Remember to name consensus sequences correctly, in the following format: 
 
-  Sample-Number_Genus_Species_Gene_Initials ( ``01_Acrogalumna_longisetosa_18S_IS`` )
+  DNA sample number_Genus_Species_Gene_Initials ( ``1_Acrogalumna_longisetosa_18S_IS`` )
 
 .. important::
   - Check the consensus sequence and correct ambiguous positions
