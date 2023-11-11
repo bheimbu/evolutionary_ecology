@@ -57,7 +57,7 @@ Task 2
 
 .. important::
   - Download the `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_
-  - Open the `assignment list <https://owncloud.gwdg.de/index.php/s/aQhYNQhwvk4wL2H>`_
+  - Open the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
   - Check out, which raw reads have been assigned to you
   - Import reads to Geneious Prime
   - Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
