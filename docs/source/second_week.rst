@@ -182,12 +182,12 @@ T1_B2
 
 .. important::
   - Open the file ``T1_A4_Oribatida_18S.fas`` from :ref:`T1_A4` with your local text editor of choice (e.g. Notepad++, Editor).
-  - Save the file in FASTA format (folder: **T1_B2**, filename: ``18S_all.fas``).
-  - Change sequence names from GenBank just as in **T1_B1** (genus_species_accession number_gene).
-  - You now have two datasets with +/- identical taxon sampling but with two different genes.
-  - Now you can add (import) some of your own sequences to the 18S file.
-  - Your own sequences should be named in the same logic as the sequences from NCBI.
-  - As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``05_Archegozetes_longisetosus_own_18S``
+  - Save the file in FASTA format (folder: **T1_B2**, filename: ``18S_all.fas`` )
+  - Change sequence names from GenBank just as in **T1_B1** ( ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` )
+  - You now have two datasets with +/- identical taxon sampling but with two different genes
+  - Now you can add (import) some of your own sequences to the 18S file
+  - Your own sequences should be named in the same logic as the sequences from NCBI
+  - As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``5_Archegozetes_longisetosus_own_18S``
 
 
 .. note::
