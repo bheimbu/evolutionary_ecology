@@ -56,10 +56,10 @@ Task 2
 """"""
 
 .. important::
-  - Download the `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_
+  - Download the `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
   - Open the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
   - Check out, which raw reads have been assigned to you
-  - Import reads to Geneious Prime
+  - Import reads to Geneious Prime and watch the Geneious tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ if you haven't done so already
   - Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
   - Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
   - Assemble the matching read pairs
