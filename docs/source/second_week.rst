@@ -181,7 +181,7 @@ T1_B2
 """""
 
 .. important::
-  - Open the file ``T1A4_Oribatida_18S.fas`` from :ref:`T1_A4` with your local text editor of choice (e.g. Notepad++, Editor).
+  - Open the file ``T1_A4_Oribatida_18S.fas`` from :ref:`T1_A4` with your local text editor of choice (e.g. Notepad++, Editor).
   - Save the file in FASTA format (folder: **T1_B2**, filename: ``18S_all.fas``).
   - Change sequence names from GenBank just as in **T1_B1** (genus_species_accession number_gene).
   - You now have two datasets with +/- identical taxon sampling but with two different genes.
