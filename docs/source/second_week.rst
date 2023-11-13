@@ -284,7 +284,7 @@ T2_A1
 
 .. important::
   - Create the folder **T2**, in which you safe all results of this tutorial
-  - Use your DNA datasets from exercises :ref:`T1_B1` and :ref:`T1_B2` to generate alignments in BioEdit (see section :ref:`Bioedit` again for how to work with BioEdit) using the following parameters (see below)
+  - Use your DNA datasets from exercises :ref:`T1_B1` and :ref:`T1_B2` to generate alignments in BioEdit using ClustalW (see section :ref:`ClustalW_in_Bioedit` for how to do this) using the following parameters (see below)
 
 .. thumbnail:: /_static/T2_A_1.png
 
