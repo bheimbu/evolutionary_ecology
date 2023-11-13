@@ -281,7 +281,7 @@ Alignment means that molecular data (sequences) are sorted by homologous positio
 
 .. attention::
   - No spaces and special characters allowed! Names of taxa longer than 30 characters are automatically truncated, potentially resulting in name duplications and program failure
-  - No editing possible! Alignment file (`.aln`) needs to be opened in a sequence editor for corrections
+  - No editing possible! Alignment file ( ``.aln`` ) needs to be opened in a sequence editor for corrections
    - **But**: Clustal algorithm is implemented in several phylogenetic programs, e.g. BioEdit, MEGA and PhyDE
    - …which enables editing of alignments without changing the program
    - allows easy switching between nucleotide- and protein sequences
