@@ -250,9 +250,9 @@ Task 2
 
 .. important::
   - Complete exercise :ref:`T2_A`
-  - Work with your toy datasets (18S and EF) from yesterday, do alignments with different penalty values.
+  - Work with your toy datasets (18S and EF) from yesterday and do alignments with different penalty values.
   - Eventually, you must decide which of the alignments of 18S and EF is best.
-  - The best alignments will be used in downstream analyzes over the next few days.
+  - The best alignments will be used in downstream analyses over the next few days.
 
 
 Task 3
@@ -283,9 +283,8 @@ T2_A1
 """""
 
 .. important::
-  Create the folder **T2**, in which you safe all results of this tutorial.
-
-  - Use your DNA datasets from exercises :ref:`T1_B1` and :ref:`T1_B2` to generate alignments in BioEdit using the following parameters (see below)
+  - Create the folder **T2**, in which you safe all results of this tutorial
+  - Use your DNA datasets from exercises :ref:`T1_B1` and :ref:`T1_B2` to generate alignments in BioEdit (see section :ref:`Bioedit` again for how to work with BioEdit) using the following parameters (see below)
 
 .. thumbnail:: /_static/T2_A_1.png
 
@@ -293,7 +292,7 @@ T2_A1
   Use a period (``.``), not a comma (``,``) when typing the penalty values!
 
 .. important::
-  Save the alignments as ``.fas`` file to the folder **T2_A1** with the name ``Gen_T2A1a/b/c/d/e/f_aln.fas``.
+  Save the alignments as ``.fas`` file to the folder **T2_A1** with the name ``$Gen_T2_A1_a/_b/_c/_d/_e/_f_aln.fas``.
 
 .. thumbnail:: /_static/T2_A_2.png
 
