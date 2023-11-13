@@ -243,7 +243,7 @@ Task 1
 """"""
 
 .. important::
-      Read section :ref:`Alignment`.
+      Read section :ref:`Alignment` including the parts about **ClustalX** and **ClustalW**.
 
 Task 2
 """"""
