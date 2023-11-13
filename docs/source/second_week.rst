@@ -243,7 +243,7 @@ Task 1
 """"""
 
 .. important::
-      Read section :ref:`Alignment` including the parts about **ClustalX** and **ClustalW**.
+      Read section :ref:`Alignment` including the parts about :ref:`ClustalX` and :ref:`ClustalW_in_Bioedit`
 
 Task 2
 """"""
