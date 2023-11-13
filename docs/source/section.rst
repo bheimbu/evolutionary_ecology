@@ -271,7 +271,8 @@ Alignment means that molecular data (sequences) are sorted by homologous positio
   - understand the difficulties when aligning ribosomal DNA/RNA
   - recognize different file formats and distinguish interleaved from non-interleaved file format
 
-.. _ClustalX: 
+.. _ClustalX:
+ClustalX
 ^^^^^^^^
 
 - Alignment software with a graphical user interface (GUI)
