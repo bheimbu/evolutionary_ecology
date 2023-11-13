@@ -286,7 +286,7 @@ ClustalX
    - …which enables editing of alignments without changing the program
    - allows easy switching between nucleotide- and protein sequences
 
- 
+.. _ClustalW_in_Bioedit:
 ClustalW in BioEdit
 ^^^^^^^^^^^^^^^^^^^
 
