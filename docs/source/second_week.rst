@@ -174,7 +174,7 @@ T1_B1
         - Open all sequences from exercise :ref:`T1_A2` in a single window in Bioedit ('Import' → 'Sequence alignment file').
         - Save the pooled dataset in FASTA format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
         - Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
-     ..tab:: Do you need help?
+     .. tab:: Do you need help?
         Read section :ref:`Bioedit` for more information about using BioEdit. Please use `AliView <https://ormbunkar.se/aliview/>`_ if you're using a Mac or Linux PC.
 
 
