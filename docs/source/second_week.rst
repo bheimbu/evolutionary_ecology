@@ -195,7 +195,7 @@ T1_B2
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1747958/Eo67R1>`_.
 
 .. tip::
    Just in case, you can read about Geneious Prime again in :ref:`section`.
