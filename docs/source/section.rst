@@ -278,6 +278,7 @@ Alignment means that molecular data (sequences) are sorted by homologous positio
 - Converts several sequence and alignment formats reliably, but cannot read all formats
  - ``.fasta`` files work very well
  - Output file format for aligned sequences with file extension ``.aln``
+ - Download `here <http://www.clustal.org/clustal2/>`_
 
 .. attention::
   - No spaces and special characters allowed! Names of taxa longer than 30 characters are automatically truncated, potentially resulting in name duplications and program failure
