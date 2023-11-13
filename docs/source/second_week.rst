@@ -293,7 +293,7 @@ T2_A1
   Use a period (``.``), not a comma (``,``) when typing the penalty values!
 
 .. important::
-  Save the alignments as ``.fas`` file to the folder **T2_A1** with the name ``$Gen_T2_A1_a/_b/_c/_d/_e/_f_aln.fas``.
+  Save the alignments as ``.fas`` file to the subfolder **T2_A1** with the name ``$Gen_T2_A1_a/_b/_c/_d/_e/_f_aln.fas``.
 
 .. thumbnail:: /_static/T2_A_2.png
 
