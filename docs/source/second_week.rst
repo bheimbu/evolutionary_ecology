@@ -327,7 +327,7 @@ T2_C
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1748614/4i3E03>`_.
 
 .. _Wednesday_Second_Week:
 Wednesday
