@@ -400,7 +400,7 @@ T3_A1
 """""
 
 .. important::
-  - Use jModelTest to calculate the best fitting model of sequence evolution for both elongation factor and 18S alignments from exercise :ref:`T2_A2`.
+  - Use jModelTest to calculate the best fitting model of sequence evolution for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
   - Safe the results (the html log file) in the folder **T3_A**.
 
 .. _T3_A2-A5:
@@ -430,7 +430,7 @@ T3_B2
 """""
 
 .. important::
-  - For both alignments from **T2_A2** calculate a NJ tree with a model of sequence evolution with `1000` bootstrap replicates
+  - For both alignments from **T2_A2** (from the :ref:`Tutorials_2`) calculate a NJ tree with a model of sequence evolution with `1000` bootstrap replicates
   - Use the most complex model available (`Distance HKY`)
   - Save the rooted tree with bootstrap values and indicate in the file name that this tree is with (`w`) a model
 
