@@ -314,6 +314,7 @@ T2_B
   - Read section :ref:`Sequence_Editing`.
   - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
   - Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
+  - Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_
 
 .. _T2_C:
 T2_C
