@@ -591,16 +591,17 @@ The „easy & fast“ analysis generates four output files:
 .. note::
   These four files should be copied to a separate folder (``RAxML_Bsp_18S`` or ``ef``) after every analysis to avoid overwriting. To limit the risk of overwriting results, each RAxML analysis can also be started from a separate folder. This folder contains all important files (alignment, analysis specific batch file, results) after the analysis.
 
-.. _MrBayes:
-MrBayes
--------
+.. _Bayesian_Inference:
+Bayesian Inference
+------------------
 
 Maximum Likelihood calculates the probability of your data from which the „best“ tree is inferred. The Bayesian Inference however uses a completely different mathematical approach, the so called posterior probabilities. The assumption is based on the idea that the probability of a hypothesis (the tree) depends on the data (the alignment). For this, prior probabilities (an a priori probability) are assigned to the hypothesis. For each possible tree, specific likelihoods will be calculated based on the data. The hypothesis will be consecutively modified until the „best“ tree is generated to describe the present data. In this way you obtain the probability for a specific hypothesis that is „true“ in the light of a specific dataset. This is the so called posterior probability of the hypothesis.
 
 The hypothesis (the tree) is composed of the three following parameter: topology, branch length and substitution rate. With Bayesian Inference you obtain the „true“ tree if you calculate all possible trees. For this, these three parameters will be adjusted until you obtain a tree that „truely“ describes the data. The number of possible trees is finite, but depending on the size of your dataset it is usually very large. In principle it is possible to find the „true“ tree of the present dataset, but this would take too much time. The challenge for this method is to cleverly draw random samples of all possible trees so that the probability of finding the „true“ tree is high. To investigate the „probability-landscape of the hypothesis“ as effectively as possible the MCMCMC-algorithm (Metropolis-coupled-Marcov-Chain-Monte-Carlo or MC3) has been developed.
 
- 
-**MrBayes (Huelsenbeck and Ronquist, 2001)**
+.. _MrBayes:
+MrBayes (Huelsenbeck and Ronquist, 2001)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 MrBayes requires an alignment in ``NEXUS`` format and can be executed with a :ref:`batch file` or via command line. Parameters are set prior to the analysis and are separated into three parts:
 
@@ -705,7 +706,6 @@ Starting the Analysis
  
 Stopping or Pausing the Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - ``STRG + C`` + ``y`` (stops the run)
 - ``n`` (resumes the run)
 
