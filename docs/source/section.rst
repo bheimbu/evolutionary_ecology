@@ -569,7 +569,8 @@ RAxML is not executed via command line or graphical user interface, but with a b
 
 **Start RAxML**
 
-The executable file (``RAxML-7.0.3-WIN.exe``), the batch file (``name.batch``) and the ``.phylip`` file have to be in the same folder. To start the program click on the ``batch`` file.
+.. important::
+  The executable file (``RAxML-7.0.3-WIN.exe``), the batch file (``name.batch``) and the ``.phylip`` file have to be in the same folder. To start the program click on the ``batch`` file.
 
 **RAxML results**
 
