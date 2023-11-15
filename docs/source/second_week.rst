@@ -575,13 +575,16 @@ Task 1
 
 .. important::
   - Read section :ref:`Maximum_Likelihood`
+  - Download **RAxML** `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_ if you haven't done it before
   - Complete exercises :ref:`T4_A1` and :ref:`T4-A2`
 
 Task 2
 """"""
 
 .. important::
-  Complete exercises :ref:`T4_B1`, :ref:`T4_B2`, :ref:`T4_B3`, and :ref:`T4_B4`
+  - Read section :ref:`MrBayes`
+  - Download **MrBayes** `here <https://nbisweden.github.io/MrBayes/download.html>`_ if you haven't done it before
+  - Complete exercises :ref:`T4_B1`, :ref:`T4_B2`, :ref:`T4_B3`, and :ref:`T4_B4`
 
 Task 3
 """"""
@@ -642,8 +645,8 @@ T4_B1
 
 .. important::
 
-  - Start a MrBayes analysis for both datasets (**18S** and **EF**)
-  - Use a ``batch`` file for each analysis
+  - Start a MrBayes analysis for both datasets (**18S** and **EF**), see section :ref:`MrBayes` for more details
+  - optional (Use a ``batch`` file for each analysis)
   - Define the outgroup and set the parameters for the best fitting model of sequence evolution
   - Run the analyses for `1 million` generations and sample every `100th` generation
 
