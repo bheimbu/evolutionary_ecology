@@ -796,8 +796,7 @@ Getting Started with R
 
 **R or RStudio**
 
-This is up to you. `RStudio <https://posit.co/download/rstudio-desktop/>`_ is very handy, in particular if you are not used to work in the console. However, the more you get used to using R the switch to R is not unlikely. In the course you can choose what you like best, RStudio is installed on all computers.
-About this tutorial
+This is up to you. `RStudio <https://posit.co/download/rstudio-desktop/>`_ is very handy, in particular if you are not used to work in the console. However, the more you get used to R the switch to the command line version of R is not unlikely. In the course you can choose what you like best.
 
 All instructions are given for the console (if not specifically indicated otherwise) but some commands are executed by mouse click in RStudio or even in R, which is not always indicated.
 
