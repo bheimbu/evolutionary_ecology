@@ -632,28 +632,34 @@ Excute MrBayes
 
 - double-click on MrBayes.exe
 
+.. thumbnail:: /_static/mrbayes_terminal.png
+
 .. code:: text
 
-  log start filename=`Gen_name_logfile` (creates log file)
-  execute `Your_alignment.nex` (load your alignment file)
-  outgroup `taxon_name` or `outgroup number` (sets the outgroup; you can use the taxon name from your alignment file or its number within the alignment; as default MrBayes recognizes the first taxon of an alignment as outgroup)
-  help [setting] (detailed explanation of the commands and parameters; it also shows the current settings, for example 
-  help=lset (shows likelihood setting)
-  help=prset (shows prior setting)
-  help=mcmc (shows Markov Chain Monte Carlo setting)
+  MrBayes > log start filename=`Gen_name_logfile` (creates log file)
+
+  MrBayes > execute `Your_alignment.nex` (load your alignment file)
+
+  MrBayes > outgroup `taxon_name` or `outgroup number` (sets the outgroup; you can use the taxon name from your alignment file or its number within the alignment; as default MrBayes recognizes the first taxon of an alignment as outgroup)
+  
+  MrBayes > help [setting] (detailed explanation of the commands and parameters; it also shows the current settings, for example 
+  MrBayes > help=lset (shows likelihood setting)
+  MrBayes > help=prset (shows prior setting)
+  MrBayes > help=mcmc (shows Markov Chain Monte Carlo setting)
  
 Defining the Model of Sequence Evolution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- lset nst=1 / 2 / 6    ⟶ selects the category of the model of sequence evolution
-- for example:
- - nst=1 ⟶ JC/F81
- - nst=2 ⟶ K80/HYK85
- - nst=6 ⟶ GTR
+.. code::
 
-- lset rates=gamma ⟶ model + G (includes Gamma-distribution of substitutions)
+  MrBayes > lset nst=1 / 2 / 6 (selects the category of the model of sequence evolution)
+  - nst=1 (JC/F81)
+  - nst=2 (K80/HYK85)
+  - nst=6 (GTR)
 
-- lset rates=invgamma ⟶ model +I+G (includes both Gamma-distribution and invariant positions)
+  MrBayes > lset rates=gamma (model + G = includes Gamma-distribution of substitutions)
+
+  MrBayes > lset rates=invgamma (model +I+G = includes both Gamma-distribution and invariant positions)
 
 Setting Priors
 ^^^^^^^^^^^^^^
@@ -680,6 +686,7 @@ Starting the Analysis
 
 .. note::
   If you do not wish to use the default settings, the following settings must be changed before starting the analysis:
+  
   1. ngen= (number of generations; min. 1x106 - default setting)
   2. nruns= (number of parallel analyses; default settings are 2 independent runs)
   3. nchains= (number of chains: always n-1 hot chains; default setting is 4 (3 cold and 1 heated chain))
@@ -692,7 +699,7 @@ Stopping or Pausing the Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  - ``STRG + C`` + ``y`` (stops the run)
- - `n` (resumes the run)
+ - ``n`` (resumes the run)
 
 Writing a ``batch file`` (optional)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
