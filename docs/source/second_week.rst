@@ -423,7 +423,7 @@ T3_B1
 """""
 
 .. important::
-  - For both alignments from **T2_A2** calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates.
+  - For both alignments from **T2_A2** calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates (see section :ref:`How_to_Infer_Phylogenetic_Trees` for how to work with SeaView).
   - Save the rooted tree with bootstrap values and indicate in the file name that this tree is without (`w-o`) a model.
 
 .. _T3_B2:
