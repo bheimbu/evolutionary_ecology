@@ -540,7 +540,7 @@ Thursday
 Summary
 ^^^^^^^
 
-Today, it's all about search algorithms. You will learn the basics of the two most common methods for calculating phylogenetic trees – Maximum Likelihood in the morning and Bayesian Inference in the afternoon.
+Today, it's all about search algorithms. You will learn the basics of the two most common methods for calculating phylogenetic trees – :ref:`Maximum_likelihood` in the morning and :ref:`Bayesian_Inference` in the afternoon.
 
 Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
 
