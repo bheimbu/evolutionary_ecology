@@ -574,8 +574,8 @@ Task 1
 """"""
 
 .. important::
-  - Read section :ref:`Raxml`
-  - Download **RAxML** `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_ if you haven't done it before
+  - Read section :ref:`RAxML <Raxml>`
+  - Download `RAxML <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_ if you haven't done it before
   - Complete exercises :ref:`T4_A1` and :ref:`T4-A2`
 
 Task 2
@@ -583,7 +583,7 @@ Task 2
 
 .. important::
   - Read section :ref:`MrBayes`
-  - Download **MrBayes** `here <https://nbisweden.github.io/MrBayes/download.html>`_ if you haven't done it before
+  - Download `MrBayes <https://nbisweden.github.io/MrBayes/download.html>`_ if you haven't done it before
   - Complete exercises :ref:`T4_B1`, :ref:`T4_B2`, :ref:`T4_B3`, and :ref:`T4_B4`
 
 Task 3
