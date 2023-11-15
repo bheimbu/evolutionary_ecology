@@ -682,7 +682,9 @@ Here are some of the most important parameters listed:
  
 Starting the Analysis
 ^^^^^^^^^^^^^^^^^^^^^
-- mcmc (starts analysis)
+.. code::
+
+   MrBayes > mcmc (starts analysis)
 
 .. note::
   If you do not wish to use the default settings, the following settings must be changed before starting the analysis:
