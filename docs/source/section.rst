@@ -703,8 +703,8 @@ Starting the Analysis
 Stopping or Pausing the Analysis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- - ``STRG + C`` + ``y`` (stops the run)
- - ``n`` (resumes the run)
+- ``STRG + C`` + ``y`` (stops the run)
+- ``n`` (resumes the run)
 
 Writing a ``batch file`` (optional)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
