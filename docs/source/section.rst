@@ -599,7 +599,7 @@ The hypothesis (the tree) is composed of the three following parameter: topology
  
 **MrBayes (Huelsenbeck and Ronquist, 2001)**
 
-MrBayes requires an alignment in ``NEXUS`` format and can be executed with a :numref:`batch file` or via command line. Parameters are set prior to the analysis and are separated into three parts:
+MrBayes requires an alignment in ``NEXUS`` format and can be executed with a :ref:`batch file` or via command line. Parameters are set prior to the analysis and are separated into three parts:
 
 - lset (likelihood settings)
 - prset (prior settings)
