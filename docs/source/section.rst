@@ -631,12 +631,16 @@ Parameter Settings and Help
 Excute MrBayes
 
 - double-click on MrBayes.exe
-- log start filename=`Gen_name_logfile` ⟶ creates log file
-- execute `Your_alignment.nex` ⟶ load your alignment file
-- outgroup `taxon_name` or `outgroup number` ⟶ sets the outgroup (you can use the taxon name from your alignment file or its number within the alignment; as default MrBayes recognizes the first taxon of an alignment as outgroup)
- 
-- help [setting] ⟶ detailed explanation of the commands and parameters; it also shows the current settings
- - for example help=lset (shows likelihood setting) or help=prset (shows prior setting) or help=mcmc (shows Markov Chain Monte Carlo setting)
+
+.. code:: text
+
+  log start filename=`Gen_name_logfile` (creates log file)
+  execute `Your_alignment.nex` (load your alignment file)
+  outgroup `taxon_name` or `outgroup number` (sets the outgroup; you can use the taxon name from your alignment file or its number within the alignment; as default MrBayes recognizes the first taxon of an alignment as outgroup)
+  help [setting] (detailed explanation of the commands and parameters; it also shows the current settings, for example 
+  help=lset (shows likelihood setting)
+  help=prset (shows prior setting)
+  help=mcmc (shows Markov Chain Monte Carlo setting)
  
 Defining the Model of Sequence Evolution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
