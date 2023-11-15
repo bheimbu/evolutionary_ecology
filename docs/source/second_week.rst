@@ -453,7 +453,7 @@ T3_C
 """""
 
 .. note::
-  Do all the following exercises (**T3_C1 to T3_C5**) on a sheet of paper. Hand in your results at the end (don't forget to write dowwn your name). We will discuss them tomorrow.
+  Do all the following exercises (**T3_C1 to T3_C5**) on a **sheet of paper**. Hand in your results at the end (**don't forget to write down your name**). We will discuss them tomorrow.
 
 .. _T3_C1:
 T3_C1
