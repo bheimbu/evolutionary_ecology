@@ -623,7 +623,8 @@ The header for MrBayes should include the following parameter:
   ACTGTGCTAGTGGGTTACGCTAGCC .....
   end;
  
-Move your alignment in ``NEXUS`` format and the executable file of MrBayes (``MrBayes.exe`` for Windows users) to the same folder. This is not mandatory, but otherwise you will have to type in the absolute path of your alignment file which can be tedious.
+.. tip::
+  Move your alignment in ``NEXUS`` format and the executable file of MrBayes (``MrBayes.exe`` for Windows users) to the same folder. This is not mandatory, but otherwise you will have to type in the absolute path of your alignment file which can be tedious.
  
 Parameter Settings and Help
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -726,7 +727,7 @@ Posterior Analysis
 - Topologies and branch lengths are saved to the files ``name.run1.t`` and ``name.run2.t``
 
 .. important::
-  Average standard deviation of split frequencies should be <0.01 at the end of the analysis, if not you should continue the analysis with more generations!
+  Average standard deviation of split frequencies should be **<0.01** at the end of the analysis, if not you should continue the analysis with more generations!
 
 .. code-block:: text
 
@@ -736,8 +737,9 @@ Posterior Analysis
    MrBayes > burnin=# (the first # trees must be discarded, because they have low likelihoods compared to the later trees. They should not be incuded in the final analysis as they very likely are very „untrue“ and would corrupt the posterior probabilities)
 
 .. note::
-  - the burnin should be at least 10% of the sampled trees, 25% is also a common value for burnin. If you were running a chain with 1,000,000 generations with a sample-frequency of 100 (every 100th generation was saved) the command to discard 10% would be: burnin=1000
-  - has to be defined after `sump` (for parameters) and after `sumt` (for tree topologies), while the burnin values should be identical for both
+  The burnin should be at least 10% of the sampled trees, 25% is also a common value for burnin. If you were running a chain with 1,000,000 generations with a sample-frequency of 100 (every 100th generation was saved) the command to discard 10% would be: burnin=1000.
+  
+  It has to be defined after `sump` (for parameters) and after `sumt` (for tree topologies), while the burnin values should be identical for both.
 
   .. code-block:: text
 
