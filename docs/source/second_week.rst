@@ -582,7 +582,7 @@ Task 2
 """"""
 
 .. important::
-  - Read section :ref:`MrBayes`
+  - Read section :ref:`MrBayes <MrBayes>`
   - Download `MrBayes <https://nbisweden.github.io/MrBayes/download.html>`_ if you haven't done it before
   - Complete exercises :ref:`T4_B1`, :ref:`T4_B2`, :ref:`T4_B3`, and :ref:`T4_B4`
 
