@@ -574,7 +574,7 @@ Task 1
 """"""
 
 .. important::
-  - Read section :ref:`Maximum_Likelihood`
+  - Read section :ref:`Raxml`
   - Download **RAxML** `here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_ if you haven't done it before
   - Complete exercises :ref:`T4_A1` and :ref:`T4-A2`
 
