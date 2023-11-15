@@ -588,6 +588,153 @@ The „easy & fast“ analysis generates four output files:
 .. note::
   These four files should be copied to a separate folder (``RAxML_Bsp_18S`` or ``ef``) after every analysis to avoid overwriting. To limit the risk of overwriting results, each RAxML analysis can also be started from a separate folder. This folder contains all important files (alignment, analysis specific batch file, results) after the analysis.
 
+.. _MrBayes:
+MrBayes
+-------
+
+Maximum Likelihood calculates the probability of your data from which the „best“ tree is inferred. The Bayesian Inference however uses a completely different mathematical approach, the so called posterior probabilities. The assumption is based on the idea that the probability of a hypothesis (the tree) depends on the data (the alignment). For this, prior probabilities (an a priori probability) are assigned to the hypothesis. For each possible tree, specific likelihoods will be calculated based on the data. The hypothesis will be consecutively modified until the „best“ tree is generated to describe the present data. In this way you obtain the probability for a specific hypothesis that is „true“ in the light of a specific dataset. This is the so called posterior probability of the hypothesis.
+
+The hypothesis (the tree) is composed of the three following parameter: topology, branch length and substitution rate. With Bayesian Inference you obtain the „true“ tree if you calculate all possible trees. For this, these three parameters will be adjusted until you obtain a tree that „truely“ describes the data. The number of possible trees is finite, but depending on the size of your dataset it is usually very large. In principle it is possible to find the „true“ tree of the present dataset, but this would take too much time. The challenge for this method is to cleverly draw random samples of all possible trees so that the probability of finding the „true“ tree is high. To investigate the „probability-landscape of the hypothesis“ as effectively as possible the MCMCMC-algorithm (Metropolis-coupled-Marcov-Chain-Monte-Carlo or MC3) has been developed.
+
+ 
+**MrBayes (Huelsenbeck and Ronquist, 2001)**
+
+MrBayes requires an alignment in ``NEXUS`` format and can be executed with a ``batch file`` or via command line. Parameters are set prior to the analysis and are separated into three parts:
+
+ - `lset` likelihood settings
+ - `prset` prior setting
+ - `mcmc` settings of the mcmc-chain
+ 
+Before Starting MrBayes
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Check whether the alignment file is compatible with MrBayes, it must be in ``NEXUS`` format, if necessary change the header manually.
+
+The header for MrBayes should include the following parameter:
+
+.. code::
+  #NEXUS
+  begin data;
+  dimensions ntax=12 nchar=898;
+  format datatype=dna interleave=yes gap=-;
+  matrix
+  Taxon_1
+  ACTGTGCTAGTGGGTTACGCTAGCC .....
+  end;
+ 
+Move your alignment in ``NEXUS`` format and the executable file of MrBayes (``MrBayes.exe`` for Windows users) to the same folder. This is not mandatory, but otherwise you will have to type in the absolute path of your alignment file which can be tedious.
+ 
+Parameter Settings and Help
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Excute MrBayes
+
+ - double-click on MrBayes.exe
+ - log start filename=`Gen_name_logfile` ⟶ creates log file
+ - execute `Your_alignment.nex` ⟶ load your alignment file
+ - outgroup `taxon_name` or `outgroup number` ⟶ sets the outgroup (you can use the taxon name from your alignment file or its number within the alignment; as default MrBayes recognizes the first taxon of an alignment as outgroup)
+ 
+ - help [setting] ⟶ detailed explanation of the commands and parameters; it also shows the current settings
+  - for example help=lset (shows likelihood setting) or help=prset (shows prior setting) or help=mcmc (shows Markov Chain Monte Carlo setting)
+ 
+Defining the Model of Sequence Evolution
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ - lset nst=1 / 2 / 6    ⟶ selects the category of the model of sequence evolution
+ - for example:
+  - nst=1 ⟶ JC/F81
+  - nst=2 ⟶ K80/HYK85
+  - nst=6 ⟶ GTR
+
+ - lset rates=gamma ⟶ model + G (includes Gamma-distribution of substitutions)
+
+ - lset rates=invgamma ⟶ model +I+G (includes both Gamma-distribution and invariant positions)
+
+Setting Priors
+^^^^^^^^^^^^^^
+
+You change prior settings with the command `prset` followed by the parameter. All parameters available for `prset` are listed when you type `help prset`.
+
+.. note::
+  The default settings of the priors work very well for most analyses.
+ 
+Here are some of the most important parameters listed:
+
+ - showmodel ⟶ default=flat priors
+ - for nst=6 ⟶ 6 parameters possible
+ - topology ⟶ topologypr
+ - branch-lengths ⟶ brlenspr
+ - frequency of nucleotides ⟶ statfreqpr
+ - 6 substitutions of nucleotides ⟶ revmatpr
+ - proportion of invariant positions ⟶ pinvarpr
+ - shape of gamma distributiona ⟶ shapepr
+ 
+Starting the Analysis
+^^^^^^^^^^^^^^^^^^^^^
+ - mcmc ⟶ starts the analysis
+
+..note::
+  If you do not wish to use the default settings, the following settings must be changed before starting the analysis:
+  1. ngen= (number of generations; min. 1x106 - default setting)
+  2. nruns= (number of parallel analyses; default settings are 2 independent runs)
+  3. nchains= (number of chains: always n-1 hot chains; default setting is 4 (3 cold and 1 heated chain))
+  4. samplefreq= (number of generations of a single run; saved to hard drive (default setting: every 100th generation))
+  
+  mcmcp ngen=# nruns=# (using `mcmcp` you can change all parameters without starting the analysis; with `help mcmc` you can check if your changes were saved correctly)
+
+ 
+Stopping or Pausing the Analysis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+ - ``STRG + C`` + ``y`` (stops the run)
+ - `n` (resumes the run)
+
+Writing a ``batch file`` (optional)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Open a new file in a text editor (e.g. Notepad++) to write a MrBayes block and save it as ``.nex`` file. The batch file must start with the following commands:
+
+..code::
+  #Nexus
+  begin mrbayes;
+  enter all commands here, separated by ;
+  end;
+ 
+Posterior Analysis
+^^^^^^^^^^^^^^^^^^
+
+ - Results for all parameters that were investigated are saved in the files ``name.run1.p`` (for run 1) and ``name.run2.p`` (for the parallel run 2)
+ - Topologies and branch lengths are saved to the files ``name.run1.t`` and ``name.run2.t``
+
+.. important::
+  Average standard deviation of split frequencies should be <0.01 at the end of the analysis, if not you should continue the analysis with more generations!
+
+ - sump (summarizes the distribution of likelihoods for all saved parameters)
+ - sumt (summarizes the distribution of likelihoods for all saved tree topologies)
+
+ - burnin=# (the first # trees must be discarded, because they have low likelihoods compared to the later trees. They should not be incuded in the final analysis as they very likely are very „untrue“ and would corrupt the posterior probabilities)
+ - burnin should be at least 10% of the sampled trees, 25% is also a common value for burnin. If you were running a chain with 1,000,000 generations with a sample-frequency of 100 (every 100th generation was saved) the command to discard 10% would be: `burnin=1000`
+ - the burnin has to be defined after `sump` (for parameters) and after `sumt` (for tree topologies), while the burnin values should be identical for both
+
+- sump burnin=#
+- sumt burnin=#
+
+.. thumbnail:: /_static/MrB_burnin.png
+
+MrBayes Results
+^^^^^^^^^^^^^^^
+
+With default paramters MrBayes writes eight output files:
+
+ - ``.con`` (contains the consensus-tree; two trees are written in ``Newick-format``; one tree with and on tree without posterior probabilities. This file can be directly executed in FigTree (see section :ref:`How_To_Draw_Phylogenetic_Trees`).
+
+Seven output files document the parameters and their changes during the mcmc analysis:
+
+ - In separate files for each of the parallel runs (`run1` and `run2`) are all likelihoods of the parameters (``.p`` file) and the trees (``.t`` file) saved that were sampled during the mcmc analyses.
+ - ``.trprobs`` contains all trees and their posterior probabilities that were analysed
+ - ``.parts`` contains the partition of taxa for the consensus tree and the respective statistics
+ - ``.mcmc`` contains the parameters of the mcmc-analysis
+
 .. _Ape_package:
 Ape package
 -----------
