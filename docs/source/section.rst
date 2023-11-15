@@ -653,9 +653,9 @@ Defining the Model of Sequence Evolution
 .. code::
 
   MrBayes > lset nst=1 / 2 / 6 (selects the category of the model of sequence evolution)
-  - nst=1 (JC/F81)
-  - nst=2 (K80/HYK85)
-  - nst=6 (GTR)
+                 nst=1 (JC/F81)
+                 nst=2 (K80/HYK85)
+                 nst=6 (GTR)
 
   MrBayes > lset rates=gamma (model + G = includes Gamma-distribution of substitutions)
 
@@ -671,7 +671,9 @@ You change prior settings with the command `prset` followed by the parameter. Al
  
 Here are some of the most important parameters listed:
 
-- showmodel ⟶ default=flat priors
+.. code::
+
+  MrBayes > showmodel (default = flat priors)
 - for nst=6 ⟶ 6 parameters possible
 - topology ⟶ topologypr
 - branch-lengths ⟶ brlenspr
@@ -707,8 +709,8 @@ Writing a ``batch file`` (optional)
 Open a new file in a text editor (e.g. Notepad++) to write a MrBayes block and save it as ``.nex`` file. The batch file must start with the following commands:
 
 .. code::
-  :caption: batch file
-  :name: batch file
+   :caption: batch file
+   :name: batch file
 
   #Nexus
   begin mrbayes;
