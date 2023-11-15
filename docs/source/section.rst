@@ -720,7 +720,7 @@ See :ref:`this code snippet <this-py>` for an example.
 
 See :numref:`this-py` for an example.
 
-.. code:: text
+.. code-block:: text
    :caption: batch file
    :name: batch file
 
