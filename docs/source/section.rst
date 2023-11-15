@@ -671,16 +671,14 @@ You change prior settings with the command `prset` followed by the parameter. Al
  
 Here are some of the most important parameters listed:
 
-.. code::
-
-  MrBayes > showmodel (default = flat priors)
-- for nst=6 ⟶ 6 parameters possible
-- topology ⟶ topologypr
-- branch-lengths ⟶ brlenspr
-- frequency of nucleotides ⟶ statfreqpr
-- 6 substitutions of nucleotides ⟶ revmatpr
-- proportion of invariant positions ⟶ pinvarpr
-- shape of gamma distributiona ⟶ shapepr
+- showmodel (default = flat priors)
+- for nst=6 (6 parameters possible)
+- topology (topologypr)
+- branch-lengths (brlenspr)
+- frequency of nucleotides (statfreqpr)
+- 6 substitutions of nucleotides (revmatpr)
+- proportion of invariant positions (pinvarpr)
+- shape of gamma distributiona (shapepr)
  
 Starting the Analysis
 ^^^^^^^^^^^^^^^^^^^^^
@@ -688,13 +686,15 @@ Starting the Analysis
 
 .. note::
   If you do not wish to use the default settings, the following settings must be changed before starting the analysis:
+
+  .. code:: text
+
+    MrBayes > ngen= (number of generations; min. 1x106 - default setting)
+    MrBayes > nruns= (number of parallel analyses; default settings are 2 independent runs)
+    MrBayes > nchains= (number of chains: always n-1 hot chains; default setting is 4 (3 cold and 1 heated chain))
+    MrBayes > samplefreq= (number of generations of a single run; saved to hard drive (default setting: every 100th generation))
   
-  1. ngen= (number of generations; min. 1x106 - default setting)
-  2. nruns= (number of parallel analyses; default settings are 2 independent runs)
-  3. nchains= (number of chains: always n-1 hot chains; default setting is 4 (3 cold and 1 heated chain))
-  4. samplefreq= (number of generations of a single run; saved to hard drive (default setting: every 100th generation))
-  
-  mcmcp ngen=# nruns=# (using `mcmcp` you can change all parameters without starting the analysis; with `help mcmc` you can check if your changes were saved correctly)
+    MrBayes > mcmcp ngen=# nruns=# (using `mcmcp` you can change all parameters without starting the analysis; with `help mcmc` you can check if your changes were saved correctly)
 
  
 Stopping or Pausing the Analysis
