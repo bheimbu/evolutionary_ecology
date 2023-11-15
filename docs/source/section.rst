@@ -687,7 +687,7 @@ Starting the Analysis
 .. note::
   If you do not wish to use the default settings, the following settings must be changed before starting the analysis:
 
-  .. code:: text
+  .. code-block:: text
 
     MrBayes > ngen= (number of generations; min. 1x106 - default setting)
     MrBayes > nruns= (number of parallel analyses; default settings are 2 independent runs)
@@ -726,15 +726,21 @@ Posterior Analysis
 .. important::
   Average standard deviation of split frequencies should be <0.01 at the end of the analysis, if not you should continue the analysis with more generations!
 
-- sump (summarizes the distribution of likelihoods for all saved parameters)
-- sumt (summarizes the distribution of likelihoods for all saved tree topologies)
+ .. code-block:: text
 
-- burnin=# (the first # trees must be discarded, because they have low likelihoods compared to the later trees. They should not be incuded in the final analysis as they very likely are very „untrue“ and would corrupt the posterior probabilities)
-- burnin should be at least 10% of the sampled trees, 25% is also a common value for burnin. If you were running a chain with 1,000,000 generations with a sample-frequency of 100 (every 100th generation was saved) the command to discard 10% would be: `burnin=1000`
-- the burnin has to be defined after `sump` (for parameters) and after `sumt` (for tree topologies), while the burnin values should be identical for both
+    MrBayes > sump (summarizes the distribution of likelihoods for all saved parameters)
+    MrBayes > sumt (summarizes the distribution of likelihoods for all saved tree topologies)
 
-- sump burnin=#
-- sumt burnin=#
+    MrBayes > burnin=# (the first # trees must be discarded, because they have low likelihoods compared to the later trees. They should not be incuded in the final analysis as they very likely are very „untrue“ and would corrupt the posterior probabilities)
+
+.. note ::
+  - the burnin should be at least 10% of the sampled trees, 25% is also a common value for burnin. If you were running a chain with 1,000,000 generations with a sample-frequency of 100 (every 100th generation was saved) the command to discard 10% would be: burnin=1000
+  - has to be defined after `sump` (for parameters) and after `sumt` (for tree topologies), while the burnin values should be identical for both
+
+ .. code-block:: text
+
+    MrBayes > sump burnin=#
+    MrBayes > sumt burnin=#
 
 .. thumbnail:: /_static/MrB_burnin.png
 
@@ -743,7 +749,7 @@ MrBayes Results
 
 With default paramters MrBayes writes eight output files:
 
-- ``.con`` (contains the consensus-tree; two trees are written in ``Newick-format``; one tree with and on tree without posterior probabilities. This file can be directly executed in FigTree (see section :ref:`How_To_Draw_Phylogenetic_Trees`).
+- ``.con`` (contains the consensus-tree; two trees are written in ``Newick`` format; one tree with and on tree without posterior probabilities. This file can be directly executed in FigTree (see section :ref:`How_To_Draw_Phylogenetic_Trees`).
 
 Seven output files document the parameters and their changes during the mcmc analysis:
 
