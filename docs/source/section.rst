@@ -708,18 +708,6 @@ Writing a ``batch file`` (optional)
 
 Open a new file in a text editor (e.g. Notepad++) to write a MrBayes block and save it as ``.nex`` file. The batch file must start with the following commands:
 
-
-
-.. code-block:: python
-   :caption: this.py
-   :name: this-py
-
-   print('Explicit is better than implicit.')
-
-See :ref:`this code snippet <this-py>` for an example.
-
-See :numref:`this-py` for an example.
-
 .. code-block:: text
    :caption: batch file
    :name: batch file
