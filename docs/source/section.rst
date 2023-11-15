@@ -523,8 +523,8 @@ Maximum Likelihood
 ------------------
 
 - Stochastic approach to estimate parameters
- - Convergence to the „true“ parameters with increasing amount of data 
- - Minimal variation around the „true value“
+- Convergence to the „true“ parameters with increasing amount of data 
+- Minimal variation around the „true value“
 
 - Calculates a likelihood for each character (any position in an alignment) and requires a lot of computing time
 
