@@ -400,7 +400,7 @@ T3_A1
 """""
 
 .. important::
-  - Use jModelTest to calculate the best fitting model of sequence evolution for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
+  - Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
   - Safe the results (the html log file) in the folder **T3_A**.
 
 .. _T3_A2-A5:
