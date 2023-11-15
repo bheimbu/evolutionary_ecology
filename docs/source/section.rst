@@ -708,14 +708,14 @@ Writing a ``batch file`` (optional)
 
 Open a new file in a text editor (e.g. Notepad++) to write a MrBayes block and save it as ``.nex`` file. The batch file must start with the following commands:
 
-.. code::
+.. code:: text
    :caption: batch file
    :name: batch file
 
-  #Nexus
-  begin mrbayes;
-  enter all commands here, separated by ;
-  end;
+   #Nexus
+   begin mrbayes;
+   enter all commands here, separated by ;
+   end;
  
 Posterior Analysis
 ^^^^^^^^^^^^^^^^^^
