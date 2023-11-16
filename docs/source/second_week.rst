@@ -687,7 +687,7 @@ T4_B4
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1749822/P4f2b7>`_.
 
 .. _Friday_Second_Week:
 Friday
