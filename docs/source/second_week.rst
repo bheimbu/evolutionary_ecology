@@ -544,7 +544,7 @@ Today, it's all about search algorithms. You will learn the basics of the two mo
 
 Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
 
-Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface), namely :ref:`RAxML <Raxml>` (`download here <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://nbisweden.github.io/MrBayes/download.html>`_).
+Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface), namely :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://nbisweden.github.io/MrBayes/download.html>`_).
 
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
@@ -567,7 +567,7 @@ Task 1
 
 .. important::
   - Read section :ref:`RAxML <Raxml>`
-  - Download `RAxML <https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.12>`_ if you haven't done it before
+  - Download `RAxML <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_ if you haven't done it before
   - Complete exercises :ref:`T4_A1` and :ref:`T4-A2`
 
 Task 2
