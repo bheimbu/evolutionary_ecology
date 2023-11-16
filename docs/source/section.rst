@@ -699,7 +699,8 @@ Starting the Analysis
     MrBayes > ngen= (number of generations; min. 1x106 - default setting)
     MrBayes > nruns= (number of parallel analyses; default settings are 2 independent runs)
     MrBayes > nchains= (number of chains: always n-1 hot chains; default setting is 4 (3 cold and 1 heated chain))
-    MrBayes > samplefreq= (number of generations of a single run; saved to hard drive (default setting: every 100th generation))
+    MrBayes > samplefreq= (number of generations of a single run; saved to hard drive (default setting: every 500th generation))
+    MrBayes > printfreq= (number of generations that are printed to the console; default is every 1000th generation)
   
     MrBayes > mcmcp ngen=# nruns=# (using `mcmcp` you can change all parameters without starting the analysis; with `help mcmc` you can check if your changes were saved correctly)
 
