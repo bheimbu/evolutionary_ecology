@@ -31,9 +31,6 @@ Goals
   - Within oribatid mites (e.g. the position of Astigmata within or outside oribatid mites)
   - Within Acari (e.g. are oribatid mites monophyletic?)
   - Within Chelicerata (e.g. are Acari derived or ancestral Chelicerata?)
-
-  **Comparative phylogenetics**
-
   - Are phylogenies based on mitochondrial and nuclear genes identical?
 
   **Phylogeography**
