@@ -131,7 +131,7 @@ Tasks of the Day
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
+To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1752096/Aun8NF>`_.
 
 .. _Wednesday_Third_Week:
 Wednesday
