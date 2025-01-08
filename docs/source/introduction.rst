@@ -15,13 +15,13 @@ Course Structure
 ----------------
 
 .. note::
-  The course structure reflects that of a mini research project.
+  The course is structured like a :ref:`Mini_research_Project`.
 
-In the :ref:`first-week` you will learn about the soil systems and deal with some of its inhabitants. You will collect mites (see :ref:`how-to-sample` ⛏ ) and determine them with the help of a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
+In the :ref:`first-week`, you will explore soil systems and their inhabitants. You’ll collect mites (see :ref:how-to-sample ⛏) and identify them using a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
 
-During the :ref:`second-week`, you will learn the most important tools to analyse molecular data and you will get an introduction into the basics of molecular phyogenetics. Phylogenetics can be a very helpful tool to structure your data and to investigate open research questions.
+In the :ref:`second-week`, you will learn essential tools for analyzing molecular data and be introduced to the fundamentals of molecular phylogenetics. Phylogenetics is a valuable tool for structuring data and exploring research questions.
 
-The :ref:`third-week` is dedicated to you and your own :ref:`Mini_research_Project`. In the first two weeks you will learn everything to come up with your own research question. You will collect your own data (:ref:`first-week`), and learn how to use public databases, as well as methods for investigating a scientific hypothesis (:ref:`second-week`). You will work together in groups -- small research teams --, to delegate and organise your research project efficiently. At the last day of the course, you will present your :ref:`Mini_research_Project`.
+The :ref:`third-week` is dedicated to your own :ref:`Mini_research_Project`. By the end of the first two weeks, you will have the knowledge to develop your own research question. You will collect your own data (:ref:`first-week`), utilize public databases, and apply methods to investigate a scientific hypothesis (:ref:`second-week`). Working in small research teams, you will efficiently organize and delegate tasks within your project. On the final day of the course, you will present your :ref:`Mini_research_Project`.
 
 Goals
 -----
@@ -30,15 +30,14 @@ This course introduces you to some fundamental basics of...
 
 **Soil Ecology**
   - Mesofauna
-  - Oribatid Mites
+  - Oribatid mites
 **Molecular Lab Work**
-  - DNA Extraction
+  - DNA extraction and purification
   - PCR
-  - Sanger Sequencing
+  - Sanger sequencing
 **Molecular Phylogenetics**
-  - Public databanks
-  - Sequence alignments
-  - Phylogenetic trees
+  - Sequence data and alignments
+  - Phylogenetic tree reconstruction 
 
 .. note::
   After completing this course, you will have learned how to organize a **research project**, starting with...
