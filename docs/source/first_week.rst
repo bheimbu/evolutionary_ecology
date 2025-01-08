@@ -41,12 +41,18 @@ In the afternoon, you'll observe soil fauna firsthand through a stereomicroscope
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
-.. important::
-	  - Sort oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
-	  - At the end of the day, transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
+.. tabs::
+
+   .. tab:: Group oribatid mite species based on distinct morphotypes.
+
+	  - Group oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
+	  - Transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
 	  - Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
 	  - The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes. Label them in the same way as the samples in the glass vials.
-	  - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
+
+   .. tab:: Save your notes
+
+          - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
