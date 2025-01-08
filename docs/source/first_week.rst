@@ -43,12 +43,13 @@ Tasks of the Day
 
    .. tab:: Group oribatid mite species based on distinct morphotypes.
 
-	  - Group oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
-	  - Transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
-	  - Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
-	  - The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes. Label them in the same way as the samples in the glass vials.
+	  1. Group oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
+	  2. Transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
+	  3. Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
+	  4. The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes.
+          5. Label them in the same way as the samples in the glass vials.
 
-   .. tab:: Save your notes
+   .. tab:: Save your notes.
 
           - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
 
@@ -64,32 +65,28 @@ Tuesday
 -------
 Goal of the Day
 ^^^^^^^^^^^^^^^
-Yesterday, you collected oribatid mites that were slowly cooking in lactic acid over night to brighten them for better examination under the microscope. Without this treatment, it would be impossible to recognize important morphological features.
+Yesterday, you collected oribatid mites and left them in lactic acid overnight to clear their bodies for better examination under the microscope. Without this treatment, recognizing key morphological features would be challenging.
 
 .. note::
   **Today, you will…**
-    - deepen your knowledge about how to determine oribatid mites.
-    - learn to recognise additional morphological characters.
-    - be able to determine most of your specimen to species level.
+    - Expand your knowledge on how to identify oribatid mites.
+    - lLearn to recognize additional morphological characters.
+    - Be able to identify most of your specimens to the species level.
 
-For the species level identification (using the microscope), please remove one or two individuals from the glass vials; the remaining specimen (in 2 ml reaction tubes) are used for molecular work.
-
-Summary
-^^^^^^^
-Yesterday, you gained an overview about soil-biodiversity and the most common mesofauna representatives. Today we got a deeper insight into the fascinating world of body shapes and forms that are so characteristic of oribatid mites. You are also familiar with the 'morphotype' concept and able to recognize families and genera of oribatid mites, in some case down to to the species level, by form, shape, and individual characters.
-Today, your task is to determine the morphotypes you collected yesterday to the species level (if you didn't do so yesterday). Use only one individual from your morphotype collection and leave the others untouched. Please enter all species you have identified in the common taxa list, including the number of morphotypes.
-At the end of the day, the entire class will have a shared collection of oribatid mite species of specific morphotypes; you learned how to label and organise samples and intermediate results (i.e., your shared taxa list) in a transparent and unique way.
+For species-level identification (using the microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes) will be used for molecular work.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^^
-.. important::
-    1. Please enter the sample number, species name, morphotype number, and your name in the common taxa list.
-    2. At the end of the day, everyone should have five different species identified.
+.. tabs::
 
-Question of the Day
-^^^^^^^^^^^^^^^^^^^
-.. important::
-    Why are we using the undetermined morphospecies for molecular work?
+   .. tab:: Prepare the taxa list
+
+           Enter the sample number, species name, morphotype number, and your name in the taxa list.
+           Everyone should have five different species identified by the end of the day.
+
+   .. tab:: Question of the Day
+
+           Why are we using the undetermined morphospecies for molecular analysis?
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
