@@ -40,9 +40,9 @@ This course introduces you to some fundamental basics of...
   - Phylogenetic tree reconstruction 
 
 .. note::
-  After completing this course, you will have learned how to organize a **research project**, starting with...
-    - building a hypothesis
-    - collect, evaluate, and structure research data
-    - choose appropriate methods for analyses
-    - present and interpret your results
-    - place and discuss your data in a general, up-to-date scientific context
+  By the end of this course, you will have gained the skills to effectively organize a **research project**, including:
+    - Formulating a hypothesis
+    - Collecting, evaluating, and structuring research data
+    - Selecting appropriate analytical methods
+    - Presenting and interpreting your results
+    - Discussing your findings within a broader, up-to-date scientific context
