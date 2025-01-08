@@ -7,27 +7,27 @@ Goals
 --------------
 .. note::
 	**You will…**
-	  - gain basic knowledge of oribatid mites’ ecology, evolution, and morphology
-	  - recognize that their body plan is often related to their taxonomy and phylogeny
-	  - will understand how to distinguish oribatid mites from other mites and soil fauna
-	  - will be able to recognize the most relevant and useful morphological characters to separate oribatid mites into major groups
-	  - be able to determine oribatid mites to genus, if possible even to species level, using a species identification key
-	  - be able to organise your collected and identified material within a team, which includes labelling and keeping a common list updated
-	  - learn how DNA extraction works step by step
-          - learn the properties of the main chemical substances essential for DNA extraction
-	  - be able to explain how a PCR works and how to visualize its results
-	  - be able to tell the differences between the different genes (markers) we will use for PCRs
-	  - understand how Sanger sequencing works
-          - know how to prepare samples for Sanger sequencing
+	  - Gain foundational knowledge of oribatid mites’ ecology, evolution, and morphology.
+	  - Understand how their body plan relates to taxonomy and phylogeny.
+	  - Learn to distinguish oribatid mites from other mites and soil fauna.
+	  - Identify key morphological features for classifying oribatid mites into major groups.
+	  - Use identification keys to determine oribatid mites to genus, and possibly species level.
+	  - Collaboratively organize and manage collected specimens, including proper labeling and maintaining an updated inventory.
+	  - Learn the step-by-step process of DNA extraction and the properties of key chemical substances involved.
+	  - Be able to explain the PCR process and how to visualize its results.
+	  - Be able to differentiate between the various genes (markers) used for PCRs.
+	  - Understand the principles of Sanger sequencing and how to prepare samples for sequencing.
 
 .. _first_week_monday:
 Monday
 ------
-You already know, how to collect soil animals (see :ref:`how-to-sample` if not). And at the end of the day, you have a collection of different mite species, roughly divided into distinct morphological types (morphotypes).
+Here’s a refined version:
 
-In the morning, you will have a general introduction into soil animal systematics and meet the most common representatives to make you familiar with the term “mesofauna”.
-You will also receive an introduction to the taxonomy and phylogeny of oribatid mites and learn more about their characteristic body plans and lifestyles, which will help you to distinguish oribatid mites from other mites.
-In the afternoon, you will see the soil fauna with your own eyes through a stereomicroscope🔬. While many of the soil animals will be dead in your samples, all oribatid mites and other taxa, will be alive. Oribatid mites are a very diverse group, ranging from fast runners to very slow movers; from tiny transparent ones to large, pitch-black species. Some species are smooth as glass, others are covered in dirt. However, all oribatid mites have in common an extensive arsenal of defense strategies.
+You already know how to collect soil animals (refer to :ref:`how-to-sample` if you need a refresher). By the end of the day, you'll have a collection of various mite species, roughly categorized into distinct morphological types (morphotypes).
+
+In the morning, you’ll receive a general introduction to soil animal systematics and become familiar with common mesofauna representatives. Additionally, you'll get an overview of the taxonomy and phylogeny of oribatid mites, learning about their distinctive body plans and lifestyles, which will help you differentiate them from other mites.
+
+In the afternoon, you'll observe soil fauna firsthand through a stereomicroscope 🔬. While many of the soil animals in your samples will be deceased, the oribatid mites and other taxa will be alive. Oribatid mites exhibit remarkable diversity, ranging from agile runners to slow movers, and from tiny, transparent species to large, pitch-black ones. Some are smooth and glassy, while others are coated in dirt. Despite their differences, all oribatid mites share a common trait: an impressive array of defense strategies.
 
 .. tip::
   🔍 Take your time to observe oribatid mites and their characteristic movements and bodies. Write down three to five features (morphological and/or behavioural) of three living oribatid mites you observe. Remember, a character is everything you can observe. What type of defense strategy do the different oribatids display? Save your notes, we will use them later in this course. It may be helpful to make drawings or sketches of the observed species to more easily distinguish morphotypes based on certain character(s).
