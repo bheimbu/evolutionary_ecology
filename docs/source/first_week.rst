@@ -3,7 +3,7 @@ First Week
 ==========
 In the first week, you will observe, separate, and identify oribatid mites and process them in the molecular lab to obtain DNA sequences for phylogenetic analyses.
 
-Goals
+Major Goals
 --------------
 .. note::
 	**You will…**
