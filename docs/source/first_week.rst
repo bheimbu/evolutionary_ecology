@@ -81,8 +81,9 @@ Tasks of the Day
 
    .. tab:: Prepare the taxa list
 
-          1. Enter the sample number, species name, morphotype number, and your name in the taxa list.
-          2. Everyone should have five different species identified by the end of the day.
+          Enter the sample number, species name, morphotype number, and your name in the taxa list.
+          
+          **Everyone should have five different species identified by the end of the day.**
 
    .. tab:: Question of the Day
 
@@ -98,7 +99,7 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_wednesday:
 Wednesday
 ---------
-Goals of the Day
+Goal of the Day
 ^^^^^^^^^^^^^^^^
 In this course, we use a DNA extraction method based on spin columns with a silica membrane, provided as part of a DNA extraction kit. The kit includes carefully matched buffers, reaction tubes, and optimized incubation and centrifugation procedures, ensuring efficient processing and optimal DNA yield.
 
@@ -118,8 +119,9 @@ Tasks of the Day
 
    .. tab:: Lab work
 
-    1. Perform DNA extractions and PCR reactions with your samples.
-    2. Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
+    Perform DNA extractions and PCR reactions with your samples.
+
+    Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
 
    .. tab:: Questions of the Day
 
@@ -132,12 +134,12 @@ Tasks of the Day
     7. What is a chaotropic salt, and what role does it play in DNA extraction?
     8. What did you observe when working with the ATL (lysis) buffer and the AW1 (wash) buffer?
     9. What components are included in a PCR mastermix?
-   10. What are the differences between the various PCR mastermixes you have used?
-   11. Is it possible to combine different PCR primers in one reaction?
-   12. Which genes did you target in your PCR reactions?
-   13. Why is the lid of the thermal cycler heated to 100°C? 🥵
-   14. What is Hot Start Taq polymerase (HotStarTaq)?
-   15. What should you keep in mind when working with HotStarTaq?
+    10. What are the differences between the various PCR mastermixes you have used?
+    11. Is it possible to combine different PCR primers in one reaction?
+    12. Which genes did you target in your PCR reactions?
+    13. Why is the lid of the thermal cycler heated to 100°C? 🥵
+    14. What is Hot Start Taq polymerase (HotStarTaq)?
+    15. What should you keep in mind when working with HotStarTaq?
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
@@ -149,14 +151,15 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_thursday:
 Thursday
 --------
-
-Goals of the Day
+Goal of the Day
 ^^^^^^^^^^^^^^^^
-Today, you pour an agarose gel and load a small amount of your PCR product onto the gel to check whether your PCR worked or not. Before loading your samples onto the gel, be sure to add loading dye. After checking the gel, purify (i.e., wash) the PCR products with bright and clear bands in order to send them for sequencing.
+Today, you will prepare an agarose gel and load a small amount of your PCR product to check whether the PCR was successful. Be sure to add loading dye to your samples before loading them onto the gel. After evaluating the gel, purify (i.e., wash) the PCR products that show bright and clear bands, in preparation for sequencing.
 
-Questions of the Day
-^^^^^^^^^^^^^^^^^^^
-.. important::
+Tasks of the Day
+^^^^^^^^^^^^^^^^
+.. tabs::
+
+   .. tab:: Questions of the Day
   1. What is agarose and why is it used to visualize DNA/PCR products?
   2. What is a loading dye, what is it used for?
   3. Why is it important to add a standard size ladder onto your gel?
