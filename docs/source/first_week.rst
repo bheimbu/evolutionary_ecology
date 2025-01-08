@@ -51,7 +51,7 @@ Tasks of the Day
 
    .. tab:: Save your notes.
 
-          - Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
+          Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
@@ -70,7 +70,7 @@ Yesterday, you collected oribatid mites and left them in lactic acid overnight t
 .. note::
   **Today, you will…**
     - Expand your knowledge on how to identify oribatid mites.
-    - lLearn to recognize additional morphological characters.
+    - Learn to recognize additional morphological characters.
     - Be able to identify most of your specimens to the species level.
 
 For species-level identification (using the microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes) will be used for molecular work.
@@ -81,8 +81,8 @@ Tasks of the Day
 
    .. tab:: Prepare the taxa list
 
-           Enter the sample number, species name, morphotype number, and your name in the taxa list.
-           Everyone should have five different species identified by the end of the day.
+          1. Enter the sample number, species name, morphotype number, and your name in the taxa list.
+          2. Everyone should have five different species identified by the end of the day.
 
    .. tab:: Question of the Day
 
@@ -98,51 +98,46 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_wednesday:
 Wednesday
 ---------
-Summary
-^^^^^^^
-We start the day with revising what you have learned so far. By today you are able to recognize oribatid mites in general and to sort morphotypes into the six major groups (Palaeosomata, Parhyposomata, Enarthronota, Mixonomata, Desmonomata, and Brachypylina). You can name a handful of characters that are typical for each group and can assign at least one species to at least four of the six major groups. You know where oribatid mites live, and you have a general understanding of their ecology and phylogeny.
-After working with oribatid mites on a morphological basis, you now start to work with them on a molecular level. You will get familiar with the general process of DNA extraction and laboratory safety rules. After you successfully extracted and purified your DNA, you start a PCR reaction that is going to run overnight. The DNA extraction includes a long incubation step for ~2 hours. Be prepared to work until after 5:00 pm today.
-You learn the principles of DNA extractions and PCR and the different steps that are part of these methods. You will get to know the relevant reagents and what they do.
-At the end of the day, you have purified DNA stored in the freezer and a PCR running.
-
-Goals
-^^^^^
-In this course, we use a DNA extraction method based on spin columns with a silica membrane, provided as a DNA extraction kit. 'Kit' means, that buffers, reaction tubes, incubation, and centrifugation procedures are delicately matched, ensuring easy processing with an optimal outcome (i.e. DNA yield).
+Goals of the Day
+^^^^^^^^^^^^^^^^
+In this course, we use a DNA extraction method based on spin columns with a silica membrane, provided as part of a DNA extraction kit. The kit includes carefully matched buffers, reaction tubes, and optimized incubation and centrifugation procedures, ensuring efficient processing and optimal DNA yield.
 
 .. note::
   **You will…**
-    - learn how to work safe and clean in a molecular lab.
-    - learn how to use a microlitre pipette.
-    - learn how to handle your samples without contaminating the lab work space, your samples or yourself.
-    - learn the names of the most relevant chemical substances and conditions for the different steps during DNA extraction.
-    - learn how to set up a PCR efficiently.
-    - learn what a PCR mastermix is.
-    - learn how a PCR reaction works and what a thermo cycler does.
+    - Learn how to work safely and maintain cleanliness in a molecular lab.
+    - Learn how to properly use a microliter pipette.
+    - Understand how to handle your samples without contaminating the workspace, your samples, or yourself.
+    - Learn the names and roles of key chemical substances and conditions for each step of DNA extraction.
+    - Gain skills in setting up a PCR efficiently.
+    - Understand what a PCR mastermix is.
+    - Learn how a PCR reaction works and the role of a thermocycler.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
-.. important::
-    1. Do DNA extractions and PCR reactions with your samples.
-    2. Work clean and tidy in the lab 🧹🥼 and obey the lab rules ⚖️.
+.. tabs::
 
-Questions of the Day
-^^^^^^^^^^^^^^^^^^^
-.. important::
-  1. What is SDS and what is it doing with your samples?
-  2. Explain the difference between mechanical and biochemical processess used to destroy animal tissue?
-  3. Why do you have to purify your samples?
-  4. Why is it important to have ethanol-free DNA ath the end of the DNA extraction process?
-  5. What is the purpose of the silica membrane?
-  6. Why is pH relevant for DNA extraction? Which pH values are most relevant here?
-  7. What is a chaotropic salt and what is it used for in DNA extraction?
-  8. What did you observe when working with ATL (lysis) buffer and AW1 buffer (wash buffer 1)?
-  9. What does a PCR mastermix contain?
-  10. What is difference between the various PCR mastermixes you have used?
-  11. Is it possible to combine different PCR primers in one PCR reaction?
-  12. Which genes did you use for your PCR reaction(s)?
-  13. Why is the lid of the thermal cycler heated to 100°C? 🥵
-  14. What is a hot start Taq polymerase (= HotStarTaq)?
-  15. What do you have to consider when working with a HotStarTaq?
+   .. tab:: Lab work
+
+    1. Perform DNA extractions and PCR reactions with your samples.
+    2. Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
+
+   .. tab:: Questions of the Day
+
+    1. What is SDS, and how does it interact with your samples?
+    2. Explain the difference between mechanical and biochemical processes used to break down animal tissue.
+    3. Why is sample purification necessary?
+    4. Why is it important to remove ethanol from the DNA at the end of the extraction process?
+    5. What is the purpose of the silica membrane in DNA extraction?
+    6. Why is pH important in DNA extraction, and which pH values are most relevant?
+    7. What is a chaotropic salt, and what role does it play in DNA extraction?
+    8. What did you observe when working with the ATL (lysis) buffer and the AW1 (wash) buffer?
+    9. What components are included in a PCR mastermix?
+   10. What are the differences between the various PCR mastermixes you have used?
+   11. Is it possible to combine different PCR primers in one reaction?
+   12. Which genes did you target in your PCR reactions?
+   13. Why is the lid of the thermal cycler heated to 100°C? 🥵
+   14. What is Hot Start Taq polymerase (HotStarTaq)?
+   15. What should you keep in mind when working with HotStarTaq?
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
@@ -154,12 +149,9 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_thursday:
 Thursday
 --------
-You have been introduced to the basic and most common methods in molecular work i.e., DNA extraction and PCR. Today you will perform gel electrophoresis to visualize the products of your PCRs. Successful PCR reactions are then purified and sent for sequencing.
-At the end of the day, you have completed the wet-lab part of your molecular work. You know the necessary steps to obtain DNA sequences and have a semi-professional understanding of the steps involved, from DNA extraction to purification of the PCR product.
-The purified PCR products are sent to a sequencing company that uses the standard Sanger sequencing method.
 
-Goals
-^^^^^
+Goals of the Day
+^^^^^^^^^^^^^^^^
 Today, you pour an agarose gel and load a small amount of your PCR product onto the gel to check whether your PCR worked or not. Before loading your samples onto the gel, be sure to add loading dye. After checking the gel, purify (i.e., wash) the PCR products with bright and clear bands in order to send them for sequencing.
 
 Questions of the Day
