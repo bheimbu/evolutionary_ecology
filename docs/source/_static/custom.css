@@ -1,0 +1,9 @@
+.tabbed-set .tab-label {
+    background-color: #f0f0f0; /* Tab background color */
+    color: #333; /* Tab text color */
+}
+
+.tabbed-set .tab-label.active {
+    background-color: #007bff; /* Active tab background color */
+    color: #fff; /* Active tab text color */
+}
