@@ -119,7 +119,7 @@ Tasks of the Day
 
    .. tab:: Lab work
 
-    Perform DNA extractions and PCR reactions with your samples.
+    **Perform DNA extractions and PCR reactions with your samples.**
 
     Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
 
@@ -160,15 +160,16 @@ Tasks of the Day
 .. tabs::
 
    .. tab:: Questions of the Day
-  1. What is agarose and why is it used to visualize DNA/PCR products?
-  2. What is a loading dye, what is it used for?
-  3. Why is it important to add a standard size ladder onto your gel?
-  4. What happens if you change the agarose concentration of your gel from 1% and a 2%?
-  5. Why is it important to use the same buffer for melting and running your gel?
-  6. Why do we use a buffer instead of water?
-  7. Why do we visualize our DNA/PCR products?
-  8. Why is it necessary to purify positive PCR products before sequencing?
-  9. When washing your PCR products, the first buffer will be yellow in color. Why? What does it indicate?
+
+    1. What is agarose, and why is it used to visualize DNA/PCR products?
+    2. What is a loading dye, and what is its purpose?
+    3. Why is it important to include a standard size ladder in your gel?
+    4. What happens if you change the agarose concentration from 1% to 2% in your gel?
+    5. Why is it important to use the same buffer for both melting and running your gel?
+    6. Why do we use a buffer instead of water in gel electrophoresis?
+    7. Why is it necessary to visualize DNA/PCR products?
+    8. Why must positive PCR products be purified before sequencing?
+    9. Why does the first buffer turn yellow when washing PCR products? What does this indicate?
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
