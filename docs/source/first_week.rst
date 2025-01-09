@@ -178,33 +178,20 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_friday:
 Friday
 -------
+Friday might be a day off since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some homework to complete — please see the details below!
+
 Homework
 ^^^^^^^^
-.. tip::
-  You can start a discussion in Slack to work on the questions and tasks of the past days and for today.
+.. tabs::
 
-Tasks of the Day
-^^^^^^^^^^^^^^^^
+   .. tab:: General introduction to Sanger-sequencing.
 
-Task 1
-""""""
-
-Watch the following YouTube videos for a general introduction. Get familiar with the steps involved, the essential idea of fluorescence base Sanger DNA sequencing, and the advantages of capillary electorophoreses.
-
-.. note::
-  .. tabs ::
-     .. tab:: Sanger Sequencing 
-        .. youtube:: YeHtjO7vlyg
-     .. tab:: Automated DNA sequencing 
-        .. youtube:: CN21sVuXkkw
-     .. tab:: Sanger Sequencing Exercise 
-        .. youtube:: k0ZSOR1Gd1M
-     .. tab:: When do I use Sanger Sequencing vs. NGS?
-        .. youtube:: Wpww8bb63zU
-     .. tab:: Quickly understand Sanger's sequencing 
-        .. youtube:: KTstRrDTmWI
-     .. tab:: The Sanger Method of DNA Sequencing 
-        .. youtube:: FvHRio1yyhQ
+    .. youtube:: YeHtjO7vlyg
+    .. youtube:: CN21sVuXkkw
+    .. youtube:: k0ZSOR1Gd1M
+    .. youtube:: Wpww8bb63zU
+    .. youtube:: KTstRrDTmWI
+    .. youtube:: FvHRio1yyhQ
 
 .. important::
   Make sure you are able to answer the following questions. Help yourself online…
