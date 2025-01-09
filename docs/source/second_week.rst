@@ -52,10 +52,6 @@ Tasks of the Day
     4. Check out, which raw reads have been assigned to you
     5. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
     6. Import the raw sequences to Geneious Prime
-
-    .. attention::
-       
-       Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
     7. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
     8. Assemble the matching read pairs
 
