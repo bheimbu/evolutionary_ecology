@@ -47,7 +47,7 @@ Tasks of the Day
   .. tab:: Tutorial 1
 
     1. Read section :ref:`Geneious_Prime`
-    2. Open Geneious and create the folders for your raw sequences
+    2. Open Geneious and create the folders for your raw sequences (name them 18S, 28S, and COI)
     3. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
     4. Check out, which raw reads have been assigned to you
     5. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
