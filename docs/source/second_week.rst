@@ -178,15 +178,15 @@ Tasks of the Day
   .. tab:: Tutorial 2
 
      1. Read section :ref:`Sequence_Editing`.
-     2. Download the `.zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
+     2. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
      3. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
      4. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_
 
   .. tab:: Tutorial 3
 
-     1. Download the `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
+     1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
      2. Complete the exercises.
-     3. Upload the completed worksheet `here <https://owncloud.gwdg.de/index.php/s/t4dVMcxPrN5Hwrw>`_.
+     3. Upload the completed spreadsheet `here <https://owncloud.gwdg.de/index.php/s/t4dVMcxPrN5Hwrw>`_.
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
