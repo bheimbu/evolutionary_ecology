@@ -186,6 +186,13 @@ Watch the YouTube videos about Sanger-sequencing and answer the *Questions of th
 
 .. tabs::
 
+   .. tab:: Geneious Prime.
+
+    1. Watch **`A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_**.
+    2. If you are going to use your own PC on Monday next week, install the **`30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_**.
+    3. Watch the tutorial about **`Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_**. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
+
+
    .. tab:: General introduction to Sanger-sequencing.
 
     .. youtube:: YeHtjO7vlyg
@@ -195,21 +202,14 @@ Watch the YouTube videos about Sanger-sequencing and answer the *Questions of th
     .. youtube:: KTstRrDTmWI
     .. youtube:: FvHRio1yyhQ
 
-
-   .. tab:: Geneious Prime.
-
-    1. Watch `A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_.
-    2. If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
-    3. Watch the tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ on the Geneious Academy webpage. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
-
    .. tab:: Questions of the Day
 
-   1. Illustrate the structure of a DNA and an RNA molecule with the sequence A-T-G? There's no need to depict the detailed structure of the individual bases; you can simply label them as A, T, and G.
-   2. Please highlight the key structural differences between DNA and RNA, including the sugar backbone and any relevant functional groups.
-   3. What is ddNTP and what is the difference to dNTP?
-   4. What are the main advantages of the modern fluorescence based Sanger DNA sequencing approach compared to the original (radio-labelled) one.
-   5. What happens to your PCR primers during Sanger sequencing? Are they even used?
-   6. Why do we sequence both the forward and reverse strands of the PCR product separately? Is this crucial for the sequencing method, or is it primarily beneficial for improving the accuracy of our data analysis?
+    1. Illustrate the structure of a DNA and an RNA molecule with the sequence A-T-G? There's no need to depict the detailed structure of the individual bases; you can simply label them as A, T, and G.
+    2. Please highlight the key structural differences between DNA and RNA, including the sugar backbone and any relevant functional groups.
+    3. What is ddNTP and what is the difference to dNTP?
+    4. What are the main advantages of the modern fluorescence based Sanger DNA sequencing approach compared to the original (radio-labelled) one.
+    5. What happens to your PCR primers during Sanger sequencing? Are they even used?
+    6. Why do we sequence both the forward and reverse strands of the PCR product separately? Is this crucial for the sequencing method, or is it primarily beneficial for improving the accuracy of our data analysis?
 
 .. note::
   As soon as possible, but latest on Monday next week, you will receive the raw reads of your sequences. Your PCR products were sequenced in forward and reverse direction, meaning that two raw reads form a consensus sequence. In order to obtain a consensus sequence, assemble the pairs of raw reads and – very important! – check for any sequencing errors and/or ambiguous positions. At the end, we want to have good to high quality consensus sequences for downstream analyses.
