@@ -19,9 +19,15 @@ And here are some important **usage** notes, check out :ref:`usage` for more:
 
    **Note** boxes highlight goals and achievements of the course/week/day. Pay attention to them.
 
-.. important::
+.. tabs::
 
-   ⚠️ **Important** boxes highlight the **Tasks of the Day** and the **Question(s) of the Day**. You should definitely pay attention to them 😊.
+   .. tab:: Tasks of the Day
+
+     ⚠️ **Tab** boxes highlight the **Tasks of the Day** and… (click on Questions of the Day)
+
+   .. tab:: Questions of the Day
+
+    … the **Question(s) of the Day**. You should definitely pay attention to them 😊.
 
 Content
 =======
