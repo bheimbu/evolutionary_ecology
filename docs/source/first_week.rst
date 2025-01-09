@@ -178,7 +178,7 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_friday:
 Friday
 -------
-Friday might be a day off since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some **homework to complete** — **please see the details below!**
+**Friday** might be a day **off** since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some **homework to complete** — **please see the details below!**
 
 Homework
 ^^^^^^^^
@@ -186,14 +186,13 @@ Watch the YouTube videos about Sanger-sequencing and answer the *Questions of th
 
 .. tabs::
 
-   .. tab:: Geneious Prime.
+   .. tab:: Geneious Prime
 
-    1. Watch **`A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_**.
-    2. If you are going to use your own PC on Monday next week, install the **`30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_**.
-    3. Watch the tutorial about **`Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_**. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
+    1. Watch `A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_.
+    2. If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
+    3. Watch the tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
 
-
-   .. tab:: General introduction to Sanger-sequencing.
+   .. tab:: General introduction to Sanger-sequencing
 
     .. youtube:: YeHtjO7vlyg
     .. youtube:: CN21sVuXkkw
