@@ -29,40 +29,35 @@ After you processed your own sequences, you can start with the :ref:`Tutorials`.
   - what a model of sequence evolution is and why it is important for phylogenetic analysis
   - what the difference of Cluster methods and search algorithms is when constructing phylogenetic trees
   - what ML and BI means
-  - how to do basic phylogenetics in R
 
 .. _Monday_Second_Week:
 Monday
 ------
-Summary
-^^^^^^^
-
 Today we will start with recapitulating the molecular work of last week and discuss the method of Sanger sequencing.
-After that, you start with processing your sequencing results i.e., you will assemble, check and correct the raw reads that have been assigned to you (see sequence assignment list) in :ref:`Geneious_Prime` and export the respective consensus sequences.
-Then, you can start with the online tutorial, which introduces you to the handling of sequence data and how to use Genbank, a public sequence data repository.
+After that, you start with processing your sequencing results in Geneious Prime i.e., you will assemble, check and correct the raw reads that have been assigned to you (see sequence assignment list) and export the respective consensus sequences.
+Then, you can start reading the sections about Geneious and Genbank under , which introduces you to the handling of sequence data and how to use Genbank, a public sequence data repository.
 By doing the exercises in this tutorial, you will generate a toy dataset, which you will be using for the whole week. All following tutorials and exercises are based on this toy dataset.
 The basic idea is, that all of you work with the same toy dataset, which makes it easier to compare results. However, it is also fine if you add some of your own sequences (those you checked and exported earlier today).
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Task 1
-""""""
-.. important::
-  1. Read section :ref:`Geneious_Prime`
-  2. Download and install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_
+.. tabs::
 
-Task 2
-""""""
+  .. tab:: Tutorial 1
 
-.. important::
-  - Download the `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
-  - Open the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
-  - Check out, which raw reads have been assigned to you
-  - Import reads to Geneious Prime and watch the Geneious tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_ if you haven't done so already
-  - Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
-  - Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
-  - Assemble the matching read pairs
+    1. Read section :ref:`Geneious_Prime`
+    2. Open Geneious and create the folders for your raw sequences
+    3. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
+    4. Check out, which raw reads have been assigned to you
+    5. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
+    6. Import the raw sequences to Geneious Prime
+
+    .. attention::
+       
+       Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
+    7. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
+    8. Assemble the matching read pairs
 
 .. attention::
   Remember to name consensus sequences correctly, in the following format: 
@@ -77,11 +72,9 @@ Task 2
 
   - Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
 
-Task 3
-""""""
+  .. tab:: Tutorial 2
 
-.. important::
-  - Read sections :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
+    1. Read sections :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
 
 Task 4
 """"""
