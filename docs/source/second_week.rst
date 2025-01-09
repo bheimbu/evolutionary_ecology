@@ -19,16 +19,16 @@ After you processed your own sequences, you can start with the :ref:`Tutorials`.
 .. note::
   **At the end of the week, you will know…**
 
-  - what a sequence file is
-  - what a fasta file is
-  - how to use public databases
-  - how to edit sequences
-  - how to check if sequencing results are correct
-  - what an multiple sequence alignment is
-  - how to distinguish multifasta files from alignment files
-  - what a model of sequence evolution is and why it is important for phylogenetic analysis
-  - what the difference of Cluster methods and search algorithms is when constructing phylogenetic trees
-  - what ML and BI means
+  - What a sequence file is
+  - What a fasta file is
+  - How to use public databases
+  - How to edit sequences
+  - How to check if sequencing results are correct
+  - What an multiple sequence alignment is
+  - How to distinguish multifasta files from alignment files
+  - What a model of sequence evolution is and why it is important for phylogenetic analysis
+  - What the difference of Cluster methods and search algorithms is when constructing phylogenetic trees
+  - What ML and BI means
 
 .. _Monday_Second_Week:
 Monday
