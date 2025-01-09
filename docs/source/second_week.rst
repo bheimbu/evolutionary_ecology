@@ -58,11 +58,7 @@ Tasks of the Day
 
     7. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
     8. Assemble the matching read pairs
-    9. Name your consensus sequences in the following format: DNA sample number_Genus_Species_Gene_Initials
-    
-    .. hint::
-      ``1_Acrogalumna_longisetosa_18S_IS``
-
+    9. Name your consensus sequences in the following format: ``$DNA sample number_$Genus_$Species_$Gene_$Initials`` (      ``1_Acrogalumna_longisetosa_18S_IS``)
     10. Check the consensus sequence and correct ambiguous positions
     11. Export the consensus sequences
     12. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
