@@ -52,21 +52,25 @@ Tasks of the Day
     4. Check out, which raw reads have been assigned to you
     5. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
     6. Import the raw sequences to Geneious Prime
+
+    .. attention::
+       Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
+
     7. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
     8. Assemble the matching read pairs
 
-.. attention::
-  Remember to name consensus sequences correctly, in the following format: 
+    .. attention::
+      Remember to name consensus sequences correctly, in the following format: 
 
-  DNA sample number_Genus_Species_Gene_Initials ( ``1_Acrogalumna_longisetosa_18S_IS`` )
+      DNA sample number_Genus_Species_Gene_Initials ( ``1_Acrogalumna_longisetosa_18S_IS`` )
 
-.. important::
-  - Check the consensus sequence and correct ambiguous positions
-  - Export the consensus sequences
-  - Make sure the sequence name is correct
-  - Keep in mind that a consensus sequence file consists of a single sequence
+    .. important::
+     - Check the consensus sequence and correct ambiguous positions
+     - Export the consensus sequences
+     - Make sure the sequence name is correct
+     - Keep in mind that a consensus sequence file consists of a single sequence
 
-  - Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
+     - Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
 
   .. tab:: Tutorial 2
 
