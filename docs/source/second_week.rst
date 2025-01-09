@@ -58,138 +58,74 @@ Tasks of the Day
 
     7. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
     8. Assemble the matching read pairs
+    9. Name your consensus sequences in the following format: DNA sample number_Genus_Species_Gene_Initials
+    
+    .. hint::
+      ``1_Acrogalumna_longisetosa_18S_IS``
+     10. Check the consensus sequence and correct ambiguous positions
+     11. Export the consensus sequences
+     12. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
 
-    .. attention::
-      Remember to name consensus sequences correctly, in the following format: 
-
-      DNA sample number_Genus_Species_Gene_Initials ( ``1_Acrogalumna_longisetosa_18S_IS`` )
-
-    .. important::
-     - Check the consensus sequence and correct ambiguous positions
-     - Export the consensus sequences
-     - Make sure the sequence name is correct
-     - Keep in mind that a consensus sequence file consists of a single sequence
-
-     - Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
+     .. attention::
+       Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
   .. tab:: Tutorial 2
 
     1. Read sections :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
+    2. Open GenBank and select the 'Nucleotide' database in your web browser of choice.
+    3. Bookmark the page.
 
-Task 4
-""""""
+  .. tab:: Tutorial 3
 
-.. important::
-  - Complete :ref:`T1_A` and :ref:`T1_B`
+    1. Create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder.
+    2. Create a subfolder for each day and tutorial, in which the tutorials of the day will be saved. That is, create a new folder named for instance **Monday/Tutorial_3**. 
+    3. Download or copy the spreadsheet (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_), which contains NCBI accession numbers 
+    4. Look up the accession numbers on NCBI GenBank
+    5. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
+    7. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
-Task 5
-"""""""
+  .. tab:: Tutorial 4
 
-.. attention::
-  Do not leave before **Tasks 1-4** are completed!
-
-.. _Tutorials:
-Monday Tutorials
-^^^^^^^^^
-
-.. _T1_A:
-T1_A
-"""""
-
-Please create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder. Create a sub folder with the name **T1**, where the exercises of tutorial 1 will be saved. That is, create a new folder named **T1** and the number of the exercise separated with underscore (e.g. **T1_A1**, **T1_A2**, ... ). 
-
-.. attention::
-  Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
-
-.. _T1_A1:
-T1_A1
-"""""
-
-.. important::
-  - Open GenBank and select the 'Nucleotide' database in your web browser of choice.
-  - Bookmark the page.
-
-.. _T1_A2:
-T1_A2
-"""""
-
-.. important::
-  - Download sequences from NCBI with following accession numbers (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_) as separate sequence files in FASTA format.
-  - Remember to change the names of the sequences as follows: ``Taxon_Gen.fas``
-  - Read the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
-  - Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
-
-.. _T1_A3:
-T1_A3
-"""""
-
-.. important::
-  - Draw a phylogenetic tree of the six major groups of Oribatida.
-  - Write the names of the major groups on the branches and the species' names at the tips.
-
-  Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
-
-.. _T1_A4:
-T1_A4
-"""""
-
-.. important::
-  - Download the 18S gene for all taxa from :ref:`T1_A2` from GenBank.
-  - Use the Clipboard option to save all sequences in a single file.
-  - Save the file as ``T1_A4_Oribatida_18S.fas``.
-  - Remember to create a new subfolder named **T1_A4** in the folder **T1**.
-
-.. attention::
-  There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
-
-.. tip::
-  A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
-
-.. _T1_A5:
-T1_A5
-"""""
-
-.. important::
-  - What do you consider the key benefits of an online database?
-  - Write down your answer on a sheet of paper.
-
-.. _T1_B:
-T1_B
-""""
-
-.. _T1_B1:
-T1_B1
-"""""
-
-.. important::
-  .. tabs ::
-     .. tab:: To do
-        - Open all sequences from exercise :ref:`T1_A2` in a single window in Bioedit ('Import' → 'Sequence alignment file').
-        - Save the pooled dataset in FASTA format (folder: **T1_B1**, filename: e.g. ``EF_all.fas``).
-        - Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
-     .. tab:: Do you need help?
-        Read section :ref:`Bioedit` for more information about using BioEdit. Please use `AliView <https://ormbunkar.se/aliview/>`_ if you're using a Mac or Linux PC.
+    1. Draw a phylogenetic tree of the six major groups of Oribatida.
+    2. Write the names of the major groups on the branches and the species' names at the tips.
+    3. Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
 
 
-.. attention::
-  Never use special characters and spaces to separate words, always use underscores ``_``.
+  .. tab:: Tutorial 5
 
-.. _T1_B2:
-T1_B2
-"""""
+    1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
+    2. Use the Clipboard option to save all sequences in FASTA format as a single file.
+    3. Save the file as ``Tutorial_5_Oribatida_18S.fas`` to **Monday/Tutorial_5** on your PC.
 
-.. important::
-  - Open the file ``T1_A4_Oribatida_18S.fas`` from :ref:`T1_A4` with your local text editor of choice (e.g. Notepad++, Editor).
-  - Save the file in FASTA format (folder: **T1_B2**, filename: ``18S_all.fas`` )
-  - Change sequence names from GenBank just as in **T1_B1** ( ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` )
-  - You now have two datasets with +/- identical taxon sampling but with two different genes
-  - Now you can add (import) some of your own sequences to the 18S file
-  - Your own sequences should be named in the same logic as the sequences from NCBI
-  - As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``5_Archegozetes_longisetosus_own_18S``
+    .. attention::
+      There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
+
+   .. hint::
+      A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
 
 
-.. note::
-  Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
+  .. tab:: Tutorial 6
+
+     1. What do you consider the key benefits of an online database?
+     2. Write down your answer on a sheet of paper.
+
+  .. tab:: Tutorial 7
+
+     1. Download all sequences from **Tutorial 3** and import them to Geneious Prime.
+     2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
+
+  .. tab:: Tutorial 8
+
+     1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
+     2. Change sequence names from GenBank just as in **T1_B1** ( ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` )
+     3. Save the file as ``18S_all.fas`` to **Monday/Tutorial_8
+     4. You now have two datasets with +/- identical taxon sampling but with two different genes
+     5. Now you can add (import) some of your own sequences to the 18S file
+     6. Your own sequences should be named in the same logic as the sequences from NCBI
+     7. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``
+     
+     .. important::
+       Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
