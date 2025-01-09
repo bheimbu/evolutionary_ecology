@@ -116,8 +116,8 @@ Tasks of the Day
   .. tab:: Tutorial 8
 
      1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
-     2. Change sequence names from GenBank just as in **T1_B1** ( ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` )
-     3. Save the file as ``18S_all.fas`` to **Monday/Tutorial_8
+     2. Change the sequence names from GenBank just as in **Tutorial 7** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``)
+     3. Save the file as ``18S_all.fas`` to **Monday/Tutorial_8**
      4. You now have two datasets with +/- identical taxon sampling but with two different genes
      5. Now you can add (import) some of your own sequences to the 18S file
      6. Your own sequences should be named in the same logic as the sequences from NCBI
