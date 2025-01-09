@@ -182,15 +182,15 @@ Friday
 
 Homework
 ^^^^^^^^
-Watch the YouTube videos about Sanger-sequencing and answer the *Questions of the Day*!
+Make yourself familiar with **Geneious Prime**, watch the introductory videos about **Sanger-sequencing**, and answer the **Questions of the Day**!
 
 .. tabs::
 
    .. tab:: Geneious Prime
 
-    1. Watch `A brief tour of Geneious Prime <https://go.geneious.com/video/getting-started-in-geneious-prime>`_.
+    1. Watch `A brief tour of Geneious Prime <https://www.youtube.com/watch?v=RfULpHpsbZ0>`_.
     2. If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
-    3. Watch the tutorial about `Sanger Sequencing <https://www.geneious.com/academy/getting-started/?wvideo=0htkkxq986>`_. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
+    3. Watch the tutorial about `Sanger Sequencing <https://www.youtube.com/watch?v=I9btM6LYDCA>`_. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
 
    .. tab:: General introduction to Sanger-sequencing
 
