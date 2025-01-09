@@ -63,12 +63,12 @@ Tasks of the Day
     .. hint::
       ``1_Acrogalumna_longisetosa_18S_IS``
 
-     10. Check the consensus sequence and correct ambiguous positions
-     11. Export the consensus sequences
-     12. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
+    10. Check the consensus sequence and correct ambiguous positions
+    11. Export the consensus sequences
+    12. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
 
-     .. attention::
-       Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
+    .. attention::
+      Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
   .. tab:: Tutorial 2
 
