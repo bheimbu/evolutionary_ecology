@@ -62,6 +62,7 @@ Tasks of the Day
     
     .. hint::
       ``1_Acrogalumna_longisetosa_18S_IS``
+
      10. Check the consensus sequence and correct ambiguous positions
      11. Export the consensus sequences
      12. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
@@ -79,17 +80,16 @@ Tasks of the Day
 
     1. Create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder.
     2. Create a subfolder for each day and tutorial, in which the tutorials of the day will be saved. That is, create a new folder named for instance **Monday/Tutorial_3**. 
-    3. Download or copy the spreadsheet (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_), which contains NCBI accession numbers 
-    4. Look up the accession numbers on NCBI GenBank
+    3. Download or copy the spreadsheet (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_), which contains NCBI accession numbers.
+    4. Look up the accession numbers on NCBI GenBank.
     5. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
-    7. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
+    6. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
   .. tab:: Tutorial 4
 
     1. Draw a phylogenetic tree of the six major groups of Oribatida.
     2. Write the names of the major groups on the branches and the species' names at the tips.
     3. Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
-
 
   .. tab:: Tutorial 5
 
@@ -100,9 +100,8 @@ Tasks of the Day
     .. attention::
       There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
 
-   .. hint::
+    .. hint::
       A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
-
 
   .. tab:: Tutorial 6
 
