@@ -119,9 +119,9 @@ Tasks of the Day
 
    .. tab:: Lab work
 
-    **Perform DNA extractions and PCR reactions with your samples.**
+    Perform DNA extractions and PCR reactions with your samples.
 
-    Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
+    *Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.*
 
    .. tab:: Questions of the Day
 
@@ -146,7 +146,7 @@ Feedback Wednesday
 To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1745342/hp07e6>`_.
 
 .. tip::
-   If you feel stuck, ask someone in class or in Slack for help.
+   If you feel stuck, ask someone in class for help.
 
 .. _first_week_thursday:
 Thursday
@@ -178,11 +178,12 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_friday:
 Friday
 -------
-Friday might be a day off since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some homework to complete — please see the details below!
+Friday might be a day off since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some **homework to complete** — **please see the details below!**
 
 Homework
 ^^^^^^^^
 Watch the YouTube videos about Sanger-sequencing and answer the *Questions of the Day*!
+
 .. tabs::
 
    .. tab:: General introduction to Sanger-sequencing.
