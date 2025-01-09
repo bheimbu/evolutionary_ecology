@@ -17,7 +17,7 @@ Course Structure
 .. note::
   The course is structured like a :ref:`Mini_research_Project`.
 
-In the :ref:`first-week`, you will explore soil systems and their inhabitants. You’ll collect mites (see :ref:how-to-sample ⛏) and identify them using a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
+In the :ref:`first-week`, you will explore soil systems and their inhabitants. You’ll collect mites (see :ref:`how-to-sample` ⛏) and identify them using a stereomicroscope. The collected mites will also be used for DNA extraction and sequencing.
 
 In the :ref:`second-week`, you will learn essential tools for analyzing molecular data and be introduced to the fundamentals of molecular phylogenetics. Phylogenetics is a valuable tool for structuring data and exploring research questions.
 
