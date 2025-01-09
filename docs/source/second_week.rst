@@ -156,7 +156,7 @@ Tasks of the Day
   .. tab:: Tutorial 1
 
      1. Read section :ref:`Alignment` including the parts about :ref:`ClustalX` and :ref:`ClustalW_in_Bioedit`
-     2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below
+     2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
 
      .. thumbnail:: /_static/T2_A_1.png
 
@@ -164,76 +164,29 @@ Tasks of the Day
        Use a period (``.``), not a comma (``,``) when typing the penalty values!
 
      .. important::
-       Save the alignments as ``.fas`` file to the subfolder **T2_A1** with the name ``$Gen_T2_A1_a/_b/_c/_d/_e/_f_aln.fas``.
+       Save the alignments as ``.fas`` file to the subfolder **Tuesday/Tutorial_1** with the names ``$Gen_Tutorial_1_a /_b /_c /_d /_e / _f / _aln.fas``.
 
      .. thumbnail:: /_static/T2_A_2.png
 
+  .. tab:: Tutorial 2
+
+     1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and complete the tasks described therein. 
+     2. Compare your results with your neighbour.
+     3. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
 
 
-Task 2
-""""""
+  .. tab:: Tutorial 2
 
-.. important::
-  - Complete exercise :ref:`T2_A`
-  - Work with your toy datasets (18S and EF) from yesterday and do alignments with different penalty values.
-  - Eventually, you must decide which of the alignments of 18S and EF is best.
-  - The best alignments will be used in downstream analyses over the next few days.
+     1. Read section :ref:`Sequence_Editing`.
+     2. Download the `.zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
+     3. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
+     4. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_
 
+  .. tab:: Tutorial 3
 
-Task 3
-""""""
-
-.. important::
-  - Complete exercise :ref:`T2_B`
-  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/goYd3He8SyxE122>`_ that includes four example datasets without file-format assignments (no file extensions, like ``.fasta`` or ``.txt``) and answer the questions under :ref:`T2_B`.
-
-Task 4
-""""""
-
-.. important::
-  - Complete exercise :ref:`T2_C`
-
-Task 5
-""""""
-
-.. important::
-  Do not leave before Tasks **1-4** are completed!
-
-.. _Tutorials_2:
-Tuesday Tutorials
-^^^^^^^^^
-
-Create the folder **T2**, in which you safe all results of this tutorial
-
-
-
-.. _T2_A2-A5:
-T2_A2-A5
-""""""""
-
-.. important::
-  - Download the `worksheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and complete the tasks described therein. 
-  - Compare your results with your neighbour.
-  - Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
-
-.. _T2_B:
-T2_B
-""""
-
-.. important::
-  - Read section :ref:`Sequence_Editing`.
-  - Download the `.zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
-  - Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
-  - Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_
-
-.. _T2_C:
-T2_C
-"""""
-
-.. important::
-  1. Download the `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
-  2. Complete the exercises.
-  3. Upload the completed worksheet `here <https://owncloud.gwdg.de/index.php/s/t4dVMcxPrN5Hwrw>`_.
+     1. Download the `worksheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
+     2. Complete the exercises.
+     3. Upload the completed worksheet `here <https://owncloud.gwdg.de/index.php/s/t4dVMcxPrN5Hwrw>`_.
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
@@ -242,9 +195,6 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _Wednesday_Second_Week:
 Wednesday
 ---------
-
-Summary
-^^^^^^^
 
 Today, we have three learning modules:
 
