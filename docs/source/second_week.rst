@@ -223,15 +223,15 @@ Tasks of the Day
 
   .. tab:: Tutorial 1
 
-    .. tab:: Requirements
+     .. tab:: Requirements
 
-      1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC.
-      2. Read section :ref:`Models_of_Sequence_Evolution`
+       1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC.
+       2. Read section :ref:`Models_of_Sequence_Evolution`
 
-    .. tab:: Exercises
+     .. tab:: Exercises
 
-      1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
-      2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
+       1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
+       2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
 
 
 Task 2
