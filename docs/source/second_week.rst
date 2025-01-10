@@ -46,81 +46,120 @@ Tasks of the Day
 
   .. tab:: Tutorial 1
 
-    1. Read section :ref:`Geneious_Prime`
-    2. Open Geneious and create the folders for your raw sequences (name them 18S, 28S, and COI)
-    3. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
-    4. Check out, which raw reads have been assigned to you
-    5. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!)
-    6. Import the raw sequences to Geneious Prime
+     .. tabs::
 
-    .. attention::
-       Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
+        .. tab:: Requirements
+               
+            1. Read section :ref:`Geneious_Prime`.
+            2. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
+            3. Check out, which raw reads have been assigned to you.
+            4. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!).
 
-    7. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences)
-    8. Assemble the matching read pairs
-    9. Name your consensus sequences in the following format: ``$DNA sample number_$Genus_$Species_$Gene_$Initials`` (      ``1_Acrogalumna_longisetosa_18S_IS``)
-    10. Check the consensus sequence and correct ambiguous positions
-    11. Export the consensus sequences
-    12. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
+        .. tab:: Exercise 1
 
-    .. attention::
-      Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
+           1. Open Geneious and create the folder **Monday/Tutorial_1** and for a each gene a subfolder (name them **18S**, **28S**, and **COI**)
+           2. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/
+
+           .. attention::
+              Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
+
+        .. tab:: Exercise 2
+       
+           1. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences).
+           2. Assemble the matching read pairs.
+           3. Name your consensus sequences in the following format: ``$DNA sample number_$Genus_$Species_$Gene_$Initials`` (      ``1_Acrogalumna_longisetosa_18S_IS``).
+           4. Check the consensus sequence and correct ambiguous positions.
+           5. Export the consensus sequences as FASTA files to **Monday/Tutorial_1** on your PC.
+           6. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
+
+           .. attention::
+              Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
 
   .. tab:: Tutorial 2
 
-    1. Read sections :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`
-    2. Open GenBank and select the 'Nucleotide' database in your web browser of choice.
-    3. Bookmark the page.
+     .. tabs::
+
+        .. tab:: Requirements
+   
+           1. Read sections :ref:`Database_and_Search_Strategy` and :ref:`Downloading_and_Saving`.
+
+        .. tab:: Exercises
+
+           1. Open GenBank and select the 'Nucleotide' database in your web browser of choice.
+           2. Bookmark the page.
 
   .. tab:: Tutorial 3
 
-    1. Create a folder on your USB Stick or under C:/ on your ⊞ Win hard drive with the name: **EvolEcol**. All the data from this course goes into this folder.
-    2. Create a subfolder for each day and tutorial, in which the tutorials of the day will be saved. That is, create a new folder named for instance **Monday/Tutorial_3**. 
-    3. Download or copy the spreadsheet (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_), which contains NCBI accession numbers.
-    4. Look up the accession numbers on NCBI GenBank.
-    5. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
-    6. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
+     .. tabs::
+
+        .. tab:: Exercises
+
+           1. Download the spreadsheet (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_), which contains NCBI accession numbers.
+           2. Look up the accession numbers on NCBI GenBank.
+           3. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
+           4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
   .. tab:: Tutorial 4
 
-    1. Draw a phylogenetic tree of the six major groups of Oribatida.
-    2. Write the names of the major groups on the branches and the species' names at the tips.
-    3. Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
+     .. tabs::
+
+        .. tab:: Exercises
+    
+           1. Draw a phylogenetic tree of the six major groups of Oribatida.
+           2. Write the names of the major groups on the branches and the species' names at the tips.
+           3. Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
 
   .. tab:: Tutorial 5
 
-    1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
-    2. Use the Clipboard option to save all sequences in FASTA format as a single file.
-    3. Save the file as ``Tutorial_5_Oribatida_18S.fas`` to **Monday/Tutorial_5** on your PC.
+     .. tabs::
 
-    .. attention::
-      There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
+        .. tab:: Exercises
 
-    .. hint::
-      A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
+           1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
+           2. Use the Clipboard option to save all sequences in FASTA format as a single file.
+           3. Save the file as ``Tutorial_5_Oribatida_18S.fas`` to **Monday/Tutorial_5** on your PC.
+
+           .. attention::
+              There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
+
+           .. hint::
+              A rule of thumb: If two or more sequences are available for a species, always choose the longest sequence.
+
+        .. tab:: Questions
+
+           1. What do you consider the key benefits of an online database?
+           2. Write down your answer on a sheet of paper.
 
   .. tab:: Tutorial 6
 
-     1. What do you consider the key benefits of an online database?
-     2. Write down your answer on a sheet of paper.
+     .. tabs::
+
+        .. tab:: Exercises
+
+           1. Download all sequences from **Tutorial 3** and import them to Geneious Prime.
+           2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
 
   .. tab:: Tutorial 7
 
-     1. Download all sequences from **Tutorial 3** and import them to Geneious Prime.
-     2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
+     .. tabs::
 
-  .. tab:: Tutorial 8
+        .. tab:: Exercise 1
 
-     1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
-     2. Change the sequence names from GenBank just as in **Tutorial 7** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``)
-     3. Save the file as ``18S_all.fas`` to **Monday/Tutorial_8**
-     4. You now have two datasets with +/- identical taxon sampling but with two different genes
-     5. Now you can add (import) some of your own sequences to the 18S file
-     6. Your own sequences should be named in the same logic as the sequences from NCBI
-     7. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``
+           1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
+           2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``)
+           3. Save the file as ``18S_all.fas`` to **Monday/Tutorial_7**
+
+           .. note::
+              You now have two datasets with +/- identical taxon sampling but with two different genes. Awesome!
+
+        .. tab:: Exercise 2
+
+           1. Now you can add (import) some of your own sequences to the 18S file.
+           2. Your own sequences should be named in the same logic as the sequences from NCBI
+           3. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``
      
-     .. important::
-       Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
+           .. important::
+              Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
@@ -159,11 +198,11 @@ Tasks of the Day
 
         .. tab:: Requirements
                
-            1. Read section :ref:`Alignment`
+            1. Read section :ref:`Alignment`.
 
         .. tab:: Exercise
 
-            2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
+            1. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
 
             .. attention::
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
