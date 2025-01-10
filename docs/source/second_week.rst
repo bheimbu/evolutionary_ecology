@@ -51,14 +51,14 @@ Tasks of the Day
         .. tab:: Requirements
                
             1. Read section :ref:`Geneious_Prime`.
-            2. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_
+            2. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_.
             3. Check out, which raw reads have been assigned to you.
-            4. Download your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ (Download the right files!!!).
+            
 
         .. tab:: Exercise 1
 
            1. Open Geneious and create the folder **Monday/Tutorial_1** and for a each gene a subfolder (name them **18S**, **28S**, and **COI**)
-           2. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/
+           2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
 
            .. attention::
               Remember that each gene belongs to its own folder (Do not import your 28S sequences into your 18S or COI folder, and *vice versa*!)
@@ -94,7 +94,7 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. Download the spreadsheet (click `here <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_), which contains NCBI accession numbers.
+           1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_.
            2. Look up the accession numbers on NCBI GenBank.
            3. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
            4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
