@@ -155,7 +155,7 @@ Tasks of the Day
 
   .. tab:: Tutorial 1
 
-     1. Read section :ref:`Alignment` including the parts about :ref:`ClustalX` and :ref:`ClustalW_in_Bioedit`
+     1. Read section :ref:`Alignment`
      2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
 
      .. thumbnail:: /_static/T2_A_1.png
@@ -170,19 +170,20 @@ Tasks of the Day
 
   .. tab:: Tutorial 2
 
-     1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and complete the tasks described therein. 
-     2. Compare your results with your neighbour.
-     3. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
+     1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_.
+     2. Complete the exercises.
+     3. Compare your results with your neighbour.
+     4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
 
 
-  .. tab:: Tutorial 2
+  .. tab:: Tutorial 3
 
      1. Read section :ref:`Sequence_Editing`.
      2. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
      3. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given `here <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
      4. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_
 
-  .. tab:: Tutorial 3
+  .. tab:: Tutorial 4
 
      1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_.
      2. Complete the exercises.
@@ -209,11 +210,11 @@ Today, we have three learning modules:
 
   **At the end of the day, you will…**
 
-  - know how phylogenetics account for evolutionary changes in your DNA sequences i.e., changes that happened in the past and are invisible to your eye.
-  - understand the meaning of cluster algorithms and their limits as well as their advantages over search algorithms.
-  - have inferred four phylogenetic trees with your toy dataset
-  - experience how a cluster algorithm performs by calculating and drawing a UPGMA tree by hand.
-  - have drawn phylogenetic trees by hand
+  - Know how phylogenetics account for evolutionary changes in your DNA sequences i.e., changes that happened in the past and are invisible to your eye.
+  - Understand the meaning of cluster algorithms and their limits as well as their advantages over search algorithms.
+  - Have inferred four phylogenetic trees with your toy dataset
+  - Experience how a cluster algorithm performs by calculating and drawing a UPGMA tree by hand.
+  - Have drawn phylogenetic trees by hand
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
