@@ -531,9 +531,9 @@ Tasks of the Day
 
            1. Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R.
            2. Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively.
-           3. Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``
+           3. Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``.
            4. Open the alignments in Geneious Prime, check and trim to the shortest sequence.
-           5. Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas`` to **Friday/Tutorial_1**
+           5. Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas`` to **Friday/Tutorial_1**.
 
         .. tab:: Questions
 
