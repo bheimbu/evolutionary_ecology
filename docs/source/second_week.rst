@@ -330,17 +330,15 @@ Tasks of the Day
            If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
            If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
 
-            .. note::
-               In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
-
-               **With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.**
-
+           .. note::
+              In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
 
         .. tab:: Exercise
 
-           1. Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
-           2. Interpret the tree in a phylogeographic context.
-           3. Are both populations genetically separated or are there any indications for gene flow or dispersal?
+           1. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
+           2. Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
+           3. Interpret the tree in a phylogeographic context.
+           4. Are both populations genetically separated or are there any indications for gene flow or dispersal?
 
            +-------+-------+-------+-------+-------+-------+-------+-------+
            |       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
