@@ -545,6 +545,8 @@ Tasks of the Day
 
   .. tab:: Tutorial 2
 
+     .. tabs::
+
         .. tab:: Exercise
 
            1. Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
@@ -556,6 +558,8 @@ Tasks of the Day
 
   .. tab:: Tutorial 3
 
+     .. tabs::
+
         .. tab:: Exercise
 
            Calculate the model of sequence evolution in R for the trimmed alignments ``EF_aln2.fas`` and ``18S_aln2.fas``.
@@ -565,6 +569,8 @@ Tasks of the Day
            What is the best fit model for: **EF** and **18S**?
 
   .. tab:: Tutorial 4
+
+     .. tabs::
 
         .. tab:: Exercise
 
