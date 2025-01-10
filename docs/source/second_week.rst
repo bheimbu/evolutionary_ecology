@@ -155,8 +155,15 @@ Tasks of the Day
 
   .. tab:: Tutorial 1
 
-     1. Read section :ref:`Alignment`
-     2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
+     .. tabs::
+
+        .. tab:: Requirements
+               
+            1. Read section :ref:`Alignment`
+
+        .. tab:: Exercise
+
+            2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
 
      .. attention::
        Use a period ``.`` not a comma ``,`` when typing the penalty values!
@@ -173,15 +180,22 @@ Tasks of the Day
      1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_.
      2. Complete the exercises.
      3. Compare your results with your neighbour.
-     4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
+     4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_ (**Do no forget to include your name or initals in the file name!**).
 
 
   .. tab:: Tutorial 3
 
-     1. Read section :ref:`Sequence_Editing`.
-     2. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
-     3. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
-     4. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_.
+     .. tabs::
+
+        .. tab:: Requirements
+               
+            1. Read section :ref:`Sequence_Editing`.
+
+        .. tab:: Exercise
+     
+            1. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
+            2. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
+            3. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_ (**Do no forget to include your name or initals in the file name!**).
 
   .. tab:: Tutorial 4
 
@@ -234,11 +248,20 @@ Tasks of the Day
 
            1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
            2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
+           3. Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions.
+           4. Upload your results (**Do no forget to include your name or initals in the file name!**) `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_
 
+  .. tab:: Tutorial 2
 
-Task 2
-""""""
+     .. tabs::
 
+        .. tab:: Requirements
+
+           1. Read section :ref:`How_to_Infer_Phylogenetic_Trees`
+
+        .. tab:: Exercises
+
+           1. Read section :ref:`How_to_Infer_Phylogenetic_Trees`
 .. important::
   - Download and install `SeaView <https://doua.prabi.fr/software/seaview>`_ on your PC
   - Read section :ref:`How_to_Infer_Phylogenetic_Trees`
