@@ -280,7 +280,7 @@ Tasks of the Day
 
            1. Present the trees from **Exercise 1** and **Exercise 2** as phylograms in PowerPoint.
            2. Show the NJ trees of EF with and without model on one page, of 18S on another page.
-           3. In order to do this, open the four trees from **Exercise 1** and **Exercise 2** in FigTree implemented in Genious Prime, display the tree with increasing node order (:kbd:`Strg+U`) and export the tree as JPEG.
+           3. In order to do this, open the four trees from **Exercise 1** and **Exercise 2** in FigTree implemented in Genious Prime, display the tree with increasing node order :kbd:`Strg+U` and export the tree as JPEG.
 
         .. tab:: Questions
            
