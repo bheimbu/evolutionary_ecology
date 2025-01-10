@@ -158,13 +158,13 @@ Tasks of the Day
      1. Read section :ref:`Alignment`
      2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
 
+     .. attention::
+       Use a period ``.``, not a comma ``,`` when typing the penalty values!
+
      .. thumbnail:: /_static/T2_A_1.png
 
-     .. attention::
-       Use a period (``.``), not a comma (``,``) when typing the penalty values!
-
      .. important::
-       Save the alignments as ``.fas`` file to the subfolder **Tuesday/Tutorial_1** with the names ``$Gen_Tutorial_1_a /_b /_c /_d /_e / _f / _aln.fas``.
+       Save the alignments as FASTA file to the subfolder **Tuesday/Tutorial_1** like this ``18S_Tutorial_1_a_aln.fas`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.fas``)
 
      .. thumbnail:: /_static/T2_A_2.png
 
