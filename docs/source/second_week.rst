@@ -171,7 +171,7 @@ Tasks of the Day
             .. thumbnail:: /_static/T2_A_1.png
 
             .. important::
-               Save the alignments as FASTA file to the subfolder **Tuesday/Tutorial_1** like this ``18S_Tutorial_1_a_aln.fas`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.fas``)
+               Save the alignments as FASTA file to the subfolder **Tuesday/Tutorial_1** like this ``18S_Tutorial_1_a_aln.fas`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.fas``).
 
             .. thumbnail:: /_static/T2_A_2.png
 
@@ -405,17 +405,19 @@ Tasks of the Day
 
            1. Create two new subfolders for the RAxML analyses of **EF** and **18S**, named **Thursday/Tutorial_1/EF** and **Thursday/Tutorial_1/18S**, respectively, in Geneious.
            2. Start the ML analyses with following parameters:
+
               - GTR GAMMA I
               - `500` bootstrap replicates
               - any other parameter in default settings
+
            3. Write down how long the analyses took (in seconds).
 
          .. tab:: Question
      
-           .. note::
-              When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
+            .. note::
+               When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
 
-           1. How can we be sure that a tree is good? More than one solution is possible!
+            1. How can we be sure that a tree is good? More than one solution is possible!
 
             .. thumbnail:: /_static/haplotypes.png
 
