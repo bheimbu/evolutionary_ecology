@@ -295,9 +295,9 @@ Tasks of the Day
         .. tab:: Requirements
 
            .. important::
-           1. Complete all exercises by hand using pen and paper!
-           2. Hand in your results at the end (**Don't forget to write down your name**). 
-           3. We will discuss them tomorrow morning.
+              1. Complete all exercises by hand using pen and paper!
+              2. Hand in your results at the end (**Don't forget to write down your name**). 
+              3. We will discuss them tomorrow morning.
 
 
         .. tab:: Exercise 1
@@ -308,7 +308,7 @@ Tasks of the Day
            4. Draw all possible combinations
 
            .. attention::
-           Some topologies might be redundant.
+              Some topologies might be redundant.
 
         .. tab:: Exercise 2
   
@@ -326,14 +326,14 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           - Phylogeography is the study of the genetic structure of species within or between geographic regions
-           - If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
-           - If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
+           Phylogeography is the study of the genetic structure of species within or between geographic regions
+           If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
+           If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
 
             .. note::
-            In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
+               In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
 
-            **With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.**
+               **With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.**
 
 
         .. tab:: Exercise
