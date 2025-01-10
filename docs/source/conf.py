@@ -21,8 +21,7 @@ extensions = [
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
     'sphinx.ext.autodoc',
-    'sphinxcontrib.images',
-    'sphinxcontrib.rsvg'
+    'sphinxcontrib.images'
 ]
 
 intersphinx_mapping = {
