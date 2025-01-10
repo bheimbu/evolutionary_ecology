@@ -509,7 +509,6 @@ Depending on your present day R skills, you may only skim through some of the se
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-
 .. tabs::
 
   .. tab:: Tutorial 1
@@ -546,117 +545,39 @@ Tasks of the Day
 
   .. tab:: Tutorial 2
 
-        .. tab:: Exercise 1
+        .. tab:: Exercise
 
            1. Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
            2. Save the distance matrix for each alignment as ``csv``, name it ``dEF.csv`` and ``d18S.csv``, to **Friday/Tutorial_2** on your PC
            3. Calculate 1000 bootstraps for each tree.
            4. Plot each tree nicely (:r:`ladders right=FALSE, cex=0.7`) with bootstrap in percent and in ``lightblue`` colour in circles with ``white`` background.
-  - Save the NJ trees with nodelabels as ``njEF.tre`` (with ``red`` tip labels) and ``nj18S.tre`` (with ``lightblue`` tip labels).
+           5. Save the NJ trees with nodelabels as ``NJ_EF.tre`` (with ``red`` tip labels) and ``NJ_18S.tre`` (with ``lightblue`` tip labels).
 
 
-Task 4
-""""""
+  .. tab:: Tutorial 3
 
-.. important::
+        .. tab:: Exercise
 
-   - Use the same R script as in **Task 3**
-   - Work through the script to see in which way you can also analyse genetic data in R.
+           Calculate the model of sequence evolution in R for the trimmed alignments ``EF_aln2.fas`` and ``18S_aln2.fas``.
 
-Task 5
-""""""
+        .. tab:: Question
+           
+           What is the best fit model for: **EF** and **18S**?
 
-.. important::
+  .. tab:: Tutorial 4
 
-  Run the script of Task 3 with your own toy dataset
+        .. tab:: Exercise
 
-Task 6
-""""""
+           1. Calculate ML trees for ``EF_aln2.fas`` and ``18S_aln2.fas``, respectively.
+           2. Plot both trees in one graphic, with facing tip labels. **EF** with ``green`` and **18S** with ``yellowgreen`` tip labels.
+           3. Display bootstrap values with ``red circles`` and background in ``pink1``.
+           4. Save both trees in one plot as PDF, name it ``ML_EF_18S.pdf``
 
-.. important::
+        .. tab:: Questions
 
-  Do not leave before you finished **at least three of the five** tasks!
-
-.. _Tutorials_5:
-Friday Tutorials
-^^^^^^^^^
-
-.. _T5_A:
-T5_A
-"""""
-
-.. note::
-
-  - Copy-and-paste the multisequence FASTA files from :ref:`T1_A2` and :ref:`T1_A4` (``T1_A4_Oribatida_EF.fas`` and ``T1A4_Oribatida_18S.fas``) to a new folder named **T5_A1**. 
-  - Open R or RStudio and set the folder **T5_A1** as working directory.
-
-.. _T5_A1:
-T5_A1
-"""""
-
-.. important::
-
-  - Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R
-  - Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively
-  - Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``
-
-  - Open the alignments in BioEdit, check and trim to the shortest sequence
-  - Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas``
-  - Remember to (download and) activate the required packages
-  - How long (bp) is the trimmed alignment for: **EF** and **18S**
-  - How long (bp) is the best alignment from **T2**: **EF** and **18S**
-  
-  - If you have followed the above instructions, you disobeyed a formal alignment rule. Which one? 
-
-.. _T5_A2:
-T5_A2
-"""""
-
-.. important::
-
-  - Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
-  - Save the distance matrix for each alignment as ``csv``, name it ``dEF.csv`` and ``d18S.csv``.
-  - Calculate `1000` bootstraps for each tree.
-  - Plot each tree nicely (``ladders right=FALSE, cex=0.7``) with bootstrap in percent and in ``lightblue`` colour in circles with ``white`` background.
-  - Save the NJ trees with nodelabels as ``njEF.tre`` (with ``red`` tip labels) and ``nj18S.tre`` (with ``lightblue`` tip labels).
-
-.. _T5_A3:
-T5_A3
-"""""
-
-.. important::
-
-  - Calculate the model of sequence evolution in R for the trimmed alignments ``EF_aln2.fas`` and ``18S_aln2.fas``.
-  - What is the best fit model for: **EF** and **18S**
-
-.. _T5_A4:
-T5_A4
-"""""
-
-.. important::
-
-  - Calculate an ML tree for ``EF_aln2.fas`` and ``18S_aln2.fas``.
-  - Plot both trees in one graphic, with facing tip labels. **EF** with ``green`` and **18S** with ``yellowgreen`` tip labels.
-  - Display bootstrap values in ``circles`` and in ``red`` with background in ``pink1``.
-  - Save the plot as PDF, name it ``ML_EF_18S.pdf``
-
-.. _T5_A5:
-T5_A5
-"""""
-
-.. important::
-
-  - Are the NJ and ML trees calculated in R similar to the trees calculated in Exercises of :ref:`Tutorials_3` and :ref:`Tutorials_4`?
-  - Can you see fundamental differences?
-  - Do you consider both ways (R and Seaview or RAxML) as comparable?
-
-.. _T5_B:
-T5_B
-"""""
-
-.. _T5_B1:
-T5_B1
-"""""
+           1. Are the NJ and ML trees calculated in R similar to the trees calculated in Exercises of :ref:`Tutorials_3` and :ref:`Tutorials_4`?
+           2. Can you see fundamental differences?
+           3. Do you consider both ways (R and MrBayes/RaXML in Geneious Prime) as comparable?
 
 .. important::
 
@@ -664,23 +585,6 @@ T5_B1
   - How many sequences are in this data set and how many haplotypes?
   - Plot the haplotype list as barplot, sorted from many to few.
   - Save the barplot including a title as pdf. Name it ``Onova_hts_plot.pdf``.
-
-.. _T5_B2:
-T5_B2
-"""""
-
-.. important::
-
-  - Calculate a haplotype network for ``Onova_example_COI.fas`` and ``Onova_example_data.csv``.
-  - Save the graph as pdf, name it ``Onova_HTNW.pdf``
-
-.. _Special_Exercise:
-Special Exercise
-""""""""""""""""
-.. attention::
-  
-  - Translate the nucleotide alignment of ``EF_aln2.fasta`` into protein sequences using R.
-  - Write down the script.
 
 Feedback Friday
 ^^^^^^^^^^^^^^^
