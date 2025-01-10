@@ -244,12 +244,15 @@ Tasks of the Day
            1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC.
            2. Read section :ref:`Models_of_Sequence_Evolution`
 
-        .. tab:: Exercises
+        .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
+           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **Tuesday/Tutorial_1**.
            2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
-           3. Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions.
-           4. Upload your results (**Do no forget to include your name or initals in the file name!**) `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_
+
+        .. tab:: Exercise 1
+
+           1. Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions.
+           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_ (**Do no forget to include your name or initals in the file name!**).
 
   .. tab:: Tutorial 2
 
@@ -257,166 +260,101 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Read section :ref:`How_to_Infer_Phylogenetic_Trees`
+           1. Read section :ref:`How_to_Infer_Phylogenetic_Trees`.
+           2. Read section :ref:`How_To_Draw_Phylogenetic_Trees`.
 
-        .. tab:: Exercises
+        .. tab:: Exercise 1
 
-           1. Read section :ref:`How_to_Infer_Phylogenetic_Trees`
-.. important::
-  - Download and install `SeaView <https://doua.prabi.fr/software/seaview>`_ on your PC
-  - Read section :ref:`How_to_Infer_Phylogenetic_Trees`
-  - Complete exercises under :ref:`T3_B`
-  - Read section :ref:`How_To_Draw_Phylogenetic_Trees` for exercise :ref:`T3_B3`
+           1. For the following Neighbor Joining (**NJ**) exercises create two subfolders named **Tutorial_2/EF** and **Tutorial_2/18S**.                
+           2. Copy your alignment files (**Tuesday/Tutorial_1**) in the respective subfolders.
+           3. For both alignments calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates (see section :ref:`How_to_Infer_Phylogenetic_Trees` for how to generate a tree in Geneious Prime).
+           4. Save the rooted tree with bootstrap values in **Wednesday/Tutorial_2** and indicate in the file name that this tree is without (`w-o`) a model.
+       
+        .. tab:: Exercise 2
 
-Task 3
-""""""
+           1. For both alignments calculate a NJ tree with a model of sequence evolution with `1000` bootstrap replicates
+           2. Use the most complex model available (`Distance HKY`)
+           3. Save the rooted trees with bootstrap values in **Wednesday/Tutorial_2** and indicate in the file name that this tree is with (`w`) a model
 
-.. important::
-  - Complete exercises under :ref:`T3_C` by hand using pen and paper
+        .. tab:: Exercise 3
 
+           1. Present the trees from **Exercise 1** and **Exercise 2** as phylograms in PowerPoint.
+           2. Show the NJ trees of EF with and without model on one page, of 18S on another page.
+           3. In order to do this, open the four trees from **Exercise 1** and **Exercise 2** in FigTree implemented in Genious Prime, display the tree with increasing node order (:kbd:`Strg+U`) and export the tree as JPEG.
 
-Task 4
-""""""
+        .. tab:: Questions
+           
+           1. What is the effect of the model of sequence evolution on: (1) Tree topology and (2) node support?
+           2. What are the main differences between EF and 18S in terms of tree topology and node support?
+           3. Which phylogenetic tree is most satisfying in terms of topology and node support?
 
-.. attention::
-  Do not leave before Tasks **1-3** are completed!
+  .. tab:: Tutorial 3
 
-.. _Tutorials_3:
-Wednesday Tutorials
-^^^^^^^^^
+        .. tab:: Requirements
 
-Make a new folder named **T3** to save all results of the following exercises and within this folder create the subfolder **T3_A**.
-
-.. _T3_A1:
-T3_A1
-"""""
-
-.. important::
-  - Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
-  - Safe the results (the html log file) in the folder **T3_A**.
-
-.. _T3_A2-A5:
-T3_A2-A5
-""""""""
-
-.. important::
-  - Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions (**T3_A2-A5**)
-  - Upload your results (**Please include your name or initals in the file name!**) `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_
+           .. important::
+           1. Complete all exercises by hand using pen and paper!
+           2. Hand in your results at the end (**Don't forget to write down your name**). 
+           3. We will discuss them tomorrow morning.
 
 
-.. _T3_B:
-T3_B
-"""""
+        .. tab:: Exercise 1
 
-For the following NJ exercises create two folders named **T3_EF** and **T3_18S**. Copy your alignment files in the respective subfolders.
+           1. Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
+           2. In one of the trees, use arrows to indicate where the tree might be rooted.
+           3. How many topologies are possible for a rooted tree with four taxa (A, B, C, D)?
+           4. Draw all possible combinations
 
-.. _T3_B1:
-T3_B1
-"""""
+           .. attention::
+           Some topologies might be redundant.
 
-.. important::
-  - For both alignments from **T2_A2** calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates (see section :ref:`How_to_Infer_Phylogenetic_Trees` for how to work with SeaView).
-  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is without (`w-o`) a model.
+        .. tab:: Exercise 2
+  
+           1. Draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)``.
+           2. Check your topology with FigTree.
+        
+        .. tab:: Questions
 
-.. _T3_B2:
-T3_B2
-"""""
+           1. Why are trees with four taxa interesting to mathematicians compared to trees with two or three taxa?
+           2. What is the difference between a cladogram, a phylogram, and a chronogram?
 
-.. important::
-  - For both alignments from **T2_A2** (from the :ref:`Tutorials_2`) calculate a NJ tree with a model of sequence evolution with `1000` bootstrap replicates
-  - Use the most complex model available (`Distance HKY`)
-  - Save the rooted tree with bootstrap values and indicate in the file name that this tree is with (`w`) a model
+  .. tab:: Bonus Tutorial 4
 
-.. _T3_B3:
-T3_B3
-"""""
+        .. tab:: Requirements
 
-.. important::
-  - Present the trees from :ref:`T3_B1` and :ref:`T3_B2` as phylograms in PowerPoint
-  - Show the NJ trees of EF with and without model on one page, of 18S on another page
-  - To do this, open the four trees from :ref:`T3_B1` and :ref:`T3_B2` in FigTree, display the tree with increasing node order (``STRG + U``) and export the tree as JPEG.
+           - Phylogeography is the study of the genetic structure of species within or between geographic regions
+           - If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
+           - If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
 
-  - What is the effect of the model of sequence evolution on: (1) Tree topology and (2) node support?
-  - What are the main differences between EF and 18S in terms of tree topology and node support?
-  - Which phylogenetic tree is most satisfying in terms of topology and node support?
+            .. note::
+            In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
 
-.. _T3_C:
-T3_C
-"""""
+            **With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.**
 
-.. note::
-  Do all the following exercises (**T3_C1 to T3_C5**) on a **sheet of paper**. Hand in your results at the end (**don't forget to write down your name**). We will discuss them tomorrow.
 
-.. _T3_C1:
-T3_C1
-"""""
+        .. tab:: Exercise
 
-.. important::
-  - Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D)
-  - In one of the trees, use arrows to indicate where the tree might be rooted
-  - How many topologies are possible for a rooted tree with four taxa (A, B, C, D)?
-  - Draw all possible combinations
+           1. Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
+           2. Interpret the tree in a phylogeographic context.
+           3. Are both populations genetically separated or are there any indications for gene flow or dispersal?
 
-.. attention::
-  Some topologies might be redundant.
-
-.. _T3_C2:
-T3_C2
-"""""
-
-.. important::
-  - Draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)`` 
-  - Check your topology with FigTree.
-
-.. _T3_C3:
-T3_C3
-"""""
-
-.. important::
-  - Why are trees with four taxa interesting to mathematicians compared to trees with two or three taxa?
-
-.. _T3_C4:
-T3_C4
-"""""
-
-.. note::
-  - Phylogeography is the study of the genetic structure of species within or between geographic regions
-  - If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
-  - If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
-
-.. important::
-  In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (**see distance matrix below**).
-
-  **With a phylogenetic tree, relationships between individuals can be analyzed. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.**
-
-  - Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
-  - Interpret the tree in a phylogeographic context.
-  - Are both populations genetically separated or are there any indications for gene flow or dispersal?
-
-+-------+-------+-------+-------+-------+-------+-------+-------+
-|       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
-+=======+=======+=======+=======+=======+=======+=======+=======+
-| SM_D1 |   -   |       |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-| SM_D2 |   5   |   -   |       |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-| SM_D3 |   6   |   1   |   -   |       |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-| SM_D4 |  42   |  39   |  40   |   -   |       |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-| _SM_F1|   5   |   2   |   3   |  39   |   -   |       |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-| SM_F2 |  67   |  68   |  71   |  70   |  68   |   -   |       |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-| SM_F3 |  72   |  73   |  74   |  72   |  73   |   6   |   -   |
-+-------+-------+-------+-------+-------+-------+-------+-------+
-
-.. _T3_C5:
-T3_C5
-"""""
-
-.. important::
-  What is the difference between a cladogram, a phylogram, and a chronogram?
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           |       | SM_D1 | SM_D2 | SM_D3 | SM_D4 | _SM_F1| SM_F2 | SM_F3 |
+           +=======+=======+=======+=======+=======+=======+=======+=======+
+           | SM_D1 |   -   |       |       |       |       |       |       |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           | SM_D2 |   5   |   -   |       |       |       |       |       |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           | SM_D3 |   6   |   1   |   -   |       |       |       |       |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           | SM_D4 |  42   |  39   |  40   |   -   |       |       |       |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           | _SM_F1|   5   |   2   |   3   |  39   |   -   |       |       |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           | SM_F2 |  67   |  68   |  71   |  70   |  68   |   -   |       |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
+           | SM_F3 |  72   |  73   |  74   |  72   |  73   |   6   |   -   |
+           +-------+-------+-------+-------+-------+-------+-------+-------+
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
