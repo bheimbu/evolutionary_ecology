@@ -280,7 +280,7 @@ Tasks of the Day
 
            1. Present the trees from **Exercise 1** and **Exercise 2** as phylograms in PowerPoint.
            2. Show the NJ trees of EF with and without model on one page, of 18S on another page.
-           3. In order to do this, open the four trees from **Exercise 1** and **Exercise 2** in FigTree implemented in Genious Prime, display the tree with increasing node order :kbd:`Strg+U` and export the tree as JPEG.
+           3. In order to do this, open the four trees from **Exercise 1** and **Exercise 2** in FigTree implemented in Genious Prime, display the tree with increasing node order :kbd:`Strg`+:kbd:`U` and export the tree as JPEG.
 
         .. tab:: Questions
            
@@ -369,9 +369,6 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 Thursday
 ---------
 
-Summary
-^^^^^^^
-
 Today, it's all about search algorithms. You will learn the basics of the two most common methods for calculating phylogenetic trees – :ref:`Maximum_Likelihood` in the morning and :ref:`Bayesian_Inference` in the afternoon.
 
 Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
@@ -383,139 +380,103 @@ While working through the exercises, many topics you have been dealing with earl
 .. note::
   **At the end of the day you will…**
 
-  - know the difference between Cluster and Search algorithms
-  - know why search algorithms take so much longer for analysing genetic data than Cluster algorithms
-  - know that ML uses likelihoods, and MrBayes uses posterior probabilities to calculate internal nodes and topologies of trees.
-  - know what an MCMC-robot is and for which type of analysis it is mandatory
-  - be able to interpret the different statistics MrBayes provides
-  - understand the meaning of prior and posterior analyses.
-  - understand the difference between bootstraps and posterior probabilites and why they are not directly comparable.
+  - Know the difference between Cluster and Search algorithms.
+  - Know why search algorithms take so much longer for analysing genetic data than Cluster algorithms.
+  - Know that ML uses likelihoods, and MrBayes uses posterior probabilities to calculate internal nodes and topologies of trees.
+  - Know what an MCMC-robot is and for which type of analysis it is mandatory.
+  - Be able to interpret the different statistics MrBayes provides.
+  - Understand the meaning of prior and posterior analyses.
+  - Understand the difference between bootstraps and posterior probabilites and why they are not directly comparable.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Task 1
-""""""
+.. tabs::
 
-.. important::
-  - Read section :ref:`RAxML <Raxml>`
-  - Download `RAxML <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_ if you haven't done it before
-  - Complete exercises :ref:`T4_A1` and :ref:`T4-A2`
+  .. tab:: Tutorial 1
 
-Task 2
-""""""
+     .. tabs::
 
-.. important::
-  - Read section :ref:`MrBayes <MrBayes>`
-  - Download `MrBayes <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_ if you haven't done it before
-  - Complete exercises :ref:`T4_B1`, :ref:`T4_B2`, :ref:`T4_B3`, and :ref:`T4_B4`
+        .. tab:: Requirements
 
-Task 3
-""""""
+           1. Read section :ref:`RAxML <Raxml>`.
 
-.. important::
-  - If you feel stuck when answering the questions of tutorial **T4**, ask and discuss your thoughts with the group and tutors or in Slack
-  - **Tasks 1** and **2** should be finished by 03:00 pm, so that we can discuss all results of today in presence
+        .. tab:: Exercise 1
 
-Task 4
-""""""
+           1. Create two new subfolders for the RAxML analyses of **EF** and **18S**, named **Thursday/Tutorial_1/EF** and **Thursday/Tutorial_1/18S**, respectively, in Geneious.
+           2. Start the ML analyses with following parameters:
+              - GTR GAMMA I
+              - `500` bootstrap replicates
+              - any other parameter in default settings
+           3. Write down how long the analyses took (in seconds).
 
-.. important::
-  If you have some spare time because your analyses runs/worked smoothly and you answered all questions satisfactorily, you may start with reading the first sections of :ref:`Friday_Second_Week`
+         .. tab:: Question
+     
+            .. note::
+               When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
 
-Task 5
-""""""
+            1. How can we be sure that a tree is good? More than one solution is possible!
 
-.. attention::
-  Do not leave before **Tasks 1-4** are completed and discussed!
+            .. thumbnail:: /_static/haplotypes.png
 
-.. _Tutorials_4:
-Thursday Tutorials
-^^^^^^^^^
 
-.. _T4_A:
-T4_A
-"""""
+  .. tab:: Tutorial 2
 
-.. important::
-  - Start a new folder named **T4** and save all results from the following exercises therein
-  - Copy the **18S** and **EF** alignments in a new folder named **Alignments**
-  - Use :ref:`Seaview` to convert the alignment from ``.aln`` or ``.fas`` to ``.phy`` (Phylip format)
+     .. tabs::
 
-.. _T4_A1:
-T4_A1
-"""""
+        .. tab:: Requirements
 
-.. important::
-  - Create two new folders for the RAxML analyses of **EF** and **18S**, named **T4_A1_RAxML_EF** and **T4_A1_RAxML_18S**
-  - Copy the executable file of RAxML (``RAxML.exe``), the ``batch`` file and your alignments in Phylip format in the respective folders, name the batch files ``gene_RAxML_Yourname.bat``
-  - Start ML analyses with `500` bootstrap replicates for your **18S** and **EF** datasets
-  - Write down how long the analysis took (in seconds)
+           1. Read section :ref:`MrBayes <MrBayes>`.
 
-.. _T4_A2:
-T4_A2
-"""""
+        .. tab:: Exercise 1
 
-.. important::
+           1. Create two new subfolders for the Bayesian analyses of **EF** and **18S**, named **Thursday/Tutorial_2/EF** and **Thursday/Tutorial_2/18S**, respectively, in Geneious.
+           2. Define the outgroup.
+           3. Set the parameters:
+              - Use GTR+G+I as model of sequence evolution (see `Substitution Model:` and `Rate Variation:`)
+              - `1 million` generations (`Chain Length:`) and sample every `100th` generation (`Subsampling Freq:`)
+           4. Write down how long the analysis took (minutes + seconds)
 
-  - When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
-  - How can we be sure that a tree is good? More than one solution is possible.
+        .. tab:: Questions
+       
+           1. Which parameter-settings deviate from the default settings?
+           2. What is the average standard deviation of your analyses?
+           3. Write down the details of the credible set of trees.
+           4. What is the meaning of the number of trees that are included in the credible sets (search online for more information).
 
-.. thumbnail:: /_static/haplotypes.png
+  .. tab:: Tutorial 2
 
-.. _T4_B1:
-T4_B1
-"""""
+     .. tabs::
 
-.. important::
+        .. tab:: Background
 
-  - Start a MrBayes analysis for both datasets (**18S** and **EF**), see section :ref:`MrBayes` for more details
-  - optional (Use a ``batch`` file for each analysis)
-  - Define the outgroup and set the parameters for the best fitting model of sequence evolution
-  - Run the analyses for `1 million` generations and sample every `100th` generation
+           .. note::
+              The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
+              However, as priors are usually unknown you can use flat priors!
 
-  - Write down how long the analysis took (minutes + seconds)
-  - Which parameter-settings deviate from the default settings?
-  - What is the average standard deviation of your analyses?
-  - Write down the details of the credible set of trees
-  - What is the meaning of the number of trees that are included in the credible sets (search online for more information)
+        .. tab:: Questions
+ 
+           1. What are flat priors and how do they look like?
+           2. Are they realistic?
+           3. How do they affect likelihoods during the search among trees?
+           4. How do they affect the efficiency of the search?
+           5. What is the meaning of „burnin“?
+           6. Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo
 
-.. _T4_B2:
-T4_B2
-"""""
+  .. tab:: Tutorial 3
 
-.. note::
+     .. tabs::
 
-  - The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
-  - However, as priors are usually unknown you can use flat priors
+        .. tab:: Exercise
 
-.. important:: 
+           1. Import all trees you made into PowerPoint.
+           2. Separate the trees according to gene, ML and BI analyses, respectively.
+           3. Save them on a DIN A4 page.
+           4. Label the nodes with corresponding bootstrap values and posterior probabilities
 
-  - What are flat priors and how do they look like?
-  - Are they realistic?
-  - How do they affect likelihoods during the search among trees?
-  - How do they affect the efficiency of the search?
-  - What is the meaning of „burnin“?
-
-.. _T4_B3:
-T4_B3
-"""""
-
-.. important::
-
-  - Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo
-
-.. _T4_B4:
-T4_B4
-"""""
-
-.. important::
-
-  - Import all trees you made into PowerPoint
-  - Separate the trees according to gene, ML and BI analyses, respectively
-  - Save them on a DIN A4 page
-  - Label the nodes with corresponding bootstrap values and posterior probabilities
-  - What are the main differences between the ML and MrBayes trees?
+        .. tab:: Question
+           
+           What are the main differences between the ML and MrBayes trees?
 
 Feedback Thursday
 ^^^^^^^^^^^^^^^^^
