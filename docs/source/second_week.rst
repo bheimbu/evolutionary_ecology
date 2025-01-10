@@ -246,10 +246,10 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **Tuesday/Tutorial_1**.
+           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from **Tuesday/Tutorial_1**.
            2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
 
-        .. tab:: Exercise 1
+        .. tab:: Exercise 2
 
            1. Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions.
            2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_ (**Do no forget to include your name or initals in the file name!**).
