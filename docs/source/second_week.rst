@@ -208,24 +208,30 @@ Today, we have three learning modules:
 
 .. note::
 
-  **At the end of the day, you will…**
+  **By the end of the day, you will:**
 
-  - Know how phylogenetics account for evolutionary changes in your DNA sequences i.e., changes that happened in the past and are invisible to your eye.
-  - Understand the meaning of cluster algorithms and their limits as well as their advantages over search algorithms.
-  - Have inferred four phylogenetic trees with your toy dataset
-  - Experience how a cluster algorithm performs by calculating and drawing a UPGMA tree by hand.
-  - Have drawn phylogenetic trees by hand
+  - Understand how phylogenetics accounts for evolutionary changes in DNA sequences, including past changes that are not immediately visible.
+  - Grasp the concept of clustering algorithms, their limitations, and their advantages over search algorithms.
+  - Have constructed four phylogenetic trees using your toy dataset.
+  - Experience the process of a clustering algorithm by manually calculating and drawing a UPGMA tree.
+  - Have practiced drawing phylogenetic trees by hand.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Task 1
-""""""
+.. tabs::
 
-.. important::
-  - Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC
-  - Read section :ref:`Models_of_Sequence_Evolution`
-  - Complete exercises under :ref:`T3_A`
+  .. tab:: Tutorial 1
+
+    .. tab:: Requirements
+
+      1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC.
+      2. Read section :ref:`Models_of_Sequence_Evolution`
+
+    .. tab:: Exercises
+
+      1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from exercise **T2_A2** (from the :ref:`Tutorials_2`).
+      2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
 
 
 Task 2
