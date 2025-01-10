@@ -412,10 +412,10 @@ Tasks of the Day
 
          .. tab:: Question
      
-            .. note::
-               When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
+           .. note::
+              When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
 
-            1. How can we be sure that a tree is good? More than one solution is possible!
+           1. How can we be sure that a tree is good? More than one solution is possible!
 
             .. thumbnail:: /_static/haplotypes.png
 
@@ -433,9 +433,11 @@ Tasks of the Day
            1. Create two new subfolders for the Bayesian analyses of **EF** and **18S**, named **Thursday/Tutorial_2/EF** and **Thursday/Tutorial_2/18S**, respectively, in Geneious.
            2. Define the outgroup.
            3. Set the parameters:
-              - Use GTR+G+I as model of sequence evolution (see `Substitution Model:` and `Rate Variation:`)
-              - `1 million` generations (`Chain Length:`) and sample every `100th` generation (`Subsampling Freq:`)
-           4. Write down how long the analysis took (minutes + seconds)
+
+              - Use ``GTR+G+I`` as model of sequence evolution (see `Substitution Model:` and `Rate Variation:`)
+              - 1 million generations (see `Chain Length:`) and sample every 100th generation (see `Subsampling Freq:`)
+
+           4. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
        
@@ -461,7 +463,7 @@ Tasks of the Day
            3. How do they affect likelihoods during the search among trees?
            4. How do they affect the efficiency of the search?
            5. What is the meaning of „burnin“?
-           6. Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo
+           6. Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo.
 
   .. tab:: Tutorial 3
 
