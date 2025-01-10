@@ -490,9 +490,6 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 Friday
 ------
 
-Summary
-^^^^^^^
-
 Now you know all the essential steps and methods how to calculate a phylogenetic tree from sequence data. You may have realized that you had to use different file formats for different programs and different programs for different analyses.
 
 You should know that you can also work with sequence data and make phylogenetic trees in R. One big advantage of using R is, that you can do all analyses in one software, without reformatting the input files. 
@@ -507,32 +504,55 @@ Depending on your present day R skills, you may only skim through some of the se
 
   **At the end of the day, you will**
 
-  - be more versatile and confident when working with genetic data.
+  Be more versatile and confident when working with genetic data.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Task 1
-""""""
 
-.. important::
+.. tabs::
 
-  Read section :ref:`Ape_package`
+  .. tab:: Tutorial 1
 
-Task 2
-""""""
+     .. tabs::
 
-.. important::
+        .. tab:: Requirements
 
-  Read section :ref:`Getting_Started_with_R`
+           1. Read section :ref:`Ape_package`.
+           2. Read section :ref:`Getting_Started_with_R`.
+           3. Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
 
-Task 3
-""""""
+        .. tab:: Exercise 1
+           
+           1. Copy-and-paste the multisequence FASTA files for **EF** and **18S** from **Monday** to a new folder named **Friday/Tutorial_1** on your PC. 
+           2. Open R or RStudio and set the folder **Friday/Tutorial_1** as working directory.
+           3. Remember to (download and) activate all required packages.
 
-.. important::
+        .. tab:: Exercise 2
 
-  - Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_
-  - Work through the script to understand how to make phylogenetic trees in R.
+           1. Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R.
+           2. Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively.
+           3. Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``
+           4. Open the alignments in Geneious Prime, check and trim to the shortest sequence.
+           5. Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas`` to **Friday/Tutorial_1**
+
+        .. tab:: Questions
+
+           1. How long (bp) is the trimmed alignment for: **EF** and **18S**
+           2. How long (bp) is the best alignment from **T2**: **EF** and **18S**
+           
+           .. important::
+              If you have followed the above instructions, you disobeyed a formal alignment rule. **Which one?** 
+
+  .. tab:: Tutorial 2
+
+        .. tab:: Exercise 1
+
+           1. Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
+           2. Save the distance matrix for each alignment as ``csv``, name it ``dEF.csv`` and ``d18S.csv``, to **Friday/Tutorial_2** on your PC
+           3. Calculate 1000 bootstraps for each tree.
+           4. Plot each tree nicely (:r:`ladders right=FALSE, cex=0.7`) with bootstrap in percent and in ``lightblue`` colour in circles with ``white`` background.
+  - Save the NJ trees with nodelabels as ``njEF.tre`` (with ``red`` tip labels) and ``nj18S.tre`` (with ``lightblue`` tip labels).
 
 
 Task 4
