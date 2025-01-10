@@ -407,19 +407,19 @@ Tasks of the Day
            2. Start the ML analyses with following parameters:
 
               - GTR GAMMA I
-              - `500` bootstrap replicates
+              - 500 bootstrap replicates
               - any other parameter in default settings
 
            3. Write down how long the analyses took (in seconds).
 
-         .. tab:: Question
+        .. tab:: Question
      
-            .. note::
-               When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
+           .. note::
+              When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
 
-            1. How can we be sure that a tree is good? More than one solution is possible!
+           1. How can we be sure that a tree is good? More than one solution is possible!
 
-            .. thumbnail:: /_static/haplotypes.png
+           .. thumbnail:: /_static/haplotypes.png
 
 
   .. tab:: Tutorial 2
