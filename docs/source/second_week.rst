@@ -165,15 +165,15 @@ Tasks of the Day
 
             2. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
 
-     .. attention::
-       Use a period ``.`` not a comma ``,`` when typing the penalty values!
+            .. attention::
+               Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
-     .. thumbnail:: /_static/T2_A_1.png
+            .. thumbnail:: /_static/T2_A_1.png
 
-     .. important::
-       Save the alignments as FASTA file to the subfolder **Tuesday/Tutorial_1** like this ``18S_Tutorial_1_a_aln.fas`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.fas``)
+            .. important::
+               Save the alignments as FASTA file to the subfolder **Tuesday/Tutorial_1** like this ``18S_Tutorial_1_a_aln.fas`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.fas``)
 
-     .. thumbnail:: /_static/T2_A_2.png
+            .. thumbnail:: /_static/T2_A_2.png
 
   .. tab:: Tutorial 2
 
@@ -290,6 +290,8 @@ Tasks of the Day
 
   .. tab:: Tutorial 3
 
+     .. tabs::
+
         .. tab:: Requirements
 
            .. important::
@@ -319,6 +321,8 @@ Tasks of the Day
            2. What is the difference between a cladogram, a phylogram, and a chronogram?
 
   .. tab:: Bonus Tutorial 4
+
+     .. tabs::
 
         .. tab:: Requirements
 
