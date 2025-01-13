@@ -1,4 +1,5 @@
-.. _first-week:
+
+ t5665v3g.. _first-week:
 First Week
 ==========
 In the first week, you will observe, separate, and identify oribatid mites and process them in the molecular lab to obtain DNA sequences for phylogenetic analyses.
@@ -41,7 +42,7 @@ Tasks of the Day
 ^^^^^^^^^^^^^^^^
 .. tabs::
 
-   .. tab:: Group oribatid mite species based on distinct morphotypes.
+   .. tab:: Exercise 1
 
 	  1. Group oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
 	  2. Transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
@@ -49,9 +50,12 @@ Tasks of the Day
 	  4. The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes.
           5. Label them in the same way as the samples in the glass vials.
 
-   .. tab:: Save your notes.
+   .. tab:: Exercise 2
 
-          Write down three to five characters (morphological and/or behavioural) of three oribatid mite species. Keep your notes, we will be using them later in this course.
+          1. Write down three to five characters (morphological and/or behavioural) of three oribatid mite species.
+
+          .. note::
+             Keep your notes, we will be using them later in this course.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
