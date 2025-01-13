@@ -66,8 +66,6 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_tuesday:
 Tuesday
 -------
-Goal of the Day
-^^^^^^^^^^^^^^^
 Yesterday, you collected oribatid mites and left them in lactic acid overnight to clear their bodies for better examination under the microscope. Without this treatment, recognizing key morphological features would be challenging.
 
 .. note::
@@ -103,8 +101,6 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_wednesday:
 Wednesday
 ---------
-Goal of the Day
-^^^^^^^^^^^^^^^^
 In this course, we use a DNA extraction method based on spin columns with a silica membrane, provided as part of a DNA extraction kit. The kit includes carefully matched buffers, reaction tubes, and optimized incubation and centrifugation procedures, ensuring efficient processing and optimal DNA yield.
 
 .. note::
@@ -156,8 +152,6 @@ To provide feedback, please complete our `questionnaire <https://easy-feedback.d
 .. _first_week_thursday:
 Thursday
 --------
-Goal of the Day
-^^^^^^^^^^^^^^^^
 Today, you will prepare an agarose gel and load a small amount of your PCR product to check whether the PCR was successful. Be sure to add loading dye to your samples before loading them onto the gel. After evaluating the gel, purify (i.e., wash) the PCR products that show bright and clear bands, in preparation for sequencing.
 
 Tasks of the Day
