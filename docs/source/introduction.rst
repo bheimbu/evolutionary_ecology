@@ -23,8 +23,8 @@ In the :ref:`second-week`, you will learn essential tools for analyzing molecula
 
 The :ref:`third-week` is dedicated to your own :ref:`Mini_research_Project`. By the end of the first two weeks, you will have the knowledge to develop your own research question. You will collect your own data (:ref:`first-week`), utilize public databases, and apply methods to investigate a scientific hypothesis (:ref:`second-week`). Working in small research teams, you will efficiently organize and delegate tasks within your project. On the final day of the course, you will present your :ref:`Mini_research_Project`.
 
-Goals
------
+Major Goals
+-----------
 
 This course introduces you to some fundamental basics of...
 
