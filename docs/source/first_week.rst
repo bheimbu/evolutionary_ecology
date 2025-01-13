@@ -83,11 +83,12 @@ Tasks of the Day
 ^^^^^^^^^^^^^^^^^
 .. tabs::
 
-   .. tab:: Prepare the taxa list
+   .. tab:: Exercise
 
-          Enter the sample number, species name, morphotype number, and your name in the taxa list.
+          Enter the sample number, species name, morphotype number, and your name in the **taxa list**.
           
-          **Everyone should have five different species identified by the end of the day.**
+          .. note::
+             Everyone should have five different species identified by the end of the day.
 
    .. tab:: Question of the Day
 
