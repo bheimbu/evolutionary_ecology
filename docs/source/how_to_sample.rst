@@ -9,8 +9,8 @@ Check out the video below to find out how to sample oribatid mites.
 .. hint::
    More videos of the soil animal ecology group can be found on `Youtube <https://www.youtube.com/@animalecologygoettingen3787/videos>`_. If you're a fan of soil animals, check out the `webshop of Svenja <https://smartwork.bigcartel.com/>`_.  
 
-**Material**
-
+Sampling accessoires
+--------------------
 Plastic bag (ordinary bin bag or something similar, medium size, ~10-20 l volume) or box with lid, garden towel and/or spade.
 
 Habitat of oribatid mites
