@@ -134,7 +134,9 @@ Tasks of the Day
                 │     └── Tutorial_5
                 └── …
 
+
            .. attention::
+
               There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
 
            .. hint::
