@@ -61,11 +61,11 @@ Tasks of the Day
            .. code::
 
               Local
-                ├── Monday/
-                │     └── Tutorial_1/
-                │            ├── 18S
-                │            ├── 28S
-                |            └── COI
+                ├── Monday
+                │     └── **Tutorial_1**
+                │            ├── **18S**
+                │            ├── **28S**
+                |            └── **COI**
                 └── …
            
            2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
@@ -123,15 +123,15 @@ Tasks of the Day
         .. tab:: Exercises
 
            1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
-           2. Use the Clipboard option to save all sequences in FASTA format as a single file.
-           3. Import the file as ``Tutorial_5_Oribatida_18S.fas`` to **Monday/Tutorial_5** in Geneious.
+           2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``).
+           3. Import the file to **Monday/Tutorial_5** in Geneious Prime.
 
            .. code::
 
               Local
-                ├── Monday/
-                │     ├── Tutorial_1/
-                │     └── Tutorial_5/
+                ├── Monday
+                │     ├── Tutorial_1
+                │     └── **Tutorial_5**
                 └── …
 
            .. attention::
@@ -159,7 +159,7 @@ Tasks of the Day
                 ├── Monday/
                 │     ├── Tutorial_1/
                 │     ├── Tutorial_5/
-                │     └── Tutorial_6/
+                │     └── **Tutorial_6/**
                 └── …
 
            2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
@@ -171,17 +171,17 @@ Tasks of the Day
         .. tab:: Exercise 1
 
            1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
-           2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``)
+           2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``).
            3. Import the file as ``18S_all`` to **Monday/Tutorial_7**
 
            .. code::
 
               Local
-                ├── Monday/
-                │     ├── Tutorial_1/
-                │     ├── Tutorial_5/
-                │     ├── Tutorial_6/
-                │     └── Tutorial_7/
+                ├── Monday
+                │     ├── Tutorial_1
+                │     ├── Tutorial_5
+                │     ├── Tutorial_6
+                │     └── **Tutorial_7**
                 └── …
 
            .. note::
