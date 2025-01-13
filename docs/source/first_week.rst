@@ -121,11 +121,12 @@ Tasks of the Day
 ^^^^^^^^^^^^^^^^
 .. tabs::
 
-   .. tab:: Lab work
+   .. tab:: Exercise
 
-    Perform DNA extractions and PCR reactions with your samples.
+    Perform DNA extractions and PCR reactions with your samples in the lab.
 
-    *Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.*
+    .. note::
+       Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
 
    .. tab:: Questions of the Day
 
@@ -196,7 +197,7 @@ Make yourself familiar with **Geneious Prime**, watch the introductory videos ab
     2. If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
     3. Watch the tutorial about `Sanger Sequencing <https://www.youtube.com/watch?v=I9btM6LYDCA>`_. It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc, and explains how to analyze your Sanger sequences.
 
-   .. tab:: General introduction to Sanger-sequencing
+   .. tab:: Sanger-sequencing
 
     .. youtube:: YeHtjO7vlyg
     .. youtube:: CN21sVuXkkw
