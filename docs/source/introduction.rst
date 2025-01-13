@@ -28,21 +28,30 @@ Goals
 
 This course introduces you to some fundamental basics of...
 
-**Soil Ecology**
-  - Mesofauna
-  - Oribatid mites
-**Molecular Lab Work**
-  - DNA extraction and purification
-  - PCR
-  - Sanger sequencing
-**Molecular Phylogenetics**
-  - Sequence data and alignments
-  - Phylogenetic tree reconstruction 
+.. tabs::
+
+  .. tab:: Soil Ecology
+  
+     - Mesofauna
+     - Oribatid mites
+
+  .. tab:: Molecular Lab Work
+  
+     - DNA extraction and purification
+     - PCR
+     - Sanger sequencing
+
+  .. tab:: Molecular Phylogenetics
+  
+     - Sequence data and alignments
+     - Phylogenetic tree reconstruction 
 
 .. note::
-  By the end of this course, you will have gained the skills to effectively organize a *research project*, including:
-    - Formulating a hypothesis
-    - Collecting, evaluating, and structuring research data
-    - Selecting appropriate analytical methods
-    - Presenting and interpreting your results
-    - Discussing your findings within a broader, up-to-date scientific context
+
+   By the end of this course, you will have gained the skills to effectively organize a *research project*, including:
+
+   - Formulating a hypothesis.
+   - Collecting, evaluating, and structuring research data.
+   - Selecting appropriate analytical methods.
+   - Presenting and interpreting your results.
+   - Discussing your findings within a broader, up-to-date scientific context.
