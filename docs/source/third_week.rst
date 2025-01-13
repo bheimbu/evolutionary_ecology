@@ -26,7 +26,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research questions
+        .. tab:: Possible research questions:
 
            - Within oribatid mites (e.g. the position of Astigmata within or outside oribatid mites)
            - Within Acari (e.g. are oribatid mites monophyletic?)
@@ -37,7 +37,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research questions
+        .. tab:: Possible research questions:
 
            - Are lineages of holarctic oribatid mite species everywhere?
            - Do parthenogenetic and sexual species have similar recolonisation patterns in Europe?
@@ -46,7 +46,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research questions
+        .. tab:: Possible research questions:
 
            - Investigate assembly processes of oribatid mite communities from different habitats or the same habitat from different areas (e.g. are communities phylogenetically clustered or overdispersed, is functional and phylogenetic diversity the same among communities?)
 
@@ -88,7 +88,8 @@ Tasks of the Day
 
   .. tab:: Exercise 1
           
-     Think about a research topic (or phenomenon) you are interested in and find a team with the same interest.
+     - Think about a research topic (or phenomenon) you are interested in.
+     - Find a team with the same interest.
 
   .. tab:: Exercise 2
 
@@ -99,7 +100,8 @@ Tasks of the Day
      - Check the literature if other studies investigated similar topics.
      
      .. note::
-     The tutors will help you to find publications.
+     
+        The tutors will help you to find publications.
 
   .. tab:: Exercise 3
 
