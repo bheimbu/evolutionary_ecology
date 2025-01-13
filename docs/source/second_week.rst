@@ -99,12 +99,15 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Exercises
+        .. tab:: Requirements
 
            1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_.
-           2. Look up the accession numbers on NCBI GenBank.
-           3. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
-           4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
+
+        .. tab:: Exercises
+
+           1. Look up the accession numbers on NCBI GenBank.
+           2. See the 'Source Organism' section of the entry and enter the species' names and the major taxonomic group to which they belong (Brachypylina, Desmonomata, Enarthronota, Mixonomata, Palaeosomata, Parhyposomata) in the spreadsheet that contains the accession numbers.
+           3. Upload your results `here <https://owncloud.gwdg.de/index.php/s/sMMflDL2wJxGJv2>`_.
 
   .. tab:: Tutorial 4
 
