@@ -68,7 +68,7 @@ Tasks of the Day
                 |            └── EF
                 └── …
            
-            2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
+           2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
 
         .. tab:: Exercise 2
        
