@@ -121,7 +121,7 @@ Tasks of the Day
 
 .. tabs::
 
-  .. tab:: Exercise
+  .. tab:: Exercises
 
      - Continue with your :ref:`Mini_research_Project`.
      - Finish collecting and formatting the data you need today.
@@ -149,12 +149,15 @@ Tasks of the Day
 
 Today, keep the finish line of analyses in sight. Check and discuss preliminary and final results with the tutors. Add or delete taxa/genes if it improves your analysis. Be critical but pragmatic.
 
-.. attention::
+.. tabs::
 
-  At the end of the day, you should have your final results!
+  .. tab:: Exercises
 
-.. note::
-   Make sure that you have looked for and consulted scientific papers that deal with your topic. 
+     By the end of the day, you should have your final results!
+
+  .. tab:: Keep in mind!
+
+     Make sure that you have looked for and consulted scientific papers that deal with your topic. 
 
 
 .. attention::
@@ -171,9 +174,11 @@ Thursday
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-.. note::
+.. tabs::
 
-  Today you wrap up your data, results, and prepare your 🎉 final presentation 🎉. 
+  .. tab:: Exercises
+
+     Today you wrap up your data, results, and prepare your 🎉 final presentation 🎉. 
 
 .. attention::
 
@@ -190,7 +195,7 @@ Friday
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-.. note::
+.. attention::
 
   🎉 Today, you present your mini research project, followed by a brief discussion. 🎉
 
