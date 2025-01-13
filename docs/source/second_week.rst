@@ -56,7 +56,7 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Open Geneious and create the folder **Monday/Tutorial_1** and for a each gene a subfolder (name them **18S**, **28S**, and **COI**)
+           1. Open Geneious Prime and create the folder **Monday/Tutorial_1** and subfolders for each gene
 
            .. code::
 
@@ -65,7 +65,7 @@ Tasks of the Day
                 │     └── Tutorial_1/
                 │            ├── 18S
                 │            ├── 28S
-                |            └── EF
+                |            └── COI
                 └── …
            
            2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
@@ -124,7 +124,15 @@ Tasks of the Day
 
            1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
            2. Use the Clipboard option to save all sequences in FASTA format as a single file.
-           3. Save the file as ``Tutorial_5_Oribatida_18S.fas`` to **Monday/Tutorial_5** on your PC.
+           3. Import the file as ``Tutorial_5_Oribatida_18S.fas`` to **Monday/Tutorial_5** in Geneious.
+
+           .. code::
+
+              Local
+                ├── Monday/
+                │     ├── Tutorial_1/
+                │     └── Tutorial_5/
+                └── …
 
            .. attention::
               There is no 18S sequence available for *Carabodes femoralis*, use the 18S sequence of *Carabodes subarcticus*. For *Platynothrus peltifer*, three 18S sequences are available, download the sequence with the accession number ``EF091422``.
@@ -144,6 +152,16 @@ Tasks of the Day
         .. tab:: Exercises
 
            1. Download all sequences from **Tutorial 3** and import them to Geneious Prime.
+
+           .. code::
+
+              Local
+                ├── Monday/
+                │     ├── Tutorial_1/
+                │     ├── Tutorial_5/
+                │     └── Tutorial_6/
+                └── …
+
            2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
 
   .. tab:: Tutorial 7
@@ -154,7 +172,17 @@ Tasks of the Day
 
            1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
            2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``)
-           3. Save the file as ``18S_all.fas`` to **Monday/Tutorial_7**
+           3. Import the file as ``18S_all`` to **Monday/Tutorial_7**
+
+           .. code::
+
+              Local
+                ├── Monday/
+                │     ├── Tutorial_1/
+                │     ├── Tutorial_5/
+                │     ├── Tutorial_6/
+                │     └── Tutorial_7/
+                └── …
 
            .. note::
               You now have two datasets with +/- identical taxon sampling but with two different genes. Awesome!
