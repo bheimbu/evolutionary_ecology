@@ -269,10 +269,16 @@ Tasks of the Day
 
   .. tab:: Tutorial 2
 
-     1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_.
-     2. Complete the exercises.
-     3. Compare your results with your neighbour.
-     4. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_ (**Do no forget to include your name or initals in the file name!**).
+     .. tabs::
+
+        .. tab:: Requirements
+
+           1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_.
+
+        .. tab:: Exercises
+
+           1. Compare your results with your neighbour.
+           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_ (**Do no forget to include your name or initals in the file name!**).
 
 
   .. tab:: Tutorial 3
@@ -281,13 +287,13 @@ Tasks of the Day
 
         .. tab:: Requirements
                
-            1. Read section :ref:`Sequence_Editing`.
+           1. Read section :ref:`Sequence_Editing`.
+           2. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
 
         .. tab:: Exercise
      
-            1. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
-            2. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
-            3. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_ (**Do no forget to include your name or initals in the file name!**).
+           1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
+           2. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_ (**Do no forget to include your name or initals in the file name!**).
 
   .. tab:: Tutorial 4
 
