@@ -11,9 +11,9 @@ Here are some **usage** notes:
 
 .. tabs::
 
-   .. tab:: Tasks of the Day
+   .. tab:: Exercises
 
-     ⚠️ **Tab** boxes highlight the **Tasks of the Day** and… (click on Questions of the Day)
+     ⚠️ **Tab** boxes highlight the **Exercises** and… (click on Questions of the Day)
 
    .. tab:: Questions of the Day
 
