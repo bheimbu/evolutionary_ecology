@@ -62,10 +62,10 @@ Tasks of the Day
 
               Local
                 ├── Monday
-                │     └── **Tutorial_1**
-                │            ├── **18S**
-                │            ├── **28S**
-                |            └── **COI**
+                │     └── Tutorial_1
+                │            ├── 18S
+                │            ├── 28S
+                |            └── COI
                 └── …
            
            2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
@@ -131,7 +131,7 @@ Tasks of the Day
               Local
                 ├── Monday
                 │     ├── Tutorial_1
-                │     └── **Tutorial_5**
+                │     └── Tutorial_5
                 └── …
 
            .. attention::
@@ -156,10 +156,10 @@ Tasks of the Day
            .. code::
 
               Local
-                ├── Monday/
-                │     ├── Tutorial_1/
-                │     ├── Tutorial_5/
-                │     └── **Tutorial_6/**
+                ├── Monday
+                │     ├── Tutorial_1
+                │     ├── Tutorial_5
+                │     └── Tutorial_6
                 └── …
 
            2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
@@ -181,7 +181,7 @@ Tasks of the Day
                 │     ├── Tutorial_1
                 │     ├── Tutorial_5
                 │     ├── Tutorial_6
-                │     └── **Tutorial_7**
+                │     └── Tutorial_7
                 └── …
 
            .. note::
@@ -237,7 +237,17 @@ Tasks of the Day
 
         .. tab:: Exercise
 
-            1. Use your DNA datasets from Monday, namely **Tutorial 7** and **Tutorial 8** to generate alignments in Geneious Prime using the parameters below…
+            1. Use your DNA datasets from Monday, namely **Tutorial 6** and **Tutorial 7** to generate alignments in Geneious Prime using the parameters below…
+
+           .. code::
+
+              Local
+                ├── Monday
+                │     ├── …
+                │     ├── Tutorial_6
+                │     └── Tutorial_7
+                └── Tuesday
+                     └── Tutorial_1
 
             .. attention::
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
