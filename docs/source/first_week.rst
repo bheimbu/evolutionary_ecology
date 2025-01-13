@@ -215,20 +215,3 @@ Make yourself familiar with **Geneious Prime**, watch the introductory videos ab
     4. What are the main advantages of the modern fluorescence based Sanger DNA sequencing approach compared to the original (radio-labelled) one.
     5. What happens to your PCR primers during Sanger sequencing? Are they even used?
     6. Why do we sequence both the forward and reverse strands of the PCR product separately? Is this crucial for the sequencing method, or is it primarily beneficial for improving the accuracy of our data analysis?
-
-.. note::
-  As soon as possible, but latest on Monday next week, you will receive the raw reads of your sequences. Your PCR products were sequenced in forward and reverse direction, meaning that two raw reads form a consensus sequence. In order to obtain a consensus sequence, assemble the pairs of raw reads and – very important! – check for any sequencing errors and/or ambiguous positions. At the end, we want to have good to high quality consensus sequences for downstream analyses.
-
-Task preview for Monday morning, Second Week:
----------------------------------------------
-
-On :ref:`Monday_Second_Week`, each of you will process a subsample of raw reads to assemble good to high quality consensus sequences. A **sequence assignment list** will be provided `here <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_ and you can find the **raw sequences** `here <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_.
-
-.. attention::
- Sequences must to be assembled, checked, and exported as consensus sequence files. Please upload them `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_ by Monday 5:00 pm. Each consensus file you upload must contain a sample ID and your initials.
-
-.. tip::
-  If you want, you can also start the :ref:`Monday_Second_Week` tutorials and tasks this Friday. You are very welcome to ask questions in class from 11:00-12:00 am and 1:00-2:00 pm and we would be happy to support you in assembling, checking, exporting, and naming your sequences. You can also use Slack to ask questions and discuss them with the others.
-
-.. hint::
-  The sequencing facility may work quickly, so raw sequences may be available as early as Saturday/Sunday. If so, the sequence assignment list will be provided at the weekend. If the tutorial is clear enough for you and raw sequences were uploaded on the weekend (please check it yourself), you can start working on the weekend and upload the consensus sequences. In any case, consensus sequences must be uploaded by 5:00 p.m. on Monday or any time earlier.
