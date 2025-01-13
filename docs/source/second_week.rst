@@ -68,15 +68,15 @@ Tasks of the Day
                 |            └── COI
                 └── …
            
-           2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime (Download the right files!!!).
+           2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/QSFR7r76OLJ5TsS>`_ to Geneious Prime.
 
         .. tab:: Exercise 2
        
            1. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences).
            2. Assemble the matching read pairs.
-           3. Name your consensus sequences in the following format: ``$DNA sample number_$Genus_$Species_$Gene_$Initials`` (      ``1_Acrogalumna_longisetosa_18S_IS``).
+           3. Name your consensus sequences in the following format: ``$DNA sample number_$Genus_$Species_$Gene_$Initials`` (      ``1_Acrogalumna_longisetosa_18S_BH``).
            4. Check the consensus sequence and correct ambiguous positions.
-           5. Export the consensus sequences as FASTA files to **Monday/Tutorial_1** on your PC.
+           5. Export the consensus sequences as FASTA files to your PC.
            6. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/seFkQ23tcEiTcA7>`_.
 
            .. attention::
@@ -135,6 +135,7 @@ Tasks of the Day
                 ├── Monday
                 │     ├── Tutorial_1
                 │     └── Tutorial_5
+                │           └── Tutorial_5_Oribatida_18S
                 └── …
 
 
@@ -170,6 +171,17 @@ Tasks of the Day
 
            2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
 
+           .. code::
+
+              Local
+                ├── Monday
+                │     ├── Tutorial_1
+                │     ├── Tutorial_5
+                │     └── Tutorial_6
+                │            ├── Archegozetes_longisetosus_EF081321_EF
+                │            └── …
+                └── …
+
   .. tab:: Tutorial 7
 
      .. tabs::
@@ -178,7 +190,7 @@ Tasks of the Day
 
            1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
            2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``).
-           3. Import the file as ``18S_all`` to **Monday/Tutorial_7**
+           3. Import the file as ``18S_all`` to **Monday/Tutorial_7** (as *separate sequences*)
 
            .. code::
 
@@ -188,6 +200,8 @@ Tasks of the Day
                 │     ├── Tutorial_5
                 │     ├── Tutorial_6
                 │     └── Tutorial_7
+                │           ├── Archegozetes_longisetosus_EF081321_18S
+                │           └── …
                 └── …
 
            .. note::
@@ -200,6 +214,7 @@ Tasks of the Day
            3. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``
      
            .. important::
+
               Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
 Feedback Monday
@@ -255,7 +270,11 @@ Tasks of the Day
                 ├── Monday
                 │     ├── …
                 │     ├── Tutorial_6
+                │     |     ├── Archegozetes_longisetosus_EF081321_EF
+                │     |     └── …
                 │     └── Tutorial_7
+                │           ├── Archegozetes_longisetosus_EF081321_18S
+                │           └── …
                 └── Tuesday
                      └── Tutorial_1
 
@@ -266,6 +285,19 @@ Tasks of the Day
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
            2. Change the names of the alignments like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``).
+
+           .. code::
+
+              Local
+                ├── Monday
+                └── Tuesday
+                     └── Tutorial_1
+                           ├── EF_Tutorial_1_a_aln
+                           ├── EF_Tutorial_1_b_aln
+                           ├── EF_Tutorial_1_c_aln
+                           ├── 18S_Tutorial_1_d_aln
+                           ├── 18S_Tutorial_1_e_aln
+                           └── 18S_Tutorial_1_f_aln
 
   .. tab:: Tutorial 2
 
@@ -280,7 +312,6 @@ Tasks of the Day
            1. Compare your results with your neighbour.
            2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_ (**Do no forget to include your name or initals in the file name!**).
 
-
   .. tab:: Tutorial 3
 
      .. tabs::
@@ -288,12 +319,15 @@ Tasks of the Day
         .. tab:: Requirements
                
            1. Read section :ref:`Sequence_Editing`.
-           2. Download the `.zip folder <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
+           2. Download the `zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
 
         .. tab:: Exercise
      
            1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
-           2. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_ (**Do no forget to include your name or initals in the file name!**).
+           2. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_ 
+           
+           .. attention::
+              Do no forget to include your name or initals in the file name!
 
   .. tab:: Tutorial 4
 
@@ -306,6 +340,9 @@ Tasks of the Day
         .. tab:: Exercise
      
            1. Upload the completed spreadsheet `here <https://owncloud.gwdg.de/index.php/s/t4dVMcxPrN5Hwrw>`_.
+
+           .. attention::
+              Do no forget to include your name or initals in the file name!
 
 Feedback Tuesday
 ^^^^^^^^^^^^^^^^
@@ -356,17 +393,20 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC.
-           2. Read section :ref:`Models_of_Sequence_Evolution`
+           2. Read section :ref:`Models_of_Sequence_Evolution`.
 
         .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both elongation factor and 18S alignments from **Tuesday/Tutorial_1**.
-           2. Safe the html log file in the folder **Wednesday/Tutorial_1**.
+           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both EF and 18S alignments from **Tuesday/Tutorial_1**.
+           2. Safe the html log file in the folder **Wednesday/Tutorial_1** on your PC.
 
         .. tab:: Exercise 2
 
            1. Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions.
-           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_ (**Do no forget to include your name or initals in the file name!**).
+           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_.
+
+           .. attention::
+              Do no forget to include your name or initals in the file name!
 
   .. tab:: Tutorial 2
 
@@ -392,7 +432,7 @@ Tasks of the Day
                            ├── 18S
                            └── EF  
 
-           2. Copy your alignment files  from **Tuesday/Tutorial_1** in the respective subfolders.
+           2. Copy your best alignments from **Tuesday/Tutorial_1** in the respective subfolders.
            3. For both alignments calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates (see section :ref:`How_to_Infer_Phylogenetic_Trees` for how to generate a tree in Geneious Prime).
            4. Save the rooted tree with bootstrap values in **Wednesday/Tutorial_2** and indicate in the file name that this tree is without (`w-o`) a model.
        
