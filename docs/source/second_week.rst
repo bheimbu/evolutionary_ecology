@@ -379,8 +379,20 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. For the following Neighbor Joining (**NJ**) exercises create two subfolders named **Tutorial_2/EF** and **Tutorial_2/18S**.                
-           2. Copy your alignment files (**Tuesday/Tutorial_1**) in the respective subfolders.
+           1. Create two subfolders named **Wednesday/Tutorial_2/EF** and **Wednesday/Tutorial_2/18S**.
+
+           .. code::
+
+              Local
+                ├── Monday
+                ├── Tuesday
+                |    └── Tutorial_1
+                └── Wednesday
+                     └── Tutorial_2
+                           ├── 18S
+                           └── EF  
+
+           2. Copy your alignment files  from **Tuesday/Tutorial_1** in the respective subfolders.
            3. For both alignments calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates (see section :ref:`How_to_Infer_Phylogenetic_Trees` for how to generate a tree in Geneious Prime).
            4. Save the rooted tree with bootstrap values in **Wednesday/Tutorial_2** and indicate in the file name that this tree is without (`w-o`) a model.
        
