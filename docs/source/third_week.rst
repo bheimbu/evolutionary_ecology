@@ -20,8 +20,6 @@ Each project-team will build their own hypothesis and collect data, from the cou
 🧬Mini research project🧬
 -------------------------
 
-.. note::
-
 .. tabs::
 
   .. tab:: Phylogenetics
@@ -86,32 +84,27 @@ After discussing open questions, you will start to think about your mini researc
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Task 1
-""""""
+.. tabs::
 
-.. important::
+  .. tab:: Exercise 1
+          
+     Think about a research topic (or phenomenon) you are interested in and find a team with the same interest.
 
-  - Think about a research topic (or phenomenon) you are interested in and find a team with the same interest.
+  .. tab:: Exercise 2
 
-Task 2
-""""""
+     - Formulate a hypothesis.
+     - Explain the hypothesis, what you expect and why.
+     - Discuss which data you need to test the hypothesis.
+     - Discuss the hypothesis and the data with your tutors.
+     - Check the literature if other studies investigated similar topics.
+     
+     .. note::
+     The tutors will help you to find publications.
 
-.. important::
+  .. tab:: Exercise 3
 
-  - Formulate a hypothesis.
-  - Explain the hypothesis, what you expect and why.
-  - Discuss which data you need to test the hypothesis.
-  - Discuss the hypothesis and the data with your tutors.
-  - Check the literature if other studies investigated similar topics.
-  - The tutors will help you to find publications.
-
-Task 3
-""""""
-
-.. important::
-
-  - Start to collect and format the data you need.
-  - Build task forces and split the work effectively.
+     - Start to collect and format the data you need.
+     - Build task forces and split the work effectively.
 
 Feedback Monday
 ^^^^^^^^^^^^^^^
@@ -124,12 +117,14 @@ Tuesday
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-.. important::
+.. tabs::
 
-  - Continue with your :ref:`Mini_research_Project`.
-  - Finish collecting and formatting the data you need today.
-  - Start the first analyses if possible.
-  - Consult the literature.
+  .. tab:: Exercise
+
+     - Continue with your :ref:`Mini_research_Project`.
+     - Finish collecting and formatting the data you need today.
+     - Start the first analyses if possible.
+     - Consult the literature.
   
 .. attention::
 
@@ -157,8 +152,11 @@ Today, keep the finish line of analyses in sight. Check and discuss preliminary 
   At the end of the day, you should have your final results!
 
 .. note::
+   Make sure that you have looked for and consulted scientific papers that deal with your topic. 
 
-  Make sure that you have looked for and consulted scientific papers that deal with your topic. **Just a reminder:** Tomorrow will be the questionnaire.
+
+.. attention::
+   **Just a reminder:** Tomorrow will be the questionnaire.
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
