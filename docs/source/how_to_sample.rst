@@ -26,7 +26,7 @@ You close the bag and bring it to my office at the Department of Animal Ecology.
 
 **What's the best time to sample oribatid mites?**
 
-Now, is the best time, it is not too cold and fungi are growing everywhere, in autumn. Even after longer periods of frost you can collect litter and soil and find oribatid mites, but then number of species and densities will be strongly reduced. Day- or night-time is irrelevant for oribatid mites, they are always everywhere.
+The best time is in spring and autumn, it is not too warm/cold and fungi are growing everywhere, at least in autumn. Even after longer periods of frost you can collect litter and soil and find oribatid mites, but then the number of species and densities will be strongly reduced. Day- or night-time is irrelevant for oribatid mites, they are always everywhere.
 
 **What shall I do with my plastic bag full of „dirt“?**
 
