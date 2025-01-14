@@ -3,16 +3,11 @@ Second Week
 ===========
 Major Goals
 -----------
-This week it's all about DNA sequences: How to work with them, where to get them from (if you do not wish to sequence organisms yourself), and how to infer phylogenetic trees.
+This week focuses on DNA sequences: how to work with them, where to obtain them if you prefer not to sequence organisms yourself, and how to infer phylogenetic trees.
 
-All steps for handling sequence data and phylogenetic analyses are explained step by step in online tutorials. Everyday, a tutorial is dedicated to a different method. You must finish the respective tutorial and its exercises in order to be able to continue with the next one on the next day.
+Lectures and videos provide a step-by-step guide on handling sequence data and conducting phylogenetic analyses. Each day, tutorials will cover a different method, and you must complete each tutorial and its exercises to progress to the next day's topic.
 
-However, you start this week with assembling, checking, and exporting your raw sequences (sequenced PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
-
-1. Sanger DNA sequencing.
-2. Sequence evaluation (or 'What's the difference between a bad and good DNA sequence?').
-3. Ambiguous (wobble) DNA positions and where do they come from.
-4. DNA sequences from public data repositories.
+The week begins with assembling, checking, and exporting your raw sequences (PCR products sequenced last week) to generate high-quality consensus sequences. We start with your DNA sequences to help you become familiar with (1) Sanger DNA sequencing, (2) sequence evaluation (or 'What's the difference between a bad and good DNA sequence?'), (3) ambiguous (wobble) DNA positions and where do they come from; and (4) DNA sequences derived from public data repositories.
 
 .. note::
   **At the end of the week, you will know…**
