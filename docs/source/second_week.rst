@@ -9,12 +9,10 @@ All steps for handling sequence data and phylogenetic analyses are explained ste
 
 However, you start this week with assembling, checking, and exporting your raw sequences (sequenced PCR products from last week) to obtain good or even high quality consensus sequences.  We start with your DNA sequences so that you will get familiar with…
 
-- Sanger DNA sequencing
-- sequence evaluation (or 'What's the difference between a bad and good DNA sequence?')
-- ambiguous (wobble) DNA positions and where do they come from
-- DNA sequences from public data repositories
-
-After you processed your own sequences, you can start with the :ref:`Tutorials`.
+1. Sanger DNA sequencing.
+2. Sequence evaluation (or 'What's the difference between a bad and good DNA sequence?').
+3. Ambiguous (wobble) DNA positions and where do they come from.
+4. DNA sequences from public data repositories.
 
 .. note::
   **At the end of the week, you will know…**
