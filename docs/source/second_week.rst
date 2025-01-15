@@ -257,7 +257,7 @@ Tasks of the Day
         .. tab:: Exercise
 
            1. Use your DNA sequences from Monday, namely from **Tutorial 6** and **Tutorial 7** to generate alignments in Geneious Prime using the parameters below (all other parameters **keep in default mode**).
-           2. In order to do this, mark all sequences in the repective folder and click on ``Align/Assemble -> Geneious Alignment``
+           2. In order to do this, mark all sequences in the repective folder and click on ``Align/Assemble -> Multiple Align -> Geneious Alignment``
 
            .. code::
 
