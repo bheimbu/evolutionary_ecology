@@ -108,7 +108,7 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/4AgQzz4MhNtuCRf>`_.
+           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/15h-Oj29cL1YNEwU6Msrls9VpBAUvMbXfTrMO2nHrNrE/edit?usp=sharing>`_ to your PC.
 
         .. tab:: Exercises
 
