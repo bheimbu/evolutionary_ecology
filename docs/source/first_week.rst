@@ -43,11 +43,14 @@ Tasks of the Day
 
    .. tab:: Exercise 1
 
-	  1. Group oribatid mites by morphotypes. You can collect over 10 different morphotypes, at least two are required (use glass dishes filled with ethanol).
-	  2. Transfer each morphogroup (all individuals belonging to the same morphotype) into a separate vial.
-	  3. Transfer one or two individuals (depending on your total number) in a glass vial and add a small label.
-	  4. The remaining individuals (up to eight or more, at least one ore two are required depending on your total number) go into 2 ml tubes.
-          5. Label them in the same way as the samples in the glass vials.
+	  1. Transfer all individuals belonging to the same morphotype into a *Blockschälchen* filled with EtOH.
+
+          .. note::
+             You can collect over 10 different morphotypes, but at least two are required.
+
+	  2. Transfer one or two individuals into a glass vial filled with EtOH and add a small label.
+	  3. The remaining individuals go into 2 ml tubes filled with EtOH.
+          4. Label them in the same way as the samples in the glass vials.
 
    .. tab:: Exercise 2
 
@@ -72,7 +75,7 @@ Yesterday, you collected oribatid mites and left them in lactic acid overnight t
   **Today, you will…**
     - Expand your knowledge on how to identify oribatid mites.
     - Learn to recognize additional morphological characters.
-    - Be able to identify most of your specimens to the species level.
+    - Be able to identify most of your specimens to species level.
 
 For species-level identification (using the microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes) will be used for molecular work.
 
