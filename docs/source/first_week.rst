@@ -48,7 +48,7 @@ Tasks of the Day
           .. note::
              You can collect over 10 different morphotypes, but at least two are required.
 
-	  2. Transfer one or two individuals into a glass vial filled with EtOH and add a small label.
+	  2. Transfer one or two individuals into a glass vial and add a small label.
 	  3. The remaining individuals go into 2 ml tubes filled with EtOH.
           4. Label them in the same way as the samples in the glass vials.
 
