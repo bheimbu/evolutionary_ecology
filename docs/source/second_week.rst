@@ -299,7 +299,7 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/1358UqllF4nUYlD>`_ and answer the questions.
+           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/1-k5kYAW5cJR4x6xeDMGVZcjEaUB4tu8_6v3uwfC1d0U/edit?usp=sharing>`_ and answer the questions.
 
         .. tab:: Exercises
 
