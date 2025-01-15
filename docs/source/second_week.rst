@@ -256,7 +256,8 @@ Tasks of the Day
 
         .. tab:: Exercise
 
-           1. Use your DNA datasets from Monday, namely **Tutorial 6** and **Tutorial 7** to generate alignments in Geneious Prime (``Align/Assemble -> Geneious Alignment``) using the parameters below (all other parameters **keep in default mode**).
+           1. Use your DNA sequences from Monday, namely from **Tutorial 6** and **Tutorial 7** to generate alignments in Geneious Prime using the parameters below (all other parameters **keep in default mode**).
+           2. In order to do this, mark all sequences in the repective folder and click on ``Align/Assemble -> Geneious Alignment``
 
            .. code::
 
@@ -269,8 +270,7 @@ Tasks of the Day
                 │     └── Tutorial_7
                 │           ├── Archegozetes_longisetosus_EF081321_18S
                 │           └── …
-                └── Tuesday
-                     └── Tutorial_1
+                └── …
 
            .. thumbnail:: /_static/T2_A_1.png
 
@@ -278,7 +278,7 @@ Tasks of the Day
 
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
-           2. Change the names of the alignments like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``).
+           2. Change the names of the alignments (:kbd:`F2`) like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``) and drag or move them to a new subfolder named Tuesday/Tutorial_1
 
            .. code::
 
