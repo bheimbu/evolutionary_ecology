@@ -278,7 +278,7 @@ Tasks of the Day
 
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
-           2. Change the names of the alignments (:kbd:`F2`) like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``) and drag or move them to a new subfolder named Tuesday/Tutorial_1
+           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``) and drag or move them to a new subfolder named Tuesday/Tutorial_1
 
            .. code::
 
@@ -320,7 +320,7 @@ Tasks of the Day
 
         .. tab:: Exercise
      
-           1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://owncloud.gwdg.de/index.php/s/yPMW5k0jTv8TltC>`_.
+           1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://docs.google.com/spreadsheets/d/16UKMFQjh1Z7cVNcKGfwoVeEyIMDFPkwoQnjbjmtcrYw/edit?usp=sharing>`_.
            2. Upload your answers `here <https://owncloud.gwdg.de/index.php/s/Jc8VqrpaWzpunHK>`_.
            
            .. attention::
@@ -332,7 +332,7 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Download the `spreadsheet <https://owncloud.gwdg.de/index.php/s/IfTXZ4cp03lAeLk>`_ and answer the questions.
+           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/12OXWfkzZOfPODuy--hsJYwryqxlZhwRw_fci6SXWIl4/edit?usp=sharing>`_ and answer the questions.
 
         .. tab:: Exercise
      
