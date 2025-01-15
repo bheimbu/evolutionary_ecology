@@ -28,7 +28,7 @@ Monday
 ------
 Today we will start with recapitulating the molecular work of last week and discuss the method of Sanger sequencing.
 After that, you start with processing your sequencing results in Geneious Prime i.e., you will assemble, check and correct the raw reads that have been assigned to you (see sequence assignment list) and export the respective consensus sequences.
-Then, you can start reading the sections about :ref:`_Geneious_Prime` and Genbank under , which introduces you to the handling of sequence data and how to use Genbank, a public sequence data repository.
+Then, you can start reading the sections about :ref:`Geneious_Prime` and Genbank (see :ref:`Database_and_Search_Strategy`), which introduces you to the handling of sequence data and how to use Genbank, a public sequence data repository.
 By doing the exercises in this tutorial, you will generate a toy dataset, which you will be using for the whole week. All following tutorials and exercises are based on this toy dataset.
 The basic idea is, that all of you work with the same toy dataset, which makes it easier to compare results. However, it is also fine if you add some of your own sequences (those you checked and exported earlier today).
 
