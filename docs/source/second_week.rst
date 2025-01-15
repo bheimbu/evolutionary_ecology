@@ -133,18 +133,7 @@ Tasks of the Day
         .. tab:: Exercises
 
            1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
-           2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``).
-           3. Import the file to **Monday/Tutorial_5** in Geneious Prime.
-
-           .. code::
-
-              Local
-                ├── Monday
-                │     ├── Tutorial_1
-                │     └── Tutorial_5
-                │           └── Tutorial_5_Oribatida_18S
-                └── …
-
+           2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``) to your PC.
 
           .. attention::
 
@@ -172,7 +161,6 @@ Tasks of the Day
               Local
                 ├── Monday
                 │     ├── Tutorial_1
-                │     ├── Tutorial_5
                 │     └── Tutorial_6
                 └── …
 
@@ -183,7 +171,6 @@ Tasks of the Day
               Local
                 ├── Monday
                 │     ├── Tutorial_1
-                │     ├── Tutorial_5
                 │     └── Tutorial_6
                 │            ├── Archegozetes_longisetosus_EF081321_EF
                 │            └── …
@@ -197,7 +184,7 @@ Tasks of the Day
 
            1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
            2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``).
-           3. Import the file as ``18S_all`` to **Monday/Tutorial_7** (as *separate sequences*)
+           3. Import the file to Geneious Prime in a new subfolder with the name **Monday/Tutorial_7** (as *separate sequences*)
 
            .. code::
 
