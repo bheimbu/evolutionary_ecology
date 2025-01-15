@@ -304,7 +304,10 @@ Tasks of the Day
         .. tab:: Exercises
 
            1. Compare your results with your neighbour.
-           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_ (**Do no forget to include your name or initals in the file name!**).
+           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
+
+           .. attention::
+              Do no forget to include your name or initals in the file name!
 
   .. tab:: Tutorial 3
 
