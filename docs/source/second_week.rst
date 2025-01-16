@@ -394,12 +394,13 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) for both EF and 18S alignments from **Tuesday/Tutorial_1**.
-           2. Safe the html log file in the folder **Wednesday/Tutorial_1** on your PC.
+           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) 
+           2. Use your best alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
+           2. Safe the HTML log file on your PC.
 
         .. tab:: Exercise 2
 
-           1. Download the docx file `here <https://owncloud.gwdg.de/index.php/s/LVvln6u9EcStj6d>`_ and answer the questions.
+           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/1e8egc_CNkrz1Bactg_qJRsV2C4kpa9c9f-e1JXL3Fmw/edit?usp=sharing>`_ and answer the questions.
            2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_.
 
            .. attention::
@@ -429,15 +430,16 @@ Tasks of the Day
                            ├── 18S
                            └── EF  
 
-           2. Copy your best alignments from **Tuesday/Tutorial_1** in the respective subfolders.
-           3. For both alignments calculate a NJ tree without a model of sequence evolution (`Distances Observed`) with `1000` bootstrap replicates (see section :ref:`How_to_Infer_Phylogenetic_Trees` for how to generate a tree in Geneious Prime).
-           4. Save the rooted tree with bootstrap values in **Wednesday/Tutorial_2** and indicate in the file name that this tree is without (`w-o`) a model.
+           2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
+           3. For both alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with `1000` bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
+           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel)
+           5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, `EF_JC_model`.
        
         .. tab:: Exercise 2
 
-           1. For both alignments calculate a NJ tree with a model of sequence evolution with `1000` bootstrap replicates
-           2. Use the most complex model available (`Distance HKY`)
-           3. Save the rooted trees with bootstrap values in **Wednesday/Tutorial_2** and indicate in the file name that this tree is with (`w`) a model
+           1. For both alignments calculate a NJ tree using the **Tamura-Nei** model of sequence evolution and 1000 bootstrap replicates.
+           2. 4. Root the tree using *Zercon* sp.           
+           3. Indicate in the file name that this tree uses the **Tamura-Nei** model, for example, `EF_TN_model`.
 
         .. tab:: Exercise 3
 
