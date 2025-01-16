@@ -621,7 +621,7 @@ Tasks of the Day
 
               - Use ``GTR+G+I`` as model of sequence evolution (`Substitution Model: GTR` + `Rate Variation: invgamma`)
               - Set the outgroup (`Outgroup: Zercon sp.`)
-              - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 100th generation (`Subsampling Freq: 1000`)
+              - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 1000th generation (`Subsampling Freq: 1000`)
               - Use a burn-in of 25% (`Burn-in Length: 250,000`)
 
            5. Write down how long the analysis took (minutes + seconds).
@@ -629,7 +629,12 @@ Tasks of the Day
         .. tab:: Questions
        
            1. Which parameter-settings deviate from the default settings?
-           2. What is the average standard deviation of your analyses?
+           2. What is the average standard deviation of your analyses? Use the file ``Posterior output`` and look for the tab `Raw Posterior Output` in the lower panel. There you can find the value under the column `StdDev(s)`.
+
+           .. note::
+
+              Click on `Show entire ### bytes (may be very slow)` to show the whole output.
+
            3. Write down the details of the credible set of trees.
            4. What is the meaning of the number of trees that are included in the credible sets (search online for more information).
 
@@ -677,7 +682,7 @@ Friday
 
 Now you know all the essential steps and methods how to calculate a phylogenetic tree from sequence data. You may have realized that you had to use different file formats for different programs and different programs for different analyses.
 
-You should know that you can also work with sequence data and make phylogenetic trees in R. One big advantage of using R is, that you can do all analyses in one software, without reformatting the input files. 
+You should also know that you can work with sequence data and make phylogenetic trees in R. One big advantage of using R is, that you can do all analyses in one software, without reformatting the input files. 
 
 The other big advantage of R is, that you can do awesome downstream analyses with your phylogenetic tree, like analysing trait evolution when you have trait data for your taxa, or analyse community data. But this is another story.
 
@@ -704,6 +709,7 @@ Tasks of the Day
 
            1. Read section :ref:`Ape_package`.
            2. Read section :ref:`Getting_Started_with_R`.
+           3. Install `R <https://cran.rstudio.com/>`_ and `RStudio <https://posit.co/download/rstudio-desktop/>`_. 
            3. Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
 
         .. tab:: Exercise 1
