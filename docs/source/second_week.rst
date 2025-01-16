@@ -356,17 +356,15 @@ Today, we have three learning modules:
 
   .. tab:: Models of Sequence Evolution
 
-     - See :ref:`lectures`.
+     - See :ref:`Models_of_Sequence_Evolution`.
 
   .. tab:: How to Infer Phylogenetic Trees
 
-     - See :ref:`lectures`.
-     - Using Neighbor Joining.
+     - See :ref:`How_to_Infer_Phylogenetic_Trees`.
 
   .. tab:: How to Draw Phylogenetic Trees
   
-     - Introduction to FigTree (tree editing software).
-     - Exercises on basic properties and attributes of phylogenetic trees.
+     - See :ref:`How_To_Draw_Phylogenetic_Trees`.
 
 .. note::
 
