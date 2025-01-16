@@ -45,7 +45,7 @@ Tasks of the Day
 
         .. tab:: Requirements
                
-            1. Read section :ref:`Geneious_Prime`.
+            1. Read section :ref:`Geneious_Prime` and check out the `Geneious Prime User Manual <https://manual.geneious.com/en/latest/index.html>`_.
             2. See the `sequence assignment list <https://docs.google.com/spreadsheets/d/1jLPmKAFAuehtg1MWWZrVGDfeNNqv-mfPGC4dCOA2GbI/edit?usp=sharing>`_.
             3. Check out, which raw reads have been assigned to you.
 
@@ -565,20 +565,21 @@ Tasks of the Day
               Local
                 ├── Monday
                 ├── Tuesday
-                └── Wednesday
+                ├── Wednesday
                 └── Thursday
                      └── Tutorial_1
                            ├── 18S
                            └── EF 
 
-           2. Start the ML analyses with following parameters (`Tree -> RAxML`):
+           2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
+           3. Start the ML analyses with following parameters (`Tree -> RAxML`):
 
               - GTR GAMMA I (`Nucleotide Model: GTR GAMMA I`)
               - Rapid bootstrapping and search for best-scoring ML tree (`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
               - 500 bootstrap replicates (`Number of starting trees or bootstrap replicates: 500`)
               - any other parameter in default settings
 
-           3. Write down how long the analyses took (in seconds).
+           4. Write down how long the analyses took (in seconds).
 
         .. tab:: Question
      
@@ -601,14 +602,28 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Create two new subfolders for the Bayesian analyses of **EF** and **18S**, named **Thursday/Tutorial_2/EF** and **Thursday/Tutorial_2/18S**, respectively, in Geneious.
-           2. Define the outgroup.
-           3. Set the parameters:
+           1. Create two new subfolders for the RAxML analyses of **EF** and **18S** in Geneious Prime.
+
+           .. code::
+
+              Local
+                ├── Monday
+                ├── Tuesday
+                ├── Wednesday
+                └── Thursday
+                     ├── Tutorial_1
+                     └── Tutorial_2
+                           ├── 18S
+                           └── EF
+
+           2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
+           3. Define the outgroup.
+           4. Set the parameters:
 
               - Use ``GTR+G+I`` as model of sequence evolution (see `Substitution Model:` and `Rate Variation:`)
               - 1 million generations (see `Chain Length:`) and sample every 100th generation (see `Subsampling Freq:`)
 
-           4. Write down how long the analysis took (minutes + seconds).
+           5. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
        
