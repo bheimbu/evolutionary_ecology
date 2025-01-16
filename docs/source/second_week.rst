@@ -617,11 +617,12 @@ Tasks of the Day
                            └── EF
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. Define the outgroup.
-           4. Set the parameters:
+           3. Start the Bayesian Inference using MrBayes (`Tree -> MrBayes`) with following parameters:
 
-              - Use ``GTR+G+I`` as model of sequence evolution (see `Substitution Model:` and `Rate Variation:`)
-              - 1 million generations (see `Chain Length:`) and sample every 100th generation (see `Subsampling Freq:`)
+              - Use ``GTR+G+I`` as model of sequence evolution (`Substitution Model: GTR` + `Rate Variation: invgamma`)
+              - Set the outgroup (`Outgroup: Zercon sp.`)
+              - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 100th generation (`Subsampling Freq: 1000`)
+              - Use a burn-in of 25% (`Burn-in Length: 250,000`)
 
            5. Write down how long the analysis took (minutes + seconds).
 
@@ -636,7 +637,7 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Background
+        .. tab:: Background information
 
            .. note::
               The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
