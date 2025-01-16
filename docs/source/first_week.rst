@@ -191,8 +191,9 @@ Make yourself familiar with **Geneious Prime**, watch the introductory videos ab
    .. tab:: Geneious Prime
 
     1. Watch `A brief tour of Geneious Prime <https://www.youtube.com/watch?v=RfULpHpsbZ0>`_.
-    2. If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
-    3. Watch the tutorial about Geneious Prime `here <https://owncloud.gwdg.de/index.php/s/sqsaiyuKYoiHgT0>`_ (courtesy of Dr. Ina Schäfer). It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc., and explains how to analyze your Sanger sequences. 
+    2. Check out the `Geneious Prime User Manual <https://manual.geneious.com/en/latest/index.html>`_.
+    3. If you are going to use your own PC on Monday next week, install the `30-days trial version of Geneious Prime <https://manage.geneious.com/free-trial>`_.
+    4. Watch the tutorial about Geneious Prime `here <https://owncloud.gwdg.de/index.php/s/sqsaiyuKYoiHgT0>`_ (courtesy of Dr. Ina Schäfer). It will explain the most important and common terms such as sequence assembly, sequence checking, ambiguous positions, consensus sequence, etc., and explains how to analyze your Sanger sequences. 
 
    .. tab:: Sanger-sequencing
 
