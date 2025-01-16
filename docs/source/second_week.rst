@@ -638,7 +638,7 @@ Tasks of the Day
            3. Write down the details of the credible set of trees.
            4. What is the meaning of the number of trees that are included in the credible sets (search online for more information).
 
-  .. tab:: Tutorial 2
+  .. tab:: Tutorial 3
 
      .. tabs::
 
@@ -657,7 +657,7 @@ Tasks of the Day
            5. What is the meaning of „burnin“?
            6. Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo.
 
-  .. tab:: Tutorial 3
+  .. tab:: Tutorial 4
 
      .. tabs::
 
@@ -714,22 +714,22 @@ Tasks of the Day
 
         .. tab:: Exercise 1
            
-           1. Copy-and-paste the multisequence FASTA files for **EF** and **18S** from **Monday** to a new folder named **Friday/Tutorial_1** on your PC. 
-           2. Open R or RStudio and set the folder **Friday/Tutorial_1** as working directory.
+           1. Export your sequences from **Monday/Tutorial_6** and **Monday/Tutorial_7** as FASTA files to your PC. Name them ``Oribatida_18S.fas`` and ``Oribatida_EF.fas``, respectively.
+           2. Open R or RStudio and set the folder containing the files as the working directory.
            3. Remember to (download and) activate all required packages.
 
         .. tab:: Exercise 2
 
-           1. Align the multifasta sequences ``T1_A4_Oribatida_EF.fas`` and ``T1_A4_Oribatida_18S.fas`` using the ``msa( )`` function in R.
+           1. Align the multifasta sequences ``Oribatida_EF.fas`` and ``Oribatida_18S.fas`` using the ``msa( )`` function in R.
            2. Use the CLUSTAL algorithm and set `10` and `0.1` as gap opening and gap penalties, respectively.
            3. Save the alignments as ``EF_aln1.fas`` and ``18S_aln1.fas``.
            4. Open the alignments in Geneious Prime, check and trim to the shortest sequence.
-           5. Save the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas`` to **Friday/Tutorial_1**.
+           5. Export the trimmed alignments as ``EF_aln2.fas`` and ``18S_aln2.fas`` to your PC preferably in the same folder as your other files.
 
         .. tab:: Questions
 
-           1. How long (bp) is the trimmed alignment for: **EF** and **18S**
-           2. How long (bp) is the best alignment from **T2**: **EF** and **18S**
+           1. How long (bp) is the untrimmed alignment for: a) 18S and b) EF 
+           2. How long (bp) is the trimmed alignment for: a) 18S and b) EF
            
            .. important::
               If you have followed the above instructions, you disobeyed a formal alignment rule. **Which one?** 
