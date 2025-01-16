@@ -431,21 +431,21 @@ Tasks of the Day
                            └── EF  
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. For both alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with `1000` bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
+           3. For both alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with 1000 bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
            4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel)
-           5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, `EF_JC_model`.
+           5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, ``EF_JC_model``.
        
         .. tab:: Exercise 2
 
            1. For both alignments calculate a NJ tree using the **Tamura-Nei** model of sequence evolution and 1000 bootstrap replicates.
            2. 4. Root the tree using *Zercon* sp.           
-           3. Indicate in the file name that this tree uses the **Tamura-Nei** model, for example, `EF_TN_model`.
+           3. Indicate in the file name that this tree uses the **Tamura-Nei** model, for example, ``EF_TN_model``.
 
         .. tab:: Exercise 3
 
            1. Present the trees from **Exercise 1** and **Exercise 2** as phylograms in PowerPoint.
-           2. Show the NJ trees of EF with and without model on one page, of 18S on another page.
-           3. In order to do this, open the four trees from **Exercise 1** and **Exercise 2** in FigTree implemented in Genious Prime, display the tree with increasing node order :kbd:`Strg`+:kbd:`U` and export the tree as JPEG.
+           2. Display the trees with increasing node order (see the right panel and click on `Formatting -> Order branches -> Ordering: increasing`) and export them as JPEG (`File -> Save as Image File`)
+           2. Display the NJ trees of EF on one page and the NJ trees of 18S on a separate page.
 
         .. tab:: Questions
            
@@ -460,8 +460,11 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Complete all exercises by hand using pen and paper!
-           2. Hand in your results at the end (**Don't forget to write down your name**). 
+           2. Hand in your results at the end. 
            3. We will discuss them tomorrow morning.
+
+           .. attention::
+              Do no forget to include your name or initals on the sheet of paper!
 
         .. tab:: Exercise 1
 
@@ -476,14 +479,14 @@ Tasks of the Day
         .. tab:: Exercise 2
   
            1. Draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)``.
-           2. Check your topology with FigTree.
+           2. Check your topology using FigTree in Geneious Prime.
         
         .. tab:: Questions
 
            1. Why are trees with four taxa interesting to mathematicians compared to trees with two or three taxa?
            2. What is the difference between a cladogram, a phylogram, and a chronogram?
 
-  .. tab:: Bonus Tutorial 4
+  .. tab:: Tutorial 4
 
      .. tabs::
 
@@ -499,7 +502,7 @@ Tasks of the Day
         .. tab:: Exercise
 
            1. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
-           2. Hand in the tree (**on paper, don't forget to write down your name**) with all distance calculations and intermediate distance matrixes.
+           2. Write down the tree with all distance calculations and intermediate distance matrixes.
            3. Interpret the tree in a phylogeographic context.
            4. Are both populations genetically separated or are there any indications for gene flow or dispersal?
 
@@ -524,9 +527,6 @@ Tasks of the Day
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
 To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
-
-.. tip::
-  If you feel stuck, have a chat in Slack or browse it for answers. 
 
 .. _Thursday_Second_Week:
 Thursday
