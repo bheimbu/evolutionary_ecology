@@ -527,6 +527,8 @@ Both methods are widely used, because they are more thorough than Cluster method
 
 Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface), namely :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_).
 
+But likely both programs can be installed as plugins in Geneious Prime. Heureka! See Tutorial 1 and **Tutor2**
+
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
 .. note::
@@ -552,24 +554,38 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`RAxML <Raxml>`.
+           2. Install **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
 
         .. tab:: Exercise 1
 
-           1. Create two new subfolders for the RAxML analyses of **EF** and **18S**, named **Thursday/Tutorial_1/EF** and **Thursday/Tutorial_1/18S**, respectively, in Geneious.
-           2. Start the ML analyses with following parameters:
+           1. Create two new subfolders for the RAxML analyses of **EF** and **18S** in Geneious Prime.
 
-              - GTR GAMMA I
-              - 500 bootstrap replicates
+           .. code::
+
+              Local
+                ├── Monday
+                ├── Tuesday
+                └── Wednesday
+                └── Thursday
+                     └── Tutorial_1
+                           ├── 18S
+                           └── EF 
+
+           2. Start the ML analyses with following parameters (`Tree -> RAxML`):
+
+              - GTR GAMMA I (`Nucleotide Model: GTR GAMMA I`)
+              - Rapid bootstrapping and search for best-scoring ML tree (`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
+              - 500 bootstrap replicates (`Number of starting trees or bootstrap replicates: 500`)
               - any other parameter in default settings
 
            3. Write down how long the analyses took (in seconds).
 
         .. tab:: Question
      
-           .. note::
-              When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa
-
            1. How can we be sure that a tree is good? More than one solution is possible!
+
+           .. note::
+              When constructing phylogenetic trees, we can only approximate the true phylogenetic relationship between taxa because we only work with a random sample of taxa.
 
            .. thumbnail:: /_static/haplotypes.png
 
@@ -580,7 +596,8 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Read section :ref:`MrBayes <MrBayes>`.
+           1. Read section :ref:`MrBayes <MrBayes>`. This gives a general introduction into MrBayes
+           2. Install **MrBayes** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
 
         .. tab:: Exercise 1
 
