@@ -351,20 +351,11 @@ Wednesday
 
 Today, we have three learning modules:
 
+1. :ref:`Models_of_Sequence_Evolution`.
 
-.. tabs::
+2. :ref:`How_to_Infer_Phylogenetic_Trees`.
 
-  .. tab:: Models of Sequence Evolution
-
-     - See :ref:`Models_of_Sequence_Evolution`.
-
-  .. tab:: How to Infer Phylogenetic Trees
-
-     - See :ref:`How_to_Infer_Phylogenetic_Trees`.
-
-  .. tab:: How to Draw Phylogenetic Trees
-  
-     - See :ref:`How_To_Draw_Phylogenetic_Trees`.
+3. :ref:`How_To_Draw_Phylogenetic_Trees`.
 
 .. note::
 
