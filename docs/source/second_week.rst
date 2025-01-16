@@ -578,7 +578,6 @@ Tasks of the Day
               - Rapid bootstrapping and search for best-scoring ML tree (`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
               - 500 bootstrap replicates (`Number of starting trees or bootstrap replicates: 500`)
               - any other parameter in default settings
-
            4. Write down how long the analyses took (in seconds).
 
         .. tab:: Question
@@ -623,8 +622,7 @@ Tasks of the Day
               - Set the outgroup (`Outgroup: Zercon sp.`)
               - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 1000th generation (`Subsampling Freq: 1000`)
               - Use a burn-in of 25% (`Burn-in Length: 250,000`)
-
-           5. Write down how long the analysis took (minutes + seconds).
+           4. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
        
