@@ -427,7 +427,7 @@ Tasks of the Day
         .. tab:: Exercise 2
 
            1. For both alignments calculate a NJ tree using the **Tamura-Nei** model of sequence evolution and 1000 bootstrap replicates.
-           2. 4. Root the tree using *Zercon* sp.           
+           2. Root the tree using *Zercon* sp.           
            3. Indicate in the file name that this tree uses the **Tamura-Nei** model, for example, ``EF_TN_model``.
 
         .. tab:: Exercise 3
