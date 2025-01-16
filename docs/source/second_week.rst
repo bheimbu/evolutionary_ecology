@@ -527,7 +527,7 @@ Both methods are widely used, because they are more thorough than Cluster method
 
 Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface), namely :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_).
 
-But likely both programs can be installed as plugins in Geneious Prime. Heureka! See Tutorial 1 and **Tutor2**
+But luckily both programs can be installed as plugins in Geneious Prime. Heureka! See **Tutorial 1** and **Tutorial 2** for doing so.
 
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
@@ -554,7 +554,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`RAxML <Raxml>`.
-           2. Install **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
+           2. Install the **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
 
         .. tab:: Exercise 1
 
@@ -597,8 +597,8 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Read section :ref:`MrBayes <MrBayes>`. This gives a general introduction into MrBayes
-           2. Install **MrBayes** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
+           1. Read section :ref:`MrBayes <MrBayes>`. Don't be confused—this section primarily focuses on the command-line version of MrBayes. However, all the settings explained here are also available in the Geneious Prime plugin.
+           2. Install the **MrBayes** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
 
         .. tab:: Exercise 1
 
