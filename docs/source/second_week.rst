@@ -433,8 +433,8 @@ Tasks of the Day
         .. tab:: Exercise 3
 
            1. Present the trees from **Exercise 1** and **Exercise 2** as phylograms in PowerPoint.
-           2. Display the trees with increasing node order (see the right panel and click on `Formatting -> Order branches -> Ordering: increasing`) and export them as JPEG (`File -> Save as Image File`)
-           2. Display the NJ trees of EF on one page and the NJ trees of 18S on a separate page.
+           2. Display the trees with increasing node order (see the right panel and click on `Formatting -> Order branches -> Ordering: increasing`) and export them as JPEG (`File -> Save as Image File`).
+           3. Display the NJ trees of EF on one page and the NJ trees of 18S on a separate page.
 
         .. tab:: Questions
            
