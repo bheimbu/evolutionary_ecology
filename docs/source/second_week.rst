@@ -631,7 +631,7 @@ Tasks of the Day
 
            .. note::
 
-              Click on `Show entire ### bytes (may be very slow)` to show the whole output.
+              Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
 
            3. Write down the details of the credible set of trees.
            4. What is the meaning of the number of trees that are included in the credible sets (search online for more information).
