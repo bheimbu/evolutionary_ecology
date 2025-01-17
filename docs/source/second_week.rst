@@ -708,7 +708,7 @@ Tasks of the Day
            1. Read section :ref:`Ape_package`.
            2. Read section :ref:`Getting_Started_with_R`.
            3. Install `R <https://cran.rstudio.com/>`_ and `RStudio <https://posit.co/download/rstudio-desktop/>`_. 
-           3. Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
+           4. Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
 
         .. tab:: Exercise 1
            
@@ -739,9 +739,9 @@ Tasks of the Day
         .. tab:: Exercise
 
            1. Calculate a Neighbor Joining tree based on p-distances for ``EF_aln2.fas`` and ``18S_aln2.fas``.
-           2. Save the distance matrix for each alignment as ``csv``, name it ``dEF.csv`` and ``d18S.csv``, to **Friday/Tutorial_2** on your PC
+           2. Save the distance matrix for each alignment as ``csv``, name them ``distance_EF.csv`` and ``distance18S.csv``, to your PC.
            3. Calculate 1000 bootstraps for each tree.
-           4. Plot each tree nicely (:r:`ladders right=FALSE, cex=0.7`) with bootstrap in percent and in ``lightblue`` colour in circles with ``white`` background.
+           4. Plot each tree neatly (``ladders.right = FALSE``, ``cex = 0.7``), displaying bootstrap values as percentages in ``lightblue`` text color, enclosed by circles with a ``white`` background..
            5. Save the NJ trees with nodelabels as ``NJ_EF.tre`` (with ``red`` tip labels) and ``NJ_18S.tre`` (with ``lightblue`` tip labels).
 
 
@@ -755,7 +755,7 @@ Tasks of the Day
 
         .. tab:: Question
            
-           What is the best fit model for: **EF** and **18S**?
+           What is the best fitting model for: **EF** and **18S**?
 
   .. tab:: Tutorial 4
 
@@ -765,21 +765,25 @@ Tasks of the Day
 
            1. Calculate ML trees for ``EF_aln2.fas`` and ``18S_aln2.fas``, respectively.
            2. Plot both trees in one graphic, with facing tip labels. **EF** with ``green`` and **18S** with ``yellowgreen`` tip labels.
-           3. Display bootstrap values with ``red circles`` and background in ``pink1``.
-           4. Save both trees in one plot as PDF, name it ``ML_EF_18S.pdf``
+           3. Display bootstrap values enclosed in ``red`` circles with a ``pink1`` background.
+           4. Save both trees in one plot as PDF to your PC, name it ``ML_EF_18S.pdf``.
 
         .. tab:: Questions
 
-           1. Are the NJ and ML trees calculated in R similar to the trees calculated in Exercises of :ref:`Tutorials_3` and :ref:`Tutorials_4`?
+           1. Are the NJ and ML trees calculated in R similar to the trees calculated in Geneious Prime?
            2. Can you see fundamental differences?
            3. Do you consider both ways (R and MrBayes/RaXML in Geneious Prime) as comparable?
 
-.. important::
+.. tab:: Bonus Tutorial
 
-  - Calculate the number of haplotypes in the dataset ``Onova_example_COI``.
-  - How many sequences are in this data set and how many haplotypes?
-  - Plot the haplotype list as barplot, sorted from many to few.
-  - Save the barplot including a title as pdf. Name it ``Onova_hts_plot.pdf``.
+     .. tabs::
+
+        .. tab:: Exercise
+
+           - Calculate the number of `haplotypes <https://en.wikipedia.org/wiki/Haplotype>`_ in the dataset ``Onova_example_COI``.
+           - How many sequences are in this data set and how many haplotypes?
+           - Plot the haplotype list as barplot, sorted from many to few.
+           - Save the barplot including a title as pdf. Name it ``Onova_hts_plot.pdf``.
 
 Feedback Friday
 ^^^^^^^^^^^^^^^
