@@ -627,7 +627,7 @@ Tasks of the Day
         .. tab:: Questions
        
            1. Which parameter-settings deviate from the default settings?
-           2. What is the average standard deviation of your analyses? Use the file with a name like ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you can find the value under the column `StdDev(s)`.
+           2. What is the average standard deviation of your analyses? Use ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you will find a column `StdDev(s)`.
 
            .. note::
 
