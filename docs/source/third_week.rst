@@ -121,7 +121,7 @@ Tasks of the Day
 
 .. tabs::
 
-  .. tab:: Exercises
+  .. tab:: Exercise
 
      - Continue with your :ref:`Mini_research_Project`.
      - Finish collecting and formatting the data you need today.
@@ -151,7 +151,7 @@ Today, keep the finish line of your analyses in sight. Check and discuss prelimi
 
 .. tabs::
 
-  .. tab:: Exercises
+  .. tab:: Exercise
 
      By the end of the day, you should have your final results!
 
@@ -176,7 +176,7 @@ Tasks of the Day
 
 .. tabs::
 
-  .. tab:: Exercises
+  .. tab:: Exercise
 
      Today you wrap up your data, results, and prepare your 🎉 final presentation 🎉. 
 
