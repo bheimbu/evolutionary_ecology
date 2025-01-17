@@ -90,7 +90,7 @@ Tasks of the Day
           .. note::
              Everyone should have five different species identified by the end of the day.
 
-   .. tab:: Question of the Day
+   .. tab:: Question
 
            Why are we using the undetermined morphospecies for molecular analysis?
 
@@ -127,7 +127,7 @@ Tasks of the Day
     .. note::
        Maintain a clean and organized workspace in the lab 🧹🥼 and adhere to the lab rules ⚖️.
 
-   .. tab:: Questions of the Day
+   .. tab:: Questions
 
     1. What is SDS, and how does it interact with your samples?
     2. Explain the difference between mechanical and biochemical processes used to break down animal tissue.
@@ -161,7 +161,7 @@ Tasks of the Day
 ^^^^^^^^^^^^^^^^
 .. tabs::
 
-   .. tab:: Questions of the Day
+   .. tab:: Questions
 
     1. What is agarose, and why is it used to visualize DNA/PCR products?
     2. What is a loading dye, and what is its purpose?
@@ -184,7 +184,7 @@ Friday
 
 Homework
 ^^^^^^^^
-Make yourself familiar with **Geneious Prime**, watch the introductory videos about **Sanger-sequencing**, and answer the **Questions of the Day**!
+Make yourself familiar with **Geneious Prime**, watch the introductory videos about **Sanger-sequencing**, and answer the **Questions** of the day!
 
 .. tabs::
 
@@ -204,7 +204,7 @@ Make yourself familiar with **Geneious Prime**, watch the introductory videos ab
     .. youtube:: KTstRrDTmWI
     .. youtube:: FvHRio1yyhQ
 
-   .. tab:: Questions of the Day
+   .. tab:: Questions
 
     1. Illustrate the structure of a DNA and an RNA molecule with the sequence A-T-G? There's no need to depict the detailed structure of the individual bases; you can simply label them as A, T, and G.
     2. Please highlight the key structural differences between DNA and RNA, including the sugar backbone and any relevant functional groups.
