@@ -15,9 +15,9 @@ Here are some **usage** notes:
 
      ⚠️ **Tab** boxes highlight the **Exercises** and… (click on Questions of the Day)
 
-   .. tab:: Questions of the Day
+   .. tab:: Questions
 
-    … the **Question(s) of the Day**. You should definitely pay attention to them 😊.
+    … the **Question(s)** of the day. You should definitely pay attention to them 😊.
 
 .. hint::
    Well, gives you a hint.
