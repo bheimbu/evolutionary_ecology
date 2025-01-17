@@ -60,15 +60,15 @@ Collect the neccessary data to test your hypothesis and plan how to split the wo
 
   **At the end of the week you will…**
 
-  - Know how to formulate a hypothesis
-  - Where to find and collect data in order to test a hypothesis
-  - Skimmed through some publications that relate to your research topic
-  - Gained practice in handling and analysing molecular data
-  - Apply and intensify the knowledge you gained in the last two weeks
-  - Learned that public data repositories may contain flawed data
-  - Work effectively and cooperatively in small teams
-  - Learned how to interpret preliminary and final data
-  - Interpret results in a scientific context
+  - Know how to formulate a hypothesis.
+  - Where to find and collect data in order to test a hypothesis.
+  - Skimmed through some publications that relate to your research topic.
+  - Gained practice in handling and analysing molecular data.
+  - Apply and intensify the knowledge you gained in the last two weeks.
+  - Learned that public data repositories may contain flawed data.
+  - Work effectively and cooperatively in small teams.
+  - Learned how to interpret preliminary and final data.
+  - Interpret results in a scientific context.
 
 
 .. _Monday_Third_Week:
@@ -88,7 +88,7 @@ Tasks of the Day
 
   .. tab:: Exercise 1
           
-     - Think about a research topic (or phenomenon) you are interested in.
+     - Think about a research topic you are interested in.
      - Find a team with the same interest.
 
   .. tab:: Exercise 2
@@ -130,7 +130,7 @@ Tasks of the Day
   
 .. attention::
 
-  At the end of the day, you should already have a complete alignment and a best-fit model of sequence evolution.
+  By the end of the day, you should already have a complete alignment and a best-fit model of sequence evolution.
   
 .. tip::
 
@@ -147,7 +147,7 @@ Wednesday
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Today, keep the finish line of analyses in sight. Check and discuss preliminary and final results with the tutors. Add or delete taxa/genes if it improves your analysis. Be critical but pragmatic.
+Today, keep the finish line of your analyses in sight. Check and discuss preliminary and final results with the tutors. Add or delete taxa/genes if it improves your analyses. Be critical but pragmatic.
 
 .. tabs::
 
@@ -161,7 +161,7 @@ Today, keep the finish line of analyses in sight. Check and discuss preliminary 
 
 
 .. attention::
-   **Just a reminder:** Tomorrow will be the questionnaire.
+   Just a reminder: Tomorrow will be the questionnaire.
 
 Feedback Wednesday
 ^^^^^^^^^^^^^^^^^^
