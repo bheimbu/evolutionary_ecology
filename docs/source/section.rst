@@ -630,16 +630,16 @@ All instructions are given for the console (if not specifically indicated otherw
      
   Try to use autocomplete options when working in the console, e.g.
 
-  - Use the tab key Tab ↹ when typing a path
+  - Use the Tab key  :kbd:`↹` when typing a path
   - Select the pop-up suggestions when typing commands
-  - Use the ↑ arrow key to repeat previous commands
+  - Use the :kbd:`↑` arrow key to see previous commands
 
 .. attention::
   If a command did not work, R returns an error message in the console. Always read the error message, most of the time these messages will be helpful and tell you about spelling mistakes or a missing bracket or that it could not find a file because it is not present in your working directory. Regardless, do not hesitate to ask any of the tutors or your neighbour.
 
 .. note::
 
-  All files and an R-Script are in the folder `T5.zip <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
+  All files and an R-Script can be found `here <https://owncloud.gwdg.de/index.php/s/png6HlTkiN1FjO5>`_.
 
 **Before you import your data:**
 
