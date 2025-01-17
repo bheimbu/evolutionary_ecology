@@ -402,7 +402,8 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`How_to_Infer_Phylogenetic_Trees`.
-           2. Read section :ref:`How_To_Draw_Phylogenetic_Trees`.
+           2. Read section :ref:`How_To_Draw_Phylogenetic_Trees`. Don't be confused—this section primarily focuses on the standalone version of FigTree. However, all the settings explained here are also available in the Geneious Prime plugin.
+           3. See also this `viewing-and-formatting-trees in Geneious Prime <https://manual.geneious.com/en/latest/Phylogenetics.html#viewing-and-formatting-trees>`_.
 
         .. tab:: Exercise 1
 
@@ -577,7 +578,7 @@ Tasks of the Day
               - GTR GAMMA I (`Nucleotide Model: GTR GAMMA I`)
               - Rapid bootstrapping and search for best-scoring ML tree (`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
               - 500 bootstrap replicates (`Number of starting trees or bootstrap replicates: 500`)
-              - any other parameter in default settings
+              - Any other parameter in default settings
            4. Write down how long the analyses took (in seconds).
 
         .. tab:: Question
