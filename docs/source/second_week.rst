@@ -774,7 +774,7 @@ Tasks of the Day
            2. Can you see fundamental differences?
            3. Do you consider both ways (R and MrBayes/RaXML in Geneious Prime) as comparable?
 
-.. tab:: Bonus Tutorial
+  .. tab:: Bonus Tutorial
 
      .. tabs::
 
