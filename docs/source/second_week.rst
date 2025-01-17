@@ -553,7 +553,7 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Read section :ref:`RAxML <Raxml>`.
+           1. Read section :ref:`RAxML <Raxml>`. Don't be confused—this section primarily focuses on the command-line version of RAxML. However, all the settings explained here are also available in the Geneious Prime plugin.
            2. Install the **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
 
         .. tab:: Exercise 1
