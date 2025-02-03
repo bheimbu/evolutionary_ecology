@@ -693,7 +693,7 @@ Tasks of the Day
            1. Read section :ref:`Ape_package`.
            2. Read section :ref:`Getting_Started_with_R`.
            3. Install `R <https://cran.rstudio.com/>`_ and `RStudio <https://posit.co/download/rstudio-desktop/>`_. 
-           4. Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/Y2aQuvgNGxBr3gj>`_.
+           4. Download the R script and the example files `here <https://owncloud.gwdg.de/index.php/s/7uxes6DVDjd44K7>`_.
 
         .. tab:: Exercise 1
            
