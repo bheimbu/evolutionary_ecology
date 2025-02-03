@@ -211,10 +211,6 @@ Tasks of the Day
 
               Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
-Feedback Monday
-^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1747958/Eo67R1>`_.
-
 .. tip::
    Just in case, you can read about Geneious Prime again in :ref:`section`.
 
@@ -340,10 +336,6 @@ Tasks of the Day
 
            .. attention::
               Do no forget to include your name or initals in the file name!
-
-Feedback Tuesday
-^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1748614/4i3E03>`_.
 
 .. _Wednesday_Second_Week:
 Wednesday
@@ -514,10 +506,6 @@ Tasks of the Day
            | SM_F3 |  72   |  73   |  74   |  72   |  73   |   6   |   -   |
            +-------+-------+-------+-------+-------+-------+-------+-------+
 
-Feedback Wednesday
-^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
-
 .. _Thursday_Second_Week:
 Thursday
 ---------
@@ -670,10 +658,6 @@ Tasks of the Day
         .. tab:: Question
            
            What are the main differences between the ML and MrBayes trees?
-
-Feedback Thursday
-^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1749822/P4f2b7>`_.
 
 .. _Friday_Second_Week:
 Friday
