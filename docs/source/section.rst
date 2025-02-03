@@ -639,7 +639,7 @@ All instructions are given for the console (if not specifically indicated otherw
 
 .. note::
 
-  All files and an R-Script can be found `here <https://owncloud.gwdg.de/index.php/s/Y2aQuvgNGxBr3gj>`_.
+  The Rscript and all related files can be found `here <https://owncloud.gwdg.de/index.php/s/7uxes6DVDjd44K7>`_.
 
 **Before you import your data:**
 
