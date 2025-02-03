@@ -675,9 +675,9 @@ Depending on your present day R skills, you may only skim through some of the se
 
 .. note::
 
-  **At the end of the day, you will**
+  **At the end of the day, you will…**
 
-  Be more versatile and confident when working with genetic data.
+  Be more versatile and confident when working with genetic data in R.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
