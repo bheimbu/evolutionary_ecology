@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'M.Biodiv.441 Evolutionary Ecology'
-copyright = '2023, Bastian Heimburger'
+copyright = '2024, Bastian Heimburger'
 author = 'Bastian Heimburger'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.1'
 
 # -- General configuration
 
