@@ -190,7 +190,7 @@ Sequences can be visualized and downloaded in different formats by selecting „
   The Clipboard is a nice and easy way to collect and save large datasets from GenBank. However, if some sequences will be used in different datasets, they must be copied subsequently and saved separately.
 
 .. hint::
-  If you wish to download many sequences with continous accession numbers (e.g. from a paper), just enter the first and the last accession number separated by a colon ``:`` followed by the tag ``[accn]`` or use NCBI's `Batch Entrez <https://www.ncbi.nlm.nih.gov/sites/batchentrez>`_.
+  If you wish to download many sequences with continous accession numbers (e.g. from a publication), just enter the first and the last accession number separated by a colon ``:`` followed by the tag ``[accn]`` or use NCBI's `Batch Entrez <https://www.ncbi.nlm.nih.gov/sites/batchentrez>`_.
   
   .. code-block::
   
