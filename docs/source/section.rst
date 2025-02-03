@@ -326,7 +326,7 @@ How To Draw Phylogenetic Trees
 
 **FigTree (Andrew Rambaut)**
 
-This is a versatile program for the graphical visualization of phylogenetic trees. It is recommended to save the opened tree (e.g. the `.tre` file) directly under a new name to avoid to accidentally overwrite the original tree file.
+This is a versatile program for the graphical visualization of phylogenetic trees. It is recommended to save the opened tree (e.g. the ``.tre`` file) directly under a new name to avoid to accidentally overwrite the original tree file.
 
 .. thumbnail:: /_static/figtree_1.png
 
@@ -337,12 +337,12 @@ Open a tree file:
 - Select file containing the trees (e.g. .tre)
 
 .. note::
-  Always display the tree with increasing node order (STRG + U; as shown above) and save the tree with a new name ('File' → 'Save As').
+  Always display the tree with increasing node order (:kbd:`STR` + :kbd:`U`) and save the tree with a new name ('File' → 'Save As').
 
 In FigTree, you can make the tree pretty and easy to understand by making lines thicker, increasing font size, and adding colors to branches, clades, or taxa (as shown above). To do this, use the toolbar on the left and top. If you want to annotate or highlight, first assign to either a node, clade, or taxa. Just play around a little bit 🛝. The annotated tree can then be exported as vector graphic, PDF, or bitmap and uploaded in PowerPoint or any other presentation tool.
 
 .. attention::
-  All trees in this course should be displayed uniformly. Nodes should spread from the lower left to the upper right side (under 'Trees' -> 'Increasing Node Order'; or STR + U).
+  All trees in this course should be displayed uniformly. Nodes should spread from the lower left to the upper right side (under 'Trees' -> 'Increasing Node Order'; or :kbd:`STR` + :kbd:`U`).
   The ``.tre`` files must be exported (File/Export ...) as ``JPEG`` in order to import them in PowerPoint or any other presentation tool.
 
 Statistical node support (bootstraps and/or posterior probabilities) are displayed by selecting the tool 'Node Labels' or 'Branch Labels'. These are given as decimals for posterior probabilities (BI) and as percentages for bootstraps (NJ, ML).
