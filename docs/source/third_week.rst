@@ -108,10 +108,6 @@ Tasks of the Day
      - Start to collect and format the data you need.
      - Build task forces and split the work effectively.
 
-Feedback Monday
-^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
-
 .. _Tuesday_Third_Week:
 Tuesday
 -------
@@ -136,10 +132,6 @@ Tasks of the Day
 
   Ask tutors for help, assistance, and/or advice.
 
-Feedback Tuesday
-^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1752096/Aun8NF>`_.
-
 .. _Wednesday_Third_Week:
 Wednesday
 ---------
@@ -163,10 +155,6 @@ Today, keep the finish line of your analyses in sight. Check and discuss prelimi
 .. attention::
    Just a reminder: Tomorrow will be the questionnaire.
 
-Feedback Wednesday
-^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
-
 .. _Thursday_Third_Week:
 Thursday
 -------
@@ -184,10 +172,6 @@ Tasks of the Day
 
   Do not forget to answer the **questionnaire** before lunch.
 
-Feedback Thursday
-^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
-
 .. _Friday_Third_Week:
 Friday
 -------
@@ -200,7 +184,3 @@ Tasks of the Day
   🎉 Today, you present your mini research project, followed by a brief discussion. 🎉
 
 At the end of the course we will have a small feedback session. After that, we wish you a good time and enjoy your studies!
-
-Feedback Friday
-^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
