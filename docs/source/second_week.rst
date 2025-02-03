@@ -769,7 +769,3 @@ Tasks of the Day
            - How many sequences are in this data set and how many haplotypes?
            - Plot the haplotype list as barplot, sorted from many to few.
            - Save the barplot including a title as pdf. Name it ``Onova_hts_plot.pdf``.
-
-Feedback Friday
-^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1750601/rb9hpW>`_.
