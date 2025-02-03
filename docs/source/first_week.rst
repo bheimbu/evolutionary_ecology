@@ -59,10 +59,6 @@ Tasks of the Day
           .. note::
              Keep your notes, we will be using them later in this course.
 
-Feedback Monday
-^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1726580/jLKvnZ>`_.
-
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
 
@@ -93,10 +89,6 @@ Tasks of the Day
    .. tab:: Question
 
            Why are we using the undetermined morphospecies for molecular analysis?
-
-Feedback Tuesday
-^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1744636/u71YTe>`_.
 
 .. tip::
    Just in case, you can watch the :ref:`lectures` again at any time.
@@ -145,9 +137,6 @@ Tasks of the Day
     14. What is Hot Start Taq polymerase (HotStarTaq)?
     15. What should you keep in mind when working with HotStarTaq?
 
-Feedback Wednesday
-^^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1745342/hp07e6>`_.
 
 .. tip::
    If you feel stuck, ask someone in class for help.
@@ -172,10 +161,6 @@ Tasks of the Day
     7. Why is it necessary to visualize DNA/PCR products?
     8. Why must positive PCR products be purified before sequencing?
     9. Why does the first buffer turn yellow when washing PCR products? What does this indicate?
-
-Feedback Thursday
-^^^^^^^^^^^^^^^^^
-To provide feedback, please complete our `questionnaire <https://easy-feedback.de/evolecol/1746230/h870Yu>`_.
 
 .. _first_week_friday:
 Friday
