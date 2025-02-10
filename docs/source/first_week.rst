@@ -65,7 +65,7 @@ Tasks of the Day
 .. _first_week_tuesday:
 Tuesday
 -------
-Yesterday, you collected oribatid mites and left them in lactic acid overnight to clear their bodies for better examination under the microscope. Without this treatment, recognizing key morphological features would be challenging.
+Yesterday, you collected oribatid mites and left them in lactic acid overnight to clear their bodies for better examination under the stereo microscope. Without this treatment, recognizing key morphological features would be challenging.
 
 .. note::
   **Today, you will…**
@@ -73,7 +73,7 @@ Yesterday, you collected oribatid mites and left them in lactic acid overnight t
     - Learn to recognize additional morphological characters.
     - Be able to identify most of your specimens to species level.
 
-For species-level identification (using the microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes) will be used for molecular work.
+For species-level identification (using the stereo microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes) will be used for molecular work.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^^
