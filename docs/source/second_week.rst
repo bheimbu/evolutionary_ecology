@@ -317,7 +317,7 @@ Tasks of the Day
         .. tab:: Exercise
      
            1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://docs.google.com/spreadsheets/d/16UKMFQjh1Z7cVNcKGfwoVeEyIMDFPkwoQnjbjmtcrYw/edit?usp=sharing>`_.
-           2. Enter your answers `<here https://eu.jotform.com/assign/250495579645068/250495325296059>`_.
+           2. Enter your answers `here <https://eu.jotform.com/assign/250495579645068/250495325296059>`_.
            
            .. attention::
               Do no forget to include your name or initals in the file name!
