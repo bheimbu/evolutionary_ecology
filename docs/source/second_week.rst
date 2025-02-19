@@ -431,7 +431,7 @@ Tasks of the Day
 
         .. tab:: Questions
            
-           1. What is the effect of the model of sequence evolution in terms of tree topology and node support?
+           1. How does the choice of the model of sequence evolution impact tree topology and node support?
            2. What are the main differences between EF and 18S in terms of tree topology and node support?
            3. Which phylogenetic tree is most satisfying in terms of topology and node support?
 
