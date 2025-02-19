@@ -413,13 +413,13 @@ Tasks of the Day
                            └── EF  
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. For both alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with 1000 bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
+           3. For **both** alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with 1000 bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
            4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel)
            5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, ``EF_JC_model``.
        
         .. tab:: Exercise 2
 
-           1. For both alignments calculate a NJ tree using the **Tamura-Nei** model of sequence evolution and 1000 bootstrap replicates.
+           1. For **both** alignments calculate a NJ tree using the **Tamura-Nei** model of sequence evolution and 1000 bootstrap replicates.
            2. Root the tree using *Zercon* sp.           
            3. Indicate in the file name that this tree uses the **Tamura-Nei** model, for example, ``EF_TN_model``.
 
@@ -427,7 +427,7 @@ Tasks of the Day
 
            1. Present the trees from **Exercise 1** and **Exercise 2** as phylograms in PowerPoint.
            2. Display the trees with increasing node order (see the right panel and click on `Formatting -> Order branches -> Ordering: increasing`) and export them as JPEG (`File -> Save as Image File`).
-           3. Display the NJ trees of EF on one page and the NJ trees of 18S on a separate page.
+           3. Display the NJ trees of EF and 18S on separate slides/pages in PowerPoint (or any other presentation software).
 
         .. tab:: Questions
            
@@ -499,7 +499,7 @@ Tasks of the Day
            +-------+-------+-------+-------+-------+-------+-------+-------+
            | SM_D4 |  42   |  39   |  40   |   -   |       |       |       |
            +-------+-------+-------+-------+-------+-------+-------+-------+
-           | SM_F1|   5   |   2   |   3   |  39   |   -   |       |       |
+           | SM_F1 |   5   |   2   |   3   |  39   |   -   |       |       |
            +-------+-------+-------+-------+-------+-------+-------+-------+
            | SM_F2 |  67   |  68   |  71   |  70   |  68   |   -   |       |
            +-------+-------+-------+-------+-------+-------+-------+-------+
