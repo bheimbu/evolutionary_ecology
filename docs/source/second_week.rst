@@ -104,9 +104,11 @@ Tasks of the Day
 
   .. tab:: Tutorial 3
 
-     .. tabs:: Exercises
+     .. tabs::
 
-           1. Open the form and answer the questions. `Click here for the form <https://form.jotform.com/250502078222345>`_.
+        .. tab:: Exercises
+
+           1. Open the form and answer the question. `Click here for the form <https://form.jotform.com/250502078222345>`_.
            2. Download the sequences from NCBI with the accession numbers given in the form as separate sequence files in FASTA format.
 
   .. tab:: Tutorial 4
@@ -286,17 +288,10 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Requirements
-
-           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/1-k5kYAW5cJR4x6xeDMGVZcjEaUB4tu8_6v3uwfC1d0U/edit?usp=sharing>`_ and answer the questions.
-
         .. tab:: Exercises
 
-           1. Compare your results with your neighbour.
-           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/CBj2Eoqz5G4mGIa>`_.
-
-           .. attention::
-              Do no forget to include your name or initals in the file name!
+           1. Open the form and answer the questions. Click `here <https://form.jotform.com/250502705235346>`_.
+           2. Compare your results with your neighbour.
 
   .. tab:: Tutorial 3
 
