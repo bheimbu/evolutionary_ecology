@@ -51,7 +51,7 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Open Geneious Prime and create the folder **Monday/Tutorial_1** and subfolders for each gene
+           1. Open Geneious Prime and create the folder **Monday/Tutorial_1** and subfolders for each gene.
 
            .. code::
 
@@ -69,7 +69,7 @@ Tasks of the Day
        
            1. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences).
            2. Assemble the matching read pairs.
-           3. Name your consensus sequences in the following format: ``$Sample number_$Genus_$Species_$Gene_$Initials`` (eg.      ``1_Acrogalumna_longisetosa_18S_BH``).
+           3. Name your consensus sequences in the following format: ``$Sample number_$Genus_$Species_$Gene_$Initials`` (eg. ``1_Acrogalumna_longisetosa_18S_BH``).
 
            .. code::
 
@@ -159,7 +159,7 @@ Tasks of the Day
                 │     └── Tutorial_6
                 └── …
 
-           2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``)
+           2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``).
 
            .. code::
 
@@ -179,7 +179,7 @@ Tasks of the Day
 
            1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
            2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``).
-           3. Import the file to Geneious Prime in a new subfolder with the name **Monday/Tutorial_7** (as *separate sequences*)
+           3. Import the file to Geneious Prime in a new subfolder with the name **Monday/Tutorial_7** (as *separate sequences*).
 
            .. code::
 
@@ -199,8 +199,8 @@ Tasks of the Day
         .. tab:: Exercise 2
 
            1. Now you can add (import) some of your own sequences to the 18S file.
-           2. Your own sequences should be named in the same logic as the sequences from NCBI
-           3. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``
+           2. Your own sequences should be named in the same logic as the sequences from NCBI.
+           3. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``.
      
            .. important::
 
@@ -248,7 +248,7 @@ Tasks of the Day
         .. tab:: Exercise
 
            1. Use your DNA sequences from Monday, namely from **Tutorial 6** and **Tutorial 7** to generate alignments in Geneious Prime using the parameters below (all other parameters **keep in default mode**).
-           2. In order to do this, mark all sequences in the repective folder and click on ``Align/Assemble -> Multiple Align -> Geneious Alignment``
+           2. In order to do this, mark all sequences in the repective folder and click on ``Align/Assemble -> Multiple Align -> Geneious Alignment``.
 
            .. code::
 
@@ -269,7 +269,7 @@ Tasks of the Day
 
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
-           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``) and drag or move them to a new subfolder named Tuesday/Tutorial_1
+           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``) and drag or move them to a new subfolder named Tuesday/Tutorial_1.
 
            .. code::
 
@@ -349,7 +349,7 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) 
+           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest).
            2. Use your best alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
            3. Safe the HTML log file on your PC.
 
@@ -384,7 +384,7 @@ Tasks of the Day
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
            3. For **both** alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with 1000 bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
-           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel)
+           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel).
            5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, ``EF_JC_model``.
        
         .. tab:: Exercise 2
@@ -443,9 +443,9 @@ Tasks of the Day
 
         .. tab:: Background
 
-           Phylogeography is the study of the genetic structure of species within or between geographic regions
-           If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
-           If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small
+           Phylogeography is the study of the genetic structure of species within or between geographic regions.
+           If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa.
+           If gene flow continues between geographically distant populations, or if they share a common ancestor from which they recently separated, their genetic distance is comparatively small.
 
            .. note::
               In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (see distance matrix under **Exercise**).
@@ -515,7 +515,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`RAxML <Raxml>`. Don't be confused—this section primarily focuses on the command-line version of RAxML. However, all the settings explained here are also available in the Geneious Prime plugin.
-           2. Install the **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
+           2. Install the **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`).
 
         .. tab:: Exercise 1
 
@@ -558,7 +558,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`MrBayes <MrBayes>`. Don't be confused—this section primarily focuses on the command-line version of MrBayes. However, all the settings explained here are also available in the Geneious Prime plugin.
-           2. Install the **MrBayes** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`)
+           2. Install the **MrBayes** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`).
 
         .. tab:: Exercise 1
 
@@ -620,11 +620,8 @@ Tasks of the Day
            1. Import all trees you made into PowerPoint.
            2. Separate the trees according to gene, ML and BI analyses, respectively.
            3. Save them on a DIN A4 page.
-           4. Label the nodes with corresponding bootstrap values and posterior probabilities
-
-        .. tab:: Question
-           
-           What are the main differences between the ML and MrBayes trees?
+           4. Label the nodes with corresponding bootstrap values and posterior probabilities. 
+           5. What are the main differences between the ML and MrBayes trees?
 
 .. _Friday_Second_Week:
 Friday
