@@ -401,9 +401,7 @@ Tasks of the Day
 
         .. tab:: Questions
            
-           1. How does the choice of the model of sequence evolution impact tree topology and node support?
-           2. What are the main differences between EF and 18S in terms of tree topology and node support?
-           3. Which phylogenetic tree is most satisfying in terms of topology and node support?
+           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_.
 
   .. tab:: Tutorial 3
 
@@ -412,7 +410,8 @@ Tasks of the Day
         .. tab:: Attention!
 
            .. attention::
-           - Complete all exercises by hand using pen and paper!
+
+           - Complete all **exercises** and **questions** by hand using pen and paper!
            - Hand in your results at the end. 
            - We will discuss them tomorrow morning.
 
