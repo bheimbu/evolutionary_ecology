@@ -411,11 +411,11 @@ Tasks of the Day
 
            .. attention::
 
-           - Complete all **exercises** and **questions** by hand using pen and paper!
-           - Hand in your results at the end. 
-           - We will discuss them tomorrow morning.
+              - Complete all **exercises** and **questions** by hand using pen and paper!
+              - Hand in your results at the end. 
+              - We will discuss them tomorrow morning.
 
-           Do no forget to include your name or initals on the sheet of paper!
+              Do no forget to include your name or initals on the sheet of paper!
 
         .. tab:: Exercise 1
 
