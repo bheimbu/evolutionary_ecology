@@ -297,14 +297,11 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Requirements
+        .. tab:: Exercises
                
            1. Read section :ref:`Sequence_Editing`.
            2. Download the `zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
-
-        .. tab:: Exercise
-     
-           1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the form. Click `here <https://form.jotform.com/250495579645068>`_.
+           3. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the form. Click `here <https://form.jotform.com/250495579645068>`_.
 
   .. tab:: Tutorial 4
 
@@ -354,7 +351,7 @@ Tasks of the Day
 
            1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest) 
            2. Use your best alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
-           2. Safe the HTML log file on your PC.
+           3. Safe the HTML log file on your PC.
 
         .. tab:: Exercise 2
 
@@ -412,28 +409,28 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Requirements
-
-           1. Complete all exercises by hand using pen and paper!
-           2. Hand in your results at the end. 
-           3. We will discuss them tomorrow morning.
+        .. tab:: Attention!
 
            .. attention::
-              Do no forget to include your name or initals on the sheet of paper!
+           - Complete all exercises by hand using pen and paper!
+           - Hand in your results at the end. 
+           - We will discuss them tomorrow morning.
+
+           Do no forget to include your name or initals on the sheet of paper!
 
         .. tab:: Exercise 1
 
            1. Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
            2. In one of the trees, use arrows to indicate where the tree might be rooted.
            3. How many topologies are possible for a rooted tree with four taxa (A, B, C, D)?
-           4. Draw all possible combinations
+           4. Draw all possible combinations.
 
            .. attention::
-              Some topologies might be redundant.
+              Some topologies might be redundant!
 
         .. tab:: Exercise 2
   
-           1. Draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)``.
+           1. Use a text editor and draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)``.
            2. Check your topology using FigTree in Geneious Prime.
         
         .. tab:: Questions
@@ -595,8 +592,8 @@ Tasks of the Day
 
               Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
 
-           3. Write down the details of the credible set of trees.
-           4. What is the meaning of the number of trees that are included in the credible sets (search online for more information).
+           
+           **Bonus question:** What is the credible sets of trees (search online for more information)?
 
   .. tab:: Tutorial 3
 
@@ -606,7 +603,7 @@ Tasks of the Day
 
            .. note::
               The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
-              However, as priors are usually unknown you can use flat priors!
+              However, as priors are usually unknown we will use flat priors!
 
         .. tab:: Questions
  
