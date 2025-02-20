@@ -411,7 +411,7 @@ Tasks of the Day
 
            .. attention::
 
-              - Complete all **exercises** and **questions** by hand using pen and paper!
+              - Complete all **exercises** and **questions** by hand with pen and paper (except for **Exercise 2**)!
               - Hand in your results by the end of the day. 
               - We will discuss them tomorrow morning.
 
@@ -453,7 +453,7 @@ Tasks of the Day
         .. tab:: Exercises
 
            .. attention::
-              Do it all by hand, using a pen and a sheet of paper!
+              Do it all by hand with pen and paper!
 
            1. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
            2. Write down the tree with all distance calculations and intermediate distance matrixes.
