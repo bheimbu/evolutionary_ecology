@@ -412,10 +412,10 @@ Tasks of the Day
            .. attention::
 
               - Complete all **exercises** and **questions** by hand using pen and paper!
-              - Hand in your results at the end. 
+              - Hand in your results by the end of the day. 
               - We will discuss them tomorrow morning.
 
-              Do no forget to include your name or initals on the sheet of paper!
+              - Do no forget to include your name or initals!
 
         .. tab:: Exercise 1
 
@@ -441,7 +441,7 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Requirements
+        .. tab:: Background
 
            Phylogeography is the study of the genetic structure of species within or between geographic regions
            If populations are geographically distant from each other, gene flow is usually reduced and both populations accumulate mutations independently, which increases genetic distance between taxa
@@ -450,7 +450,10 @@ Tasks of the Day
            .. note::
               In the course of a Master's thesis, a student investigates the relationships of two populations of the oribatid mite `Steganacarus magnus` (SM) from Germany (D) and France (F). To understand the relationships between the two populations, the student sequenced the COI mitochondrial gene of seven individuals and generated a matrix that shows the genetic distances between all individuals (see distance matrix under **Exercise**).
 
-        .. tab:: Exercise
+        .. tab:: Exercises
+
+           .. attention::
+              Do it all by hand, using a pen and a sheet of paper!
 
            1. To infer if the two populations have a recent common ancestor, draw a UPMGA tree and calculate the length of all tree branches.
            2. Write down the tree with all distance calculations and intermediate distance matrixes.
@@ -598,7 +601,7 @@ Tasks of the Day
 
      .. tabs::
 
-        .. tab:: Background information
+        .. tab:: Background
 
            .. note::
               The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
@@ -606,18 +609,13 @@ Tasks of the Day
 
         .. tab:: Questions
  
-           1. What are flat priors and how do they look like?
-           2. Are they realistic?
-           3. How do they affect likelihoods during the search among trees?
-           4. How do they affect the efficiency of the search?
-           5. What is the meaning of „burnin“?
-           6. Explain briefly -- in your own words -- why MrBayes uses Metropolis-Coupled Markov-Chain Monte Carlo.
+           Open the form and answer the questions. Click `here <https://form.jotform.com/250505884089364>`_.
 
   .. tab:: Tutorial 4
 
      .. tabs::
 
-        .. tab:: Exercise
+        .. tab:: Exercises
 
            1. Import all trees you made into PowerPoint.
            2. Separate the trees according to gene, ML and BI analyses, respectively.
@@ -680,8 +678,9 @@ Tasks of the Day
 
         .. tab:: Questions
 
-           1. How long (bp) is the untrimmed alignment for: a) 18S and b) EF 
-           2. How long (bp) is the trimmed alignment for: a) 18S and b) EF
+           1. How long (bp) is the untrimmed alignment for **18S** and **EF**?
+           2. How long (bp) is the trimmed alignment for **18S** and **EF**?
+
            
            .. important::
               If you have followed the above instructions, you disobeyed a formal alignment rule. **Which one?** 
@@ -709,7 +708,7 @@ Tasks of the Day
 
         .. tab:: Question
            
-           What is the best fitting model for: **EF** and **18S**?
+           What is the best fitting model for **EF** and **18S**?
 
   .. tab:: Tutorial 4
 
