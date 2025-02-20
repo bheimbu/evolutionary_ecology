@@ -304,26 +304,15 @@ Tasks of the Day
 
         .. tab:: Exercise
      
-           1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the `spreadsheet <https://docs.google.com/spreadsheets/d/16UKMFQjh1Z7cVNcKGfwoVeEyIMDFPkwoQnjbjmtcrYw/edit?usp=sharing>`_.
-           2. Enter your answers `here <https://eu.jotform.com/assign/250495579645068/250495603504050>`_.
-           
-           .. attention::
-              Do no forget to include your name or initals in the file name!
+           1. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the form. Click `here <https://form.jotform.com/250495579645068>`_.
 
   .. tab:: Tutorial 4
 
      .. tabs::
 
-        .. tab:: Requirements
-
-           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/12OXWfkzZOfPODuy--hsJYwryqxlZhwRw_fci6SXWIl4/edit?usp=sharing>`_ and answer the questions.
-
         .. tab:: Exercise
-     
-           1. Upload the completed spreadsheet `here <https://owncloud.gwdg.de/index.php/s/t4dVMcxPrN5Hwrw>`_.
 
-           .. attention::
-              Do no forget to include your name or initals in the file name!
+           1. Open the form and answer the questions. Click `here <https://form.jotform.com/250503287348357>`_.
 
 .. _Wednesday_Second_Week:
 Wednesday
@@ -369,11 +358,7 @@ Tasks of the Day
 
         .. tab:: Exercise 2
 
-           1. Download and save the `spreadsheet <https://docs.google.com/spreadsheets/d/1e8egc_CNkrz1Bactg_qJRsV2C4kpa9c9f-e1JXL3Fmw/edit?usp=sharing>`_ and answer the questions.
-           2. Upload your results `here <https://owncloud.gwdg.de/index.php/s/Ji9oFx2R5sWeeHQ>`_.
-
-           .. attention::
-              Do no forget to include your name or initals in the file name!
+           1. Open the form and answer the questions. Click `here <https://form.jotform.com/250503303460341>`_.
 
   .. tab:: Tutorial 2
 
