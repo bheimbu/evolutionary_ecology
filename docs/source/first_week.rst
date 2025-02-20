@@ -121,21 +121,7 @@ Tasks of the Day
 
    .. tab:: Questions
 
-    1. What is SDS, and how does it interact with your samples?
-    2. Explain the difference between mechanical and biochemical processes used to break down animal tissue.
-    3. Why is sample purification necessary?
-    4. Why is it important to remove ethanol from the DNA at the end of the extraction process?
-    5. What is the purpose of the silica membrane in DNA extraction?
-    6. Why is pH important in DNA extraction, and which pH values are most relevant?
-    7. What is a chaotropic salt, and what role does it play in DNA extraction?
-    8. What did you observe when working with the ATL (lysis) buffer and the AW1 (wash) buffer?
-    9. What components are included in a PCR mastermix?
-    10. What are the differences between the various PCR mastermixes you have used?
-    11. Is it possible to combine different PCR primers in one reaction?
-    12. Which genes did you target in your PCR reactions?
-    13. Why is the lid of the thermal cycler heated to 100°C? 🥵
-    14. What is Hot Start Taq polymerase (HotStarTaq)?
-    15. What should you keep in mind when working with HotStarTaq?
+    Open the form and answer the questions? Click `here <https://form.jotform.com/250506539344356>`_.
 
 
 .. tip::
@@ -152,15 +138,7 @@ Tasks of the Day
 
    .. tab:: Questions
 
-    1. What is agarose, and why is it used to visualize DNA/PCR products?
-    2. What is a loading dye, and what is its purpose?
-    3. Why is it important to include a standard size ladder in your gel?
-    4. What happens if you change the agarose concentration from 1% to 2% in your gel?
-    5. Why is it important to use the same buffer for both melting and running your gel?
-    6. Why do we use a buffer instead of water in gel electrophoresis?
-    7. Why is it necessary to visualize DNA/PCR products?
-    8. Why must positive PCR products be purified before sequencing?
-    9. Why does the first buffer turn yellow when washing PCR products? What does this indicate?
+    Open the form and answer the questions? Click `here <https://form.jotform.com/250506844525356>`_.
 
 .. _first_week_friday:
 Friday
@@ -189,11 +167,6 @@ Make yourself familiar with **Geneious Prime**, watch the introductory videos ab
     .. youtube:: KTstRrDTmWI
     .. youtube:: FvHRio1yyhQ
 
-   .. tab:: Questions
+   .. tab:: Homework
 
-    1. Illustrate the structure of a DNA and an RNA molecule with the sequence A-T-G? There's no need to depict the detailed structure of the individual bases; you can simply label them as A, T, and G.
-    2. Please highlight the key structural differences between DNA and RNA, including the sugar backbone and any relevant functional groups.
-    3. What is ddNTP and what is the difference to dNTP?
-    4. What are the main advantages of the modern fluorescence based Sanger DNA sequencing approach compared to the original (radio-labelled) one.
-    5. What happens to your PCR primers during Sanger sequencing? Are they even used?
-    6. Why do we sequence both the forward and reverse strands of the PCR product separately? Is this crucial for the sequencing method, or is it primarily beneficial for improving the accuracy of our data analysis?
+    Open the form and answer the questions. Click `here <https://form.jotform.com/250506805438356>`_.
