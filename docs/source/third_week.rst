@@ -50,9 +50,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
 These are just general ideas of different research areas you can investigate using phylogenetic trees. Each of the three research areas (phylogenetics, ancestral state reconstruction, phylogenetic diversity) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
 
-Discuss in the group the phenomenon you are most interested in. (Phylogenetics is not a phenomenon, it is a method to investigate a phenomenon.) Formulate a clear hypothesis that is testable and refutable. In order to investigate a phenomenon, you need to take small steps. A phenomenon is a big and complex feature. A hypothesis is testing parts of a phenomenon. If you have enough pieces together, you may be able to explain the phenomenon. Interestingly, not all hypotheses support a phenomenon, which is also a result in itself and helps us figure out why a particular phenomenon exists.
-
-Collect the neccessary data to test your hypothesis and plan how to split the work among each other.
+Formulate a clear hypothesis that is testable and refutable. In order to investigate your research question, you need to take small steps. A hypothesis is testing parts of your research question. If you have enough pieces together, you may be able to explain your results. Collect the neccessary data to test your hypothesis and plan how to split the work among each other.
 
 .. note::
 
