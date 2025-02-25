@@ -31,24 +31,22 @@ Each project-team will build their own hypothesis and collect data, from the cou
            - Within oribatid mites (e.g. the position of Astigmata within or outside oribatid mites)
            - Within Acari (e.g. are oribatid mites monophyletic?)
            - Within Chelicerata (e.g. are Acari derived or ancestral Chelicerata?)
-           - Are phylogenies based on mitochondrial and nuclear genes identical?
 
-  .. tab:: Phylogeography
-
-     .. tabs::
-
-        .. tab:: Possible research questions:
-
-           - Are lineages of holarctic oribatid mite species everywhere?
-           - Do parthenogenetic and sexual species have similar recolonisation patterns in Europe?
-
-  .. tab:: Community ecology
+  .. tab:: Ancestral state reconstruction
 
      .. tabs::
 
         .. tab:: Possible research questions:
 
-           - Investigate assembly processes of oribatid mite communities from different habitats or the same habitat from different areas (e.g. are communities phylogenetically clustered or overdispersed, is functional and phylogenetic diversity the same among communities?)
+           - Has parthenogenesis evolved more than once within Oribatida? 
+
+  .. tab:: Phylogenetic diversity
+
+     .. tabs::
+
+        .. tab:: Background
+
+           You will investigate the phylogenetic diversity (PD) of oribatid mite communities from different ecosystems and test where PD is highest. From this, you may evaluate the value of each ecosystem from a conservation perspective.
 
 These are just general ideas of different research areas you can investigate using phylogenetic trees. Each of the three research areas (phylogenetics, phylogeography, community ecology) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
 
