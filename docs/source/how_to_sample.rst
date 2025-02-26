@@ -11,7 +11,7 @@ Check out the video below to find out how to sample oribatid mites.
 
 Sampling accessoires
 --------------------
-Plastic bag (ordinary bin bag or something similar, medium size, ~10-20 l volume) or box with lid, garden towel and/or spade.
+Plastic bag (ordinary bin bag or something similar, medium size, ~10-20 l volume) or box with lid, garden shovel and/or spade.
 
 Habitat of oribatid mites
 -------------------------
