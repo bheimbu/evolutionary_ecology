@@ -15,7 +15,7 @@ Lecture 1 - Oribatid Mites: An Introduction `Part 1 <https://owncloud.gwdg.de/in
 
 `Lecture 3 - Sequence Alignment <https://owncloud.gwdg.de/index.php/s/VtwBjZUReL5h4VG>`_ and `the presentation <https://docs.google.com/presentation/d/10pvuIC5mNKoH74vMoFHRSzYgyHMtb1cIdGGFQixWD4w/edit?usp=sharing>`_ 
 
-`Lecture 4 - Models of Sequence Evolution <https://owncloud.gwdg.de/index.php/s/QAC3vhrwfpzUjg9>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/1iBBM5iFI4n0KCD>`_ 
+`Lecture 4 - Models of Sequence Evolution <https://owncloud.gwdg.de/index.php/s/QAC3vhrwfpzUjg9>`_ and `the presentation <https://docs.google.com/presentation/d/117pP7PoEDLwYF0A5HHekvHf3h3bxvvHM39zrXZK9Kh8/edit?usp=sharing>`_ 
 
 `Lecture 5 - Inferring phylogenetic trees <https://owncloud.gwdg.de/index.php/s/TTemsiseHbbul80>`_ and `the presentation <https://docs.google.com/presentation/d/14izeV-8CI2fnv8-NLZbnpA_7-0TomFNwi5KrIUCTktM/edit?usp=sharing>`_ 
 
