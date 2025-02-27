@@ -26,7 +26,7 @@ Schedule
    * - :ref:`first-week`
      - :ref:`first_week_wednesday`
      - 05.03.25
-     - Introduction molecular work, safety induction / DNA extraction and PCR
+     - Safety induction / introduction DNA extraction and PCR
      - room MN37, Untere Karspüle 2 / molli lab, Untere Karspüle 2, Animal Ecology
      - 9:00-10:00 / 10:00-16:00
    * - :ref:`first-week`
@@ -44,7 +44,7 @@ Schedule
    * - :ref:`second-week`
      - :ref:`Monday_Second_Week`
      - 10.03.25
-     - Review of the first week, start practical work with Geneious Prime and upload consensus sequences, Lecture & Tutorial 1: how to handle and edit sequence data
+     - Recap of first week, start practical work with Geneious Prime and upload consensus sequences, Lecture & Tutorial 1: how to handle and edit sequence data
      - CIP room (0.203), Untere Karspüle 2
      - 9:00-16:00
    * - :ref:`second-week`
@@ -74,7 +74,7 @@ Schedule
    * - :ref:`third-week`
      - :ref:`Monday_Third_Week`
      - 17.03.25
-     - Review the second week, develop and conduct your 🧬mini research project🧬, use own data, build hypothesis, start creating datasets fitting to analyze your research question
+     - Recap of second week, develop and conduct your 🧬mini research project🧬, use own data, build hypothesis, start creating datasets fitting to analyze your research question
      - CIP room (0.203), Untere Karspüle 2
      - 9:00-16:00
    * - :ref:`third-week`
