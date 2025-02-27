@@ -48,8 +48,8 @@ Tasks of the Day
           .. note::
              You can collect over 10 different morphotypes, but at least two are required.
 
-	  2. Transfer one or two individuals into a glass vial and add a small label.
-	  3. The remaining individuals go into 2 ml tubes filled with EtOH.
+	  2. Transfer one or two individuals (**from the same morphotype**) into a glass vial and add a small label.
+	  3. The remaining morphotype individuals go into 2 ml tubes filled with EtOH.
           4. Label them in the same way as the samples in the glass vials.
 
    .. tab:: Exercise 2
@@ -60,7 +60,7 @@ Tasks of the Day
              Keep your notes, we will be using them later in this course.
 
 .. tip::
-   Just in case, you can watch the :ref:`lectures` again at any time.
+   Just in case, you can view / watch the :ref:`lectures` again at any time.
 
 .. _first_week_tuesday:
 Tuesday
@@ -73,7 +73,7 @@ Yesterday, you collected oribatid mites and left them in lactic acid overnight t
     - Learn to recognize additional morphological characters.
     - Be able to identify most of your specimens to species level.
 
-For species-level identification (using the stereo microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes) will be used for molecular work.
+For species-level identification (using the stereo microscope 🔬), take one or two individuals from the glass vials. The remaining specimens (in 2 ml reaction tubes filled with EtOH) will be used for molecular work.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^^
