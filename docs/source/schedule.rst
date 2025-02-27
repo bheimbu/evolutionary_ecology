@@ -38,7 +38,7 @@ Schedule
    * - :ref:`first-week`
      - :ref:`first_week_friday`
      - 07.03.25
-     - Sequencing of PCR products, redo failures – optimistically: free
+     - Sequencing of PCR products, redo failures – day off but **HOMEWORK**
      - 
      - 
    * - :ref:`second-week`
