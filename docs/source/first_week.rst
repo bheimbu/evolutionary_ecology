@@ -81,7 +81,7 @@ Tasks of the Day
 
    .. tab:: Exercise
 
-          Enter the sample number, species name, morphotype number, and your name in the `**TAXA LIST** <https://docs.google.com/spreadsheets/d/1f2YfmZ8EUDxAAwiTYumzwVljEHkKnCqL_cZ02moAgi8/edit?usp=sharing>`_.
+          Enter the sample number, species name, morphotype number, and your name in the **Taxa List**. `Click here <https://docs.google.com/spreadsheets/d/1f2YfmZ8EUDxAAwiTYumzwVljEHkKnCqL_cZ02moAgi8/edit?usp=sharing>`_.
           
           .. note::
              Everyone should have five different species identified by the end of the day.
