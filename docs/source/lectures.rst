@@ -11,7 +11,7 @@ Lectures
 
 Lecture 1 - Oribatid Mites: An Introduction `Part 1 <https://owncloud.gwdg.de/index.php/s/u8rlqOWCnuVbuKU>`_ and `Part 2 <https://owncloud.gwdg.de/index.php/s/mWNYMLc2cU2BlqT>`_ and `the presentation <https://owncloud.gwdg.de/index.php/s/rHHZ8R3NnbbKfvu>`_ 
 
-`Lecture 2 - Why Phylogeny <https://owncloud.gwdg.de/index.php/s/nD3xadSDV3qVZxz>`_ and `the presentation <https://docs.google.com/presentation/d/10pvuIC5mNKoH74vMoFHRSzYgyHMtb1cIdGGFQixWD4w/edit?usp=sharing>`_ 
+`Lecture 2 - Why Phylogenetics <https://owncloud.gwdg.de/index.php/s/nD3xadSDV3qVZxz>`_ and `the presentation <https://docs.google.com/presentation/d/1IrMldRfthqA95zMB1q8W23hssr5OhAe74y2eB0mfPoY/edit?usp=sharing>`_ 
 
 `Lecture 3 - Sequence Alignment <https://owncloud.gwdg.de/index.php/s/VtwBjZUReL5h4VG>`_ and `the presentation <https://docs.google.com/presentation/d/10pvuIC5mNKoH74vMoFHRSzYgyHMtb1cIdGGFQixWD4w/edit?usp=sharing>`_ 
 
