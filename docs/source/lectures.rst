@@ -19,7 +19,7 @@ Lecture 1 - Oribatid Mites: An Introduction `Part 1 <https://owncloud.gwdg.de/in
 
 `Lecture 5 - Inferring phylogenetic trees <https://owncloud.gwdg.de/index.php/s/TTemsiseHbbul80>`_ and `the presentation <https://docs.google.com/presentation/d/14izeV-8CI2fnv8-NLZbnpA_7-0TomFNwi5KrIUCTktM/edit?usp=sharing>`_ 
 
-`Lecture 6 - Search Algorithms <https://owncloud.gwdg.de/index.php/s/0MAxKURT8WH9fo0>`_ and `the presentation <https://docs.google.com/presentation/d/1jUEUo8HcCvOMcicBh8o8YQunud-5owRXBoPhx5BXA6A/edit?usp=sharing>`_ 
+`Lecture 6 - Maximum Likelihood <https://owncloud.gwdg.de/index.php/s/0MAxKURT8WH9fo0>`_ and `the presentation <https://docs.google.com/presentation/d/1jUEUo8HcCvOMcicBh8o8YQunud-5owRXBoPhx5BXA6A/edit?usp=sharing>`_ 
 
 `Lecture 7 - Bayesian Inference <https://owncloud.gwdg.de/index.php/s/OQ22cbAAnXw2B3q>`_ and `the presentation <https://docs.google.com/presentation/d/13PllxDw76ZN9gkTdFpUI0d-EoYlLSpuPSmC4jY6w2n0/edit?usp=sharing>`_ 
 
