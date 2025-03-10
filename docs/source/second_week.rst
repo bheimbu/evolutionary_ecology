@@ -149,7 +149,7 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. Download all sequences from **Tutorial 3** and import them to Geneious Prime.
+           1. Take the sequences from **Tutorial 3** and copy them to subfolder **Tutorial 6**.
 
            .. code::
 
