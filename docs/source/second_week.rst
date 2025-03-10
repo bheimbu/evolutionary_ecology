@@ -68,7 +68,7 @@ Tasks of the Day
         .. tab:: Exercise 2
        
            1. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences).
-           2. Assemble the matching read pairs.
+           2. Assemble the matching read pairs (*Align/Assemble -> De Novo Assemble*), store them in separate subfolders (Check the box *Save in sub-folder*).
            3. Name your consensus sequences in the following format: ``$Sample number_$Genus_$Species_$Gene_$Initials`` (eg. ``1_Acrogalumna_longisetosa_18S_BH``).
 
            .. code::
