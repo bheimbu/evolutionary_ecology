@@ -118,7 +118,7 @@ Tasks of the Day
         .. tab:: Exercises
     
            1. Draw a phylogenetic tree of the six major groups of Oribatida.
-           2. Write the names of the major groups on the branches and the species' names at the tips.
+           2. Write the names of the major groups on the branches and the species' names from **Tutorial 3** at the tips.
            3. Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/OA626D9jAiUfDrP>`_.
 
   .. tab:: Tutorial 5
