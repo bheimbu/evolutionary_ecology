@@ -300,7 +300,7 @@ Tasks of the Day
         .. tab:: Exercises
                
            1. Read section :ref:`Sequence_Editing`.
-           2. Download the `zip file <https://owncloud.gwdg.de/index.php/s/rpyJS4b4ng2BWDZ>`_.
+           2. Download the `zip file <https://owncloud.gwdg.de/index.php/s/NTlCINO554DbSzZ>`_.
            3. Open each file in your local text editor of choice (i.e. Editor or Notepad++ for Windows) and answer the questions given in the form. Click `here <https://form.jotform.com/250495579645068>`_.
 
   .. tab:: Tutorial 4
