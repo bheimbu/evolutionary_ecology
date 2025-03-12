@@ -588,7 +588,7 @@ Tasks of the Day
         .. tab:: Questions
        
            1. Which parameter-settings deviate from the default settings?
-           2. What is the `Average standard deviation of split frequencies` () of your analyses? Use ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you will find a column `StdDev(s)`. Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
+           2. What is the `Average standard deviation of split frequencies` of your analyses? Use ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you will find a column `StdDev(s)`. Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
 
            .. note::
 
