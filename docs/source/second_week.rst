@@ -429,7 +429,7 @@ Tasks of the Day
 
         .. tab:: Exercise 2
   
-           1. Use a text editor and draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H)``.
+           1. Use a text editor and draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H);``.
            2. Check your topology using FigTree in Geneious Prime.
         
         .. tab:: Questions
