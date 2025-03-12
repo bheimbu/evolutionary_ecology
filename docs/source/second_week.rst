@@ -595,6 +595,7 @@ Tasks of the Day
               The **Average standard deviation of split frequencies** is a measure used in Bayesian phylogenetic inference to assess convergence and stability of the MCMC (Markov Chain Monte Carlo) chains during the analysis. The split frequency measures how often a particular split appears across all sampled trees from an MCMC chain.
 
               Low average standard deviation means the chains are producing similar trees, indicating that the analysis is likely converging to a consistent result.
+
               High average standard deviation means the chains are producing more different trees, indicating that the analysis may not have converged yet.
            
            **Bonus question:** What is the credible sets of trees (search online for more information)?
