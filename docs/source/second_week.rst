@@ -498,9 +498,9 @@ While working through the exercises, many topics you have been dealing with earl
   - Know the difference between Cluster and Search algorithms.
   - Know why search algorithms take so much longer for analysing genetic data than Cluster algorithms.
   - Know that ML uses likelihoods, and MrBayes uses posterior probabilities to calculate internal nodes and topologies of trees.
-  - Know what an MCMC-robot is and for which type of analysis it is mandatory.
+  - Know what MCMC is and for which type of analysis it is mandatory.
   - Be able to interpret the different statistics MrBayes provides.
-  - Understand the meaning of prior and posterior analyses.
+  - Understand the meaning of prior and posterior probabilities.
   - Understand the difference between bootstraps and posterior probabilites and why they are not directly comparable.
 
 Tasks of the Day
@@ -581,19 +581,21 @@ Tasks of the Day
 
               - Use ``GTR+G+I`` as model of sequence evolution (`Substitution Model: GTR` + `Rate Variation: invgamma`)
               - Set the outgroup (`Outgroup: Zercon sp.`)
-              - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 1000th generation (`Subsampling Freq: 1000`)
-              - Use a burn-in of 25% (`Burn-in Length: 250,000`)
+              - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 100th generation (`Subsampling Freq: 100`)
+              - Use a burn-in of 10% (`Burn-in Length: 1000`)
            4. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
        
            1. Which parameter-settings deviate from the default settings?
-           2. What is the average standard deviation of your analyses? Use ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you will find a column `StdDev(s)`.
+           2. What is the `Average standard deviation of split frequencies` () of your analyses? Use ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you will find a column `StdDev(s)`. Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
 
            .. note::
 
-              Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
+              The **Average standard deviation of split frequencies** is a measure used in Bayesian phylogenetic inference to assess convergence and stability of the MCMC (Markov Chain Monte Carlo) chains during the analysis. The split frequency measures how often a particular split appears across all sampled trees from an MCMC chain.
 
+              Low average standard deviation means the chains are producing similar trees, indicating that the analysis is likely converging to a consistent result.
+              High average standard deviation means the chains are producing more different trees, indicating that the analysis may not have converged yet.
            
            **Bonus question:** What is the credible sets of trees (search online for more information)?
 
