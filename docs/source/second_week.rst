@@ -721,14 +721,3 @@ Tasks of the Day
            1. Are the NJ and ML trees calculated in R similar to the trees calculated in Geneious Prime?
            2. Can you see fundamental differences?
            3. Do you consider both ways (R and MrBayes/RaXML in Geneious Prime) as comparable?
-
-  .. tab:: Bonus Tutorial
-
-     .. tabs::
-
-        .. tab:: Exercise
-
-           - Calculate the number of `haplotypes <https://en.wikipedia.org/wiki/Haplotype>`_ in the dataset ``Onova_example_COI``.
-           - How many sequences are in this data set and how many haplotypes?
-           - Plot the haplotype list as barplot, sorted from many to few.
-           - Save the barplot including a title as pdf. Name it ``Onova_hts_plot.pdf``.
