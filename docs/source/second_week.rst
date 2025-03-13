@@ -598,8 +598,7 @@ Tasks of the Day
 
               High average standard deviation means the chains are producing more different trees, indicating that the analysis may not have converged yet.
            
-           **Bonus question:** What is the credible sets of trees (search online for more information)?
-
+          
   .. tab:: Tutorial 3
 
      .. tabs::
