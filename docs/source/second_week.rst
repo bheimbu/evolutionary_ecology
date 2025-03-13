@@ -680,10 +680,6 @@ Tasks of the Day
            1. How long (bp) is the untrimmed alignment for **18S** and **EF**?
            2. How long (bp) is the trimmed alignment for **18S** and **EF**?
 
-           
-           .. important::
-              If you have followed the above instructions, you disobeyed a formal alignment rule. **Which one?** 
-
   .. tab:: Tutorial 2
 
      .. tabs::
