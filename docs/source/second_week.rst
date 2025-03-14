@@ -690,7 +690,7 @@ Tasks of the Day
            2. Save the distance matrix for each alignment as ``csv``, name them ``distance_EF.csv`` and ``distance18S.csv``, to your PC.
            3. Calculate 1000 bootstraps for each tree.
            4. Plot each tree neatly (``ladders.right = FALSE``, ``cex = 0.7``), displaying bootstrap values as percentages in ``lightblue`` text color, enclosed by circles with a ``white`` background..
-           5. Save the NJ trees with nodelabels as ``NJ_EF.tre`` (with ``red`` tip labels) and ``NJ_18S.tre`` (with ``lightblue`` tip labels).
+           5. Save the NJ trees with nodelabels as JPG: 1) The ``NJ_EF.tre`` with ``red`` tip labels and 2) the``NJ_18S.tre`` with ``lightblue`` tip labels.
 
 
   .. tab:: Tutorial 3
