@@ -48,6 +48,8 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
            You will investigate the phylogenetic diversity (PD) of oribatid mite communities from different ecosystems and test where PD is highest. From this, you may evaluate the value of each ecosystem from a conservation perspective.
 
+           Download all necessary data. Click `here <https://owncloud.gwdg.de/index.php/s/8PhZhlssnryfFea>`_!
+
 These are just general ideas of different research areas you can investigate using phylogenetic trees. Each of the three research areas (phylogenetics, ancestral state reconstruction, phylogenetic diversity) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
 
 Formulate a clear hypothesis that is testable and refutable. In order to investigate your research question, you need to take small steps. A hypothesis is testing parts of your research question. If you have enough pieces together, you may be able to explain your results. Collect the neccessary data to test your hypothesis and plan how to split the work among each other.
