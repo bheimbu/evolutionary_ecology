@@ -18,8 +18,8 @@ extensions = [
     'sphinxcontrib.youtube',
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
-    'sphinxcontrib.images',
-    "sphinx.ext.napoleon",
+    'sphinx.ext.autodoc',
+    'sphinxcontrib.images'
 ]
 
 intersphinx_mapping = {
@@ -32,9 +32,15 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-#html_theme = 'sphinx_rtd_theme'
-html_theme = "sphinxawesome_theme"
+#html_theme = 'sphinxawesome_theme'
 
-#html_css_files = [
-#    'custom.css',
-#]
+#html_theme = 'furo'
+
+html_theme = 'sphinx_rtd_theme'
+#html_theme = "sphinxawesome_theme"
+# -- Options for EPUB output
+epub_show_urls = 'footnote'
+
+html_css_files = [
+    'custom.css',
+]
