@@ -32,15 +32,18 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-#html_theme = 'sphinxawesome_theme'
-
+html_theme = 'sphinxawesome_theme'
+html_permalinks_icon = Icons.permalinks_icon
+html_sidebars = {
+  "**": ["sidebar_main_nav_links.html", "sidebar_toc.html"]
+}
 #html_theme = 'furo'
 
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
 #html_theme = "sphinxawesome_theme"
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+#epub_show_urls = 'footnote'
 
-html_css_files = [
-    'custom.css',
-]
+#html_css_files = [
+#    'custom.css',
+#]
