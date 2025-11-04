@@ -5,7 +5,7 @@ Hello and welcome to M.Biodiv.441: Evolutionary Ecology. This master's course in
 
 But first, let’s introduce the team behind this course...
 
-**First**, we have **Bastian**, a postdoc in the Department of Animal Ecology and head of the molecular lab. His primary research focuses on oribatid mites, where he focuses on phylogenetics, comparative genomics, and other things. Bastian also brings expertise in microbiomics and bioinformatics.
+**First**, we have **Bastian**, a postdoc in the Department of Animal Ecology and head of the molecular lab. His primary research focuses on oribatid mites, where he focuses on phylogenetics, comparative genomics, and other things. Bastian also brings expertise in microbiomics and bioinformatics. In the past, he has investigated the evolutionary history of termites from Down Under, invasive earthworms in the US, and phallic organs of stick insects. 
 
 **Second**, we have **Johanna**, she is a PhD student in the Department of Animal Ecology. Her research, part of the Biodiversity Exploratories, focuses on community phylogenetics to understand the assembly processes of oribatid mites and their response to disturbances like forest gap formation. By using molecular and trait-based approaches, she aims to explore how these changes affect ecosystem functions and services, providing insight into potential future ecosystem shifts. 
 
