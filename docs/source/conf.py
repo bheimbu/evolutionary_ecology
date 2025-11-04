@@ -21,16 +21,7 @@ extensions = [
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
     'sphinx.ext.autodoc',
-    'sphinxcontrib.images',
-    "sphinx.ext.mathjax",
-    "sphinx.ext.viewcode",
-    "sphinx.ext.napoleon",
-    "sphinxarg.ext",
-    "sphinx.ext.autosectionlabel",
-    "myst_parser",
-    "sphinxawesome_theme.highlighting",
-    'sphinxcontrib.images',
-    'sphinx_simplepdf'
+    'sphinxcontrib.images'
 ]
 
 intersphinx_mapping = {
