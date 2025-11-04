@@ -3,9 +3,7 @@
 # -- Project information
 
 project = 'M.Biodiv.441 Evolutionary Ecology'
-copyright = '2025, Bastian Heimburger'
 author = 'Bastian Heimburger'
-
 release = '0.1'
 version = '0.1.1'
 
@@ -20,8 +18,8 @@ extensions = [
     'sphinxcontrib.youtube',
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
-    'sphinx.ext.autodoc',
-    'sphinxcontrib.images'
+    'sphinxcontrib.images',
+    "sphinx.ext.napoleon",
 ]
 
 intersphinx_mapping = {
@@ -34,11 +32,9 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
-#html_theme = "sphinxawesome_theme"
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
+#html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinxawesome_theme"
 
-html_css_files = [
-    'custom.css',
-]
+#html_css_files = [
+#    'custom.css',
+#]
