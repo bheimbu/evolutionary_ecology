@@ -11,7 +11,29 @@ version = '0.1.1'
 
 # -- General configuration
 
+#extensions = [
+#    'sphinx.ext.duration',
+#    'sphinx.ext.doctest',
+#    'sphinx.ext.autodoc',
+#    'sphinx.ext.autosummary',
+#    'sphinx.ext.intersphinx',
+#    'sphinxcontrib.youtube',
+#    'sphinx_tabs.tabs',
+#    'sphinx_copybutton',
+#    'sphinx.ext.autodoc',
+#    'sphinxcontrib.images'
+#]
+pygments_style = "sphinx"
 extensions = [
+    "sphinx.ext.mathjax",
+    "sphinx.ext.viewcode",
+    "sphinx.ext.napoleon",
+    "sphinxarg.ext",
+    "sphinx.ext.autosectionlabel",
+    "myst_parser",
+    "sphinxawesome_theme.highlighting",
+    'sphinxcontrib.images',
+    'sphinx_simplepdf',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
@@ -38,8 +60,8 @@ templates_path = ['_templates']
 
 #html_theme = 'furo'
 
-html_theme = 'sphinx_rtd_theme'
-
+#html_theme = 'sphinx_rtd_theme'
+html_theme = "sphinxawesome_theme"
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
