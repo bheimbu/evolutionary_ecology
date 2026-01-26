@@ -27,13 +27,13 @@ Schedule
      - :ref:`first_week_wednesday`
      - 04.03.25
      - Safety induction / introduction DNA extraction and PCR
-     - room MN37, Untere Karspüle 2 / molli lab, Untere Karspüle 2, Animal Ecology
+     - room MN37 / molli lab, Untere Karspüle 2, Animal Ecology (Prof. Dr. Stefan Scheu)
      - 9:00-10:00 / 10:00-16:00
    * - :ref:`first-week`
      - :ref:`first_week_thursday`
      - 05.03.25
      - Introduction gel electrophoresis, PCR-purification; team a and b
-     - molli lab, Untere Karspüle 2, Animal Ecology
+     - room MN37 / molli lab, Untere Karspüle 2, Animal Ecology (Prof. Dr. Stefan Scheu)
      - `Team A`: 9:00-13:00, `Team B`: 12:00-16:00
    * - :ref:`first-week`
      - :ref:`first_week_friday`
