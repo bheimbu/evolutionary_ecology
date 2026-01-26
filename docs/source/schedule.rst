@@ -43,7 +43,7 @@ Schedule
      - 
    * - :ref:`second-week`
      - :ref:`Monday_Second_Week`
-     - 9.03.25
+     - 09.03.25
      - Recap of first week, start practical work with Geneious Prime and upload consensus sequences, Lecture & Tutorial 1: how to handle and edit sequence data
      - Kursraum C, Heinrich-Düker-Weg 8
      - 9:00-16:00
