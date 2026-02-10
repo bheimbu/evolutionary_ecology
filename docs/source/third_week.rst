@@ -91,15 +91,11 @@ Tasks of the Day
      - Explain you hypotheses! What do you expect and why?
      - Discuss which data you need to test the hypothesis.
      - Discuss the hypothesis and the data with your tutors.
-     - Check the literature if other studies investigated similar topics.
-     
-     .. note::
-     
-        The tutors will help you to find publications.
+     - Literaturesearch: Checkk if other studies investigated similar topics!
 
   .. tab:: Exercise 3
 
-     - Start to collect and format the data you need.
+     - Start to collect the data you need. Bring your data in the right format! 
      - Build task forces and split the work effectively.
 
 .. _Tuesday_Third_Week:
@@ -114,13 +110,9 @@ Tasks of the Day
   .. tab:: Exercise
 
      - Continue with your :ref:`Mini_research_Project`.
-     - Finish collecting and formatting the data you need today.
+     - Try to finish collecting and formatting the data you need!
      - Start the first analyses if possible.
      - Consult the literature.
-  
-.. attention::
-
-  By the end of the day, you should already have a complete alignment and a best-fit model of sequence evolution.
   
 .. tip::
 
@@ -147,7 +139,7 @@ Today, keep the finish line of your analyses in sight. Check and discuss prelimi
 
 
 .. attention::
-   Just a reminder: Tomorrow will be the questionnaire.
+   Just a reminder: Tomorrow will be the **Questionnaire**.
 
 .. _Thursday_Third_Week:
 Thursday
@@ -164,7 +156,7 @@ Tasks of the Day
 
 .. attention::
 
-  Do not forget to answer the **questionnaire** before lunch.
+  It's **Questionnaire** day!
 
 .. _Friday_Third_Week:
 Friday
