@@ -26,33 +26,29 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research questions:
+        .. tab:: Possible research question:
 
-           - Within oribatid mites (e.g. the position of Astigmata within or outside oribatid mites)
-           - Within Acari (e.g. are oribatid mites monophyletic?)
-           - Within Chelicerata (e.g. are Acari derived or ancestral Chelicerata?)
+           `Astigmata: Where do they belong?` 
 
   .. tab:: Ancestral state reconstruction
 
      .. tabs::
 
-        .. tab:: Possible research questions:
+        .. tab:: Possible research question:
 
-           - Has parthenogenesis evolved more than once within Oribatida? 
+           `Have the body sizes of oribatid mites changed over evolutionary time?` 
 
   .. tab:: Phylogenetic diversity
 
      .. tabs::
 
-        .. tab:: Background
+        .. tab:: Possible research question:
 
-           You will investigate the phylogenetic diversity (PD) of oribatid mite communities from different ecosystems and test where PD is highest. From this, you may evaluate the value of each ecosystem from a conservation perspective.
+           `Do oribatid mite communities differ between ecosystems and if so, where is phylogenetic diversity (PD) highest?`
 
-           Download all necessary data. Click `here <https://owncloud.gwdg.de/index.php/s/8PhZhlssnryfFea>`_!
+These are the research projects you can investigate using phylogenetic trees. Each of the three research areas (phylogenetics, ancestral state reconstruction, phylogenetic diversity) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
 
-These are just general ideas of different research areas you can investigate using phylogenetic trees. Each of the three research areas (phylogenetics, ancestral state reconstruction, phylogenetic diversity) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
-
-Formulate a clear hypothesis that is testable and refutable. In order to investigate your research question, you need to take small steps. A hypothesis is testing parts of your research question. If you have enough pieces together, you may be able to explain your results. Collect the neccessary data to test your hypothesis and plan how to split the work among each other.
+Formulate clear hypotheses that arw testable and refutable. In order to investigate your research question, you need to take small steps. A hypothesis is testing parts of your research question. If you have enough pieces together, you may be able to explain your results. Collect the neccessary data to test your hypothesis and plan how to split the work among each other.
 
 .. note::
 
@@ -86,13 +82,13 @@ Tasks of the Day
 
   .. tab:: Exercise 1
           
-     - Think about a research topic you are interested in.
+     - Choose a research topic you are interested in.
      - Find a team with the same interest.
 
   .. tab:: Exercise 2
 
-     - Formulate a hypothesis.
-     - Explain the hypothesis, what you expect and why.
+     - Formulate hypotheses.
+     - Explain you hypotheses! What do you expect and why?
      - Discuss which data you need to test the hypothesis.
      - Discuss the hypothesis and the data with your tutors.
      - Check the literature if other studies investigated similar topics.
