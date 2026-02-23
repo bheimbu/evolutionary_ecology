@@ -28,7 +28,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
         .. tab:: Possible research question:
 
-           `Astigmata: Where do they belong?` 
+           `Are oribatid mites monophyletic (or what about Astigmata)?` 
 
   .. tab:: Ancestral state reconstruction
 
