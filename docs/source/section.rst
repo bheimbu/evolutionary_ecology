@@ -292,16 +292,16 @@ After likelihoods have been calculated for each model, a list with all models, p
 
 Now we can calculate the model with the best likelihood score. Comparing likelihoods is not easy and sensitive to parameters. In jModelTest different methods (AIC, BIC, DT, and hLRT) are available to estimate the best likelihood.
 
-In this course, we only want to calculate AIC and BIC using default settings → go to:
+**In this course, we only want to calculate AIC and BIC using default settings → go to:**
 
-- 'Analysis' > 'Do AIC calculations'
-- 'Analysis' > 'Do BIC calculations'
+- 'Analysis' > 'Do AIC calculations …'
+- 'Analysis' > 'Do BIC calculations …'
 
 .. thumbnail:: /_static/jmodeltest_3.png
 
 The program provides a very detailed list of the AIC and BIC results. For detailed information on parameters and analyses of jModeltest, click `here <http://www.phylo.org/pdf_docs/jmodeltest-2.1.6-manual.pdf>`_.
 
-Save results of AIC and BIC calculations:
+**Save your results of AIC and BIC calculations to a HTML log file:**
 
 - 'Results' > 'Build HTML log' 
 
