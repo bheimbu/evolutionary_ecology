@@ -67,7 +67,7 @@ Tasks of the Day
        
            1. Find the matching raw reads i.e., the forward and the reverse sequence(s) of the same sample (Note that 18S consists of more than two sequences).
            2. Assemble the matching read pairs (*Align/Assemble -> De Novo Assemble*), store them in separate subfolders (Check the box *Save in sub-folder*).
-           3. Name your consensus sequences in the following format: ``$Sample number_$Genus_$Species_$Gene_$Initials`` (eg. ``1_Acrogalumna_longisetosa_18S_BH``).
+           3. Name your consensus sequences in the following format: ``<Sample number>_<Genus>_<Species>_<Gene>_<Initials>`` (eg. ``1_Acrogalumna_longisetosa_18S_BH``).
 
            .. code::
 
@@ -106,7 +106,7 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. Open the form and answer the question. `Click here for the form <https://form.jotform.com/250502078222345>`_.
+           1. Open the form and answer the question. `Click here for the form <https://form.jotform.com/250502078222345>`_. Do not forget to enter your name!
            2. Download the sequences from NCBI with the accession numbers given in the form as separate sequence files in FASTA format.
 
   .. tab:: Tutorial 4
@@ -115,7 +115,7 @@ Tasks of the Day
 
         .. tab:: Exercises
     
-           1. Draw a phylogenetic tree of the six major groups of Oribatida.
+           1. Draw a phylogenetic tree of the six major Oribatida groups.
            2. Write the names of the major groups on the branches and the species names from **Tutorial 3** at the tips.
            3. Take a picture of your drawing and upload it `here <https://owncloud.gwdg.de/index.php/s/HddkhmrMTajka0Q>`_.
 
@@ -267,7 +267,7 @@ Tasks of the Day
 
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
-           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``<GEN>_<TUTORIAL>_<ALIGNMENT LETTER>_aln.``) and drag or move them to a new subfolder called **Tuesday/Tutorial_1**.
+           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``<GENE>_<TUTORIAL>_<ALIGNMENT LETTER>_aln.``) and drag or move them to a new subfolder called **Tuesday/Tutorial_1**.
 
            .. code::
 
@@ -382,7 +382,7 @@ Tasks of the Day
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
            3. For **both** alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (`Tree -> Geneious Tree Builder -> Genetic Distance Model: Jukes-Cantor`) with 1000 bootstrap replicates (`Resample tree -> Resampling Method: Bootstrap` + `Number of Replicates: 1000`).
-           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel).
+           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit `Root` in the subpanel). Why *Zercon* sp. actually?
            5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, ``EF_JC_model``.
        
         .. tab:: Exercise 2
@@ -399,7 +399,7 @@ Tasks of the Day
 
         .. tab:: Questions
            
-           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_.
+           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_. Do not forget to enter your name!
 
   .. tab:: Tutorial 3
 
@@ -482,7 +482,7 @@ Thursday
 
 Today, it's all about search algorithms. You will learn the basics of the two most common methods for calculating phylogenetic trees – :ref:`Maximum_Likelihood` in the morning and :ref:`Bayesian_Inference` in the afternoon.
 
-Both methods are widely used, because they are more thorough than Cluster methods and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
+Both methods are widely used, because they are more thorough than clustering algorithms (such as UPGMA or NJ) and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
 
 Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface), namely :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_).
 
@@ -609,7 +609,7 @@ Tasks of the Day
 
         .. tab:: Questions
  
-           Open the form and answer the questions. Click `here <https://form.jotform.com/250505884089364>`_.
+           Open the form and answer the questions. Click `here <https://form.jotform.com/250505884089364>`_. Do not forget to enter your name!
 
   .. tab:: Tutorial 4
 
