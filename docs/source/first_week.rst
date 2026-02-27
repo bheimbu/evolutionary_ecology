@@ -35,7 +35,6 @@ In the afternoon, you'll observe soil fauna firsthand through a stereo microscop
     - Differentiate oribatid mites from other mite species.
     - Classify oribatid mites into major groups.
     - Group oribatid mite species based on distinct morphotypes.
-    - Identify oribatid mites to the genus level, and potentially to the species level.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
@@ -48,24 +47,13 @@ Tasks of the Day
           .. note::
              You can collect over 10 different morphotypes, but at least two are required.
 
-	  2. Transfer one or two individuals (**from the same morphotype**) into a glass vial and add a small label.
-	  3. The remaining morphotype individuals go into 2 ml tubes filled with EtOH.
-          4. Label them in the same way as the samples in the glass vials.
-
-   .. tab:: Exercise 2
-
-          1. Write down three to five characters (morphological and/or behavioural) of three oribatid mite species.
-
-          .. note::
-             Keep your notes, we will be using them later in this course.
-
-.. tip::
-   Just in case, you can view / watch the :ref:`lectures` again at any time.
+	  2. Transfer two or more individuals **per morphotype** into a glass vial and add a small label.
+	  3. The remaining morphotype individuals go into 2 ml tubes filled with EtOH, labelled in the same way as the samples in the glass vials.
 
 .. _first_week_tuesday:
 Tuesday
 -------
-Yesterday, you collected oribatid mites and left them in lactic acid overnight to clear their bodies for better examination under the stereo microscope. Without this treatment, recognizing key morphological features would be challenging.
+Yesterday, you collected oribatid mites and left them in lactic acid overnight to clear their bodies for species determination under the stereo microscope🔬. Without this treatment, recognizing key morphological features is challenging.
 
 .. note::
   **Today, you will…**
@@ -90,9 +78,6 @@ Tasks of the Day
 
            Why are we using the undetermined morphospecies for molecular analysis?
 
-.. tip::
-   Just in case, you can watch the :ref:`lectures` again at any time.
-
 .. _first_week_wednesday:
 Wednesday
 ---------
@@ -101,7 +86,7 @@ In this course, we use a DNA extraction method based on spin columns with a sili
 .. note::
   **You will…**
     - Learn how to work safely and maintain cleanliness in a molecular lab.
-    - Learn how to properly use a microliter pipette.
+    - Learn how to properly use a pipette.
     - Understand how to handle your samples without contaminating the workspace, your samples, or yourself.
     - Learn the names and roles of key chemical substances and conditions for each step of DNA extraction.
     - Gain skills in setting up a PCR efficiently.
@@ -123,10 +108,6 @@ Tasks of the Day
 
     Open the form and answer the questions? Click `here <https://form.jotform.com/250506539344356>`_.
 
-
-.. tip::
-   If you feel stuck, ask someone in class for help.
-
 .. _first_week_thursday:
 Thursday
 --------
@@ -143,7 +124,7 @@ Tasks of the Day
 .. _first_week_friday:
 Friday
 -------
-**Friday** might be a day **off** since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some **homework to complete** — **please see the details below!**
+**Friday** will be a day **off** since your PCR products will be sent for sequencing, which takes some time. In the meantime, you'll have some **HOMEWORK** to complete — *please see the details below!*
 
 Homework
 ^^^^^^^^
