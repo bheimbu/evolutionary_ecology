@@ -26,7 +26,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research question:
+        .. tab:: Research question:
 
            `Are oribatid mites monophyletic (or what about Astigmata)?` 
 
@@ -34,7 +34,7 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research question:
+        .. tab:: Research question:
 
            `Have the body sizes of oribatid mites changed over evolutionary time?` 
 
@@ -42,13 +42,13 @@ Each project-team will build their own hypothesis and collect data, from the cou
 
      .. tabs::
 
-        .. tab:: Possible research question:
+        .. tab:: Research question:
 
            `Do oribatid mite communities differ between ecosystems and if so, where is phylogenetic diversity (PD) highest?`
 
-These are the research projects you can investigate using phylogenetic trees. Each of the three research areas (phylogenetics, ancestral state reconstruction, phylogenetic diversity) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
+These are the research projects you can choose from. Each of the three research areas (phylogenetics, ancestral state reconstruction, and phylogenetic diversity) should be covered by the whole course. Come together in small teams of your favourite research area. All teams should be approximately of the same size.
 
-Formulate clear hypotheses that arw testable and refutable. In order to investigate your research question, you need to take small steps. A hypothesis is testing parts of your research question. If you have enough pieces together, you may be able to explain your results. Collect the neccessary data to test your hypothesis and plan how to split the work among each other.
+Formulate clear hypotheses that are testable and refutable. In order to investigate your research question, you need to take small steps. A hypothesis is testing parts of your research question. If you have enough pieces together, you may be able to explain your results. Collect the neccessary data to test your hypotheses and plan how to split the work among each other.
 
 .. note::
 
@@ -90,8 +90,8 @@ Tasks of the Day
      - Formulate hypotheses.
      - Explain you hypotheses! What do you expect and why?
      - Discuss which data you need to test the hypothesis.
-     - Discuss the hypothesis and the data with your tutors.
-     - Literaturesearch: Checkk if other studies investigated similar topics!
+     - Discuss the hypotheses and the data with your tutors.
+     - Literature research: Check if other studies investigated similar topics!
 
   .. tab:: Exercise 3
 
@@ -125,7 +125,7 @@ Wednesday
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
 
-Today, keep the finish line of your analyses in sight. Check and discuss preliminary and final results with the tutors. Add or delete taxa/genes if it improves your analyses. Be critical but pragmatic.
+Today, keep the finish line of your analyses in sight. Check and discuss preliminary and final results with your tutors. Add or delete taxa/genes if it improves your analyses. Be critical but pragmatic.
 
 .. tabs::
 
