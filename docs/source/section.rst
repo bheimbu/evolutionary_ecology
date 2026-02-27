@@ -294,8 +294,11 @@ Now we can calculate the model with the best likelihood score. Comparing likelih
 
 .. attention::
    Both AIC and BIC are used in jModelTest to select the best-fitting substitution model, but they penalize model complexity differently.
+
    **AIC (Akaike Information Criterion)** penalizes each additional parameter with a fixed cost of 2. It tends to favor more parameter-rich models and is considered better when the goal is predictive accuracy.
+
    **BIC (Bayesian Information Criterion)** penalizes each additional parameter by ln(n), where n is the sample size (alignment length). Since ln(n) is usually larger than 2, BIC applies a stronger penalty for complexity and tends to select simpler models than AIC.
+
    In practice with jModelTest, BIC is generally preferred for phylogenetics because it is more conservative and consistent — meaning it is more likely to converge on the true model as data increases. AIC can overfit by selecting overly complex models, especially with long alignments. However, both criteria often agree on the best model, and when they disagree it's worth considering which model your downstream analysis software supports.
 
 **In this course, we only want to calculate AIC and BIC using default settings → go to:**
