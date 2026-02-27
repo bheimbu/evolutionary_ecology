@@ -12,15 +12,13 @@ The week begins with assembling, checking, and exporting your raw sequences (PCR
 .. note::
   **At the end of the week, you will know…**
 
-  - What a sequence file is.
-  - What a fasta file is.
+  - Differeent kinds of sequence files.
   - How to use public databases.
   - How to edit sequences.
   - How to check if sequencing results are correct.
   - What an multiple sequence alignment is.
-  - How to distinguish multifasta files from alignment files.
   - What a model of sequence evolution is and why it is important for phylogenetic analysis.
-  - What the difference of Cluster methods and search algorithms is when constructing phylogenetic trees.
+  - What the difference of Cluster algorithms and Search algorithms is when constructing phylogenetic trees.
   - What ML and BI means.
 
 .. _Monday_Second_Week:
@@ -207,7 +205,7 @@ Tasks of the Day
               Do not add more than four of your own sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e., longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
 .. tip::
-   Just in case, you can read about Geneious Prime again in :ref:`section`.
+   Just in case, you can read about **Geneious Prime** again under :ref:`section`.
 
 .. _Tuesday_Second_Week:
 Tuesday
