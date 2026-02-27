@@ -119,7 +119,7 @@ Tasks of the Day
 
    .. tab:: Questions
 
-    Open the form and answer the questions? Click `here <https://form.jotform.com/250506844525356>`_.
+    Open the form and answer the questions? Click `here <https://form.jotform.com/250506844525356>`_. Do not forget to enter your name!
 
 .. _first_week_friday:
 Friday
@@ -150,4 +150,4 @@ Make yourself familiar with **Geneious Prime**, watch the introductory videos ab
 
    .. tab:: Homework
 
-    Open the form and answer the questions. Click `here <https://form.jotform.com/250506805438356>`_.
+    Open the form and answer the questions. Click `here <https://form.jotform.com/250506805438356>`_. Do not forget to enter your name!
