@@ -282,13 +282,13 @@ And then load your alignment file into it
 
 .. thumbnail:: /_static/jmodeltest_1.png
 
+Then start the analysis
+
 :kbd:`Analysis` > :kbd:`Compute likelihood scores`
 
-- choose :kbd:`Likelihood settings`
+Choose :kbd:`Number of substitution schemes` 3 under :kbd:`Likelihood settings`
 
-:kbd:`Number of substitution schemes` > 3
-
-Start analysis > :kbd:`Compute Likelihoods`
+and click on > :kbd:`Compute Likelihoods`
 
 .. thumbnail:: /_static/jmodeltest_2.png
 
@@ -307,7 +307,7 @@ Now we can calculate the model with the best likelihood score. Comparing likelih
 
    In practice with jModelTest, BIC is generally preferred for phylogenetics because it is more conservative and consistent — meaning it is more likely to converge on the true model as data increases. AIC can overfit by selecting overly complex models, especially with long alignments. However, both criteria often agree on the best model, and when they disagree it's worth considering which model your downstream analysis software supports.
 
-**In this course, we only want to calculate AIC and BIC using default settings → go to:**
+**In this course, we only want to calculate AIC and BIC (under default settings)**
 
 1. :kbd:`Analysis` > :kbd:`Do AIC calculations …`
 2. :kbd:`Analysis` > :kbd:`Do BIC calculations …`
