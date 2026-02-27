@@ -514,7 +514,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`RAxML <Raxml>`. Don't be confused—this section primarily focuses on the command-line version of RAxML. However, all the settings explained here are also available in the Geneious Prime plugin.
-           2. Install the **RAxML** plugin in Geneious Prime (:kbd:`Tools` -> :kbd:`Plugins` -> :kbd:`Available Plugins`).
+           2. Install the **RAxML** plugin in Geneious Prime :kbd:`Tools` -> :kbd:`Plugins` -> :kbd:`Available Plugins`.
 
         .. tab:: Exercise 1
 
@@ -532,11 +532,11 @@ Tasks of the Day
                            └── EF 
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. Start the ML analyses with following parameters (:kbd:`Tree` -> :kbd:`RAxML`):
+           3. Start the ML analyses with following parameters :kbd:`Tree` -> :kbd:`RAxML`:
 
-              - GTR GAMMA I (:kbd:`Nucleotide Model:`:kbd:`GTR GAMMA I`)
-              - Rapid bootstrapping and search for best-scoring ML tree (:kbd:`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
-              - 500 bootstrap replicates (:kbd:`Number of starting trees or bootstrap replicates: 500`)
+              - GTR GAMMA I :kbd:`Nucleotide Model:`:kbd:`GTR GAMMA I`
+              - Rapid bootstrapping and search for best-scoring ML tree :kbd:`Algorithm:`:kbd:`Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`
+              - 500 bootstrap replicates :kbd:`Number of starting trees or bootstrap replicates:`:kbd:`500`
               - Any other parameter in default settings
            4. Write down how long the analyses took (in seconds).
 
@@ -557,7 +557,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`MrBayes <MrBayes>`. Don't be confused—this section primarily focuses on the command-line version of MrBayes. However, all the settings explained here are also available in the Geneious Prime plugin.
-           2. Install the **MrBayes** plugin in Geneious Prime (:kbd:`Tools` -> :kbd:`Plugins` -> :kbd:`Available Plugins`).
+           2. Install the **MrBayes** plugin in Geneious Prime :kbd:`Tools` -> :kbd:`Plugins` -> :kbd:`Available Plugins`.
 
         .. tab:: Exercise 1
 
@@ -576,12 +576,12 @@ Tasks of the Day
                            └── EF
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. Start the Bayesian Inference using MrBayes (:kbd:`Tree` -> :kbd:`MrBayes`) with following parameters:
+           3. Start the Bayesian Inference using MrBayes :kbd:`Tree` -> :kbd:`MrBayes` with following parameters:
 
-              - Use ``GTR+G+I`` as model of sequence evolution (:kbd:`Substitution Model:` :kbd:`GTR` + :kbd:`Rate Variation: invgamma`)
-              - Set the outgroup (:kbd:`Outgroup: Zercon sp.`)
-              - Use 1 million generations (:kbd:`Chain Length: 1,000,000`) and sample every 100th generation (:kbd:`Subsampling Freq: 100`)
-              - Use a burn-in of 10% (:kbd:`Burn-in Length: 1000`)
+              - Use **GTR+G+I** as model of sequence evolution :kbd:`Substitution Model:` :kbd:`GTR` + :kbd:`Rate Variation: invgamma`
+              - Set the outgroup :kbd:`Outgroup: Zercon sp.`
+              - Use 1 million generations :kbd:`Chain Length: 1,000,000` and sample every 100th generation :kbd:`Subsampling Freq: 100`
+              - Use a burn-in of 10% :kbd:`Burn-in Length: 1000`
            4. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
