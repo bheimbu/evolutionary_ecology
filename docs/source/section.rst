@@ -270,7 +270,12 @@ Models of Sequence Evolution
 
 **How to compute likelihoods of models of sequence evolution**
 
-Start jModelTest
+Start the jModelTest GUI (graphical user interface)
+
+.. code::
+   java -jar jModelTest.jar
+
+And the load your alignment file into it
 
 :kbd:`File` > :kbd:`Load DNA alignment`
 
