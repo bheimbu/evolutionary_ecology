@@ -489,8 +489,6 @@ Both programs can be installed as plugins in **Geneious Prime**. See **Tutorial 
 .. note::
    Both programs can also be controlled via the command line -- you may use this approach during the third week to improve the computing performance of both :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_).
 
-But luckily 
-
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
 .. note::
@@ -534,11 +532,11 @@ Tasks of the Day
                            └── EF 
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. Start the ML analyses with following parameters (`Tree -> RAxML`):
+           3. Start the ML analyses with following parameters (:kbd:`Tree` -> :kbd:`RAxML`):
 
-              - GTR GAMMA I (`Nucleotide Model: GTR GAMMA I`)
-              - Rapid bootstrapping and search for best-scoring ML tree (`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
-              - 500 bootstrap replicates (`Number of starting trees or bootstrap replicates: 500`)
+              - GTR GAMMA I (:kbd:`Nucleotide Model:`:kbd:`GTR GAMMA I`)
+              - Rapid bootstrapping and search for best-scoring ML tree (:kbd:`Algorithm: Rapid bootstrapping and search for best-scoring ML tree: Command line: -f a -x 1`) 
+              - 500 bootstrap replicates (:kbd:`Number of starting trees or bootstrap replicates: 500`)
               - Any other parameter in default settings
            4. Write down how long the analyses took (in seconds).
 
@@ -559,7 +557,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`MrBayes <MrBayes>`. Don't be confused—this section primarily focuses on the command-line version of MrBayes. However, all the settings explained here are also available in the Geneious Prime plugin.
-           2. Install the **MrBayes** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`).
+           2. Install the **MrBayes** plugin in Geneious Prime (:kbd:`Tools` -> :kbd:`Plugins` -> :kbd:`Available Plugins`).
 
         .. tab:: Exercise 1
 
@@ -578,12 +576,12 @@ Tasks of the Day
                            └── EF
 
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
-           3. Start the Bayesian Inference using MrBayes (`Tree -> MrBayes`) with following parameters:
+           3. Start the Bayesian Inference using MrBayes (:kbd:`Tree` -> :kbd:`MrBayes`) with following parameters:
 
-              - Use ``GTR+G+I`` as model of sequence evolution (`Substitution Model: GTR` + `Rate Variation: invgamma`)
-              - Set the outgroup (`Outgroup: Zercon sp.`)
-              - Use 1 million generations (`Chain Length: 1,000,000`) and sample every 100th generation (`Subsampling Freq: 100`)
-              - Use a burn-in of 10% (`Burn-in Length: 1000`)
+              - Use ``GTR+G+I`` as model of sequence evolution (:kbd:`Substitution Model:` :kbd:`GTR` + :kbd:`Rate Variation: invgamma`)
+              - Set the outgroup (:kbd:`Outgroup: Zercon sp.`)
+              - Use 1 million generations (:kbd:`Chain Length: 1,000,000`) and sample every 100th generation (:kbd:`Subsampling Freq: 100`)
+              - Use a burn-in of 10% (:kbd:`Burn-in Length: 1000`)
            4. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
@@ -592,12 +590,11 @@ Tasks of the Day
            2. What is the `Average standard deviation of split frequencies` of your analyses? Use ``EF_Tutorial_1_b_aln - Posterior output`` and look for the tab :kbd:`Raw Posterior Output` in the lower panel. There you will find a column `StdDev(s)`. Click on :kbd:`Show entire ### bytes (may be very slow)` to show the whole output.
 
            .. note::
-
               The **Average standard deviation of split frequencies** is a measure used in Bayesian phylogenetic inference to assess convergence and stability of the MCMC (Markov Chain Monte Carlo) chains during the analysis. The split frequency measures how often a particular split appears across all sampled trees from an MCMC chain.
 
-              Low average standard deviation means the chains are producing similar trees, indicating that the analysis is likely converging to a consistent result.
-
-              High average standard deviation means the chains are producing more different trees, indicating that the analysis may not have converged yet.
+              < 0.01 — generally accepted as indicating good convergence; the two MCMC runs are sampling from the same distribution
+              < 0.05 — acceptable for a preliminary analysis, but ideally you should run the chains longer
+              > 0.05 — indicates the runs have not converged and results should not be trusted; chains need to run longer
            
           
   .. tab:: Tutorial 3
@@ -607,8 +604,7 @@ Tasks of the Day
         .. tab:: Background
 
            .. note::
-              The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the parameter landscape
-              However, as priors are usually unknown we will use flat priors!
+              The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the tree space. However, priors are usually unknown, so we will use flat priors instead!
 
         .. tab:: Questions
  
