@@ -127,12 +127,12 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. Download the 18S rDNA gene for all taxa given in **Tutorial 3**.
-           2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``) to your PC.
+           1. For all taxa from **Tutorial 3**, download the 18S rDNA sequences.
+           2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``).
 
           .. attention::
 
-              There is no 18S rDNA sequence available for *Carabodes femoralis*, use *Carabodes subarcticus*. For *Platynothrus peltifer*, four 18S sequences are available, download the sequence with the accession number ``EF091422``.
+              There is no 18S rDNA sequence available for *Carabodes femoralis*, use *Carabodes subarcticus*. For *Platynothrus peltifer*, four 18S rDNA sequences are available, download the one with following accession number ``EF091422``.
 
           .. hint::
 
@@ -159,7 +159,7 @@ Tasks of the Day
                 │     └── Tutorial_6
                 └── …
 
-           2. Change all sequence names from GenBank to: ``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``).
+           2. Change all sequence names from GenBank to: ``<GENUS>_<SPECIES>_<ACCESSION NUMBER>_<GENE>`` (e.g. ``Archegozetes_longisetosus_EF081321_EF``).
 
            .. code::
 
@@ -177,9 +177,9 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g. Notepad++, Editor).
-           2. Change the sequence names from GenBank just as in **Tutorial 6** (``$GENUS_$SPECIES_$ACCESSION NUMBER_$GENE``).
-           3. Import the file to Geneious Prime in a new subfolder with the name **Monday/Tutorial_7** (as *separate sequences*).
+           1. Open the file ``Tutorial_5_Oribatida_18S.fas`` from **Tutorial 5** with your local text editor of choice (e.g., Notepad++, Editor).
+           2. Change the sequence names from GenBank just as in **Tutorial 6** (``<GENUS>_<SPECIES>_<ACCESSION NUMBER>_<GENE>``).
+           3. Import the file to Geneious Prime in a new subfolder **Tutorial_7** (as *separate sequences*).
 
            .. code::
 
@@ -198,13 +198,13 @@ Tasks of the Day
 
         .. tab:: Exercise 2
 
-           1. Now you can add (import) some of your own sequences to the 18S file.
+           1. Now you can add (import) some of your own 18S rDNA sequences.
            2. Your own sequences should be named in the same logic as the sequences from NCBI.
-           3. As no accession numbers are available for your new sequences, you may replace accession number with ``own``, to quickly identify your own sequence among the others, for example: ``Archegozetes_longisetosus_own_18S``.
+           3. Since no accession numbers are available for your sequences, you may replace accession number with ``own``, to quickly identify your own sequences among the others, for example: ``Archegozetes_longisetosus_own_18S``.
      
            .. important::
 
-              Do not add more than four 18S sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e. longer waiting time for you). It will also be more difficult to focus on the most relevant information.
+              Do not add more than four of your own sequences, please. It is helpful to keep the dataset small, because larger datasets will require longer running times (i.e., longer waiting time for you). It will also be more difficult to focus on the most relevant information.
 
 .. tip::
    Just in case, you can read about Geneious Prime again in :ref:`section`.
@@ -269,7 +269,7 @@ Tasks of the Day
 
                Use a period ``.`` not a comma ``,`` when typing the penalty values!
 
-           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``$GEN_$TUTORIAL_$ALIGNMENT LETTER_aln.``) and drag or move them to a new subfolder named Tuesday/Tutorial_1.
+           2. Change the names of the alignments :kbd:`F2` like this ``18S_Tutorial_1_a_aln`` (``<GEN>_<TUTORIAL>_<ALIGNMENT LETTER>_aln.``) and drag or move them to a new subfolder called **Tuesday/Tutorial_1**.
 
            .. code::
 
@@ -495,8 +495,8 @@ While working through the exercises, many topics you have been dealing with earl
 .. note::
   **At the end of the day you will…**
 
-  - Know the difference between Cluster and Search algorithms.
-  - Know why search algorithms take so much longer for analysing genetic data than Cluster algorithms.
+  - Know the difference between cluster and search algorithms.
+  - Know why search algorithms take so much longer for analysing genetic data than cluster algorithms.
   - Know that ML uses likelihoods, and MrBayes uses posterior probabilities to calculate internal nodes and topologies of trees.
   - Know what MCMC is and for which type of analysis it is mandatory.
   - Be able to interpret the different statistics MrBayes provides.
