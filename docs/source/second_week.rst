@@ -12,7 +12,7 @@ The week begins with assembling, checking, and exporting your raw sequences (PCR
 .. note::
   **At the end of the week, you will know…**
 
-  - Differeent kinds of sequence files.
+  - Different kinds of sequence file types.
   - How to use public databases.
   - How to edit sequences.
   - How to check if sequencing results are correct.
