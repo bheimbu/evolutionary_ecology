@@ -282,13 +282,13 @@ And then load your alignment file into it
 
 .. thumbnail:: /_static/jmodeltest_1.png
 
-Then start the analysis
+Set up the analysis
 
 :kbd:`Analysis` > :kbd:`Compute likelihood scores`
 
-Choose :kbd:`Number of substitution schemes` 3 under :kbd:`Likelihood settings`
+Under :kbd:`Likelihood settings` choose :kbd:`Number of substitution schemes **3**`
 
-and click on > :kbd:`Compute Likelihoods`
+Finally, start the analysis with clicking on :kbd:`Compute Likelihoods`
 
 .. thumbnail:: /_static/jmodeltest_2.png
 
