@@ -347,9 +347,9 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution,  (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest).
+           1. Use jModelTest to calculate the best fitting model of sequence evolution, for both AIC and BIC calculations (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest).
            2. Use your best alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
-           3. Safe the HTML log file on your PC.
+           3. Safe the HTML log file.
 
         .. tab:: Exercise 2
 
