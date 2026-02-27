@@ -604,7 +604,7 @@ Tasks of the Day
         .. tab:: Background
 
            .. note::
-              The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the tree space. However, priors are usually unknown, so we will use flat priors instead!
+              The choice of priors (setting of parameters prior to the analysis) is important for Bayesian Inferences, as they influence the computing time and the search efficiency in the tree space. However, priors are usually unknown, so we will use **flat priors** instead!
 
         .. tab:: Questions
  
