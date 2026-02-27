@@ -578,10 +578,10 @@ Tasks of the Day
            2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
            3. Start the Bayesian Inference using MrBayes :kbd:`Tree` -> :kbd:`MrBayes` with following parameters:
 
-              - Use **GTR+G+I** as model of sequence evolution :kbd:`Substitution Model:` :kbd:`GTR` + :kbd:`Rate Variation: invgamma`
+              - Use **GTR+G+I** as model of sequence evolution :kbd:`Substitution Model:`:kbd:`GTR` + :kbd:`Rate Variation: invgamma`
               - Set the outgroup :kbd:`Outgroup: Zercon sp.`
-              - Use 1 million generations :kbd:`Chain Length: 1,000,000` and sample every 100th generation :kbd:`Subsampling Freq: 100`
-              - Use a burn-in of 10% :kbd:`Burn-in Length: 1000`
+              - Use 1 million generations :kbd:`Chain Length:`:kbd:`1,000,000` and sample every 100th generation :kbd:`Subsampling Freq:`:kbd:`100`
+              - Use a burn-in of 10% :kbd:`Burn-in Length:`:kbd:`1000`
            4. Write down how long the analysis took (minutes + seconds).
 
         .. tab:: Questions
@@ -592,9 +592,11 @@ Tasks of the Day
            .. note::
               The **Average standard deviation of split frequencies** is a measure used in Bayesian phylogenetic inference to assess convergence and stability of the MCMC (Markov Chain Monte Carlo) chains during the analysis. The split frequency measures how often a particular split appears across all sampled trees from an MCMC chain.
 
-              < 0.01 — generally accepted as indicating good convergence; the two MCMC runs are sampling from the same distribution
-              < 0.05 — acceptable for a preliminary analysis, but ideally you should run the chains longer
-              > 0.05 — indicates the runs have not converged and results should not be trusted; chains need to run longer
+              :kbd:`< 0.01` — generally accepted as indicating good convergence; the two MCMC runs are sampling from the same distribution
+
+              :kbd:`< 0.05` — acceptable for a preliminary analysis, but ideally you should run the chains longer
+
+              :kbd:`> 0.05` — indicates the runs have not converged and results should not be trusted; chains need to run longer
            
           
   .. tab:: Tutorial 3
