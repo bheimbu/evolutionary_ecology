@@ -342,12 +342,12 @@ Tasks of the Day
 
         .. tab:: Requirements
 
-           1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC.
+           1. Download and install `jmodeltest2 <https://github.com/ddarriba/jmodeltest2>`_ on your PC (you may use this download link directy `jmodeltest-2.1.10 <https://github.com/ddarriba/jmodeltest2/files/157117/jmodeltest-2.1.10.tar.gz>`_).
            2. Read section :ref:`Models_of_Sequence_Evolution`.
 
         .. tab:: Exercise 1
 
-           1. Use jModelTest to calculate the best fitting model of sequence evolution (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest).
+           1. Use jModelTest to calculate the best fitting model of sequence evolution,  (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest).
            2. Use your best alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
            3. Safe the HTML log file on your PC.
 
