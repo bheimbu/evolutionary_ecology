@@ -276,7 +276,7 @@ Start the jModelTest GUI (graphical user interface)
 
    java -jar jModelTest.jar
 
-And the load your alignment file into it
+And then load your alignment file into it
 
 :kbd:`File` > :kbd:`Load DNA alignment`
 
