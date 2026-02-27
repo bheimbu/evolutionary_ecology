@@ -272,7 +272,7 @@ Models of Sequence Evolution
 
 Start jModelTest
 
-'File' > 'Load DNA alignment'
+:kbd:'File' > :kbd:'Load DNA alignment'
 
 .. thumbnail:: /_static/jmodeltest_1.png
 
