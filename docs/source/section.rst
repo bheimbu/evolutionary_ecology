@@ -268,33 +268,38 @@ Models of Sequence Evolution
  - Performance-based decision theory (DT)
 
 
-**How to compute likelihoods of models of sequence evolution**
+How to compute likelihoods of models of sequence evolution
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Start the jModelTest GUI (graphical user interface)
+**Start the jModelTest GUI (graphical user interface)**
 
 .. code:: text
 
    java -jar jModelTest.jar
 
-And then load your alignment file into it
+**And then load your alignment file into it**
 
 :kbd:`File` > :kbd:`Load DNA alignment`
 
 .. thumbnail:: /_static/jmodeltest_1.png
 
 Set up the analysis
+^^^^^^^^^^^^^^^^^^^
 
 :kbd:`Analysis` > :kbd:`Compute likelihood scores`
 
-Under :kbd:`Likelihood settings` choose :kbd:`Number of substitution schemes **3**`
+**Under** :kbd:`Likelihood settings` **choose** :kbd:`Number of substitution schemes`:kbd:`3`
 
-Finally, start the analysis with clicking on :kbd:`Compute Likelihoods`
+**Finally, start the analysis with clicking on** :kbd:`Compute Likelihoods`
 
 .. thumbnail:: /_static/jmodeltest_2.png
 
-After likelihoods have been calculated for each model, a list with all models, parameters and likelihood scores is available under
+**After likelihoods have been calculated for each model, a list with all models, parameters and likelihood scores is available under**
 
 - :kbd:`Results` > :kbd:`Show results table`
+
+Comparing likelihoods using AIC and BIC
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now we can calculate the model with the best likelihood score. Comparing likelihoods is not easy and sensitive to parameters. In jModelTest different methods (AIC, BIC, DT, and hLRT) are available to estimate the best likelihood.
 
@@ -316,6 +321,9 @@ Now we can calculate the model with the best likelihood score. Comparing likelih
 
 The program provides a very detailed list of the AIC and BIC results. For detailed information on parameters and analyses of jModeltest, click `here <http://www.phylo.org/pdf_docs/jmodeltest-2.1.6-manual.pdf>`_.
 
+Saving your results
+^^^^^^^^^^^^^^^^^^^
+
 **Save your results of AIC and BIC calculations to a HTML log file:**
 
 :kbd:`Results` > :kbd:`Build HTML log` 
@@ -331,7 +339,8 @@ How to Infer Phylogenetic Trees
 
 You will find more information about working with FigTree in the next section :ref:`How_To_Draw_Phylogenetic_Trees`.
 
-**Neighbor Joining (NJ)**
+Neighbor Joining (NJ)
+^^^^^^^^^^^^^^^^^^^^^
 
 Neighbor Joining is one of the earliest methods to infer phylogenetic trees using molecular data. The method is fast and economic on computing time, which makes it attractive for large data sets and for a first analysis to get a „feeling“ for new data sets (Do I need more taxa? Which taxa might be useful? Is the selected outgroup appropriate?), before the longer but more accurate methods Maximum Likelihood (ML) or Bayesian Inference (BI) are used. A disadvantage of this method is that the sequence data cannot be reconstructed from the phylogenetic tree and NJ will not always find the „best“ or the „correct“ tree. The order of taxa in the alignment can also affect the tree topology.
 
@@ -390,7 +399,8 @@ RAxML is one of these „fast“ ML-algorithms written for the analysis of large
 
 .. thumbnail:: /_static/raxml.png
 
-**Settings in RAxML**
+Settings in RAxML
+^^^^^^^^^^^^^^^^^
 
 RAxML is not executed via command line or graphical user interface, but with a batch file. The complete command line is written into the batch file before starting the analysis. Here is an example command line for an „easy & fast“ ML analysis with bootstrapping:
 
@@ -398,12 +408,14 @@ RAxML is not executed via command line or graphical user interface, but with a b
 
   RAxML-7.0.3-WIN.exe -f a -o taxaname_1,taxaname_2 -x 12345 -p 12345 -# 500 -m GTRGAMMAI -s name_alignment.phy -n suffix_of_output_file (e.g. Run01)
 
-**Start RAxML**
+Start RAxML
+^^^^^^^^^^^
 
 .. important::
   The executable file (``RAxML-7.0.3-WIN.exe``), the batch file (``name.batch``) and the ``.phylip`` file have to be in the same folder. To start the program click on the ``batch`` file.
 
-**RAxML results**
+RAxML results
+^^^^^^^^^^^^^
 
 The „easy & fast“ analysis generates four output files:
 
