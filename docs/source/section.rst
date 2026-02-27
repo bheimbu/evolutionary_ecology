@@ -272,7 +272,8 @@ Models of Sequence Evolution
 
 Start the jModelTest GUI (graphical user interface)
 
-.. code::
+.. code:: text
+
    java -jar jModelTest.jar
 
 And the load your alignment file into it
