@@ -7,7 +7,7 @@ This week focuses on DNA sequences: how to work with them, where to obtain them 
 
 Lectures and videos provide a step-by-step guide on handling sequence data and conducting phylogenetic analyses. Each day, tutorials will cover a different method, and you must complete each tutorial and its exercises to progress to the next day's topic.
 
-The week begins with assembling, checking, and exporting your raw sequences (PCR products sequenced last week) to generate high-quality consensus sequences. We start with your DNA sequences to help you become familiar with (1) Sanger DNA sequencing, (2) sequence evaluation (or 'What's the difference between a bad and good DNA sequence?'), (3) ambiguous (wobble) DNA positions and where do they come from; and (4) DNA sequences derived from public data repositories.
+The week begins with assembling, checking, and exporting your raw sequences (PCR products sequenced last week) to generate high-quality consensus sequences. We start with your DNA sequences to help you become familiar with (1) Sanger DNA sequencing, (2) sequence evaluation (or *What's the difference between a bad and good DNA sequence?*), (3) ambiguous (wobble) DNA positions and where do they come from, and (4) DNA sequences derived from public data repositories.
 
 .. note::
   **At the end of the week, you will know…**
@@ -24,7 +24,7 @@ The week begins with assembling, checking, and exporting your raw sequences (PCR
 .. _Monday_Second_Week:
 Monday
 ------
-Today we will start with recapitulating the molecular work of last week and discuss the method of Sanger sequencing.
+Today we will start with recapitulating what you learned last week and discuss the method of Sanger sequencing.
 After that, you start with processing your sequencing results in Geneious Prime i.e., you will assemble, check and correct the raw reads that have been assigned to you (see sequence assignment list) and export the respective consensus sequences.
 Then, you can start reading the sections about :ref:`Geneious_Prime` and Genbank (see :ref:`Database_and_Search_Strategy`), which introduces you to the handling of sequence data and how to use Genbank, a public sequence data repository.
 
@@ -484,9 +484,12 @@ Today, it's all about search algorithms. You will learn the basics of the two mo
 
 Both methods are widely used, because they are more thorough than clustering algorithms (such as UPGMA or NJ) and they approach the mathematical part of inferring phylogenetic trees from different angles. You will hear more about this in the :ref:`lectures` that are accompanied with the two sections.
 
-Today, we use two programs that can only be controlled via the command line and do not have a GUI (graphical user interface), namely :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_).
+Both programs can be installed as plugins in **Geneious Prime**. See **Tutorial 1** and **Tutorial 2** for doing so.
 
-But luckily both programs can be installed as plugins in Geneious Prime. Heureka! See **Tutorial 1** and **Tutorial 2** for doing so.
+.. note::
+   Both programs can also be controlled via the command line -- you may use this approach during the third week to improve the computing performance of both :ref:`RAxML <Raxml>` (`download here <https://owncloud.gwdg.de/index.php/s/feKtzea2J1avgZw>`_) and :ref:`MrBayes <MrBayes>` (`download here <https://owncloud.gwdg.de/index.php/s/YyIcVOeqUWKxilX>`_).
+
+But luckily 
 
 While working through the exercises, many topics you have been dealing with earlier this week will come up again, such as input file format or :ref:`Models_of_Sequence_Evolution`.
 
@@ -495,11 +498,11 @@ While working through the exercises, many topics you have been dealing with earl
 
   - Know the difference between cluster and search algorithms.
   - Know why search algorithms take so much longer for analysing genetic data than cluster algorithms.
-  - Know that ML uses likelihoods, and MrBayes uses posterior probabilities to calculate internal nodes and topologies of trees.
-  - Know what MCMC is and for which type of analysis it is mandatory.
+  - Know that ML uses likelihoods, and MrBayes uses posterior probabilities.
+  - Know what MCMC is and for which type of analysis it is used.
   - Be able to interpret the different statistics MrBayes provides.
   - Understand the meaning of prior and posterior probabilities.
-  - Understand the difference between bootstraps and posterior probabilites and why they are not directly comparable.
+  - Understand the difference between bootstrap support and posterior probabilites and why they are not directly comparable.
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
@@ -513,7 +516,7 @@ Tasks of the Day
         .. tab:: Requirements
 
            1. Read section :ref:`RAxML <Raxml>`. Don't be confused—this section primarily focuses on the command-line version of RAxML. However, all the settings explained here are also available in the Geneious Prime plugin.
-           2. Install the **RAxML** plugin in Geneious Prime (`Tools -> Plugins -> Available Plugins`).
+           2. Install the **RAxML** plugin in Geneious Prime (:kbd:`Tools` -> :kbd:`Plugins` -> :kbd:`Available Plugins`).
 
         .. tab:: Exercise 1
 
