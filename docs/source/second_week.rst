@@ -106,7 +106,7 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. Open the form and answer the question. `Click here for the form <https://form.jotform.com/250502078222345>`_. Do not forget to enter your name!
+           1. Open the form and answer the question. `Click here for the form <https://form.jotform.com/250502078222345>`_. Please make a copy for yourself! Do not forget to enter your name!
            2. Download the sequences from NCBI with the accession numbers given in the form as separate sequence files in FASTA format.
 
   .. tab:: Tutorial 4
@@ -125,7 +125,7 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. For all taxa from **Tutorial 3**, download the 18S rDNA sequences.
+           1. For all species from **Tutorial 3** (you can find the names also `here <https://owncloud.gwdg.de/index.php/s/fjmXciVfDPxsG87>`_), download the 18S rDNA sequences.
            2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``).
 
           .. attention::
