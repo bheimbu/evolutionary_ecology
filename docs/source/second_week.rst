@@ -125,12 +125,12 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. For all species from **Tutorial 3** (you can find the names also `here <https://owncloud.gwdg.de/index.php/s/fjmXciVfDPxsG87>`_), download the 18S rDNA sequences.
+           1. For all species from **Tutorial 3** (you can find the species names again `here <https://owncloud.gwdg.de/index.php/s/fjmXciVfDPxsG87>`_), download the 18S rDNA sequences from NCBI GenBank (just as for EF).
            2. Use the Clipboard option to save all sequences in FASTA format as a single file (name the file ``Tutorial_5_Oribatida_18S.fas``).
 
           .. attention::
 
-              There is no 18S rDNA sequence available for *Carabodes femoralis*, use *Carabodes subarcticus*. For *Platynothrus peltifer*, four 18S rDNA sequences are available, download the one with following accession number ``EF091422``.
+              There is no 18S rDNA sequence available for *Carabodes femoralis*, use *Carabodes subarcticus*. For *Platynothrus peltifer*, four 18S rDNA sequences are available, download the one with following accession number ``EF091422`` (it's the longest sequence of the four sequences available).
 
           .. hint::
 
