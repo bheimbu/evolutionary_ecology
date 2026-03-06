@@ -40,7 +40,9 @@ In the afternoon, you'll observe soil fauna firsthand through a stereo microscop
      :autoplay:
      :playsinline:
      :loop:
-     :width: 50%
+     :width: 75%
+     :nocontrols:
+     :align: center
 
 
 Tasks of the Day
