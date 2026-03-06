@@ -36,7 +36,7 @@ In the afternoon, you'll observe soil fauna firsthand through a stereo microscop
     - Classify oribatid mites into major groups.
     - Group oribatid mite species based on distinct morphotypes.
 
-.. video:: oribatida_feeding.mp4
+.. video:: /_static/oribatida_feeding.mp4
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
