@@ -37,6 +37,11 @@ In the afternoon, you'll observe soil fauna firsthand through a stereo microscop
     - Group oribatid mite species based on distinct morphotypes.
 
 .. video:: /_static/oribatida_feeding.mp4
+     :autoplay:
+     :playsinline:
+     :loop:
+     :width: 50%
+
 
 Tasks of the Day
 ^^^^^^^^^^^^^^^^
