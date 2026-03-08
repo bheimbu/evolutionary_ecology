@@ -61,7 +61,7 @@ Tasks of the Day
                 |            └── COI
                 └── …
            
-           2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/043zOxxBqrRPwx2>`_ to Geneious Prime.
+           2. Download and import your `raw sequences  <https://owncloud.gwdg.de/index.php/s/WRiUHW68Zwgb7Mz>`_ to Geneious Prime.
 
         .. tab:: Exercise 2
        
