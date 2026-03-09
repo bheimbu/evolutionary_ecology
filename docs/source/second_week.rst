@@ -97,7 +97,7 @@ Tasks of the Day
 
         .. tab:: Exercises
 
-           1. Open GenBank and select the 'Nucleotide' database in your web browser of choice.
+           1. Open NCBI GenBank and select the 'Nucleotide' database in your web browser of choice.
            2. Bookmark the page.
 
   .. tab:: Tutorial 3
@@ -107,7 +107,7 @@ Tasks of the Day
         .. tab:: Exercises
 
            1. Open the form and answer the question. `Click here for the form <https://form.jotform.com/250502078222345>`_. Please make a copy for yourself! Do not forget to enter your name!
-           2. Download the sequences from NCBI with the accession numbers given in the form as separate sequence files in FASTA format.
+           2. Download the sequences from NCBI GenBank with the accession numbers given in the form as separate sequence files in FASTA format.
 
   .. tab:: Tutorial 4
 
