@@ -82,7 +82,7 @@ Tasks of the Day
 
            4. Check the consensus sequence and correct ambiguous positions.
            5. Export the consensus sequences as FASTA files to your PC.
-           6. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/HHos7foArlDQqtx>`_.
+           6. Upload the consensus files `here <https://owncloud.gwdg.de/index.php/s/MVCMWGxtZvQvBpH>`_.
 
            .. attention::
               Never use space or special characters (e.g., ``ä``, ``.``, ``:``) in sequence or file names; always separate words with underscores ``_``. Most sequence editors and phylogenetic programs are very sensitive when it comes to sequence names and file formats. You will save a lot of time, if your file names are compatible right from the start.
