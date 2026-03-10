@@ -257,7 +257,8 @@ Example nexus file ( ``.nex`` )
 Models of Sequence Evolution
 ----------------------------
 
-**jModelTest 2 (Darriba et al. 2012)**
+jModelTest 2 (Darriba et al. 2012)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Compares models of sequence evolution and finds the model that fits best to the dataset
 - GUI and command line mode
