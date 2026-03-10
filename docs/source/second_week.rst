@@ -399,7 +399,7 @@ Tasks of the Day
 
         .. tab:: Questions
            
-           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_. Do not forget to enter your name (but only do it when your finished with the questions, otherwise you know)!
+           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_. Do not forget to enter your name (but only after you answered all questions -- otherwise you know)!
 
   .. tab:: Tutorial 3
 
