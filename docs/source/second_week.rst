@@ -409,9 +409,8 @@ Tasks of the Day
 
            .. attention::
 
-              - Complete all **exercises** and **questions** by hand with pen and paper (except for **Exercise 2**)!
-              - Hand in your results by the end of the day. 
-              - We will discuss them tomorrow morning.
+              - Complete all **exercises** and **questions** by hand with pen and paper!
+              - We will discuss them either in the afternoon or tomorrow morning.
 
               - Do no forget to include your name or initals!
 
@@ -419,15 +418,15 @@ Tasks of the Day
 
            1. Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
            2. In one of the trees, use arrows to indicate where the tree might be rooted.
-           3. How many topologies are possible for a rooted tree with four taxa (A, B, C, D)?
-           4. Draw all possible combinations.
+           3. Draw all possible combinations for a rooted tree with four taxa (A, B, C, D)?
+           4. How many topologies are possible for a rooted tree with four taxa (A, B, C, D)?
 
            .. attention::
               Some topologies might be redundant!
 
         .. tab:: Exercise 2
   
-           1. Use a text editor and draw the following tree: ``((((A,(B,(C,D))),E),(F,G)),H);``.
+           1. Draw the following tree given in Newick Format by hand: ``((((A,(B,(C,D))),E),(F,G)),H);``.
            2. Check your topology using FigTree in Geneious Prime.
         
         .. tab:: Questions
