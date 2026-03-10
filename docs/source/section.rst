@@ -508,7 +508,7 @@ Defining the Model of Sequence Evolution
   MrBayes > lset rates=invgamma (model +I+G = includes both Gamma-distribution and invariant positions)
 
 .. note::
-   With the *nst* element of the lset command, we can specify the JC69 or F81 models (nst=1), the K2P or HKY models (nst=2), or the GTR model (nst=6). You may also check the lecture about models of sequence evolution again.
+   With the *nst* element of the lset command, we can specify the JC69 or F81 models (nst=1), the K2P or HKY models (nst=2), or the GTR model (nst=6). You may also check the lecture about `Models of Sequence Evolution <https://docs.google.com/presentation/d/117pP7PoEDLwYF0A5HHekvHf3h3bxvvHM39zrXZK9Kh8/edit?usp=sharing>`_ again.
 
 Setting Priors
 ^^^^^^^^^^^^^^
