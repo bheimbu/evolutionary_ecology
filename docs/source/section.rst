@@ -342,7 +342,7 @@ You will find more information about working with FigTree in the next section :r
 Neighbor Joining (NJ)
 ^^^^^^^^^^^^^^^^^^^^^
 
-Neighbor Joining is one of the earliest methods to infer phylogenetic trees using molecular data. The method is fast and economic on computing time, which makes it attractive for large data sets and for a first analysis to get a „feeling“ for new data sets (Do I need more taxa? Which taxa might be useful? Is the selected outgroup appropriate?), before the longer but more accurate methods Maximum Likelihood (ML) or Bayesian Inference (BI) are used. A disadvantage of this method is that the sequence data cannot be reconstructed from the phylogenetic tree and NJ will not always find the „best“ or the „correct“ tree. The order of taxa in the alignment can also affect the tree topology.
+Neighbor Joining is one of the earliest methods to infer phylogenetic trees using molecular data. The method is fast, which makes it attractive for large data sets and for a first analysis to get a „feeling“ for new data sets (Do I need more taxa? Which taxa might be useful? Is the selected outgroup appropriate?), before the longer but more accurate methods Maximum Likelihood (ML) or Bayesian Inference (BI) are used. A disadvantage of this method is that the sequence data cannot be reconstructed from the phylogenetic tree and NJ will not always find the „best“ or the „correct“ tree. The order of taxa in the alignment can also affect the tree topology.
 
 .. _How_To_Draw_Phylogenetic_Trees:
 How To Draw Phylogenetic Trees
@@ -500,12 +500,15 @@ Defining the Model of Sequence Evolution
 
   MrBayes > lset nst=1 / 2 / 6 (selects the category of the model of sequence evolution)
                  nst=1 (JC/F81)
-                 nst=2 (K80/HYK85)
+                 nst=2 (K80/HKY85)
                  nst=6 (GTR)
 
   MrBayes > lset rates=gamma (model + G = includes Gamma-distribution of substitutions)
 
   MrBayes > lset rates=invgamma (model +I+G = includes both Gamma-distribution and invariant positions)
+
+.. note::
+   With the *nst* element of the lset command, we can specify the JC69 or F81 models (nst=1), the K2P or HKY models (nst=2), or the GTR model (nst=6). You may also check the lecture about models of sequence evolution again.
 
 Setting Priors
 ^^^^^^^^^^^^^^
