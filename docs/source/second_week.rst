@@ -348,8 +348,8 @@ Tasks of the Day
         .. tab:: Exercise 1
 
            1. Use jModelTest to calculate the best fitting model of sequence evolution, for both AIC and BIC calculations (see section :ref:`Models_of_Sequence_Evolution` for how to work with jModelTest).
-           2. Use your best alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
-           3. Safe the HTML log file.
+           2. Use your best trimmed (*cut*) alignments for EF and 18S, respectively from **Tuesday/Tutorial_1**.
+           3. Safe the HTML log file from jmodeltest2.
 
         .. tab:: Exercise 2
 
@@ -380,9 +380,9 @@ Tasks of the Day
                            ├── 18S
                            └── EF  
 
-           2. Copy your best alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
+           2. Copy your best trimmed alignments from EF and 18S (from **Tuesday/Tutorial_1**) into their respective subfolders.
            3. For **both** alignments calculate a NJ tree using the **Jukes-Cantor** model of sequence evolution (:kbd:`Tree` -> :kbd:`Geneious Tree Builder` -> :kbd:`Genetic Distance Model: Jukes-Cantor`) with 1000 bootstrap replicates (:kbd:`Resample tree` -> :kbd:`Resampling Method:`:kbd:`Bootstrap` + :kbd:`Number of Replicates: 1000`).
-           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit :kbd:`Root` in the subpanel). Why *Zercon* sp. actually?
+           4. Root the tree using *Zercon* sp. (Click on the end of the branch leading to *Zercon* sp. and hit :kbd:`Root` in the subpanel). Why *Zercon* sp. again?
            5. Indicate in the file name that this tree uses the **Jukes-Cantor** model, for example, ``EF_JC_model``.
        
         .. tab:: Exercise 2
@@ -399,7 +399,7 @@ Tasks of the Day
 
         .. tab:: Questions
            
-           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_. Do not forget to enter your name!
+           Open the form and answer the questions. Click `here <https://form.jotform.com/250505928456058>`_. Do not forget to enter your name (but only do it when your finished with the questions, otherwise you know)!
 
   .. tab:: Tutorial 3
 
