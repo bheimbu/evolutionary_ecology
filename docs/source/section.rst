@@ -291,6 +291,17 @@ Set up the analysis
 
 **Under** :kbd:`Likelihood settings` **choose** :kbd:`Number of substitution schemes`:kbd:`3`
 
+.. note::
+   In jModelTest, the number of substitution schemes refers to how many distinct rate matrices are considered when searching for the best-fitting model.
+   It essentially controls how many different ways of grouping the 6 substitution rates are tested. The 6 substitution types (A↔C, A↔G, A↔T, C↔G, C↔T, G↔T) can be grouped into equal or unequal rate classes in different combinations, and each unique grouping defines a different model.
+   jModelTest offers three options:
+
+   3 schemes — tests only the simplest groupings, corresponding to nst=1, nst=2, and nst=6 (i.e., JC/F81, K80/HKY, GTR/SYM)
+   5 schemes — adds a few intermediate models
+   11 schemes — tests all possible ways of partitioning the 6 rates, covering 88 models in total
+
+   So in short, the more schemes you select, the more thorough the model search — but also the longer it takes. For most purposes, 11 schemes is recommended to ensure the best model is not missed.
+
 **Finally, start the analysis with clicking on** :kbd:`Compute Likelihoods`
 
 .. thumbnail:: /_static/jmodeltest_2.png
@@ -317,6 +328,27 @@ Now we can calculate the model with the best likelihood score. Comparing likelih
 .. thumbnail:: /_static/jmodeltest_3.png
 
 The program provides a very detailed list of the AIC and BIC results. For detailed information on parameters and analyses of jModeltest, click `here <http://www.phylo.org/pdf_docs/jmodeltest-2.1.6-manual.pdf>`_.
+
+.. note::
+   Here's a quick overview of common models and their nst (number of substitution types) values:
+   nst = 1 (all substitution rates equal)
+
+   JC (Jukes-Cantor)
+   F81
+
+   nst = 2 (transitions and transversions differ)
+
+   K80 (Kimura 2-parameter)
+   HKY85
+   F84
+
+   nst = 6 (all six substitution rates vary)
+
+   GTR
+   SYM
+   TrN (Tamura-Nei)
+   TVM
+   TIM
 
 Saving your results
 ^^^^^^^^^^^^^^^^^^^
