@@ -333,16 +333,16 @@ The program provides a very detailed list of the AIC and BIC results. For detail
 .. note::
    Here's a quick overview of common models and their nst (number of substitution types) values:
    
-   - nst = 1 (all substitution rates equal)
+   - **nst = 1** (all substitution rates equal)
     - JC (Jukes-Cantor)
     - F81
 
-   - nst = 2 (transitions and transversions differ)
+   - **nst = 2** (transitions and transversions differ)
     - K80 (Kimura 2-parameter)
     - HKY85
     - F84
 
-   - nst = 6 (all six substitution rates vary)
+   - **nst = 6** (all six substitution rates vary)
     - GTR
     - SYM
     - TrN (Tamura-Nei)
