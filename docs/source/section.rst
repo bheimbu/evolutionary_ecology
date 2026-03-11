@@ -296,9 +296,9 @@ Set up the analysis
    It essentially controls how many different ways of grouping the 6 substitution rates are tested. The 6 substitution types (A↔C, A↔G, A↔T, C↔G, C↔T, G↔T) can be grouped into equal or unequal rate classes in different combinations, and each unique grouping defines a different model.
    jModelTest offers three options:
 
-   3 schemes — tests only the simplest groupings, corresponding to nst=1, nst=2, and nst=6 (i.e., JC/F81, K80/HKY, GTR/SYM)
-   5 schemes — adds a few intermediate models
-   11 schemes — tests all possible ways of partitioning the 6 rates, covering 88 models in total
+   - 3 schemes — tests only the simplest groupings, corresponding to nst=1, nst=2, and nst=6 (i.e., JC/F81, K80/HKY, GTR/SYM)
+   - 5 schemes — adds a few intermediate models
+   - 11 schemes — tests all possible ways of partitioning the 6 rates, covering 88 models in total
 
    So in short, the more schemes you select, the more thorough the model search — but also the longer it takes. For most purposes, 11 schemes is recommended to ensure the best model is not missed.
 
