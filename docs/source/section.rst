@@ -272,7 +272,7 @@ jModelTest 2 (Darriba et al. 2012)
 How to compute likelihoods of models of sequence evolution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Start the jModelTest GUI (graphical user interface)**
+**Start the jModelTest GUI (graphical user interface)** (for Windows Users: you may double click on the file *runjmodeltest-gui.bat* sitting in your jmodeltest directory)
 
 .. code:: text
 
