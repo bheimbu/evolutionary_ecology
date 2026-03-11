@@ -331,7 +331,7 @@ Now we can calculate the model with the best likelihood score. Comparing likelih
 The program provides a very detailed list of the AIC and BIC results. For detailed information on parameters and analyses of jModeltest, click `here <http://www.phylo.org/pdf_docs/jmodeltest-2.1.6-manual.pdf>`_.
 
 .. note::
-   Here's a quick overview of common models and their nst (number of substitution types) values:
+   Here's a quick overview of common models and their **nst (number of substitution types)** values:
    
    - **nst = 1** (all substitution rates equal)
     - JC (Jukes-Cantor)
