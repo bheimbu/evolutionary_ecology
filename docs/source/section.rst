@@ -292,8 +292,9 @@ Set up the analysis
 **Under** :kbd:`Likelihood settings` **choose** :kbd:`Number of substitution schemes`:kbd:`3`
 
 .. note::
-   In jModelTest, the number of substitution schemes refers to how many distinct rate matrices are considered when searching for the best-fitting model.
+   In jModelTest, the **number of substitution schemes** refers to how many distinct rate matrices are considered when searching for the best-fitting model.
    It essentially controls how many different ways of grouping the 6 substitution rates are tested. The 6 substitution types (A↔C, A↔G, A↔T, C↔G, C↔T, G↔T) can be grouped into equal or unequal rate classes in different combinations, and each unique grouping defines a different model.
+   
    jModelTest offers three options:
 
    - **3 schemes** — tests only the simplest groupings, corresponding to nst=1, nst=2, and nst=6 (i.e., JC/F81, K80/HKY, GTR/SYM)
