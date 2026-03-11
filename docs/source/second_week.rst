@@ -408,8 +408,6 @@ Tasks of the Day
               - Complete all **exercises** and **questions** by hand with pen and paper!
               - We will discuss them either in the afternoon or tomorrow morning.
 
-              - Do no forget to include your name or initals!
-
         .. tab:: Exercise 1
 
            1. Draw by hand all unrooted tree topologies that are possible for four taxa (A, B, C, D).
