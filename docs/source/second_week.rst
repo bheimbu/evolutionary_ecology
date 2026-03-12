@@ -554,7 +554,7 @@ Tasks of the Day
 
         .. tab:: Exercise 1
 
-           1. Create two new subfolders for the RAxML analyses of **EF** and **18S** in Geneious Prime.
+           1. Create two new subfolders for the MrBayes analyses of **EF** and **18S** in Geneious Prime.
 
            .. code::
 
