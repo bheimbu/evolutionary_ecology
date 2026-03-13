@@ -705,8 +705,9 @@ Tasks of the Day
 
            1. Calculate ML trees for ``EF_aln2.fas`` and ``18S_aln2.fas``, respectively.
            2. Plot both trees in one graphic, with facing tip labels. **EF** with ``green`` and **18S** with ``yellowgreen`` tip labels.
-           3. Display bootstrap values enclosed in ``red`` circles with a ``pink1`` background.
-           4. Save both trees in one plot as PDF to your PC, name it ``ML_EF_18S.pdf``.
+           3. Root both trees with the outgroup *Zercon*.
+           4. Display bootstrap values enclosed in ``red`` circles with a ``pink1`` background.
+           5. Save both trees in one plot as PDF to your PC, name it ``ML_EF_18S.pdf``.
 
         .. tab:: Questions
 
